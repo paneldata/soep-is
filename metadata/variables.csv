@@ -1,4 +1,4 @@
-study_name,dataset_name,variable_name,label,label_de
+study_name,dataset_name,name,label,label_de
 soep-is,bio,cid,"Case-ID, Original Household Number","Case ID, Ursprungshaushaltsnummer"
 soep-is,bio,hid,Current Wave HH Number,Aktuelle Haushaltsnummer
 soep-is,bio,pid,Never Changing Person ID,Unveraenderliche Personennummer (PID)
