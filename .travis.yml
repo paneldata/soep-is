@@ -11,3 +11,4 @@ install:
   - pipenv graph
 script:
   - goodtables metadata/datapackage.json
+  - python lib_py/validation/relations.py
