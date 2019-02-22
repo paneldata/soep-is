@@ -336,6 +336,81 @@
           }
         ]
       }
+    },
+    {
+      "path": "variables.csv",
+      "profile": "tabular-data-resource",
+      "name": "variables",
+      "title": "Variables",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "study_name",
+            "title": "Name of the study",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "dataset_name",
+            "title": "Name of the dataset",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "name",
+            "title": "Name of the variable",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "label",
+            "title": "Label (English) of the variable",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "label_de",
+            "title": "Label (German) of the variable",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "maxLength": 255
+            }
+          }
+        ],
+        "primaryKey": [
+          "study_name",
+          "dataset_name",
+          "name"
+        ],
+        "foreignKeys": [
+          {
+            "fields": "dataset_name",
+            "reference": {
+              "resource": "datasets",
+              "fields": "name"
+            }
+          }
+        ]
+      }
     }
   ]
 }
