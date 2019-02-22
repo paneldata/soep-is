@@ -1,2 +1,8 @@
 study_name,name,label,label_de,description,definition
-soep-is,long,,,,
+soep-is,long,long,long,,
+soep-is,2011,2011,2011,,
+soep-is,2012,2012,2012,,
+soep-is,2013,2013,2013,,
+soep-is,2014,2014,2014,,
+soep-is,2015,2015,2015,,
+soep-is,2016,2016,2016,,

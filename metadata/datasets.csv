@@ -1,23 +1,23 @@
-study_name,name,label,label_de,description,conceptual_dataset_name,analysis_unit_name,period_name
-soep-is,bio,Variables from the Life Course Question Module,,,org/net,p,long
-soep-is,bioage,Variables from the Modules of Questions on Children,,,org/net,p,long
-soep-is,biobirth,Birth Biography of Female and Male Respondents,,,track,p,long
-soep-is,bioparen,,,,org/net,p,long
-soep-is,cognit,,,,org/net,p,long
-soep-is,h,Variables from the Household Question Module,,,org/net,h,long
-soep-is,hbrutto,Household-related Gross File,,,org/gross,h,long
-soep-is,hgen,Household-related Status and Generated Variables,,,gen,h,long
-soep-is,hhrf,,,,survey,h,long
-soep-is,idrm,Person-related Data from Innovative DRM Module,,,org/net,p,long
-soep-is,idrm_esm,,,,org/net,p,long
-soep-is,iesm,,,,org/net,p,long
-soep-is,inno,Variables from the Innovation Modules,,,org/net,p,long
-soep-is,inno_h,HOUSEHOLD? Variables from the Innovation Modules,,,org/net,p,long
-soep-is,intv,,,,org/net,p,long
-soep-is,irisk,,,,,p,long
-soep-is,kid,Pooled Dataset on Children,,,track,p,long
-soep-is,p,Variables from the Individual Question Module,,,org/net,p,long
-soep-is,pbrutto,Person-related Gross File,,,org/gross,p,long
-soep-is,pgen,Person-related Status and Generated Variables,,,gen,p,long
-soep-is,phrf,,,,survey,p,long
-soep-is,ppfad,Person-related Meta-dataset,,,track,p,long
+study_name,name,label,description,conceptual_dataset_name,analysis_unit_name,period_name,label_de
+soep-is,bio,Variables from the Life Course Question Module,,org/net,p,long,
+soep-is,bioage,Variables from the Modules of Questions on Children,,org/net,p,long,
+soep-is,biobirth,Birth Biography of Female and Male Respondents,,track,p,long,
+soep-is,bioparen,Biography Information for Respondents‘ Parents,,org/net,p,long,
+soep-is,cognit,Data on cognitive potential,,org/net,p,long,
+soep-is,h,Variables from the Household Question Module,,org/net,h,long,
+soep-is,hbrutto,Household-related Gross File,,org/gross,h,long,
+soep-is,hgen,Household-related Status and Generated Variables,,gen,h,long,
+soep-is,hhrf,Weighting and staying probabilities,,survey,h,long,
+soep-is,idrm,Person-related Data from Innovative DRM Module,,org/net,p,long,
+soep-is,idrm_esm,Person-related Data from Innovative DRM/ESM Module,,org/net,p,long,
+soep-is,iesm,Person-related Data from Innovative IESM Module,,org/net,p,long,
+soep-is,inno,Variables from the Innovation Modules,,org/net,p,long,
+soep-is,inno_h,Variables from the Innovation Modules on Household Level,,org/net,h,long,
+soep-is,intv,Information on Interviewers,,org/net,p,long,
+soep-is,irisk,Person-related Data from Innovative RISK Module,,org/net,p,long,
+soep-is,kid,Pooled Dataset on Children,,track,p,long,
+soep-is,p,Variables from the Individual Question Module,,org/net,p,long,
+soep-is,pbrutto,Person-related Gross File,,org/gross,p,long,
+soep-is,pgen,Person-related Status and Generated Variables,,gen,p,long,
+soep-is,phrf,Weighting and staying probabilities,,survey,p,long,
+soep-is,ppfad,Person-related Meta-dataset,,track,p,long,
