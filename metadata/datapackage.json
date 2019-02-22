@@ -142,6 +142,21 @@
             }
           },
           {
+            "name": "conceptual_dataset_name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "analysis_unit_name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "period_name",
+            "type": "string",
+            "format": "default"
+          },
+          {
             "name": "label_de",
             "type": "string",
             "format": "default",
@@ -157,21 +172,6 @@
             "constraints": {
               "required": false
             }
-          },
-          {
-            "name": "conceptual_dataset_name",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "analysis_unit_name",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "period_name",
-            "type": "string",
-            "format": "default"
           }
         ],
         "primaryKey": [
