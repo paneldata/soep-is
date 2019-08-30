@@ -1,6 +1,6 @@
-name,label,label_de,description
-gen,generated,generiert,
-org/gross,gross,brutto,
-org/net,questionnaires,erfragt,
-survey,weights,Gewichte,
-track,tracking,Pfad,
+study,name,label,label_de,description,description_de
+soep-is,gen,generated,generiert,,
+soep-is,org/gross,gross,brutto,,
+soep-is,org/net,questionnaires,erfragt,,
+soep-is,survey,weights,Gewichte,,
+soep-is,track,tracking,Pfad,,
