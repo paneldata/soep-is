@@ -1,236 +1,146 @@
-{
-  "cid": {
-    "study": "soep-is",
+[
+  {
     "name": "cid",
-    "name_cs": "cid",
-    "variable": "cid",
     "dataset": "phrf",
     "label": "Case-ID, Original Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Ursprungshaushaltsnummer",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200034",
-        "878294",
-        "952796",
-        "2069548.59044389",
-        "4058238",
-        "4173037",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Ursprungshaushaltsnummer"
+      "Min.": 200034.0,
+      "1st Qu.": 879819.0,
+      "Median": 959708.0,
+      "Mean": 2160045.9331062404,
+      "3rd Qu.": 4068632.0,
+      "Max.": 4173037.0,
+      "valid": 40512,
+      "invalid": 0
+    }
   },
-  "hid": {
-    "study": "soep-is",
+  {
     "name": "hid",
-    "name_cs": "hid",
-    "variable": "hid",
     "dataset": "phrf",
     "label": "Current Wave HH Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Aktuelle Haushaltsnummer",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "115380",
-        "880302",
-        "949949",
-        "2057208.69915942",
-        "4056855",
-        "4173037",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Aktuelle Haushaltsnummer"
+      "Min.": 115380.0,
+      "1st Qu.": 883891.0,
+      "Median": 957275.0,
+      "Mean": 2141510.585308057,
+      "3rd Qu.": 4067781.5,
+      "Max.": 4173037.0,
+      "valid": 40512,
+      "invalid": 0
+    }
   },
-  "pid": {
-    "study": "soep-is",
+  {
     "name": "pid",
-    "name_cs": "pid",
-    "variable": "pid",
     "dataset": "phrf",
     "label": "Never Changing Person ID",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Unveraenderliche Personennummer",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1153802",
-        "8790701",
-        "9522201",
-        "20673235.1926265",
-        "40582302",
-        "41730304",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Unveraenderliche Personennummer"
+      "Min.": 1153802.0,
+      "1st Qu.": 8806504.0,
+      "Median": 9589302.0,
+      "Mean": 21562373.345724724,
+      "3rd Qu.": 40683302.25,
+      "Max.": 41730304.0,
+      "valid": 40512,
+      "invalid": 0
+    }
   },
-  "syear": {
-    "study": "soep-is",
+  {
     "name": "syear",
-    "name_cs": "syear",
-    "variable": "syear",
     "dataset": "phrf",
     "label": "Survey Year",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Befragungsjahr",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2011",
-        "2013",
-        "2014",
-        "2014.00026544757",
-        "2015",
-        "2016",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Befragungsjahr"
+      "Min.": 2011.0,
+      "1st Qu.": 2013.0,
+      "Median": 2015.0,
+      "Mean": 2014.4894845971564,
+      "3rd Qu.": 2016.0,
+      "Max.": 2017.0,
+      "valid": 40512,
+      "invalid": 0
+    }
   },
-  "pbleib": {
-    "study": "soep-is",
+  {
     "name": "pbleib",
-    "name_cs": "pbleib",
-    "variable": "pbleib",
     "dataset": "phrf",
     "label": "Inverse Staying Probability",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Inverse Bleibewahrscheinlichkeit",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "0",
-        "0",
-        "1.08",
-        "0.889002212254246",
-        "1.18",
-        "5.07000017166138",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Inverse Bleibewahrscheinlichkeit"
+      "Min.": 0.0,
+      "1st Qu.": 1.0,
+      "Median": 1.08,
+      "Mean": 0.9361159657997683,
+      "3rd Qu.": 1.18,
+      "Max.": 5.070000171661377,
+      "valid": 40512,
+      "invalid": 0
+    }
   },
-  "phrf": {
-    "study": "soep-is",
+  {
     "name": "phrf",
-    "name_cs": "phrf",
-    "variable": "phrf",
     "dataset": "phrf",
     "label": "Weighting Factor",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Hochrechnungsfaktor",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "183.312141814091",
-        "7187.61714669361",
-        "10918.3742410252",
-        "14225.5900743628",
-        "16954.0960465238",
-        "224569.219980905",
-        "33905",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Hochrechnungsfaktor"
+      "Min.": 175.45268979559168,
+      "1st Qu.": 6963.560710208776,
+      "Median": 10711.702292424183,
+      "Mean": 13945.46027703753,
+      "3rd Qu.": 16754.875328117265,
+      "Max.": 224569.2199809052,
+      "valid": 40512,
+      "invalid": 0
+    }
   }
-}
+]
