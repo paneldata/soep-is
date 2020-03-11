@@ -1,0 +1,6801 @@
+[
+  {
+    "name": "cid",
+    "dataset": "ibip_parent",
+    "label": "Case-ID, Original Household Number",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Urhaushaltsnummer",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 4900001.0,
+      "1st Qu.": 4901423.0,
+      "Median": 4902969.0,
+      "Mean": 4902941.753787879,
+      "3rd Qu.": 4904422.0,
+      "Max.": 4905976.0,
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "hid",
+    "dataset": "ibip_parent",
+    "label": "Current Wave HH Number",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Haushaltsnummer",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 4900001.0,
+      "1st Qu.": 4901423.0,
+      "Median": 4902969.0,
+      "Mean": 4902941.753787879,
+      "3rd Qu.": 4904422.0,
+      "Max.": 4905976.0,
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pidresp",
+    "dataset": "ibip_parent",
+    "label": "Never Changing Person ID of the parent/ the interviewee",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Unveraenderliche Personennummer des Elternteiles / der Befragungsperson",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 49000001.0,
+      "1st Qu.": 49014201.75,
+      "Median": 49029601.0,
+      "Mean": 49029378.57575758,
+      "3rd Qu.": 49044201.0,
+      "Max.": 49059701.0,
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pid",
+    "dataset": "ibip_parent",
+    "label": "Never Changing Person ID of the Child",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Unveraenderliche Personennummer des Kindes",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 49000003.0,
+      "1st Qu.": 49014203.0,
+      "Median": 49029604.0,
+      "Mean": 49029380.45170455,
+      "3rd Qu.": 49044203.0,
+      "Max.": 49059703.0,
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "syear",
+    "dataset": "ibip_parent",
+    "label": "Survey year",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Erhebungsjahr",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 2014.0,
+      "1st Qu.": 2014.0,
+      "Median": 2015.0,
+      "Mean": 2015.0823863636363,
+      "3rd Qu.": 2016.0,
+      "Max.": 2016.0,
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "lgeb",
+    "dataset": "ibip_parent",
+    "label": "Year of birth",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Geburtsjahr",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1954.0,
+      "1st Qu.": 1967.0,
+      "Median": 1971.0,
+      "Mean": 1972.2137767220902,
+      "3rd Qu.": 1976.0,
+      "Max.": 1999.0,
+      "valid": 2105,
+      "invalid": 7
+    }
+  },
+  {
+    "name": "lsex",
+    "dataset": "ibip_parent",
+    "label": "Sex",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] male",
+        "[2] female"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] m\u001annlich",
+        "[2] weiblich"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        567,
+        1545
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Geschlecht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 2112,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "balu_id",
+    "dataset": "ibip_parent",
+    "label": "Never Changing Balu_ID",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Unver\u001anderliche Balu_ID",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 100006.0,
+      "1st Qu.": 103680.0,
+      "Median": 107826.0,
+      "Mean": 134213.167695962,
+      "3rd Qu.": 200561.0,
+      "Max.": 203800.0,
+      "valid": 2105,
+      "invalid": 7
+    }
+  },
+  {
+    "name": "akanzt1",
+    "dataset": "ibip_parent",
+    "label": "Number of days: Joint lunch",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Anzahl Tage: Gemeinsame Mahlzeiten",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 5.0,
+      "Median": 7.0,
+      "Mean": 6.034,
+      "3rd Qu.": 7.0,
+      "Max.": 7.0,
+      "valid": 500,
+      "invalid": 1612
+    }
+  },
+  {
+    "name": "akanzt2",
+    "dataset": "ibip_parent",
+    "label": "Number of days: Talks about school",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Anzahl Tage: Gespr\u001ache \u001aber Schule",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 5.0,
+      "Median": 5.0,
+      "Mean": 5.526838966202783,
+      "3rd Qu.": 7.0,
+      "Max.": 7.0,
+      "valid": 503,
+      "invalid": 1609
+    }
+  },
+  {
+    "name": "akanzt3",
+    "dataset": "ibip_parent",
+    "label": "Number of days: Activities",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Anzahl Tage: Aktivit\u001aten",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 1.0,
+      "Median": 2.0,
+      "Mean": 1.927685950413223,
+      "3rd Qu.": 2.0,
+      "Max.": 7.0,
+      "valid": 484,
+      "invalid": 1628
+    }
+  },
+  {
+    "name": "akds2",
+    "dataset": "ibip_parent",
+    "label": "Child: participation fun",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[0] Did not like at all",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] Liked a lot",
+        "[11] Cannot remember"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Gar nicht gefallen",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] Sehr gefallen",
+        "[11] Kann mich nicht erinnern"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Spa\u001a bei der Befragung",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akds3",
+    "dataset": "ibip_parent",
+    "label": "Agreement to interview the child",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zustimmung zur Befragung des Kindes",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akempfs",
+    "dataset": "ibip_parent",
+    "label": "Recommendation for specific secondary school type",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] recommendation for lower secondary school",
+        "[2] recommendation for medium secondary school",
+        "[3] recommendation for higher secondary school",
+        "[4] at this school they do not offer recommendations",
+        "[5] Not yet received a recommendation"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Hauptschul- und Gesamtschulempfehlung",
+        "[2] Realschul- und Gesamtschulempfehlung",
+        "[3] Gymnasium- und Gesamtschulempfehlung",
+        "[4] An dieser Grundschule gab es keine Empfehlung",
+        "[5] Noch keine Empfehlung erfolgt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1597,
+        0,
+        0,
+        3,
+        0,
+        21,
+        165,
+        315,
+        8,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Empfehlung f\u001ar welche weiterf\u001ahrende Schule",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 512,
+      "invalid": 1600
+    }
+  },
+  {
+    "name": "akfz01",
+    "dataset": "ibip_parent",
+    "label": "Free time: TV/Video/DVD",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        19,
+        681,
+        317,
+        21,
+        52,
+        4
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Fernsehen/Video/DVD",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1075,
+      "invalid": 1037
+    }
+  },
+  {
+    "name": "akfz02",
+    "dataset": "ibip_parent",
+    "label": "Free time: Computer games",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        19,
+        279,
+        401,
+        95,
+        185,
+        115
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Computerspiele",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1075,
+      "invalid": 1037
+    }
+  },
+  {
+    "name": "akfz03",
+    "dataset": "ibip_parent",
+    "label": "Free time: Listen to music",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        667,
+        259,
+        39,
+        92,
+        17
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Musik h\u001aren",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz04",
+    "dataset": "ibip_parent",
+    "label": "Free time: Make music",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        21,
+        192,
+        274,
+        41,
+        227,
+        339
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Musik machen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1073,
+      "invalid": 1039
+    }
+  },
+  {
+    "name": "akfz05",
+    "dataset": "ibip_parent",
+    "label": "Free time: Do sports",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        19,
+        216,
+        661,
+        30,
+        80,
+        88
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Sport treiben",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1075,
+      "invalid": 1037
+    }
+  },
+  {
+    "name": "akfz06",
+    "dataset": "ibip_parent",
+    "label": "Free time: Dancing, theatre",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        22,
+        19,
+        162,
+        109,
+        370,
+        412
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Tanz, Theater",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1072,
+      "invalid": 1040
+    }
+  },
+  {
+    "name": "akfz07",
+    "dataset": "ibip_parent",
+    "label": "Free time: Technical crafting and working",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        22,
+        19,
+        151,
+        154,
+        400,
+        348
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Technisches Werken und Arbeiten",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1072,
+      "invalid": 1040
+    }
+  },
+  {
+    "name": "akfz08",
+    "dataset": "ibip_parent",
+    "label": "Free time: Reading",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1533,
+        0,
+        0,
+        0,
+        9,
+        286,
+        169,
+        50,
+        55,
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Lesen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 570,
+      "invalid": 1542
+    }
+  },
+  {
+    "name": "akfz10",
+    "dataset": "ibip_parent",
+    "label": "Free time: Simply do nothing/hang out/dreaming",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        310,
+        383,
+        60,
+        227,
+        94
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Einfach nichts tun/abh\u001angen/tr\u001aumen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz14",
+    "dataset": "ibip_parent",
+    "label": "Free time: Other surfing on the internet",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        19,
+        217,
+        298,
+        110,
+        270,
+        180
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Sonstiges Surfen im Internet",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1075,
+      "invalid": 1037
+    }
+  },
+  {
+    "name": "akfz16",
+    "dataset": "ibip_parent",
+    "label": "Free time: Visit religious events",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        22,
+        1,
+        159,
+        157,
+        343,
+        412
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Religi\u001ase Veranstaltungen besuchen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1072,
+      "invalid": 1040
+    }
+  },
+  {
+    "name": "akfz17",
+    "dataset": "ibip_parent",
+    "label": "Free time: Undertake sth. with the family",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        18,
+        615,
+        358,
+        80,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Mit der Familie etwas unternehmen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz18",
+    "dataset": "ibip_parent",
+    "label": "Free time: Painting and handicraft work",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        168,
+        393,
+        193,
+        233,
+        87
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Malen und  Basteln",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz19",
+    "dataset": "ibip_parent",
+    "label": "Free time: Spend time with friends",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        329,
+        634,
+        71,
+        33,
+        7
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Mit Freunden zusammen sein",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz20",
+    "dataset": "ibip_parent",
+    "label": "Free time: Participate in a youth group",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        25,
+        12,
+        162,
+        59,
+        135,
+        701
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: In eine Jugendgruppe gehen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1069,
+      "invalid": 1043
+    }
+  },
+  {
+    "name": "akfz21",
+    "dataset": "ibip_parent",
+    "label": "Free time: Using social online networks",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        19,
+        220,
+        106,
+        27,
+        132,
+        590
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Nutzen sozialer Online-Netzwerke",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1075,
+      "invalid": 1037
+    }
+  },
+  {
+    "name": "akfz22",
+    "dataset": "ibip_parent",
+    "label": "Free time: Telephone",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        20,
+        232,
+        391,
+        90,
+        266,
+        95
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Telefonieren",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1074,
+      "invalid": 1038
+    }
+  },
+  {
+    "name": "akfz23",
+    "dataset": "ibip_parent",
+    "label": "Free time: Text-messaging",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        21,
+        480,
+        178,
+        31,
+        151,
+        233
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Simsen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1073,
+      "invalid": 1039
+    }
+  },
+  {
+    "name": "akfz24",
+    "dataset": "ibip_parent",
+    "label": "Free time: Caring about a pet/animals",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] t\u001aglich",
+        "[2] jede Woche",
+        "[3] jeden Monat",
+        "[4] seltener",
+        "[5] nie"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        34,
+        366,
+        127,
+        34,
+        101,
+        432
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freizeit: Um ein Haustier / Tiere k\u001ammern",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1060,
+      "invalid": 1052
+    }
+  },
+  {
+    "name": "akges01",
+    "dataset": "ibip_parent",
+    "label": "Child: state of health",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] daily",
+        "[2] every week",
+        "[3] every month",
+        "[4] rarer",
+        "[5] never"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr gut",
+        "[2] Gut",
+        "[3] Zufriedenstellend",
+        "[4] Weniger gut",
+        "[5] Schlecht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        514,
+        0,
+        0,
+        1,
+        4,
+        789,
+        662,
+        120,
+        20,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Gesundheitszustand",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1593,
+      "invalid": 519
+    }
+  },
+  {
+    "name": "akmus1",
+    "dataset": "ibip_parent",
+    "label": "Child: Making music with whom",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Aktiv Musik machen mit wem",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akmus31",
+    "dataset": "ibip_parent",
+    "label": "Music with whom: Alone for themself",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Musik mit wem: Allein f\u001ar sich",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akmus32",
+    "dataset": "ibip_parent",
+    "label": "Music with whom: Alone with guidance",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Musik mit wem: Allein unter Anleitung",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akmus33",
+    "dataset": "ibip_parent",
+    "label": "Music with whom: Orchestra or choir",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Musik mit wem: Orchester oder Chor",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akmus34",
+    "dataset": "ibip_parent",
+    "label": "Music with whom: Music group/band",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Musik mit wem: Musikgruppe / Band",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akmus35",
+    "dataset": "ibip_parent",
+    "label": "Music with whom: Other combination",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Musik mit wem: Sonstige Zusammensetzung",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg1",
+    "dataset": "ibip_parent",
+    "label": "Child: Drinks unallowed",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Trinkt erlaubterweise Alkohol",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg2",
+    "dataset": "ibip_parent",
+    "label": "Child: Drinks allowed",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Trinkt unerlaubterweise Alkohol",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg3",
+    "dataset": "ibip_parent",
+    "label": "Child: Smokes allowed",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Raucht erlaubterweise",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg4",
+    "dataset": "ibip_parent",
+    "label": "Child: Smokes unallowed",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Raucht unerlaubterweise",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg5",
+    "dataset": "ibip_parent",
+    "label": "Child: Has drunken too much alcohol",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Hat schon zu viel Alkohol getrunken",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg6",
+    "dataset": "ibip_parent",
+    "label": "Child: Already had problems with the police",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Hat schon -\u001arger mit der Polizei- gehabt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg7",
+    "dataset": "ibip_parent",
+    "label": "Child: Already skipped lessons in school",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Hat schon die Schule \"geschw\u001anzt\"",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "akneg8",
+    "dataset": "ibip_parent",
+    "label": "Child: Already had an expulsion from school",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Hat schon einen Schulverweis erhalten",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "aktg1",
+    "dataset": "ibip_parent",
+    "label": "Receives pocket money",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        514,
+        0,
+        0,
+        1,
+        13,
+        1402,
+        182
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Erh\u001alt Taschengeld",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1584,
+      "invalid": 528
+    }
+  },
+  {
+    "name": "aktg2",
+    "dataset": "ibip_parent",
+    "label": "Amount of pocket money per week",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "H\u001ahe des Taschengeldes pro Woche",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 3.0,
+      "Median": 4.0,
+      "Mean": 5.247272727272727,
+      "3rd Qu.": 5.0,
+      "Max.": 40.0,
+      "valid": 550,
+      "invalid": 1562
+    }
+  },
+  {
+    "name": "aktg3",
+    "dataset": "ibip_parent",
+    "label": "Amount of pocket money per month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "H\u001ahe des Taschengeldes pro Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 10.0,
+      "Median": 15.0,
+      "Mean": 16.165876777251185,
+      "3rd Qu.": 20.0,
+      "Max.": 350.0,
+      "valid": 844,
+      "invalid": 1268
+    }
+  },
+  {
+    "name": "akver18",
+    "dataset": "ibip_parent",
+    "label": "Child: complains of headache, abdominal pain or nausea",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        13,
+        321,
+        344,
+        113,
+        105,
+        112,
+        56,
+        30
+      ]
+    },
+    "scale": "cat",
+    "label_de": "klagt \u001aber Kopfschmerzen, Bauchschmerzen oder \u001abelkeit",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1081,
+      "invalid": 1031
+    }
+  },
+  {
+    "name": "akver19",
+    "dataset": "ibip_parent",
+    "label": "Child: Obedient, listens to adults",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        13,
+        11,
+        69,
+        114,
+        141,
+        258,
+        378,
+        110
+      ]
+    },
+    "scale": "cat",
+    "label_de": "folgsam, h\u001art auf Erwachsene",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1081,
+      "invalid": 1031
+    }
+  },
+  {
+    "name": "akver20",
+    "dataset": "ibip_parent",
+    "label": "Child: often has sorrows, is depressed",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        13,
+        286,
+        373,
+        142,
+        115,
+        92,
+        56,
+        17
+      ]
+    },
+    "scale": "cat",
+    "label_de": "h\u001aufig Sorgen, bedr\u001ackt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1081,
+      "invalid": 1031
+    }
+  },
+  {
+    "name": "akver21",
+    "dataset": "ibip_parent",
+    "label": "Child: has at least one good friend",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        15,
+        15,
+        16,
+        8,
+        14,
+        44,
+        148,
+        834
+      ]
+    },
+    "scale": "cat",
+    "label_de": "mind. einen guten Freund o. gute Freundin",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1079,
+      "invalid": 1033
+    }
+  },
+  {
+    "name": "akver22",
+    "dataset": "ibip_parent",
+    "label": "Child: is nice to younger children",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        14,
+        6,
+        12,
+        12,
+        38,
+        70,
+        257,
+        685
+      ]
+    },
+    "scale": "cat",
+    "label_de": "lieb zu j\u001angeren Kindern",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1080,
+      "invalid": 1032
+    }
+  },
+  {
+    "name": "akver23",
+    "dataset": "ibip_parent",
+    "label": "Child: lies or cheats often",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        514,
+        0,
+        0,
+        1,
+        13,
+        574,
+        526,
+        155,
+        144,
+        120,
+        45,
+        20
+      ]
+    },
+    "scale": "cat",
+    "label_de": "l\u001agt oder mogelt h\u001aufig",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1584,
+      "invalid": 528
+    }
+  },
+  {
+    "name": "akver25",
+    "dataset": "ibip_parent",
+    "label": "Child: thinks before acting",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1018,
+        0,
+        0,
+        0,
+        14,
+        27,
+        57,
+        121,
+        217,
+        226,
+        314,
+        118
+      ]
+    },
+    "scale": "cat",
+    "label_de": "nachdenken vor dem Handeln",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1080,
+      "invalid": 1032
+    }
+  },
+  {
+    "name": "akverbip1",
+    "dataset": "ibip_parent",
+    "label": "Child: steals at home, at school",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        514,
+        0,
+        0,
+        1,
+        15,
+        1440,
+        90,
+        9,
+        11,
+        14,
+        10,
+        8
+      ]
+    },
+    "scale": "cat",
+    "label_de": "stiehlt zu Hause, in der Schule",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1582,
+      "invalid": 530
+    }
+  },
+  {
+    "name": "akverbip2",
+    "dataset": "ibip_parent",
+    "label": "Child: overestimates own abilities",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] does not apply at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully applies"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] trifft \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] trifft voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        514,
+        0,
+        0,
+        1,
+        8,
+        456,
+        401,
+        223,
+        202,
+        185,
+        93,
+        29
+      ]
+    },
+    "scale": "cat",
+    "label_de": "\u001abersch\u001atzt seine eigenen F\u001ahigkeiten",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1589,
+      "invalid": 523
+    }
+  },
+  {
+    "name": "ds2",
+    "dataset": "ibip_parent",
+    "label": "Child: participation fun",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[0] Did not like at all",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] Liked a lot",
+        "[11] Cannot remember"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Gar nicht gefallen",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] Sehr gefallen",
+        "[11] Kann mich nicht erinnern"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1093,
+        0,
+        0,
+        1,
+        19,
+        0,
+        2,
+        3,
+        3,
+        3,
+        7,
+        21,
+        35,
+        84,
+        220,
+        208,
+        413
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Spa\u001a bei der Befragung",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 999,
+      "invalid": 1113
+    }
+  },
+  {
+    "name": "ds3",
+    "dataset": "ibip_parent",
+    "label": "Agreement to interview the child",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1093,
+        0,
+        0,
+        0,
+        0,
+        1018,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zustimmung zur Befragung des Kindes",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1019,
+      "invalid": 1093
+    }
+  },
+  {
+    "name": "kindl01",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt ill",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        1,
+        234,
+        135,
+        95,
+        35,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: Krank gef\u001ahlt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 502,
+      "invalid": 1610
+    }
+  },
+  {
+    "name": "kindl02",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had Headache or bellyache",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        1,
+        241,
+        131,
+        89,
+        39,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: Kopf- oder Bauchschmerzen gehabt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 502,
+      "invalid": 1610
+    }
+  },
+  {
+    "name": "kindl03",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Was tired and floppy",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        2,
+        134,
+        173,
+        134,
+        57,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: War m\u001ade und schlapp",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 501,
+      "invalid": 1611
+    }
+  },
+  {
+    "name": "kindl04",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had energy and endurance",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        2,
+        6,
+        57,
+        103,
+        238,
+        97
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: Hatte Kraft und Ausdauer",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 501,
+      "invalid": 1611
+    }
+  },
+  {
+    "name": "kindl201",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Laughed a lot and had fun",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        1,
+        0,
+        11,
+        84,
+        325,
+        82
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: viel gelacht und Spa\u001a gehabt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 502,
+      "invalid": 1610
+    }
+  },
+  {
+    "name": "kindl202",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had no desire",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        1,
+        133,
+        223,
+        114,
+        31,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: zu nichts Lust gehabt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 502,
+      "invalid": 1610
+    }
+  },
+  {
+    "name": "kindl203",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt alone",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        7,
+        244,
+        173,
+        66,
+        11,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich allein gef\u001ahlt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 496,
+      "invalid": 1616
+    }
+  },
+  {
+    "name": "kindl204",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt scared and insecure",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        3,
+        277,
+        148,
+        60,
+        14,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: \u001angstlich oder unsicher gef\u001ahlt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 500,
+      "invalid": 1612
+    }
+  },
+  {
+    "name": "kindl301",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Was proud of them",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        8,
+        40,
+        192,
+        232,
+        27
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: war stolz auf sich",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "kindl302",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt well",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        2,
+        33,
+        92,
+        292,
+        80
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich wohl in seiner Haut gef\u001ahlt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "kindl303",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Liked themself",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        3,
+        28,
+        89,
+        280,
+        99
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich selbst gemocht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "kindl304",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had a lot of good ideas",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        2,
+        34,
+        131,
+        212,
+        120
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: hatte viele gute Ideen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "kindl401",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Got along well with their parents",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        2,
+        0,
+        15,
+        83,
+        292,
+        111
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich gut mit Eltern verstanden",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 501,
+      "invalid": 1611
+    }
+  },
+  {
+    "name": "kindl402",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt well at home",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        2,
+        0,
+        5,
+        45,
+        245,
+        206
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich zu Hause wohl gef\u001ahlt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 501,
+      "invalid": 1611
+    }
+  },
+  {
+    "name": "kindl403",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had a strong argument at home",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        2,
+        294,
+        129,
+        65,
+        13,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: hatten schlimmen Streit zu Hause",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 501,
+      "invalid": 1611
+    }
+  },
+  {
+    "name": "kindl404",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt patronized",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        3,
+        93,
+        122,
+        188,
+        81,
+        16
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: f\u001ahlte sich bevormundet",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 500,
+      "invalid": 1612
+    }
+  },
+  {
+    "name": "kindl501",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Did sth. with friends",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        21,
+        67,
+        136,
+        216,
+        59
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: etwas mit Freunden gemeinsam gemacht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "kindl502",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Was appreciated by others",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        11,
+        2,
+        12,
+        80,
+        272,
+        126
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: bei anderen gut angekommen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 492,
+      "invalid": 1620
+    }
+  },
+  {
+    "name": "kindl503",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Got along well with friends",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        5,
+        0,
+        5,
+        32,
+        280,
+        181
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich gut mit Freunden verstanden",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 498,
+      "invalid": 1614
+    }
+  },
+  {
+    "name": "kindl504",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Felt to be different from others",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        8,
+        272,
+        113,
+        69,
+        31,
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: hatte Gef\u001ahl anders zu sein",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 495,
+      "invalid": 1617
+    }
+  },
+  {
+    "name": "kindl601",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Completed tasks from school/education successfully",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        9,
+        1,
+        16,
+        65,
+        234,
+        178
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: hat Aufgaben in Schule/Ausbildung gut geschafft",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 494,
+      "invalid": 1618
+    }
+  },
+  {
+    "name": "kindl602",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had fun in education",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        9,
+        6,
+        42,
+        168,
+        224,
+        54
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: Unterricht hat Spa\u001a gemacht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 494,
+      "invalid": 1618
+    }
+  },
+  {
+    "name": "kindl603",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Had sorrows about their future",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        7,
+        269,
+        140,
+        62,
+        21,
+        4
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: sich Sorgen um seine Zukunft gemacht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 496,
+      "invalid": 1616
+    }
+  },
+  {
+    "name": "kindl604",
+    "dataset": "ibip_parent",
+    "label": "Child: Last week: Was afraid of bad grades",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] never",
+        "[2] rare",
+        "[3] sometimes",
+        "[4] often",
+        "[5] always"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1608,
+        0,
+        0,
+        1,
+        4,
+        160,
+        130,
+        139,
+        54,
+        16
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kind: Letzte Woche: hatte Angst vor schlechten Noten",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 499,
+      "invalid": 1613
+    }
+  },
+  {
+    "name": "lvm",
+    "dataset": "ibip_parent",
+    "label": "Parents living in houshold",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] yes, both",
+        "[2] just father",
+        "[3] just mother",
+        "[4] no, both not"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja, beide",
+        "[2] Nur Vater",
+        "[3] Nur Mutter",
+        "[4] Nein, beide nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        579,
+        0,
+        0,
+        706,
+        0,
+        44,
+        1,
+        26,
+        756
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Eltern im Haushalt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 827,
+      "invalid": 1285
+    }
+  },
+  {
+    "name": "mind01",
+    "dataset": "ibip_parent",
+    "label": "Certain degree of intelligence that is not really changeable",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] agree very much",
+        "[2] agree",
+        "[3] agree mostly",
+        "[4] do mostly not agree",
+        "[5] do not agree",
+        "[6] do not agree at all"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme sehr zu",
+        "[2] stimme zu",
+        "[3] stimme gr\u001a\u001atenteils zu",
+        "[4] stimme gr\u001a\u001atenteils nicht zu",
+        "[5] stimme nicht zu",
+        "[6] stimme \u001aberhaupt nicht zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        18,
+        23,
+        169,
+        196,
+        92,
+        195,
+        60
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Man hat ein bestimmtes Ma\u001a an Intelligenz, an dem man nicht wirklich viel \u001andern",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 735,
+      "invalid": 1377
+    }
+  },
+  {
+    "name": "mind02",
+    "dataset": "ibip_parent",
+    "label": "You cannot change intelligence",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] agree very much",
+        "[2] agree",
+        "[3] agree mostly",
+        "[4] do mostly not agree",
+        "[5] do not agree",
+        "[6] do not agree at all"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme sehr zu",
+        "[2] stimme zu",
+        "[3] stimme gr\u001a\u001atenteils zu",
+        "[4] stimme gr\u001a\u001atenteils nicht zu",
+        "[5] stimme nicht zu",
+        "[6] stimme \u001aberhaupt nicht zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        19,
+        24,
+        109,
+        101,
+        106,
+        295,
+        99
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Intelligenz ist etwas, das man nicht \u001andern kann",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 734,
+      "invalid": 1378
+    }
+  },
+  {
+    "name": "mind03",
+    "dataset": "ibip_parent",
+    "label": "To be honest, you cannot really change how intelligent you are",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] agree very much",
+        "[2] agree",
+        "[3] agree mostly",
+        "[4] do mostly not agree",
+        "[5] do not agree",
+        "[6] do not agree at all"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme sehr zu",
+        "[2] stimme zu",
+        "[3] stimme gr\u001a\u001atenteils zu",
+        "[4] stimme gr\u001a\u001atenteils nicht zu",
+        "[5] stimme nicht zu",
+        "[6] stimme \u001aberhaupt nicht zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        21,
+        25,
+        114,
+        108,
+        111,
+        290,
+        84
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Um ehrlich zu sein, man kann nicht wirklich \u001andern, wie intelligent man ist",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 732,
+      "invalid": 1380
+    }
+  },
+  {
+    "name": "mind04",
+    "dataset": "ibip_parent",
+    "label": "You can learns new things but you cannot change your basic intelligence",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] agree very much",
+        "[2] agree",
+        "[3] agree mostly",
+        "[4] do mostly not agree",
+        "[5] do not agree",
+        "[6] do not agree at all"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme sehr zu",
+        "[2] stimme zu",
+        "[3] stimme gr\u001a\u001atenteils zu",
+        "[4] stimme gr\u001a\u001atenteils nicht zu",
+        "[5] stimme nicht zu",
+        "[6] stimme \u001aberhaupt nicht zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        20,
+        50,
+        207,
+        133,
+        86,
+        194,
+        63
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Man kann neue Dinge lernen, aber nicht seine Grundintelligenz \u001andern",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 733,
+      "invalid": 1379
+    }
+  },
+  {
+    "name": "pzu23",
+    "dataset": "ibip_parent",
+    "label": "In general, I beliece I am intelligent",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] do not agree at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully agree"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] Stimme voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        7,
+        0,
+        3,
+        16,
+        72,
+        190,
+        287,
+        178
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Im Allgemeinen glaube ich, dass ich intelligent bin",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 746,
+      "invalid": 1366
+    }
+  },
+  {
+    "name": "pzu24",
+    "dataset": "ibip_parent",
+    "label": "Sometimes it is okay to claim sth. that is not true",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] do not agree at all",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] fully agree"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme \u001aberhaupt nicht zu",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7] Stimme voll zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1359,
+        0,
+        0,
+        0,
+        6,
+        176,
+        135,
+        115,
+        107,
+        116,
+        70,
+        28
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Man darf manchmal zum eigenen Vorteil etwas behaupten das nicht stimmt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 747,
+      "invalid": 1365
+    }
+  },
+  {
+    "name": "simeink1",
+    "dataset": "ibip_parent",
+    "label": "Tax persons with high income larger in the future",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] do not agree at all",
+        "[2] do rather disagree",
+        "[3] neither agree nor disagree",
+        "[4] rather agree",
+        "[5] fully agree"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme \u001aberhaupt nicht zu",
+        "[2] stimme eher nicht zu",
+        "[3] stimme weder zu noch lehne ich ab",
+        "[4] stimme eher zu",
+        "[5] stimme voll und ganz zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Hohe Einkommen zuk\u001anftig st\u001arker besteuern",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "simeink2",
+    "dataset": "ibip_parent",
+    "label": "Persons with low income should receive more social benefits in future",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] do not agree at all",
+        "[2] do rather disagree",
+        "[3] neither agree nor disagree",
+        "[4] rather agree",
+        "[5] fully agree"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] stimme \u001aberhaupt nicht zu",
+        "[2] stimme eher nicht zu",
+        "[3] stimme weder zu noch lehne ich ab",
+        "[4] stimme eher zu",
+        "[5] stimme voll und ganz zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2112,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zuk\u001anftig mehr Sozialleistungen bei geringem Einkommen",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 0,
+      "invalid": 2112
+    }
+  },
+  {
+    "name": "simsebip",
+    "dataset": "ibip_parent",
+    "label": "Self-evaluation of own abilities",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[0] strongly underrated",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] strongly overrated"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit ge\u001anderter Filterf\u001ahrung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzul\u001assige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Stark untersch\u001atzt",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5]",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]",
+        "[10] Stark \u001abersch\u001atzt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        1332,
+        0,
+        0,
+        0,
+        1,
+        2,
+        11,
+        42,
+        87,
+        163,
+        342,
+        59,
+        43,
+        23,
+        4,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Selbsteinsch\u001atzung der eigenen F\u001ahigkeiten",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 779,
+      "invalid": 1333
+    }
+  }
+]

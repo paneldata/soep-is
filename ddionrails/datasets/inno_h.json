@@ -1,3217 +1,2194 @@
-{
-  "cid": {
-    "study": "soep-is",
+[
+  {
     "name": "cid",
-    "name_cs": "cid",
-    "variable": "cid",
     "dataset": "inno_h",
     "label": "Original Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Urhaushaltsnummer",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200034",
-        "886416",
-        "973912",
-        "2324582.10231125",
-        "4075620",
-        "4127078",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Urhaushaltsnummer"
+      "Min.": 200034.0,
+      "1st Qu.": 886416.0,
+      "Median": 973912.0,
+      "Mean": 2324582.102311248,
+      "3rd Qu.": 4075620.0,
+      "Max.": 4127078.0,
+      "valid": 3245,
+      "invalid": 0
+    }
   },
-  "hid": {
-    "study": "soep-is",
+  {
     "name": "hid",
-    "name_cs": "hid",
-    "variable": "hid",
     "dataset": "inno_h",
     "label": "Current Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Haushaltsnummer",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "115380",
-        "891258",
-        "967416",
-        "2288877.22865948",
-        "4072990",
-        "4127078",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltsnummer"
+      "Min.": 115380.0,
+      "1st Qu.": 891258.0,
+      "Median": 967416.0,
+      "Mean": 2288877.228659476,
+      "3rd Qu.": 4072990.0,
+      "Max.": 4127078.0,
+      "valid": 3245,
+      "invalid": 0
+    }
   },
-  "syear": {
-    "study": "soep-is",
+  {
     "name": "syear",
-    "name_cs": "syear",
-    "variable": "syear",
     "dataset": "inno_h",
     "label": "Survey-Year",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Erhebungsjahr",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Erhebungsjahr"
+      "Min.": 2015.0,
+      "1st Qu.": 2015.0,
+      "Median": 2015.0,
+      "Mean": 2015.0,
+      "3rd Qu.": 2015.0,
+      "Max.": 2015.0,
+      "valid": 3245,
+      "invalid": 0
+    }
   },
-  "im_bil": {
-    "study": "soep-is",
+  {
     "name": "im_bil",
-    "name_cs": "im_bil",
-    "variable": "im_bil",
     "dataset": "inno_h",
     "label": "Pretest: Balance",
     "categories": {
-      "frequencies": [
+      "values": [
         0,
-        3245
+        1
       ],
       "labels": [
         "[0] Does Not Apply",
         "[1] Does Apply"
       ],
-      "missings": [
-        false,
-        false
-      ],
-      "values": [
-        "0",
-        "1"
-      ],
       "labels_de": [
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "3245",
-        "0"
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3245
       ]
     },
     "scale": "cat",
-    "label_de": "Pretest: Bilanz"
+    "label_de": "Pretest: Bilanz",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3245,
+      "invalid": 0
+    }
   },
-  "prhsplbil": {
-    "study": "soep-is",
+  {
     "name": "prhsplbil",
-    "name_cs": "prhsplbil",
-    "variable": "prhsplbil",
     "dataset": "inno_h",
     "label": "Split balance",
     "categories": {
-      "frequencies": [
-        2,
-        1654,
-        1589
+      "values": [
+        1,
+        2
       ],
       "labels": [
-        "-2",
+        "Split 1",
+        "Split 2"
+      ],
+      "labels_de": [
         "Split 1",
         "Split 2"
       ],
       "missings": [
         false,
-        false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Split 1",
-        "Split 2"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
+      "frequencies": [
+        1654,
+        1589
       ]
     },
     "scale": "cat",
-    "label_de": "Split Bilanz"
+    "label_de": "Split Bilanz",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 2
+    }
   },
-  "prhbilj1": {
-    "study": "soep-is",
+  {
     "name": "prhbilj1",
-    "name_cs": "prhbilj1",
-    "variable": "prhbilj1",
     "dataset": "inno_h",
     "label": "Relationship Income vs. Expenditures (last year)",
     "categories": {
-      "frequencies": [
-        1591,
-        13,
-        945,
-        592,
-        104
+      "values": [
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
         "Income on a level with expenditures",
         "Income was higher than expenditures",
         "Expenditures were higher than income"
       ],
+      "labels_de": [
+        "Einnahmen und Ausgaben waren gleich hoch",
+        "Einnahmen waren höher als die Ausgaben",
+        "Ausgaben waren höher als die Einnahmen"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Einnahmen und Ausgaben waren gleich hoch",
-        "2",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1641",
-        "1604"
+      "frequencies": [
+        945,
+        592,
+        104
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Verhältnis Einnahmen zu Ausgaben (letztes Jahr)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1641,
+      "invalid": 1604
+    }
   },
-  "prhbilj1a": {
-    "study": "soep-is",
+  {
     "name": "prhbilj1a",
-    "name_cs": "prhbilj1a",
-    "variable": "prhbilj1a",
     "dataset": "inno_h",
     "label": "Amount of Savings (last year)",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Höhe der Ersparnisse (letztes Jahr)",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "45",
-        "1800",
-        "3500",
-        "6062.83266129032",
-        "6000",
-        "1e+05",
-        "2749",
-        "496",
-        "2749"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
+      "Min.": 45.0,
+      "1st Qu.": 1800.0,
+      "Median": 3500.0,
+      "Mean": 6062.832661290323,
+      "3rd Qu.": 6000.0,
+      "Max.": 100000.0,
+      "valid": 496,
+      "invalid": 2749
+    }
   },
-  "prhbilj1awn": {
-    "study": "soep-is",
+  {
     "name": "prhbilj1awn",
-    "name_cs": "prhbilj1awn",
-    "variable": "prhbilj1awn",
     "dataset": "inno_h",
     "label": "Amount of Savings Do not know (last year)",
     "categories": {
-      "frequencies": [
-        3151,
-        59,
-        35
+      "values": [
+        1
       ],
       "labels": [
-        "-2",
-        "-1",
         "Do not know"
       ],
+      "labels_de": [
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
-        false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "35",
-        "3210"
+      "frequencies": [
+        35
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Höhe der Ersparnisse Weiß nicht (letztes Jahr)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 35,
+      "invalid": 3210
+    }
   },
-  "prhbilj1b": {
-    "study": "soep-is",
+  {
     "name": "prhbilj1b",
-    "name_cs": "prhbilj1b",
-    "variable": "prhbilj1b",
     "dataset": "inno_h",
     "label": "Amount of Deficit (last year)",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Höhe der Fehlbetrag (letztes Jahr)",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "100",
-        "1000",
-        "2500",
-        "9167.25806451613",
-        "8000",
-        "120000",
-        "3152",
-        "93",
-        "3152"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
+      "Min.": 100.0,
+      "1st Qu.": 1000.0,
+      "Median": 2500.0,
+      "Mean": 9167.258064516129,
+      "3rd Qu.": 8000.0,
+      "Max.": 120000.0,
+      "valid": 93,
+      "invalid": 3152
+    }
   },
-  "prhbilj1bwn": {
-    "study": "soep-is",
+  {
     "name": "prhbilj1bwn",
-    "name_cs": "prhbilj1bwn",
-    "variable": "prhbilj1bwn",
     "dataset": "inno_h",
     "label": "Amount of Deficit Do not know (last year)",
     "categories": {
-      "frequencies": [
-        3234,
-        2,
-        9
+      "values": [
+        1
       ],
       "labels": [
-        "-2",
-        "-1",
         "Do not know"
+      ],
+      "labels_de": [
+        "Weiß nicht"
+      ],
+      "missings": [
+        false
+      ],
+      "frequencies": [
+        9
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Höhe der Fehlbetrag Weiß nicht (letztes Jahr)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 9,
+      "invalid": 3236
+    }
+  },
+  {
+    "name": "prhbilj1c",
+    "dataset": "inno_h",
+    "label": "Deficit covered by Going into Dept or by Savings (last year)",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "Went into debt",
+        "Used savings",
+        "Both",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Aufnahme von Schulden",
+        "Verbrauch Ersparnisse",
+        "Beides",
+        "Weiß nicht"
       ],
       "missings": [
         false,
         false,
+        false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilj1c": {
-    "study": "soep-is",
-    "name": "prhbilj1c",
-    "name_cs": "prhbilj1c",
-    "variable": "prhbilj1c",
-    "dataset": "inno_h",
-    "label": "Deficit covered by Going into Dept or by Savings (last year)",
-    "categories": {
       "frequencies": [
-        3141,
-        1,
         34,
         62,
         6,
         1
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Went into debt",
-        "Used savings",
-        "Both",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Aufnahme von Schulden",
-        "Verbrauch Ersparnisse",
-        "Beides",
-        "4"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "103",
-        "3142"
       ]
     },
     "scale": "cat",
-    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letztes Jahr)"
+    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letztes Jahr)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 103,
+      "invalid": 3142
+    }
   },
-  "prhbilm1": {
-    "study": "soep-is",
+  {
     "name": "prhbilm1",
-    "name_cs": "prhbilm1",
-    "variable": "prhbilm1",
     "dataset": "inno_h",
     "label": "Relationship Income vs. Expenditures (last month)",
     "categories": {
-      "frequencies": [
-        1591,
-        14,
-        1021,
-        495,
-        124
+      "values": [
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
         "Income on a level with expenditures",
         "Income was higher than expenditures",
         "Expenditures were higher than income"
       ],
+      "labels_de": [
+        "Einnahmen und Ausgaben waren gleich hoch",
+        "Einnahmen waren höher als die Ausgaben",
+        "Ausgaben waren höher als die Einnahmen"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Einnahmen und Ausgaben waren gleich hoch",
-        "2",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1640",
-        "1605"
+      "frequencies": [
+        1021,
+        495,
+        124
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Verhältnis Einnahmen zu Ausgaben (letzter Monat)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1640,
+      "invalid": 1605
+    }
   },
-  "prhbilm1a": {
-    "study": "soep-is",
+  {
     "name": "prhbilm1a",
-    "name_cs": "prhbilm1a",
-    "variable": "prhbilm1a",
     "dataset": "inno_h",
     "label": "Amount of Savings (last month)",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Höhe der Ersparnisse (letzter Monat)",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "25",
-        "200",
-        "400",
-        "774.216400911162",
-        "727.5",
-        "20000",
-        "2806",
-        "439",
-        "2806"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
+      "Min.": 25.0,
+      "1st Qu.": 200.0,
+      "Median": 400.0,
+      "Mean": 774.2164009111617,
+      "3rd Qu.": 727.5,
+      "Max.": 20000.0,
+      "valid": 439,
+      "invalid": 2806
+    }
   },
-  "prhbilm1awn": {
-    "study": "soep-is",
+  {
     "name": "prhbilm1awn",
-    "name_cs": "prhbilm1awn",
-    "variable": "prhbilm1awn",
     "dataset": "inno_h",
     "label": "Amount of Savings Do not know (last month)",
     "categories": {
-      "frequencies": [
-        3189,
-        36,
-        20
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
       "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "20",
-        "3225"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm1b": {
-    "study": "soep-is",
-    "name": "prhbilm1b",
-    "name_cs": "prhbilm1b",
-    "variable": "prhbilm1b",
-    "dataset": "inno_h",
-    "label": "Amount of Deficit (last month)",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "50",
-        "220",
-        "500",
-        "1508.27433628319",
-        "1000",
-        "40000",
-        "3132",
-        "113",
-        "3132"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilm1bwn": {
-    "study": "soep-is",
-    "name": "prhbilm1bwn",
-    "name_cs": "prhbilm1bwn",
-    "variable": "prhbilm1bwn",
-    "dataset": "inno_h",
-    "label": "Amount of Deficit Do not know (last month)",
-    "categories": {
-      "frequencies": [
-        3234,
-        1,
-        10
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "3235"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm1c": {
-    "study": "soep-is",
-    "name": "prhbilm1c",
-    "name_cs": "prhbilm1c",
-    "variable": "prhbilm1c",
-    "dataset": "inno_h",
-    "label": "Deficit covered by Going into Dept or by Savings (last month)",
-    "categories": {
-      "frequencies": [
-        3121,
-        2,
-        23,
-        92,
-        6,
         1
       ],
       "labels": [
-        "-2",
-        "-1",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Weiß nicht"
+      ],
+      "missings": [
+        false
+      ],
+      "frequencies": [
+        20
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Höhe der Ersparnisse Weiß nicht (letzter Monat)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 20,
+      "invalid": 3225
+    }
+  },
+  {
+    "name": "prhbilm1b",
+    "dataset": "inno_h",
+    "label": "Amount of Deficit (last month)",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Höhe der Fehlbetrag (letzter Monat)",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 50.0,
+      "1st Qu.": 220.0,
+      "Median": 500.0,
+      "Mean": 1508.274336283186,
+      "3rd Qu.": 1000.0,
+      "Max.": 40000.0,
+      "valid": 113,
+      "invalid": 3132
+    }
+  },
+  {
+    "name": "prhbilm1bwn",
+    "dataset": "inno_h",
+    "label": "Amount of Deficit Do not know (last month)",
+    "categories": {
+      "values": [
+        1
+      ],
+      "labels": [
+        "Do not know"
+      ],
+      "labels_de": [
+        "Weiß nicht"
+      ],
+      "missings": [
+        false
+      ],
+      "frequencies": [
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Höhe der Fehlbetrag Weiß nicht (letzter Monat)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 10,
+      "invalid": 3235
+    }
+  },
+  {
+    "name": "prhbilm1c",
+    "dataset": "inno_h",
+    "label": "Deficit covered by Going into Dept or by Savings (last month)",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
         "Went into debt",
         "Used savings",
         "Both",
         "Do not know"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
       "labels_de": [
-        "-2",
-        "-1",
         "Aufnahme von Schulden",
         "Verbrauch Ersparnisse",
         "Beides",
-        "4"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
+        "Weiß nicht"
       ],
-      "values": [
-        "122",
-        "3123"
+      "missings": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        23,
+        92,
+        6,
+        1
       ]
     },
     "scale": "cat",
-    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letzter Monat)"
+    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letzter Monat)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 122,
+      "invalid": 3123
+    }
   },
-  "prhbilj2": {
-    "study": "soep-is",
+  {
     "name": "prhbilj2",
-    "name_cs": "prhbilj2",
-    "variable": "prhbilj2",
     "dataset": "inno_h",
     "label": "Assets Used or Sold to Cover Deficit (last year)",
     "categories": {
-      "frequencies": [
-        1656,
-        7,
-        145,
-        1437
+      "values": [
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "-1",
         "Yes",
         "No"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1582",
-        "1663"
+      "frequencies": [
+        145,
+        1437
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Vermögensbestände verbraucht oder aufgelöst um Fehlbertrag zu decken (letztes Ja",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1582,
+      "invalid": 1663
+    }
   },
-  "prhbilj2a": {
-    "study": "soep-is",
+  {
     "name": "prhbilj2a",
-    "name_cs": "prhbilj2a",
-    "variable": "prhbilj2a",
     "dataset": "inno_h",
     "label": "Amount of Assets Used or Sold (last year)",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Höhe der Vermögensbestände (letztes Jahr)",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200",
-        "2000",
-        "5000",
-        "10015.731884058",
-        "12750",
-        "1e+05",
-        "3107",
-        "138",
-        "3107"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
+      "Min.": 200.0,
+      "1st Qu.": 2000.0,
+      "Median": 5000.0,
+      "Mean": 10015.731884057972,
+      "3rd Qu.": 12750.0,
+      "Max.": 100000.0,
+      "valid": 138,
+      "invalid": 3107
+    }
   },
-  "prhbilm2": {
-    "study": "soep-is",
+  {
     "name": "prhbilm2",
-    "name_cs": "prhbilm2",
-    "variable": "prhbilm2",
     "dataset": "inno_h",
     "label": "Assets Used or Sold to Cover Deficit (last month)",
     "categories": {
-      "frequencies": [
-        1656,
-        6,
-        49,
-        1534
+      "values": [
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "-1",
         "Yes",
         "No"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1583",
-        "1662"
+      "frequencies": [
+        49,
+        1534
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Vermögensbestände verbraucht oder aufgelöst um Fehlbertrag zu decken (letzter Mo",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 1583,
+      "invalid": 1662
+    }
   },
-  "prhbilm2a": {
-    "study": "soep-is",
+  {
     "name": "prhbilm2a",
-    "name_cs": "prhbilm2a",
-    "variable": "prhbilm2a",
     "dataset": "inno_h",
     "label": "Amount of Assets Used or Sold (last month)",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
+    "scale": "number",
+    "label_de": "Höhe der Vermögensbestände (letzter Monat)",
+    "study": "soep-core",
     "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200",
-        "500",
-        "1100",
-        "3971.35416666667",
-        "4625",
-        "30000",
-        "3197",
-        "48",
-        "3197"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
+      "Min.": 200.0,
+      "1st Qu.": 500.0,
+      "Median": 1100.0,
+      "Mean": 3971.3541666666665,
+      "3rd Qu.": 4625.0,
+      "Max.": 30000.0,
+      "valid": 48,
+      "invalid": 3197
+    }
   },
-  "prhpfandl": {
-    "study": "soep-is",
+  {
     "name": "prhpfandl",
-    "name_cs": "prhpfandl",
-    "variable": "prhpfandl",
     "dataset": "inno_h",
     "label": "Pawnshop used (last year)",
     "categories": {
-      "frequencies": [
-        2,
-        3,
-        15,
-        3225
+      "values": [
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "-1",
         "Yes",
         "No"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3240",
-        "5"
+      "frequencies": [
+        15,
+        3225
       ]
     },
     "scale": "cat",
-    "label_de": "Pfandleihhaus genutzt (letztes Jahr)"
+    "label_de": "Pfandleihhaus genutzt (letztes Jahr)",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3240,
+      "invalid": 5
+    }
   },
-  "im_os": {
-    "study": "soep-is",
+  {
     "name": "im_os",
-    "name_cs": "im_os",
-    "variable": "im_os",
     "dataset": "inno_h",
     "label": "Innovative Module: Outsourcing",
     "categories": {
-      "frequencies": [
+      "values": [
         0,
-        3245
+        1
       ],
       "labels": [
         "[0] Does Not Apply",
         "[1] Does Apply"
       ],
-      "missings": [
-        false,
-        false
-      ],
-      "values": [
-        "0",
-        "1"
-      ],
       "labels_de": [
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "3245",
-        "0"
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3245
       ]
     },
     "scale": "cat",
-    "label_de": "Innovatives Modul: Outsourcing"
+    "label_de": "Innovatives Modul: Outsourcing",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3245,
+      "invalid": 0
+    }
   },
-  "ossplit": {
-    "study": "soep-is",
+  {
     "name": "ossplit",
-    "name_cs": "ossplit",
-    "variable": "ossplit",
     "dataset": "inno_h",
     "label": "Outsourcing Split",
     "categories": {
-      "frequencies": [
-        2,
-        1655,
-        1588
-      ],
-      "labels": [
-        "-2",
-        "Split 1",
-        "Split 2"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
       "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Split 1",
-        "Split 2"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Outsourcing Split"
-  },
-  "oshhilf1": {
-    "study": "soep-is",
-    "name": "oshhilf1",
-    "name_cs": "oshhilf1",
-    "variable": "oshhilf1",
-    "dataset": "inno_h",
-    "label": "Household Help Last 3 Months",
-    "categories": {
-      "frequencies": [
-        2,
-        3,
-        245,
-        2967,
-        28
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3240",
-        "5"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe letzten 3 Monate"
-  },
-  "oshhilf2": {
-    "study": "soep-is",
-    "name": "oshhilf2",
-    "name_cs": "oshhilf2",
-    "variable": "oshhilf2",
-    "dataset": "inno_h",
-    "label": "Household Help Lives In Household",
-    "categories": {
-      "frequencies": [
-        3000,
         1,
-        8,
-        236,
-        0
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe lebt im HH"
-  },
-  "oshhilf3": {
-    "study": "soep-is",
-    "name": "oshhilf3",
-    "name_cs": "oshhilf3",
-    "variable": "oshhilf3",
-    "dataset": "inno_h",
-    "label": "Household Help Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "6",
-        "8",
-        "11.3512396694215",
-        "12",
-        "75",
-        "3003",
-        "242",
-        "3003"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltshilfe Stunden/Monat"
-  },
-  "oshhilf4": {
-    "study": "soep-is",
-    "name": "oshhilf4",
-    "name_cs": "oshhilf4",
-    "variable": "oshhilf4",
-    "dataset": "inno_h",
-    "label": "Household Help Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oshhilf5": {
-    "study": "soep-is",
-    "name": "oshhilf5",
-    "name_cs": "oshhilf5",
-    "variable": "oshhilf5",
-    "dataset": "inno_h",
-    "label": "Household Help Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "72",
-        "120",
-        "150.290748898678",
-        "180",
-        "2000",
-        "3018",
-        "227",
-        "3018"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltshilfe Kosten/Monat"
-  },
-  "oshhilf6": {
-    "study": "soep-is",
-    "name": "oshhilf6",
-    "name_cs": "oshhilf6",
-    "variable": "oshhilf6",
-    "dataset": "inno_h",
-    "label": "Household Help Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oshhilf7": {
-    "study": "soep-is",
-    "name": "oshhilf7",
-    "name_cs": "oshhilf7",
-    "variable": "oshhilf7",
-    "dataset": "inno_h",
-    "label": "Household Help Gender",
-    "categories": {
-      "frequencies": [
-        3000,
-        1,
-        15,
-        228,
-        1
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Male",
-        "Female",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe Geschlecht"
-  },
-  "oshhilf8": {
-    "study": "soep-is",
-    "name": "oshhilf8",
-    "name_cs": "oshhilf8",
-    "variable": "oshhilf8",
-    "dataset": "inno_h",
-    "label": "Household Help German Origin",
-    "categories": {
-      "frequencies": [
-        3000,
-        1,
-        142,
-        101,
-        1
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe dt. Herkunft"
-  },
-  "oshhilf9": {
-    "study": "soep-is",
-    "name": "oshhilf9",
-    "name_cs": "oshhilf9",
-    "variable": "oshhilf9",
-    "dataset": "inno_h",
-    "label": "Household Help Through Company/Agency",
-    "categories": {
-      "frequencies": [
-        3000,
-        2,
-        35,
-        203,
-        5
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "243",
-        "3002"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe bei Firma/Agentur"
-  },
-  "oshhilf10a": {
-    "study": "soep-is",
-    "name": "oshhilf10a",
-    "name_cs": "oshhilf10a",
-    "variable": "oshhilf10a",
-    "dataset": "inno_h",
-    "label": "Household Help Numeral House Number",
-    "categories": {
-      "frequencies": [
-        3153,
-        12,
-        41,
-        39
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Same Answers A and B",
-        "Different Answers A and B"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "80",
-        "3165"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe Ziffer Hausnr."
-  },
-  "oshhilf10b": {
-    "study": "soep-is",
-    "name": "oshhilf10b",
-    "name_cs": "oshhilf10b",
-    "variable": "oshhilf10b",
-    "dataset": "inno_h",
-    "label": "Household Help Legal",
-    "categories": {
-      "frequencies": [
-        3134,
-        1,
-        36,
-        69,
-        5
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "110",
-        "3135"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "oskibet1": {
-    "study": "soep-is",
-    "name": "oskibet1",
-    "name_cs": "oskibet1",
-    "variable": "oskibet1",
-    "dataset": "inno_h",
-    "label": "Child Care Last 3 Months",
-    "categories": {
-      "frequencies": [
-        2,
-        21,
-        3206,
-        16
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung letzten 3 Monate"
-  },
-  "oskibet2": {
-    "study": "soep-is",
-    "name": "oskibet2",
-    "name_cs": "oskibet2",
-    "variable": "oskibet2",
-    "dataset": "inno_h",
-    "label": "Child Carer Lives in Household",
-    "categories": {
-      "frequencies": [
-        3224,
-        1,
-        20,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung lebt im HH"
-  },
-  "oskibet3": {
-    "study": "soep-is",
-    "name": "oskibet3",
-    "name_cs": "oskibet3",
-    "variable": "oskibet3",
-    "dataset": "inno_h",
-    "label": "Child Care Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "10",
-        "20",
-        "30.45",
-        "26.25",
-        "120",
-        "3225",
-        "20",
-        "3225"
-      ]
-    },
-    "scale": "",
-    "label_de": "Kinderbetreuung Stunden/Monat"
-  },
-  "oskibet4": {
-    "study": "soep-is",
-    "name": "oskibet4",
-    "name_cs": "oskibet4",
-    "variable": "oskibet4",
-    "dataset": "inno_h",
-    "label": "Child Care Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oskibet5": {
-    "study": "soep-is",
-    "name": "oskibet5",
-    "name_cs": "oskibet5",
-    "variable": "oskibet5",
-    "dataset": "inno_h",
-    "label": "Child Care Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "35",
-        "100",
-        "150",
-        "190.809523809524",
-        "270",
-        "600",
-        "3224",
-        "21",
-        "3224"
-      ]
-    },
-    "scale": "",
-    "label_de": "Kinderbetreuung Kosten/Monat"
-  },
-  "oskibet6": {
-    "study": "soep-is",
-    "name": "oskibet6",
-    "name_cs": "oskibet6",
-    "variable": "oskibet6",
-    "dataset": "inno_h",
-    "label": "Child Care Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oskibet7": {
-    "study": "soep-is",
-    "name": "oskibet7",
-    "name_cs": "oskibet7",
-    "variable": "oskibet7",
-    "dataset": "inno_h",
-    "label": "Child Care Gender",
-    "categories": {
-      "frequencies": [
-        3224,
-        1,
-        20,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Male",
-        "Female",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung Geschlecht"
-  },
-  "oskibet8": {
-    "study": "soep-is",
-    "name": "oskibet8",
-    "name_cs": "oskibet8",
-    "variable": "oskibet8",
-    "dataset": "inno_h",
-    "label": "Child Care German Origin",
-    "categories": {
-      "frequencies": [
-        3224,
-        17,
-        4,
-        0
-      ],
-      "labels": [
-        "-2",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung dt. Herkunft"
-  },
-  "oskibet9": {
-    "study": "soep-is",
-    "name": "oskibet9",
-    "name_cs": "oskibet9",
-    "variable": "oskibet9",
-    "dataset": "inno_h",
-    "label": "Child Care Through Company/Agency",
-    "categories": {
-      "frequencies": [
-        3224,
-        5,
-        16,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung bei Firma/Agentur"
-  },
-  "oskibet10a": {
-    "study": "soep-is",
-    "name": "oskibet10a",
-    "name_cs": "oskibet10a",
-    "variable": "oskibet10a",
-    "dataset": "inno_h",
-    "label": "Child Care Numeral House Number",
-    "categories": {
-      "frequencies": [
-        3236,
-        4,
-        5
-      ],
-      "labels": [
-        "-2",
-        "Same Answers A and B",
-        "Different Answers A and B"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung Ziffer Hausnr."
-  },
-  "oskibet10b": {
-    "study": "soep-is",
-    "name": "oskibet10b",
-    "name_cs": "oskibet10b",
-    "variable": "oskibet10b",
-    "dataset": "inno_h",
-    "label": "Child Care Legal",
-    "categories": {
-      "frequencies": [
-        3238,
-        1,
-        3,
-        3,
-        0
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "osapfleg1": {
-    "study": "soep-is",
-    "name": "osapfleg1",
-    "name_cs": "osapfleg1",
-    "variable": "osapfleg1",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Last 3 Months",
-    "categories": {
-      "frequencies": [
-        2,
-        33,
-        3199,
-        11
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege letzten 3 Monate"
-  },
-  "osapfleg2": {
-    "study": "soep-is",
-    "name": "osapfleg2",
-    "name_cs": "osapfleg2",
-    "variable": "osapfleg2",
-    "dataset": "inno_h",
-    "label": "Caregiver Lives In Household",
-    "categories": {
-      "frequencies": [
-        3212,
-        9,
-        24,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege lebt im HH"
-  },
-  "osapfleg3": {
-    "study": "soep-is",
-    "name": "osapfleg3",
-    "name_cs": "osapfleg3",
-    "variable": "osapfleg3",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "15",
-        "20",
-        "49.6521739130435",
-        "55",
-        "210",
-        "3222",
-        "23",
-        "3222"
-      ]
-    },
-    "scale": "",
-    "label_de": "Altenpflege Stunden/Monat"
-  },
-  "osapfleg4": {
-    "study": "soep-is",
-    "name": "osapfleg4",
-    "name_cs": "osapfleg4",
-    "variable": "osapfleg4",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osapfleg5": {
-    "study": "soep-is",
-    "name": "osapfleg5",
-    "name_cs": "osapfleg5",
-    "variable": "osapfleg5",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "200",
-        "245",
-        "500.941176470588",
-        "500",
-        "2000",
-        "3228",
-        "17",
-        "3228"
-      ]
-    },
-    "scale": "",
-    "label_de": "Altenpflege Kosten/Monat"
-  },
-  "osapfleg6": {
-    "study": "soep-is",
-    "name": "osapfleg6",
-    "name_cs": "osapfleg6",
-    "variable": "osapfleg6",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3236",
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osapfleg7": {
-    "study": "soep-is",
-    "name": "osapfleg7",
-    "name_cs": "osapfleg7",
-    "variable": "osapfleg7",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Gender",
-    "categories": {
-      "frequencies": [
-        3212,
-        3,
-        30,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Male",
-        "Female",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege Geschlecht"
-  },
-  "osapfleg8": {
-    "study": "soep-is",
-    "name": "osapfleg8",
-    "name_cs": "osapfleg8",
-    "variable": "osapfleg8",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly German Origin",
-    "categories": {
-      "frequencies": [
-        3212,
-        24,
-        8,
-        1
-      ],
-      "labels": [
-        "-2",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege dt. Herkunft"
-  },
-  "osapfleg9": {
-    "study": "soep-is",
-    "name": "osapfleg9",
-    "name_cs": "osapfleg9",
-    "variable": "osapfleg9",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Through Company/Agency",
-    "categories": {
-      "frequencies": [
-        3212,
-        21,
-        9,
-        3
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege bei Firma/Agentur"
-  },
-  "osapfleg10a": {
-    "study": "soep-is",
-    "name": "osapfleg10a",
-    "name_cs": "osapfleg10a",
-    "variable": "osapfleg10a",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Numeral House Number",
-    "categories": {
-      "frequencies": [
-        3241,
-        2,
-        0,
         2
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Same Answers A and B",
-        "Different Answers A and B"
+        "Split 1",
+        "Split 2"
+      ],
+      "labels_de": [
+        "Split 1",
+        "Split 2"
       ],
       "missings": [
         false,
-        false,
-        false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "3243"
+      "frequencies": [
+        1655,
+        1588
       ]
     },
     "scale": "cat",
-    "label_de": "Altenpflege Ziffer Hausnr."
+    "label_de": "Outsourcing Split",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 2
+    }
   },
-  "osapfleg10b": {
-    "study": "soep-is",
-    "name": "osapfleg10b",
-    "name_cs": "osapfleg10b",
-    "variable": "osapfleg10b",
+  {
+    "name": "oshhilf1",
     "dataset": "inno_h",
-    "label": "Care of the Elderly Legal",
+    "label": "Household Help Last 3 Months",
     "categories": {
-      "frequencies": [
-        3240,
+      "values": [
         1,
-        3,
-        1
+        2,
+        3
       ],
       "labels": [
-        "-2",
         "Yes",
         "No",
         "Do not know"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "3240"
+      "frequencies": [
+        245,
+        2967,
+        28
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Haushaltshilfe letzten 3 Monate",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3240,
+      "invalid": 5
+    }
   },
-  "osgarta1": {
-    "study": "soep-is",
-    "name": "osgarta1",
-    "name_cs": "osgarta1",
-    "variable": "osgarta1",
+  {
+    "name": "oshhilf2",
     "dataset": "inno_h",
-    "label": "Maintenance/Gardening Last 3 Months",
+    "label": "Household Help Lives In Household",
     "categories": {
-      "frequencies": [
-        2,
+      "values": [
         1,
-        94,
-        3136,
-        12
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3242",
-        "3"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Gartenarbeit letzten 3 Monate"
-  },
-  "osgarta2": {
-    "study": "soep-is",
-    "name": "osgarta2",
-    "name_cs": "osgarta2",
-    "variable": "osgarta2",
-    "dataset": "inno_h",
-    "label": "Gardener Lives In Household",
-    "categories": {
-      "frequencies": [
-        3151,
         2,
-        91,
-        1
+        3
       ],
       "labels": [
-        "-2",
         "Yes",
         "No",
         "Do not know"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Gartenarbeit lebt im HH"
-  },
-  "osgarta3": {
-    "study": "soep-is",
-    "name": "osgarta3",
-    "name_cs": "osgarta3",
-    "variable": "osgarta3",
-    "dataset": "inno_h",
-    "label": "Maintenance/Gardening Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "2",
-        "3",
-        "6.56578947368421",
-        "8",
-        "46",
-        "3169",
-        "76",
-        "3169"
-      ]
-    },
-    "scale": "",
-    "label_de": "Gartenarbeit Stunden/Monat"
-  },
-  "osgarta4": {
-    "study": "soep-is",
-    "name": "osgarta4",
-    "name_cs": "osgarta4",
-    "variable": "osgarta4",
-    "dataset": "inno_h",
-    "label": "Maintenance/Gardening Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3235",
-        "10",
-        "3235"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osgarta5": {
-    "study": "soep-is",
-    "name": "osgarta5",
-    "name_cs": "osgarta5",
-    "variable": "osgarta5",
-    "dataset": "inno_h",
-    "label": "Maintenance/Gardeningy Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "25",
-        "50",
-        "114.379746835443",
-        "120",
-        "1000",
-        "3166",
-        "79",
-        "3166"
-      ]
-    },
-    "scale": "",
-    "label_de": "Gartenarbeit Kosten/Monat"
-  },
-  "osgarta6": {
-    "study": "soep-is",
-    "name": "osgarta6",
-    "name_cs": "osgarta6",
-    "variable": "osgarta6",
-    "dataset": "inno_h",
-    "label": "Maintenance/Gardeningy Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osgarta7": {
-    "study": "soep-is",
-    "name": "osgarta7",
-    "name_cs": "osgarta7",
-    "variable": "osgarta7",
-    "dataset": "inno_h",
-    "label": "Maintenance/Gardening Gender",
-    "categories": {
       "frequencies": [
-        3151,
-        89,
-        5,
+        8,
+        236,
         0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe lebt im HH",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3001
+    }
+  },
+  {
+    "name": "oshhilf3",
+    "dataset": "inno_h",
+    "label": "Household Help Hours/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Stunden/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 6.0,
+      "Median": 8.0,
+      "Mean": 11.351239669421487,
+      "3rd Qu.": 12.0,
+      "Max.": 75.0,
+      "valid": 242,
+      "invalid": 3003
+    }
+  },
+  {
+    "name": "oshhilf4",
+    "dataset": "inno_h",
+    "label": "Household Help Hours/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Stunden/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 3245
+    }
+  },
+  {
+    "name": "oshhilf5",
+    "dataset": "inno_h",
+    "label": "Household Help Expsenses/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Kosten/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 8.0,
+      "1st Qu.": 72.0,
+      "Median": 120.0,
+      "Mean": 150.2907488986784,
+      "3rd Qu.": 180.0,
+      "Max.": 2000.0,
+      "valid": 227,
+      "invalid": 3018
+    }
+  },
+  {
+    "name": "oshhilf6",
+    "dataset": "inno_h",
+    "label": "Household Help Expsenses/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Kosten/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.0,
+      "3rd Qu.": 1.0,
+      "Max.": 1.0,
+      "valid": 6,
+      "invalid": 3239
+    }
+  },
+  {
+    "name": "oshhilf7",
+    "dataset": "inno_h",
+    "label": "Household Help Gender",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
         "Male",
         "Female",
         "Do not know"
       ],
+      "labels_de": [
+        "Männlich",
+        "Weiblich",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
+      "frequencies": [
+        15,
+        228,
+        1
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit Geschlecht"
+    "label_de": "Haushaltshilfe Geschlecht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3001
+    }
   },
-  "osgarta8": {
-    "study": "soep-is",
-    "name": "osgarta8",
-    "name_cs": "osgarta8",
-    "variable": "osgarta8",
+  {
+    "name": "oshhilf8",
     "dataset": "inno_h",
-    "label": "Maintenance/Gardening German Origin",
+    "label": "Household Help German Origin",
     "categories": {
-      "frequencies": [
-        3151,
+      "values": [
         1,
-        79,
-        11,
+        2,
         3
       ],
       "labels": [
-        "-2",
-        "-1",
         "German",
         "Not German",
         "Do not know"
       ],
+      "labels_de": [
+        "Deutsch",
+        "Nicht Deutsch",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "93",
-        "3152"
+      "frequencies": [
+        142,
+        101,
+        1
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit dt. Herkunft"
+    "label_de": "Haushaltshilfe dt. Herkunft",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3001
+    }
   },
-  "osgarta9": {
-    "study": "soep-is",
-    "name": "osgarta9",
-    "name_cs": "osgarta9",
-    "variable": "osgarta9",
+  {
+    "name": "oshhilf9",
     "dataset": "inno_h",
-    "label": "Maintenance/Gardening Through Company/Agency",
+    "label": "Household Help Through Company/Agency",
     "categories": {
-      "frequencies": [
-        3151,
-        41,
-        53,
-        0
+      "values": [
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
         "Yes",
         "No",
         "Do not know"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
+      "frequencies": [
+        35,
+        203,
+        5
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit bei Firma/Agentur"
+    "label_de": "Haushaltshilfe bei Firma/Agentur",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 243,
+      "invalid": 3002
+    }
   },
-  "osgarta10a": {
-    "study": "soep-is",
-    "name": "osgarta10a",
-    "name_cs": "osgarta10a",
-    "variable": "osgarta10a",
+  {
+    "name": "oshhilf10a",
     "dataset": "inno_h",
-    "label": "Maintenance/Gardening Numeral House Number",
+    "label": "Household Help Numeral House Number",
     "categories": {
-      "frequencies": [
-        3212,
-        3,
-        20,
-        10
+      "values": [
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "-1",
         "Same Answers A and B",
         "Different Answers A and B"
       ],
+      "labels_de": [
+        "Gleiche Antworten bei A und B",
+        "Unterschiedliche Antworten bei A und B"
+      ],
       "missings": [
-        false,
-        false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "30",
-        "3215"
+      "frequencies": [
+        41,
+        39
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit Ziffer Hausnr."
+    "label_de": "Haushaltshilfe Ziffer Hausnr.",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 80,
+      "invalid": 3165
+    }
   },
-  "osgarta10b": {
-    "study": "soep-is",
-    "name": "osgarta10b",
-    "name_cs": "osgarta10b",
-    "variable": "osgarta10b",
+  {
+    "name": "oshhilf10b",
     "dataset": "inno_h",
-    "label": "Maintenance/Gardening Legal",
+    "label": "Household Help Legal",
     "categories": {
-      "frequencies": [
-        3225,
-        5,
-        15,
-        0
+      "values": [
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
         "Yes",
         "No",
         "Do not know"
       ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
       "missings": [
-        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "20",
-        "3225"
+      "frequencies": [
+        36,
+        69,
+        5
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Haushaltshilfe offiziell beschäftigt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 110,
+      "invalid": 3135
+    }
+  },
+  {
+    "name": "oskibet1",
+    "dataset": "inno_h",
+    "label": "Child Care Last 3 Months",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        21,
+        3206,
+        16
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung letzten 3 Monate",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 2
+    }
+  },
+  {
+    "name": "oskibet2",
+    "dataset": "inno_h",
+    "label": "Child Carer Lives in Household",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        1,
+        20,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung lebt im HH",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 21,
+      "invalid": 3224
+    }
+  },
+  {
+    "name": "oskibet3",
+    "dataset": "inno_h",
+    "label": "Child Care Hours/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Kinderbetreuung Stunden/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 2.0,
+      "1st Qu.": 10.0,
+      "Median": 20.0,
+      "Mean": 30.45,
+      "3rd Qu.": 26.25,
+      "Max.": 120.0,
+      "valid": 20,
+      "invalid": 3225
+    }
+  },
+  {
+    "name": "oskibet4",
+    "dataset": "inno_h",
+    "label": "Child Care Hours/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Kinderbetreuung Stunden/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 3245
+    }
+  },
+  {
+    "name": "oskibet5",
+    "dataset": "inno_h",
+    "label": "Child Care Expsenses/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Kinderbetreuung Kosten/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 35.0,
+      "1st Qu.": 100.0,
+      "Median": 150.0,
+      "Mean": 190.8095238095238,
+      "3rd Qu.": 270.0,
+      "Max.": 600.0,
+      "valid": 21,
+      "invalid": 3224
+    }
+  },
+  {
+    "name": "oskibet6",
+    "dataset": "inno_h",
+    "label": "Child Care Expsenses/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Kinderbetreuung Kosten/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 3245
+    }
+  },
+  {
+    "name": "oskibet7",
+    "dataset": "inno_h",
+    "label": "Child Care Gender",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Male",
+        "Female",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Männlich",
+        "Weiblich",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        1,
+        20,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung Geschlecht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 21,
+      "invalid": 3224
+    }
+  },
+  {
+    "name": "oskibet8",
+    "dataset": "inno_h",
+    "label": "Child Care German Origin",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "German",
+        "Not German",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Deutsch",
+        "Nicht Deutsch",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        17,
+        4,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung dt. Herkunft",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 21,
+      "invalid": 3224
+    }
+  },
+  {
+    "name": "oskibet9",
+    "dataset": "inno_h",
+    "label": "Child Care Through Company/Agency",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        5,
+        16,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung bei Firma/Agentur",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 21,
+      "invalid": 3224
+    }
+  },
+  {
+    "name": "oskibet10a",
+    "dataset": "inno_h",
+    "label": "Child Care Numeral House Number",
+    "categories": {
+      "values": [
+        1,
+        2
+      ],
+      "labels": [
+        "Same Answers A and B",
+        "Different Answers A and B"
+      ],
+      "labels_de": [
+        "Gleiche Antworten bei A und B",
+        "Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        4,
+        5
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung Ziffer Hausnr.",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 9,
+      "invalid": 3236
+    }
+  },
+  {
+    "name": "oskibet10b",
+    "dataset": "inno_h",
+    "label": "Child Care Legal",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        3,
+        3,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung offiziell beschäftigt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 6,
+      "invalid": 3239
+    }
+  },
+  {
+    "name": "osapfleg1",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Last 3 Months",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        33,
+        3199,
+        11
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege letzten 3 Monate",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 2
+    }
+  },
+  {
+    "name": "osapfleg2",
+    "dataset": "inno_h",
+    "label": "Caregiver Lives In Household",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        9,
+        24,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege lebt im HH",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 33,
+      "invalid": 3212
+    }
+  },
+  {
+    "name": "osapfleg3",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Hours/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Stunden/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 2.0,
+      "1st Qu.": 15.0,
+      "Median": 20.0,
+      "Mean": 49.65217391304348,
+      "3rd Qu.": 55.0,
+      "Max.": 210.0,
+      "valid": 23,
+      "invalid": 3222
+    }
+  },
+  {
+    "name": "osapfleg4",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Hours/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Stunden/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.0,
+      "3rd Qu.": 1.0,
+      "Max.": 1.0,
+      "valid": 6,
+      "invalid": 3239
+    }
+  },
+  {
+    "name": "osapfleg5",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Expsenses/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Kosten/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 6.0,
+      "1st Qu.": 200.0,
+      "Median": 245.0,
+      "Mean": 500.94117647058823,
+      "3rd Qu.": 500.0,
+      "Max.": 2000.0,
+      "valid": 17,
+      "invalid": 3228
+    }
+  },
+  {
+    "name": "osapfleg6",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Expsenses/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Kosten/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.0,
+      "3rd Qu.": 1.0,
+      "Max.": 1.0,
+      "valid": 9,
+      "invalid": 3236
+    }
+  },
+  {
+    "name": "osapfleg7",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Gender",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Male",
+        "Female",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Männlich",
+        "Weiblich",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        3,
+        30,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege Geschlecht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 33,
+      "invalid": 3212
+    }
+  },
+  {
+    "name": "osapfleg8",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly German Origin",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "German",
+        "Not German",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Deutsch",
+        "Nicht Deutsch",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        24,
+        8,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege dt. Herkunft",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 33,
+      "invalid": 3212
+    }
+  },
+  {
+    "name": "osapfleg9",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Through Company/Agency",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        21,
+        9,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege bei Firma/Agentur",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 33,
+      "invalid": 3212
+    }
+  },
+  {
+    "name": "osapfleg10a",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Numeral House Number",
+    "categories": {
+      "values": [
+        1,
+        2
+      ],
+      "labels": [
+        "Same Answers A and B",
+        "Different Answers A and B"
+      ],
+      "labels_de": [
+        "Gleiche Antworten bei A und B",
+        "Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege Ziffer Hausnr.",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 2,
+      "invalid": 3243
+    }
+  },
+  {
+    "name": "osapfleg10b",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Legal",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        1,
+        3,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege offiziell beschäftigt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 5,
+      "invalid": 3240
+    }
+  },
+  {
+    "name": "osgarta1",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Last 3 Months",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        94,
+        3136,
+        12
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit letzten 3 Monate",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 3242,
+      "invalid": 3
+    }
+  },
+  {
+    "name": "osgarta2",
+    "dataset": "inno_h",
+    "label": "Gardener Lives In Household",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2,
+        91,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit lebt im HH",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 94,
+      "invalid": 3151
+    }
+  },
+  {
+    "name": "osgarta3",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Hours/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Gartenarbeit Stunden/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 2.0,
+      "Median": 3.0,
+      "Mean": 6.565789473684211,
+      "3rd Qu.": 8.0,
+      "Max.": 46.0,
+      "valid": 76,
+      "invalid": 3169
+    }
+  },
+  {
+    "name": "osgarta4",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Hours/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Gartenarbeit Stunden/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.0,
+      "3rd Qu.": 1.0,
+      "Max.": 1.0,
+      "valid": 10,
+      "invalid": 3235
+    }
+  },
+  {
+    "name": "osgarta5",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardeningy Expsenses/Month",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Gartenarbeit Kosten/Monat",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 5.0,
+      "1st Qu.": 25.0,
+      "Median": 50.0,
+      "Mean": 114.37974683544304,
+      "3rd Qu.": 120.0,
+      "Max.": 1000.0,
+      "valid": 79,
+      "invalid": 3166
+    }
+  },
+  {
+    "name": "osgarta6",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardeningy Expsenses/Month Do not know",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Gartenarbeit Kosten/Monat Weiß nicht",
+    "study": "soep-core",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.0,
+      "3rd Qu.": 1.0,
+      "Max.": 1.0,
+      "valid": 6,
+      "invalid": 3239
+    }
+  },
+  {
+    "name": "osgarta7",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Gender",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Male",
+        "Female",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Männlich",
+        "Weiblich",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        89,
+        5,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit Geschlecht",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 94,
+      "invalid": 3151
+    }
+  },
+  {
+    "name": "osgarta8",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening German Origin",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "German",
+        "Not German",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Deutsch",
+        "Nicht Deutsch",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        79,
+        11,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit dt. Herkunft",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 93,
+      "invalid": 3152
+    }
+  },
+  {
+    "name": "osgarta9",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Through Company/Agency",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        41,
+        53,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit bei Firma/Agentur",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 94,
+      "invalid": 3151
+    }
+  },
+  {
+    "name": "osgarta10a",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Numeral House Number",
+    "categories": {
+      "values": [
+        1,
+        2
+      ],
+      "labels": [
+        "Same Answers A and B",
+        "Different Answers A and B"
+      ],
+      "labels_de": [
+        "Gleiche Antworten bei A und B",
+        "Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        20,
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit Ziffer Hausnr.",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 30,
+      "invalid": 3215
+    }
+  },
+  {
+    "name": "osgarta10b",
+    "dataset": "inno_h",
+    "label": "Maintenance/Gardening Legal",
+    "categories": {
+      "values": [
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "Yes",
+        "No",
+        "Do not know"
+      ],
+      "labels_de": [
+        "Ja",
+        "Nein",
+        "Weiß nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        5,
+        15,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit offiziell beschäftigt",
+    "study": "soep-core",
+    "statistics": {
+      "valid": 20,
+      "invalid": 3225
+    }
   }
-}
+]
