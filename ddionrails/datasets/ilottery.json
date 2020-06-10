@@ -1,0 +1,2406 @@
+[
+  {
+    "name": "cid",
+    "dataset": "ilottery",
+    "label": "Case-ID, Original Household Number",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Ursprungshaushaltsnummer",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 921130.0,
+      "1st Qu.": 956562.0,
+      "Median": 4006599.0,
+      "Mean": 2556729.9758551307,
+      "3rd Qu.": 4041840.0,
+      "Max.": 4089702.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "hid",
+    "dataset": "ilottery",
+    "label": "Current Household Number",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Haushaltsnummer",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 901644.0,
+      "1st Qu.": 951919.0,
+      "Median": 4003336.0,
+      "Mean": 2517744.3722334006,
+      "3rd Qu.": 4040894.0,
+      "Max.": 4089702.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pid1",
+    "dataset": "ilottery",
+    "label": "Never Changing Person Id Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Unveraenderliche Personennr. Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 9018703.0,
+      "1st Qu.": 9554602.0,
+      "Median": 40053701.0,
+      "Mean": 25501832.78470825,
+      "3rd Qu.": 40418403.0,
+      "Max.": 40897001.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pid2",
+    "dataset": "ilottery",
+    "label": "Never Changing Person Id Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Unveraenderliche Personennr. Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 9016402.0,
+      "1st Qu.": 9528401.0,
+      "Median": 40034402.0,
+      "Mean": 25242791.18913481,
+      "3rd Qu.": 40408901.0,
+      "Max.": 40897002.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "syear",
+    "dataset": "ilottery",
+    "label": "Survey-Year",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Erhebungsjahr (Survey-Year)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2016.0,
+      "1st Qu.": 2016.0,
+      "Median": 2016.0,
+      "Mean": 2016.0,
+      "3rd Qu.": 2016.0,
+      "Max.": 2016.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_split",
+    "dataset": "ilottery",
+    "label": "Split Secretly or Openly after Decision 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Secretly",
+        "[2] Openly"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Geheim",
+        "[2] Offen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        258,
+        239
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Splitvariable \"Geheim\" oder \"Offen\" nach Entscheidungsblatt 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg1",
+    "dataset": "ilottery",
+    "label": "Decision sheet 1: Decision of Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        90,
+        17,
+        24,
+        19,
+        45,
+        118,
+        29,
+        21,
+        21,
+        16,
+        97
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt1: Entscheidung Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg2",
+    "dataset": "ilottery",
+    "label": "Decision sheet 1: Decision of Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        87,
+        26,
+        34,
+        20,
+        44,
+        105,
+        36,
+        34,
+        21,
+        16,
+        74
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt1: Entscheidung Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg3",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 1 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        118,
+        42,
+        55,
+        36,
+        45,
+        57,
+        23,
+        17,
+        21,
+        12,
+        71
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 1 Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg4",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 2 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        80,
+        57,
+        40,
+        39,
+        49,
+        76,
+        37,
+        20,
+        21,
+        14,
+        64
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 2 Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg5",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 3 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        67,
+        26,
+        58,
+        34,
+        51,
+        66,
+        34,
+        29,
+        30,
+        16,
+        86
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 3 Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg6",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 4 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        94,
+        28,
+        35,
+        47,
+        29,
+        50,
+        32,
+        28,
+        33,
+        36,
+        85
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 4 Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg7",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 1 Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        136,
+        45,
+        43,
+        43,
+        43,
+        59,
+        23,
+        17,
+        16,
+        12,
+        60
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 1 Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg8",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 2 Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        61,
+        48,
+        46,
+        62,
+        41,
+        77,
+        37,
+        25,
+        23,
+        19,
+        58
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 2 Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg9",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 3 Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        59,
+        35,
+        46,
+        38,
+        53,
+        72,
+        47,
+        35,
+        25,
+        21,
+        66
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 3 Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_erg10",
+    "dataset": "ilottery",
+    "label": "Decision sheet 2: Decision scenario 4 Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Game 1",
+        "[2] Game 2",
+        "[3] Game 3",
+        "[4] Game 4",
+        "[5] Game 5",
+        "[6] Game 6",
+        "[7] Game 7",
+        "[8] Game 8",
+        "[9] Game 9",
+        "[10] Game 10",
+        "[11] Game 11"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spiel 1",
+        "[2] Spiel 2",
+        "[3] Spiel 3",
+        "[4] Spiel 4",
+        "[5] Spiel 5",
+        "[6] Spiel 6",
+        "[7] Spiel 7",
+        "[8] Spiel 8",
+        "[9] Spiel 9",
+        "[10] Spiel 10",
+        "[11] Spiel 11"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        89,
+        32,
+        41,
+        46,
+        45,
+        51,
+        27,
+        35,
+        24,
+        24,
+        83
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Entscheidungsblatt 2: Entscheidung Szenario 4 Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_z1",
+    "dataset": "ilottery",
+    "label": "Heads or Tails  Decision sheet 1 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Tails",
+        "[2] Heads"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Zahl",
+        "[2] Kopf"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        233,
+        264
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Zahl/Kopf Entscheidungsblatt 1 Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_euro1",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 1 Player 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 1 fuer Spieler 1",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 5.0,
+      "Median": 10.0,
+      "Mean": 12.175050301810865,
+      "3rd Qu.": 20.0,
+      "Max.": 30.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_z2",
+    "dataset": "ilottery",
+    "label": "Heads or Tails  Decision sheet 1 Player 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Tails",
+        "[2] Heads"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Zahl",
+        "[2] Kopf"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        258,
+        239
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Zahl/Kopf Entscheidungsblatt 1 Spieler 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_z3",
+    "dataset": "ilottery",
+    "label": "Random decision scenario in decision sheet 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Scenario 1",
+        "[2] Scenario 2",
+        "[3] Scenario 3",
+        "[4] Scenario 4"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Szenario 1",
+        "[2] Szenario 2",
+        "[3] Szenario 3",
+        "[4] Szenario 4"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        125,
+        135,
+        125,
+        112
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Szenario bei Entscheidungsblatt 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_z4",
+    "dataset": "ilottery",
+    "label": "Random decision scenarios 1 and 2: Who is Player A?",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Player 1",
+        "[2] Player 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spieler 1",
+        "[2] Spieler 2"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        237,
+        0,
+        131,
+        129
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung fuer Szenarien 1 und 2: Wer ist Spieler A?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 260,
+      "invalid": 237
+    }
+  },
+  {
+    "name": "exp_z5",
+    "dataset": "ilottery",
+    "label": "Heads or Tails  Decision sheet 2: Scenario 1 or 2?",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Tails",
+        "[2] Heads"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Zahl",
+        "[2] Kopf"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        237,
+        0,
+        126,
+        134
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Zahl/Kopf Entscheidungsblatt 2: Szenario 1 oder 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 260,
+      "invalid": 237
+    }
+  },
+  {
+    "name": "exp_euro2",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 2: Scenario 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        372,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 1",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 6.0,
+      "Median": 10.0,
+      "Mean": 11.688,
+      "3rd Qu.": 14.0,
+      "Max.": 30.0,
+      "valid": 125,
+      "invalid": 372
+    }
+  },
+  {
+    "name": "exp_euro3",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 2: Scenario 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        362,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 2",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 6.0,
+      "Median": 10.0,
+      "Mean": 12.162962962962963,
+      "3rd Qu.": 19.0,
+      "Max.": 30.0,
+      "valid": 135,
+      "invalid": 362
+    }
+  },
+  {
+    "name": "exp_z6",
+    "dataset": "ilottery",
+    "label": "Heads or Tails  Decision sheet 2: Scenario 3 or 4?",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Tails",
+        "[2] Heads"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Zahl",
+        "[2] Kopf"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        246,
+        251
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Zahl/Kopf Entscheidungsblatt 2: Szenario 3 oder 4",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_euro4",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 2: Scenario 3 and Tails",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        434,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \"Zahl\"",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 10.0,
+      "1st Qu.": 17.0,
+      "Median": 20.0,
+      "Mean": 19.936507936507937,
+      "3rd Qu.": 22.0,
+      "Max.": 30.0,
+      "valid": 63,
+      "invalid": 434
+    }
+  },
+  {
+    "name": "exp_euro5",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 2: Scenario 3 and Heads",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        435,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \"Kopf\"",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 3.125,
+      "Median": 5.0,
+      "Mean": 4.975806451612903,
+      "3rd Qu.": 6.5,
+      "Max.": 9.5,
+      "valid": 62,
+      "invalid": 435
+    }
+  },
+  {
+    "name": "exp_Nr",
+    "dataset": "ilottery",
+    "label": "Which player has the lowest number in scenario 4?",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Player 1",
+        "[2] Player 2",
+        "[3] Both players"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Spieler 1",
+        "[2] Spieler 2",
+        "[3] beide Spieler"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        211,
+        206,
+        80
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Welcher Spieler hat niedrigste Nummer bei Szenario 4?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_euro6",
+    "dataset": "ilottery",
+    "label": "Amount of EUR  Decision sheet 2: Scenario 4",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        385,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 4",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 9.0,
+      "Median": 10.0,
+      "Mean": 11.901785714285714,
+      "3rd Qu.": 16.0,
+      "Max.": 30.0,
+      "valid": 112,
+      "invalid": 385
+    }
+  },
+  {
+    "name": "exp_euro7",
+    "dataset": "ilottery",
+    "label": "Exact amount of EUR won",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Erspielter Betrag exakt",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 27.0,
+      "Median": 36.0,
+      "Mean": 37.04929577464789,
+      "3rd Qu.": 46.0,
+      "Max.": 86.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_euro8",
+    "dataset": "ilottery",
+    "label": "Rounded amount of EUR won",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Erspielter Betrag gerundet",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 25.0,
+      "Median": 35.0,
+      "Mean": 37.11267605633803,
+      "3rd Qu.": 45.0,
+      "Max.": 85.0,
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_z7",
+    "dataset": "ilottery",
+    "label": "Random decision for payout (number 1 wins)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] wins payout"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] gewinnt Auszahlung"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        102
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufallsentscheidung Auszahlung (Zahl 1 gewinnt)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 497,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "exp_euro9",
+    "dataset": "ilottery",
+    "label": "Amount of EUR paid out to household after winning",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        395,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Uebergebener Betrag bei Gewinn",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 5.0,
+      "1st Qu.": 30.0,
+      "Median": 35.0,
+      "Mean": 36.96078431372549,
+      "3rd Qu.": 48.75,
+      "Max.": 80.0,
+      "valid": 102,
+      "invalid": 395
+    }
+  }
+]

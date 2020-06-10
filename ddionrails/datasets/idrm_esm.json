@@ -1,176 +1,113 @@
-{
-  "cid": {
-    "study": "soep-is",
+[
+  {
     "name": "cid",
-    "name_cs": "cid",
-    "variable": "cid",
     "dataset": "idrm_esm",
     "label": "Case-ID, Original Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200328",
-        "216704",
-        "863904",
-        "670768.907514451",
-        "883891",
-        "899810",
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Urhaushaltsnummer"
-  },
-  "hid": {
+    "scale": "number",
+    "label_de": "Urhaushaltsnummer",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 200328.0,
+      "1st Qu.": 216704.0,
+      "Median": 863904.0,
+      "Mean": 670768.9075144508,
+      "3rd Qu.": 883891.0,
+      "Max.": 899810.0,
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
     "name": "hid",
-    "name_cs": "hid",
-    "variable": "hid",
     "dataset": "idrm_esm",
     "label": "Current Wave HH Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "120812",
-        "217549",
-        "868485",
-        "687388.826589595",
-        "887927",
-        "902748",
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltsnummer"
-  },
-  "pid": {
+    "scale": "number",
+    "label_de": "Haushaltsnummer",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 120812.0,
+      "1st Qu.": 217549.0,
+      "Median": 868485.0,
+      "Mean": 687388.8265895954,
+      "3rd Qu.": 887927.0,
+      "Max.": 902748.0,
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
     "name": "pid",
-    "name_cs": "pid",
-    "variable": "pid",
     "dataset": "idrm_esm",
     "label": "Never Changing Person ID",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1208102",
-        "2170501",
-        "8645701",
-        "6740115.61464354",
-        "8847101",
-        "9010402",
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "syear": {
+    "scale": "number",
+    "label_de": "Unveränderliche Personennr.",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 1208102.0,
+      "1st Qu.": 2170501.0,
+      "Median": 8645701.0,
+      "Mean": 6740115.614643545,
+      "3rd Qu.": 8847101.0,
+      "Max.": 9010402.0,
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
     "name": "syear",
-    "name_cs": "syear",
-    "variable": "syear",
     "dataset": "idrm_esm",
     "label": "Survey Year",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2014",
-        "2014",
-        "2014",
-        "2014",
-        "2014",
-        "2014",
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Erhebungsjahr"
-  },
-  "im_drm_esm": {
+    "scale": "number",
+    "label_de": "Erhebungsjahr",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 2014.0,
+      "1st Qu.": 2014.0,
+      "Median": 2014.0,
+      "Mean": 2014.0,
+      "3rd Qu.": 2014.0,
+      "Max.": 2014.0,
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
     "name": "im_drm_esm",
-    "name_cs": "im_drm_esm",
-    "variable": "im_drm_esm",
     "dataset": "idrm_esm",
     "label": "Innovative Module: Day Reconstruction Method - Experience Sampling Method",
     "categories": {
-      "frequencies": [
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        15570
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -181,55 +118,24 @@
         "[0] Does Not Apply",
         "[1] Does Apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-1] keine Angabe",
         "[0] trifft nicht zu",
         "[1] Trifft zu "
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Innovatives Modul: Day Reconstruction Method - Experience Sampling Method"
-  },
-  "drm_wt": {
-    "study": "soep-is",
-    "name": "drm_wt",
-    "name_cs": "drm_wt",
-    "variable": "drm_wt",
-    "dataset": "idrm_esm",
-    "label": "Weekday of survey",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -237,13 +143,36 @@
         0,
         0,
         0,
-        660,
-        1920,
-        3120,
-        3030,
-        2880,
-        2310,
-        1650
+        15570
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Innovatives Modul: Day Reconstruction Method - Experience Sampling Method",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "drm_wt",
+    "dataset": "idrm_esm",
+    "label": "Weekday of survey",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -260,40 +189,10 @@
         "[6] Friday",
         "[7] Saturday"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -304,162 +203,14 @@
         "[5] Donnerstag",
         "[6] Freitag",
         "[7] Samstag"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wochentag der Befragung"
-  },
-  "drm_a": {
-    "study": "soep-is",
-    "name": "drm_a",
-    "name_cs": "drm_a",
-    "variable": "drm_a",
-    "dataset": "idrm_esm",
-    "label": "When did you get up yesterday?",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Wann sind Sie gestern aufgestanden?"
-  },
-  "aktnr": {
-    "study": "soep-is",
-    "name": "aktnr",
-    "name_cs": "aktnr",
-    "variable": "aktnr",
-    "dataset": "idrm_esm",
-    "label": "Number of episode",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519,
-        519
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24",
-        "25",
-        "26",
-        "27",
-        "28",
-        "29",
-        "30"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -468,137 +219,135 @@
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24",
-        "25",
-        "26",
-        "27",
-        "28",
-        "29",
-        "30"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24",
-        "25",
-        "26",
-        "27",
-        "28",
-        "29",
-        "30"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Episodennummer"
-  },
-  "akt": {
-    "study": "soep-is",
-    "name": "akt",
-    "name_cs": "akt",
-    "variable": "akt",
-    "dataset": "idrm_esm",
-    "label": "Activity",
-    "categories": {
       "frequencies": [
         0,
         0,
         0,
         0,
-        8804,
         0,
-        327,
-        331,
-        321,
-        216,
-        488,
-        1033,
-        716,
-        461,
-        254,
-        144,
-        121,
-        152,
+        0,
+        660,
+        1920,
+        3120,
+        3030,
+        2880,
+        2310,
+        1650
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wochentag der Befragung",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "drm_a",
+    "dataset": "idrm_esm",
+    "label": "When did you get up yesterday?",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "a15",
+    "label_de": "Wann sind Sie gestern aufgestanden?",
+    "study": "soep-is",
+    "statistics": {}
+  },
+  {
+    "name": "aktnr",
+    "dataset": "idrm_esm",
+    "label": "Number of episode",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Episodennummer",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 8.0,
+      "Median": 15.5,
+      "Mean": 15.5,
+      "3rd Qu.": 23.0,
+      "Max.": 30.0,
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "akt",
+    "dataset": "idrm_esm",
+    "label": "Activity",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
         6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
         21,
-        491,
-        150,
-        216,
-        78,
-        62,
-        44,
-        69,
-        115,
-        269,
-        519,
-        151,
-        11
+        22,
+        23,
+        24,
+        25,
+        26
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -634,13 +383,47 @@
         "[25] Drinking coffee / tea",
         "[26] Listen to music / radio"
       ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause",
+        "[2] Auf dem Weg zur Freizeitaktivität oder von dort nach Hause",
+        "[3] Arbeiten / Studieren",
+        "[4] Einkaufen",
+        "[5] Essen zubereiten",
+        "[6] Essen",
+        "[7] Waschen / Duschen / Baden / Zähne putzen / Anziehen",
+        "[8] Hausarbeit erledigen",
+        "[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder",
+        "[10] mit Freunden treffen",
+        "[11] Ausruhen / ein Nickerchen machen",
+        "[12] Entspannen",
+        "[13] Intime Beziehungen",
+        "[14] Beten, Gottesdienst besuchen, Meditieren",
+        "[15] Fernsehen",
+        "[16] Lesen",
+        "[17] Beschäftigung mit Computer oder Internet",
+        "[18] Telefonieren",
+        "[19] Sport treiben",
+        "[20] Arztbesuch",
+        "[21] Gartenarbeit",
+        "[22] Beschäftigung mit Haustieren (Füttern, Spielen, Gassi gehen etc.)",
+        "[23] Andere Aktivität",
+        "[24] Ende des Tages / Beginn der Nachtruhe",
+        "[25] Kaffee / Tee trinken",
+        "[26] Musik / Radio hören"
+      ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -668,159 +451,93 @@
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "24",
-        "25",
-        "26"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause",
-        "2",
-        "[3] Arbeiten / Studieren",
-        "[4] Einkaufen",
-        "[5] Essen zubereiten",
-        "[6] Essen",
-        "7",
-        "[8] Hausarbeit erledigen",
-        "[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder",
-        "[10] mit Freunden treffen",
-        "[11] Ausruhen / ein Nickerchen machen",
-        "[12] Entspannen",
-        "[13] Intime Beziehungen",
-        "[14] Beten, Gottesdienst besuchen, Meditieren",
-        "[15] Fernsehen",
-        "[16] Lesen",
-        "17",
-        "[18] Telefonieren",
-        "[19] Sport treiben",
-        "[20] Arztbesuch",
-        "[21] Gartenarbeit",
-        "22",
-        "23",
-        "[24] Ende des Tages / Beginn der Nachtruhe",
-        "[25] Kaffee / Tee trinken",
-        "26"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6766",
-        "8804"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "akt_s": {
-    "study": "soep-is",
-    "name": "akt_s",
-    "name_cs": "akt_s",
-    "variable": "akt_s",
-    "dataset": "idrm_esm",
-    "label": "Start of activity",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "akt_e": {
-    "study": "soep-is",
-    "name": "akt_e",
-    "name_cs": "akt_e",
-    "variable": "akt_e",
-    "dataset": "idrm_esm",
-    "label": "End of activity",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "akt_sek_jn": {
-    "study": "soep-is",
-    "name": "akt_sek_jn",
-    "name_cs": "akt_sek_jn",
-    "variable": "akt_sek_jn",
-    "dataset": "idrm_esm",
-    "label": "Secondary activity yes / no",
-    "categories": {
       "frequencies": [
         0,
         0,
         0,
         0,
-        9323,
+        8804,
         0,
-        1549,
-        4698
+        327,
+        331,
+        321,
+        216,
+        488,
+        1033,
+        716,
+        461,
+        254,
+        144,
+        121,
+        152,
+        6,
+        21,
+        491,
+        150,
+        216,
+        78,
+        62,
+        44,
+        69,
+        115,
+        269,
+        519,
+        151,
+        11
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Aktivität",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6766,
+      "invalid": 8804
+    }
+  },
+  {
+    "name": "akt_s",
+    "dataset": "idrm_esm",
+    "label": "Start of activity",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "a15",
+    "label_de": "Beginn der Aktivität",
+    "study": "soep-is",
+    "statistics": {}
+  },
+  {
+    "name": "akt_e",
+    "dataset": "idrm_esm",
+    "label": "End of activity",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "a15",
+    "label_de": "Ende der Aktivität",
+    "study": "soep-is",
+    "statistics": {}
+  },
+  {
+    "name": "akt_sek_jn",
+    "dataset": "idrm_esm",
+    "label": "Secondary activity yes / no",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -832,90 +549,82 @@
         "[1] Yes",
         "[2] No"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Ja",
         "[2] Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "6247",
-        "9323"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "akt_sek": {
-    "study": "soep-is",
-    "name": "akt_sek",
-    "name_cs": "akt_sek",
-    "variable": "akt_sek",
-    "dataset": "idrm_esm",
-    "label": "Secondary activity",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
         0,
         0,
-        14021,
+        9323,
         0,
+        1549,
+        4698
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sekundäre Aktivität ja / nein",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6247,
+      "invalid": 9323
+    }
+  },
+  {
+    "name": "akt_sek",
+    "dataset": "idrm_esm",
+    "label": "Secondary activity",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
         3,
         4,
         5,
-        26,
-        22,
-        174,
-        17,
-        30,
-        40,
-        24,
-        10,
+        6,
+        7,
+        8,
         9,
-        1,
-        0,
-        222,
-        121,
-        45,
-        39,
-        3,
-        1,
-        1,
+        10,
+        11,
+        12,
+        13,
         14,
-        135,
-        63,
-        540
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        25,
+        26
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -950,13 +659,46 @@
         "[25] Drinking coffee / tea",
         "[26] Listen to music / radio"
       ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause",
+        "[2] Auf dem Weg zur Freizeitaktivität oder von dort nach Hause",
+        "[3] Arbeiten / Studieren",
+        "[4] Einkaufen",
+        "[5] Essen zubereiten",
+        "[6] Essen",
+        "[7] Waschen / Duschen / Baden / Zähne putzen / Anziehen",
+        "[8] Hausarbeit erledigen",
+        "[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder",
+        "[10] mit Freunden treffen",
+        "[11] Ausruhen / ein Nickerchen machen",
+        "[12] Entspannen",
+        "[13] Intime Beziehungen",
+        "[14] Beten, Gottesdienst besuchen, Meditieren",
+        "[15] Fernsehen",
+        "[16] Lesen",
+        "[17] Beschäftigung mit Computer oder Internet",
+        "[18] Telefonieren",
+        "[19] Sport treiben",
+        "[20] Arztbesuch",
+        "[21] Gartenarbeit",
+        "[22] Beschäftigung mit Haustieren (Füttern, Spielen, Gassi gehen etc.)",
+        "[23] Andere Aktivität",
+        "[25] Kaffee / Tee trinken",
+        "[26] Musik / Radio hören"
+      ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -983,103 +725,62 @@
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10",
-        "11",
-        "12",
-        "13",
-        "14",
-        "15",
-        "16",
-        "17",
-        "18",
-        "19",
-        "20",
-        "21",
-        "22",
-        "23",
-        "25",
-        "26"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Auf dem Weg zur Arbeit / Studium oder von dort nach Hause",
-        "2",
-        "[3] Arbeiten / Studieren",
-        "[4] Einkaufen",
-        "[5] Essen zubereiten",
-        "[6] Essen",
-        "7",
-        "[8] Hausarbeit erledigen",
-        "[9] Kind(er) betreuen /auch Bringen oder abholen der Kinder",
-        "[10] mit Freunden treffen",
-        "[11] Ausruhen / ein Nickerchen machen",
-        "[12] Entspannen",
-        "[13] Intime Beziehungen",
-        "[14] Beten, Gottesdienst besuchen, Meditieren",
-        "[15] Fernsehen",
-        "[16] Lesen",
-        "17",
-        "[18] Telefonieren",
-        "[19] Sport treiben",
-        "[20] Arztbesuch",
-        "[21] Gartenarbeit",
-        "22",
-        "23",
-        "[25] Kaffee / Tee trinken",
-        "26"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1549",
-        "14021"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "akt_pleasant": {
-    "study": "soep-is",
-    "name": "akt_pleasant",
-    "name_cs": "akt_pleasant",
-    "variable": "akt_pleasant",
-    "dataset": "idrm_esm",
-    "label": "Episode pleasant / unpleasant",
-    "categories": {
       "frequencies": [
         0,
         0,
         0,
         0,
-        9323,
-        2,
-        5912,
-        333
+        14021,
+        0,
+        3,
+        4,
+        5,
+        26,
+        22,
+        174,
+        17,
+        30,
+        40,
+        24,
+        10,
+        9,
+        1,
+        0,
+        222,
+        121,
+        45,
+        39,
+        3,
+        1,
+        1,
+        14,
+        135,
+        63,
+        540
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sekundäre Aktivität",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1549,
+      "invalid": 14021
+    }
+  },
+  {
+    "name": "akt_pleasant",
+    "dataset": "idrm_esm",
+    "label": "Episode pleasant / unpleasant",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1091,68 +792,60 @@
         "[1] Rather pleasant",
         "[2] Rather unpleasant"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Eher angenehm",
         "[2] Eher unangenehm"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "6245",
-        "9325"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Episode angenehm / unangenehm"
-  },
-  "ort": {
-    "study": "soep-is",
-    "name": "ort",
-    "name_cs": "ort",
-    "variable": "ort",
-    "dataset": "idrm_esm",
-    "label": "Place of episode",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
         0,
         0,
-        14015,
-        0,
-        1096,
-        79,
-        380
+        9323,
+        2,
+        5912,
+        333
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Episode angenehm / unangenehm",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6245,
+      "invalid": 9325
+    }
+  },
+  {
+    "name": "ort",
+    "dataset": "idrm_esm",
+    "label": "Place of episode",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1165,61 +858,93 @@
         "[2] At work",
         "[3] Somewhere else"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Zu Hause",
         "[2] Auf der Arbeit",
         "[3] Woanders"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        14015,
+        0,
+        1096,
+        79,
+        380
       ]
     },
     "scale": "cat",
-    "label_de": "Ort der Episode"
-  },
-  "around1": {
+    "label_de": "Ort der Episode",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
     "name": "around1",
-    "name_cs": "around1",
-    "variable": "around1",
     "dataset": "idrm_esm",
     "label": "Nobody around",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Does not apply",
+        "[1] Does apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Trifft nicht zu",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1229,6 +954,30 @@
         0,
         775,
         780
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Niemand anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around2",
+    "dataset": "idrm_esm",
+    "label": "Partner / spouse around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1240,58 +989,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Niemand anwesend"
-  },
-  "around2": {
-    "study": "soep-is",
-    "name": "around2",
-    "name_cs": "around2",
-    "variable": "around2",
-    "dataset": "idrm_esm",
-    "label": "Partner / spouse around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1301,6 +1018,30 @@
         0,
         1146,
         409
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Partner anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around3",
+    "dataset": "idrm_esm",
+    "label": "Friend(s) around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1312,58 +1053,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Partner anwesend"
-  },
-  "around3": {
-    "study": "soep-is",
-    "name": "around3",
-    "name_cs": "around3",
-    "variable": "around3",
-    "dataset": "idrm_esm",
-    "label": "Friend(s) around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1373,6 +1082,30 @@
         0,
         1471,
         84
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Freunde anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around4",
+    "dataset": "idrm_esm",
+    "label": "Colleague(s) around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1384,58 +1117,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Freunde anwesend"
-  },
-  "around4": {
-    "study": "soep-is",
-    "name": "around4",
-    "name_cs": "around4",
-    "variable": "around4",
-    "dataset": "idrm_esm",
-    "label": "Colleague(s) around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1445,6 +1146,30 @@
         0,
         1472,
         83
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kollegen anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around5",
+    "dataset": "idrm_esm",
+    "label": "Clients around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1456,58 +1181,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kollegen anwesend"
-  },
-  "around5": {
-    "study": "soep-is",
-    "name": "around5",
-    "name_cs": "around5",
-    "variable": "around5",
-    "dataset": "idrm_esm",
-    "label": "Clients around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1517,6 +1210,30 @@
         0,
         1530,
         25
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kunden anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around6",
+    "dataset": "idrm_esm",
+    "label": "Children around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1528,58 +1245,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kunden anwesend"
-  },
-  "around6": {
-    "study": "soep-is",
-    "name": "around6",
-    "name_cs": "around6",
-    "variable": "around6",
-    "dataset": "idrm_esm",
-    "label": "Children around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1589,6 +1274,30 @@
         0,
         1357,
         198
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinder anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around7",
+    "dataset": "idrm_esm",
+    "label": "Relatives around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1600,58 +1309,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinder anwesend"
-  },
-  "around7": {
-    "study": "soep-is",
-    "name": "around7",
-    "name_cs": "around7",
-    "variable": "around7",
-    "dataset": "idrm_esm",
-    "label": "Relatives around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1661,6 +1338,30 @@
         0,
         1457,
         98
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Verwandte anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around8",
+    "dataset": "idrm_esm",
+    "label": "Supervisor around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1672,58 +1373,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Verwandte anwesend"
-  },
-  "around8": {
-    "study": "soep-is",
-    "name": "around8",
-    "name_cs": "around8",
-    "variable": "around8",
-    "dataset": "idrm_esm",
-    "label": "Supervisor around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1733,6 +1402,30 @@
         0,
         1535,
         20
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Vorgesetzte anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around9",
+    "dataset": "idrm_esm",
+    "label": "Other person(s) around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1744,58 +1437,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Vorgesetzte anwesend"
-  },
-  "around9": {
-    "study": "soep-is",
-    "name": "around9",
-    "name_cs": "around9",
-    "variable": "around9",
-    "dataset": "idrm_esm",
-    "label": "Other person(s) around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1805,6 +1466,30 @@
         0,
         1508,
         47
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Andere Person anwesend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1555,
+      "invalid": 14015
+    }
+  },
+  {
+    "name": "around10",
+    "dataset": "idrm_esm",
+    "label": "No information on person(s) around",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1816,58 +1501,26 @@
         "[0] Does not apply",
         "[1] Does apply"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1555",
-        "14015"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Andere Person anwesend"
-  },
-  "around10": {
-    "study": "soep-is",
-    "name": "around10",
-    "name_cs": "around10",
-    "variable": "around10",
-    "dataset": "idrm_esm",
-    "label": "No information on person(s) around",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1877,6 +1530,30 @@
         1,
         1554,
         0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Keine Angabe zur anwesenden Personen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1554,
+      "invalid": 14016
+    }
+  },
+  {
+    "name": "emotion1",
+    "dataset": "idrm_esm",
+    "label": "Happiness",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1885,61 +1562,29 @@
         "[-3] Not Valid",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0] Does not apply",
-        "[1] Does apply"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1"
+        "[1] Not at all",
+        "[7] Very strongly"
       ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] Trifft nicht zu",
-        "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
+        "[1] Gar nicht",
+        "[7] Sehr stark"
       ],
-      "values": [
-        "1554",
-        "14016"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Keine Angabe zur anwesenden Personen"
-  },
-  "emotion1": {
-    "study": "soep-is",
-    "name": "emotion1",
-    "name_cs": "emotion1",
-    "variable": "emotion1",
-    "dataset": "idrm_esm",
-    "label": "Happiness",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -1948,12 +1593,31 @@
         14015,
         3,
         152,
-        124,
-        232,
-        378,
-        378,
-        200,
         88
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Glück",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion2",
+    "dataset": "idrm_esm",
+    "label": "Anger",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -1963,80 +1627,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "emotion2": {
-    "study": "soep-is",
-    "name": "emotion2",
-    "name_cs": "emotion2",
-    "variable": "emotion2",
-    "dataset": "idrm_esm",
-    "label": "Anger",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2045,11 +1657,30 @@
         14015,
         3,
         1183,
-        178,
-        83,
-        60,
-        32,
-        9,
+        7
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ärger",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion3",
+    "dataset": "idrm_esm",
+    "label": "Frustration",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
         7
       ],
       "labels": [
@@ -2060,80 +1691,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "emotion3": {
-    "study": "soep-is",
-    "name": "emotion3",
-    "name_cs": "emotion3",
-    "variable": "emotion3",
-    "dataset": "idrm_esm",
-    "label": "Frustration",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2142,205 +1721,30 @@
         14015,
         3,
         1237,
-        143,
-        70,
-        53,
-        32,
-        9,
         8
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1552",
-        "14018"
       ]
     },
     "scale": "cat",
-    "label_de": "Frust"
-  },
-  "emotion4": {
+    "label_de": "Frust",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
     "name": "emotion4",
-    "name_cs": "emotion4",
-    "variable": "emotion4",
     "dataset": "idrm_esm",
     "label": "Fatigue",
     "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        14015,
-        3,
-        783,
-        172,
-        195,
-        170,
-        132,
-        60,
-        40
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
       "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "emotion5": {
-    "study": "soep-is",
-    "name": "emotion5",
-    "name_cs": "emotion5",
-    "variable": "emotion5",
-    "dataset": "idrm_esm",
-    "label": "Sadness",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        14015,
-        3,
-        1382,
-        82,
-        40,
-        33,
-        5,
-        3,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
         7
       ],
       "labels": [
@@ -2351,80 +1755,156 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        14015,
+        3,
+        783,
+        40
       ]
     },
     "scale": "cat",
-    "label_de": "Trauer"
-  },
-  "emotion6": {
+    "label_de": "Müdikeit",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion5",
+    "dataset": "idrm_esm",
+    "label": "Sadness",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "[7] Very strongly"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gar nicht",
+        "[7] Sehr stark"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        14015,
+        3,
+        1382,
+        7
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Trauer",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
     "name": "emotion6",
-    "name_cs": "emotion6",
-    "variable": "emotion6",
     "dataset": "idrm_esm",
     "label": "Worries",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "[7] Very strongly"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gar nicht",
+        "[7] Sehr stark"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2433,12 +1913,31 @@
         14015,
         3,
         1185,
-        160,
-        86,
-        74,
-        28,
-        11,
         8
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sorgen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion7",
+    "dataset": "idrm_esm",
+    "label": "Pain",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -2448,80 +1947,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Sorgen"
-  },
-  "emotion7": {
-    "study": "soep-is",
-    "name": "emotion7",
-    "name_cs": "emotion7",
-    "variable": "emotion7",
-    "dataset": "idrm_esm",
-    "label": "Pain",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2530,12 +1977,31 @@
         14015,
         3,
         1076,
-        161,
-        128,
-        80,
-        59,
-        28,
         20
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Schmerzen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion8",
+    "dataset": "idrm_esm",
+    "label": "Enthusiasm",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -2545,80 +2011,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Schmerzen"
-  },
-  "emotion8": {
-    "study": "soep-is",
-    "name": "emotion8",
-    "name_cs": "emotion8",
-    "variable": "emotion8",
-    "dataset": "idrm_esm",
-    "label": "Enthusiasm",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2627,12 +2041,31 @@
         14015,
         4,
         356,
-        198,
-        297,
-        338,
-        219,
-        97,
         46
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Begeisterung",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1551,
+      "invalid": 14019
+    }
+  },
+  {
+    "name": "emotion9",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -2642,80 +2075,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1551",
-        "14019"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Begeisterung"
-  },
-  "emotion9": {
-    "study": "soep-is",
-    "name": "emotion9",
-    "name_cs": "emotion9",
-    "variable": "emotion9",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2724,12 +2105,31 @@
         14015,
         3,
         101,
-        97,
-        222,
-        388,
-        405,
-        241,
         98
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zufriedenheit",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion10",
+    "dataset": "idrm_esm",
+    "label": "Boredom",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -2739,80 +2139,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Zufriedenheit"
-  },
-  "emotion10": {
-    "study": "soep-is",
-    "name": "emotion10",
-    "name_cs": "emotion10",
-    "variable": "emotion10",
-    "dataset": "idrm_esm",
-    "label": "Boredom",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2821,11 +2169,31 @@
         14015,
         3,
         1328,
-        116,
-        49,
-        35,
-        14,
         10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Langeweile",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion11",
+    "dataset": "idrm_esm",
+    "label": "Loneliness",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -2835,76 +2203,28 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
         "[7] Very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
         "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Langeweile"
-  },
-  "emotion11": {
-    "study": "soep-is",
-    "name": "emotion11",
-    "name_cs": "emotion11",
-    "variable": "emotion11",
-    "dataset": "idrm_esm",
-    "label": "Loneliness",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -2913,11 +2233,167 @@
         14015,
         3,
         1380,
-        87,
-        32,
-        31,
-        9,
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Einsamkeit",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion12",
+    "dataset": "idrm_esm",
+    "label": "Stress",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "[7] Very strongly"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gar nicht",
+        "[7] Sehr stark"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        14015,
         3,
+        1177,
+        12
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Stress",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1552,
+      "invalid": 14018
+    }
+  },
+  {
+    "name": "emotion13",
+    "dataset": "idrm_esm",
+    "label": "Meaning",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Not at all",
+        "[7] Very strongly"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gar nicht",
+        "[7] Sehr stark"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        14015,
+        11,
+        614,
+        85
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Tieferen Sinn",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1544,
+      "invalid": 14026
+    }
+  },
+  {
+    "name": "pzuf01",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Health",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
         10
       ],
       "labels": [
@@ -2927,17 +2403,44 @@
         "[-3] Not Valid",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1] Not at all",
+        "[0] Completely dissatisfied",
+        "1",
         "2",
         "3",
         "4",
         "5",
         "6",
-        "[7] Very strongly"
+        "7",
+        "8",
+        "9",
+        "[10] Completely satisfied"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] ganz und gar unzufrieden",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "[10] ganz und gar zufrieden"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2950,252 +2453,6 @@
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Einsamkeit"
-  },
-  "emotion12": {
-    "study": "soep-is",
-    "name": "emotion12",
-    "name_cs": "emotion12",
-    "variable": "emotion12",
-    "dataset": "idrm_esm",
-    "label": "Stress",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        14015,
-        3,
-        1177,
-        129,
-        100,
-        66,
-        45,
-        23,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1552",
-        "14018"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Stress"
-  },
-  "emotion13": {
-    "study": "soep-is",
-    "name": "emotion13",
-    "name_cs": "emotion13",
-    "variable": "emotion13",
-    "dataset": "idrm_esm",
-    "label": "Meaning",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        14015,
-        11,
-        614,
-        118,
-        166,
-        263,
-        166,
-        132,
-        85
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Not at all",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Very strongly"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Gar nicht",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "[7] Sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1544",
-        "14026"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Tieferen Sinn"
-  },
-  "pzuf01": {
-    "study": "soep-is",
-    "name": "pzuf01",
-    "name_cs": "pzuf01",
-    "variable": "pzuf01",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Health",
-    "categories": {
       "frequencies": [
         0,
         0,
@@ -3214,6 +2471,39 @@
         3270,
         2340,
         1170
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit Ihrer Gesundheit?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pzuf20",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Sleep",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3234,48 +2524,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3290,29 +2542,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit Ihrer Gesundheit?"
-  },
-  "pzuf20": {
-    "study": "soep-is",
-    "name": "pzuf20",
-    "name_cs": "pzuf20",
-    "variable": "pzuf20",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Sleep",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3331,6 +2580,39 @@
         3510,
         2100,
         1410
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit Ihrem Schlaf?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pzuf02",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Work",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3351,48 +2633,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3407,29 +2651,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit Ihrem Schlaf?"
-  },
-  "pzuf02": {
-    "study": "soep-is",
-    "name": "pzuf02",
-    "name_cs": "pzuf02",
-    "variable": "pzuf02",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Work",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3448,6 +2689,39 @@
         2190,
         1560,
         540
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie, falls Sie erwerbstätig sind: mit Ihrer Arbeit?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 8490,
+      "invalid": 7080
+    }
+  },
+  {
+    "name": "pzuf04",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Household Income",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3468,48 +2742,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3524,29 +2760,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "8490",
-        "7080"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "pzuf04": {
-    "study": "soep-is",
-    "name": "pzuf04",
-    "name_cs": "pzuf04",
-    "variable": "pzuf04",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Household Income",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3565,6 +2798,39 @@
         3240,
         1710,
         1170
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit dem Einkommen Ihres Haushalts?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15360,
+      "invalid": 210
+    }
+  },
+  {
+    "name": "pzuf05",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Personal Income",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3585,48 +2851,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3641,29 +2869,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15360",
-        "210"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit dem Einkommen Ihres Haushalts?"
-  },
-  "pzuf05": {
-    "study": "soep-is",
-    "name": "pzuf05",
-    "name_cs": "pzuf05",
-    "variable": "pzuf05",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Personal Income",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3682,6 +2907,39 @@
         2070,
         1020,
         540
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie, falls Sie erwerbstätig sind: mit Ihrem persönlichem Eink",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 10740,
+      "invalid": 4830
+    }
+  },
+  {
+    "name": "pzuf07",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Dwelling",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3702,48 +2960,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3758,29 +2978,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "10740",
-        "4830"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "pzuf07": {
-    "study": "soep-is",
-    "name": "pzuf07",
-    "name_cs": "pzuf07",
-    "variable": "pzuf07",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Dwelling",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3799,6 +3016,39 @@
         4380,
         3300,
         2880
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit Ihrer Wohnung?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15510,
+      "invalid": 60
+    }
+  },
+  {
+    "name": "pzuf08",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Leisure Time",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3819,48 +3069,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3875,29 +3087,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15510",
-        "60"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit Ihrer Wohnung?"
-  },
-  "pzuf08": {
-    "study": "soep-is",
-    "name": "pzuf08",
-    "name_cs": "pzuf08",
-    "variable": "pzuf08",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Leisure Time",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -3916,6 +3125,39 @@
         3390,
         2550,
         2010
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit Ihrer Freizeit?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pzuf13",
+    "dataset": "idrm_esm",
+    "label": "Satisfaction With Family Life",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -3936,48 +3178,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3992,29 +3196,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit Ihrer Freizeit?"
-  },
-  "pzuf13": {
-    "study": "soep-is",
-    "name": "pzuf13",
-    "name_cs": "pzuf13",
-    "variable": "pzuf13",
-    "dataset": "idrm_esm",
-    "label": "Satisfaction With Family Life",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4033,6 +3234,39 @@
         3420,
         3420,
         3600
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie zufrieden sind Sie mit Ihrem Familienleben?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pzule1",
+    "dataset": "idrm_esm",
+    "label": "Life Satisfaction",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4053,48 +3287,10 @@
         "9",
         "[10] Completely satisfied"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4109,29 +3305,26 @@
         "8",
         "9",
         "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Wie zufrieden sind Sie mit Ihrem Familienleben?"
-  },
-  "pzule1": {
-    "study": "soep-is",
-    "name": "pzule1",
-    "name_cs": "pzule1",
-    "variable": "pzule1",
-    "dataset": "idrm_esm",
-    "label": "Life Satisfaction",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4150,6 +3343,33 @@
         5310,
         2190,
         660
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Lebenszufriedenheit jetzt",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15540,
+      "invalid": 30
+    }
+  },
+  {
+    "name": "pgef1",
+    "dataset": "idrm_esm",
+    "label": "Frequency Of Being Angry In The Last 4 Weeks",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4158,97 +3378,38 @@
         "[-3] Not Valid",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0] Completely dissatisfied",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "[10] Completely satisfied"
+        "[1] Never",
+        "[2] Rarely",
+        "[3] Sometimes",
+        "[4] Often",
+        "[5] Very often"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Selten",
+        "[3] Manchmal",
+        "[4] Oft",
+        "[5] Sehr oft"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false,
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "0",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "10"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] ganz und gar unzufrieden",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7",
-        "8",
-        "9",
-        "[10] ganz und gar zufrieden"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15540",
-        "30"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Lebenszufriedenheit jetzt"
-  },
-  "pgef1": {
-    "study": "soep-is",
-    "name": "pgef1",
-    "name_cs": "pgef1",
-    "variable": "pgef1",
-    "dataset": "idrm_esm",
-    "label": "Frequency Of Being Angry In The Last 4 Weeks",
-    "categories": {
       "frequencies": [
         0,
         0,
@@ -4261,6 +3422,33 @@
         5910,
         1770,
         510
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie oft haben Sie sich ärgerlich gefühlt?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pgef2",
+    "dataset": "idrm_esm",
+    "label": "Frequency Of Being Worried In The Last 4 Weeks",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4275,36 +3463,10 @@
         "[4] Often",
         "[5] Very often"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4313,29 +3475,20 @@
         "[3] Manchmal",
         "[4] Oft",
         "[5] Sehr oft"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "pgef2": {
-    "study": "soep-is",
-    "name": "pgef2",
-    "name_cs": "pgef2",
-    "variable": "pgef2",
-    "dataset": "idrm_esm",
-    "label": "Frequency Of Being Worried In The Last 4 Weeks",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4348,6 +3501,33 @@
         1980,
         540,
         90
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie oft haben Sie sich ängstlich gefühlt?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pgef3",
+    "dataset": "idrm_esm",
+    "label": "Frequency Of Being Happy In The Last 4 Weeks",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4362,36 +3542,10 @@
         "[4] Often",
         "[5] Very often"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4400,29 +3554,20 @@
         "[3] Manchmal",
         "[4] Oft",
         "[5] Sehr oft"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "pgef3": {
-    "study": "soep-is",
-    "name": "pgef3",
-    "name_cs": "pgef3",
-    "variable": "pgef3",
-    "dataset": "idrm_esm",
-    "label": "Frequency Of Being Happy In The Last 4 Weeks",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4435,6 +3580,33 @@
         4500,
         8640,
         1500
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wie oft haben Sie sich glücklich gefühlt?",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "pgef4",
+    "dataset": "idrm_esm",
+    "label": "Frequency Of Being Sad In The Last 4 Weeks",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4449,36 +3621,10 @@
         "[4] Often",
         "[5] Very often"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4487,29 +3633,20 @@
         "[3] Manchmal",
         "[4] Oft",
         "[5] Sehr oft"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "15570",
-        "0"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "pgef4": {
-    "study": "soep-is",
-    "name": "pgef4",
-    "name_cs": "pgef4",
-    "variable": "pgef4",
-    "dataset": "idrm_esm",
-    "label": "Frequency Of Being Sad In The Last 4 Weeks",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4522,95 +3659,35 @@
         3120,
         1140,
         420
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Never",
-        "[2] Rarely",
-        "[3] Sometimes",
-        "[4] Often",
-        "[5] Very often"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Nie",
-        "[2] Selten",
-        "[3] Manchmal",
-        "[4] Oft",
-        "[5] Sehr oft"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "15570",
-        "0"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "bb1": {
+    "label_de": "Wie oft haben Sie sich traurig gefühlt?",
     "study": "soep-is",
+    "statistics": {
+      "valid": 15570,
+      "invalid": 0
+    }
+  },
+  {
     "name": "bb1",
-    "name_cs": "bb1",
-    "variable": "bb1",
     "dataset": "idrm_esm",
     "label": "Evaluation Participation Snap Polls",
     "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        7680,
-        180,
-        0,
-        60,
-        390,
-        1290,
-        2370,
-        2130,
-        1470
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4627,40 +3704,10 @@
         "6",
         "[7] Very good"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4671,29 +3718,22 @@
         "5",
         "6",
         "[7] Sehr gut"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "7710",
-        "7860"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Bewertung Teilnahme Blitzbefragungen"
-  },
-  "bb2": {
-    "study": "soep-is",
-    "name": "bb2",
-    "name_cs": "bb2",
-    "variable": "bb2",
-    "dataset": "idrm_esm",
-    "label": "Snap Polls bothering during activities",
-    "categories": {
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4701,13 +3741,42 @@
         0,
         7680,
         180,
-        2250,
-        2340,
-        1230,
-        750,
-        750,
-        330,
-        60
+        0,
+        60,
+        390,
+        1290,
+        2370,
+        2130,
+        1470
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bewertung Teilnahme Blitzbefragungen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7710,
+      "invalid": 7860
+    }
+  },
+  {
+    "name": "bb2",
+    "dataset": "idrm_esm",
+    "label": "Snap Polls bothering during activities",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4724,40 +3793,10 @@
         "6",
         "[7] Yes, very strongly"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "6",
-        "7"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4768,29 +3807,91 @@
         "5",
         "6",
         "[7] Ja, sehr stark"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "7710",
-        "7860"
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        7680,
+        180,
+        2250,
+        2340,
+        1230,
+        750,
+        750,
+        330,
+        60
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "bb3": {
+    "label_de": "Blitzbefragung störend bei jeweiligen Aktivitäten",
     "study": "soep-is",
+    "statistics": {
+      "valid": 7710,
+      "invalid": 7860
+    }
+  },
+  {
     "name": "bb3",
-    "name_cs": "bb3",
-    "variable": "bb3",
     "dataset": "idrm_esm",
     "label": "Did not answer snap poll",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
         0,
         0,
@@ -4800,6 +3901,82 @@
         180,
         2040,
         5670
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Blitzbefragung nicht bearbeitet",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7710,
+      "invalid": 7860
+    }
+  },
+  {
+    "name": "bb4",
+    "dataset": "idrm_esm",
+    "label": "How often did not answer snap poll",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Contained in Questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        13530,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Häufigkeit Nicht-Teilnahme Blitzbefragung",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.7058823529411764,
+      "3rd Qu.": 2.0,
+      "Max.": 7.0,
+      "valid": 2040,
+      "invalid": 13530
+    }
+  },
+  {
+    "name": "bb5",
+    "dataset": "idrm_esm",
+    "label": "No participation in snap poll because disturbing",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4811,150 +3988,26 @@
         "[1] Yes",
         "[2] No"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Ja",
         "[2] Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "7710",
-        "7860"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Blitzbefragung nicht bearbeitet"
-  },
-  "bb4": {
-    "study": "soep-is",
-    "name": "bb4",
-    "name_cs": "bb4",
-    "variable": "bb4",
-    "dataset": "idrm_esm",
-    "label": "How often did not answer snap poll",
-    "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13530,
-        0,
-        1230,
-        480,
-        180,
-        60,
-        60,
-        30
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "7"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "7"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5",
-        "7"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2040",
-        "13530"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "bb5": {
-    "study": "soep-is",
-    "name": "bb5",
-    "name_cs": "bb5",
-    "variable": "bb5",
-    "dataset": "idrm_esm",
-    "label": "No participation in snap poll because disturbing",
-    "categories": {
       "frequencies": [
         0,
         0,
@@ -4964,6 +4017,28 @@
         180,
         510,
         7200
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Nicht-Teilnahme Blitzbefragung wegen Störung",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7710,
+      "invalid": 7860
+    }
+  },
+  {
+    "name": "bb6",
+    "dataset": "idrm_esm",
+    "label": "How often did not participate snap poll disturbing",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -4971,156 +4046,56 @@
         "[-4] Inadmissible multiple answer",
         "[-3] Not Valid",
         "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Yes",
-        "[2] No"
+        "[-1] No Answer"
       ],
       "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
       ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Ja",
-        "[2] Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "7710",
-        "7860"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "bb6": {
-    "study": "soep-is",
-    "name": "bb6",
-    "name_cs": "bb6",
-    "variable": "bb6",
-    "dataset": "idrm_esm",
-    "label": "How often did not participate snap poll disturbing",
-    "categories": {
       "frequencies": [
         0,
         0,
         0,
         0,
         15060,
-        0,
-        360,
-        60,
-        60,
-        30
-      ],
-      "labels": [
-        "[-6] Questionnaire Version With Modified Filter",
-        "[-5] Not Contained in Questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Not Valid",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "1",
-        "2",
-        "3",
-        "5"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "5"
-      ],
-      "labels_de": [
-        "-6",
-        "[-5] nicht im Fragebogen enthalten",
-        "-4",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "1",
-        "2",
-        "3",
-        "5"
+        0
       ]
     },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "510",
-        "15060"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "bb7": {
+    "scale": "number",
+    "label_de": "Wie häufig ist dies insgesamt vorgekommen?",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.588235294117647,
+      "3rd Qu.": 2.0,
+      "Max.": 5.0,
+      "valid": 510,
+      "invalid": 15060
+    }
+  },
+  {
     "name": "bb7",
-    "name_cs": "bb7",
-    "variable": "bb7",
     "dataset": "idrm_esm",
     "label": "Snap poll hectic / inattentive",
     "categories": {
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        7680,
-        180,
-        5490,
-        1440,
-        720,
-        60,
-        0
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filter",
@@ -5135,36 +4110,10 @@
         "[4] Often",
         "[5] Very often"
       ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-6",
-        "-5",
-        "-4",
-        "-3",
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
       "labels_de": [
-        "-6",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "-4",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5173,19 +4122,40 @@
         "[3] Gelegentlich",
         "[4] Oft",
         "[5] Sehr oft"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
       ],
-      "values": [
-        "7710",
-        "7860"
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        7680,
+        180,
+        5490,
+        1440,
+        720,
+        60,
+        0
       ]
     },
     "scale": "cat",
-    "label_de": "Blitzbefragung hektisch / unaufmerksam"
+    "label_de": "Blitzbefragung hektisch / unaufmerksam",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7710,
+      "invalid": 7860
+    }
   }
-}
+]

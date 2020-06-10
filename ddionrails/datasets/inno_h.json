@@ -1,3217 +1,5212 @@
-{
-  "cid": {
-    "study": "soep-is",
+[
+  {
     "name": "cid",
-    "name_cs": "cid",
-    "variable": "cid",
     "dataset": "inno_h",
     "label": "Original Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "200034",
-        "886416",
-        "973912",
-        "2324582.10231125",
-        "4075620",
-        "4127078",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Urhaushaltsnummer"
-  },
-  "hid": {
+    "scale": "number",
+    "label_de": "Urhaushaltsnummer",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 200034.0,
+      "1st Qu.": 897378.5,
+      "Median": 4026735.0,
+      "Mean": 2649700.5949458485,
+      "3rd Qu.": 4111208.0,
+      "Max.": 4173002.0,
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
     "name": "hid",
-    "name_cs": "hid",
-    "variable": "hid",
     "dataset": "inno_h",
     "label": "Current Household Number",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "115380",
-        "891258",
-        "967416",
-        "2288877.22865948",
-        "4072990",
-        "4127078",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltsnummer"
-  },
-  "syear": {
+    "scale": "number",
+    "label_de": "Haushaltsnummer",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 115380.0,
+      "1st Qu.": 902311.0,
+      "Median": 4018090.0,
+      "Mean": 2584459.3415162456,
+      "3rd Qu.": 4110124.0,
+      "Max.": 4173002.0,
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
     "name": "syear",
-    "name_cs": "syear",
-    "variable": "syear",
     "dataset": "inno_h",
     "label": "Survey-Year",
     "categories": {
-      "frequencies": [],
+      "values": [],
       "labels": [],
       "missings": [],
-      "values": [],
-      "labels_de": []
+      "frequencies": []
     },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "2015",
-        "3245",
-        "0"
-      ]
-    },
-    "scale": "",
-    "label_de": "Erhebungsjahr"
-  },
-  "im_bil": {
+    "scale": "number",
+    "label_de": "Erhebungsjahr",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 2015.0,
+      "1st Qu.": 2015.0,
+      "Median": 2015.0,
+      "Mean": 2015.4380264741276,
+      "3rd Qu.": 2015.0,
+      "Max.": 2017.0,
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
     "name": "im_bil",
-    "name_cs": "im_bil",
-    "variable": "im_bil",
     "dataset": "inno_h",
     "label": "Pretest: Balance",
     "categories": {
-      "frequencies": [
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         0,
-        3245
+        1
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
         "[0] Does Not Apply",
         "[1] Does Apply"
       ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Trifft nicht zu",
+        "[1] Trifft zu"
+      ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false
       ],
-      "values": [
-        "0",
-        "1"
-      ],
-      "labels_de": [
-        "[0] Trifft nicht zu",
-        "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3245",
-        "0"
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        910,
+        3245
       ]
     },
     "scale": "cat",
-    "label_de": "Pretest: Bilanz"
-  },
-  "prhsplbil": {
+    "label_de": "Pretest: Bilanz",
     "study": "soep-is",
+    "statistics": {
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
     "name": "prhsplbil",
-    "name_cs": "prhsplbil",
-    "variable": "prhsplbil",
     "dataset": "inno_h",
     "label": "Split balance",
     "categories": {
-      "frequencies": [
-        2,
-        1654,
-        1589
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "Split 1",
-        "Split 2"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Split 1",
+        "[2] Split 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Split 1",
+        "[2] Split 2"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2,
+        0,
+        1654,
+        1589
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Split Bilanz",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 912
+    }
+  },
+  {
+    "name": "prhbilj1",
+    "dataset": "inno_h",
+    "label": "Relationship Income vs. Expenditures (last year)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Income on a level with expenditures",
+        "[2] Income was higher than expenditures",
+        "[3] Expenditures were higher than income"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Einnahmen und Ausgaben waren gleich hoch",
+        "[2] Einnahmen waren höher als die Ausgaben",
+        "[3] Ausgaben waren höher als die Einnahmen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Split 1",
-        "Split 2"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Split Bilanz"
-  },
-  "prhbilj1": {
-    "study": "soep-is",
-    "name": "prhbilj1",
-    "name_cs": "prhbilj1",
-    "variable": "prhbilj1",
-    "dataset": "inno_h",
-    "label": "Relationship Income vs. Expenditures (last year)",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         1591,
         13,
         945,
         592,
         104
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Income on a level with expenditures",
-        "Income was higher than expenditures",
-        "Expenditures were higher than income"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Einnahmen und Ausgaben waren gleich hoch",
-        "2",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1641",
-        "1604"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilj1a": {
+    "label_de": "Verhältnis Einnahmen zu Ausgaben (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1641,
+      "invalid": 2514
+    }
+  },
+  {
     "name": "prhbilj1a",
-    "name_cs": "prhbilj1a",
-    "variable": "prhbilj1a",
     "dataset": "inno_h",
     "label": "Amount of Savings (last year)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "45",
-        "1800",
-        "3500",
-        "6062.83266129032",
-        "6000",
-        "1e+05",
-        "2749",
-        "496",
-        "2749"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2747,
+        2
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilj1awn": {
+    "scale": "number",
+    "label_de": "Höhe der Ersparnisse (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 45.0,
+      "1st Qu.": 1800.0,
+      "Median": 3500.0,
+      "Mean": 6062.832661290323,
+      "3rd Qu.": 6000.0,
+      "Max.": 100000.0,
+      "valid": 496,
+      "invalid": 3659
+    }
+  },
+  {
     "name": "prhbilj1awn",
-    "name_cs": "prhbilj1awn",
-    "variable": "prhbilj1awn",
     "dataset": "inno_h",
     "label": "Amount of Savings Do not know (last year)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3151,
         59,
         35
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "35",
-        "3210"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilj1b": {
+    "label_de": "Höhe der Ersparnisse Weiß nicht (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 35,
+      "invalid": 4120
+    }
+  },
+  {
     "name": "prhbilj1b",
-    "name_cs": "prhbilj1b",
-    "variable": "prhbilj1b",
     "dataset": "inno_h",
     "label": "Amount of Deficit (last year)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "100",
-        "1000",
-        "2500",
-        "9167.25806451613",
-        "8000",
-        "120000",
-        "3152",
-        "93",
-        "3152"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3152,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilj1bwn": {
+    "scale": "number",
+    "label_de": "Höhe der Fehlbetrag (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 100.0,
+      "1st Qu.": 1000.0,
+      "Median": 2500.0,
+      "Mean": 9167.258064516129,
+      "3rd Qu.": 8000.0,
+      "Max.": 120000.0,
+      "valid": 93,
+      "invalid": 4062
+    }
+  },
+  {
     "name": "prhbilj1bwn",
-    "name_cs": "prhbilj1bwn",
-    "variable": "prhbilj1bwn",
     "dataset": "inno_h",
     "label": "Amount of Deficit Do not know (last year)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3234,
         2,
         9
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Höhe der Fehlbetrag Weiß nicht (letztes Jahr)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 9,
+      "invalid": 4146
+    }
+  },
+  {
+    "name": "prhbilj1c",
+    "dataset": "inno_h",
+    "label": "Deficit covered by Going into Dept or by Savings (last year)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Went into debt",
+        "[2] Used savings",
+        "[3] Both",
+        "[4] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Aufnahme von Schulden",
+        "[2] Verbrauch Ersparnisse",
+        "[3] Beides",
+        "[4] Weiß nicht"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilj1c": {
-    "study": "soep-is",
-    "name": "prhbilj1c",
-    "name_cs": "prhbilj1c",
-    "variable": "prhbilj1c",
-    "dataset": "inno_h",
-    "label": "Deficit covered by Going into Dept or by Savings (last year)",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3141,
         1,
         34,
         62,
         6,
         1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letztes Jahr)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 103,
+      "invalid": 4052
+    }
+  },
+  {
+    "name": "prhbilm1",
+    "dataset": "inno_h",
+    "label": "Relationship Income vs. Expenditures (last month)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Went into debt",
-        "Used savings",
-        "Both",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Income on a level with expenditures",
+        "[2] Income was higher than expenditures",
+        "[3] Expenditures were higher than income"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Einnahmen und Ausgaben waren gleich hoch",
+        "[2] Einnahmen waren höher als die Ausgaben",
+        "[3] Ausgaben waren höher als die Einnahmen"
       ],
       "missings": [
-        false,
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Aufnahme von Schulden",
-        "Verbrauch Ersparnisse",
-        "Beides",
-        "4"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "103",
-        "3142"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letztes Jahr)"
-  },
-  "prhbilm1": {
-    "study": "soep-is",
-    "name": "prhbilm1",
-    "name_cs": "prhbilm1",
-    "variable": "prhbilm1",
-    "dataset": "inno_h",
-    "label": "Relationship Income vs. Expenditures (last month)",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         1591,
         14,
         1021,
         495,
         124
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Income on a level with expenditures",
-        "Income was higher than expenditures",
-        "Expenditures were higher than income"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Einnahmen und Ausgaben waren gleich hoch",
-        "2",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1640",
-        "1605"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm1a": {
+    "label_de": "Verhältnis Einnahmen zu Ausgaben (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1640,
+      "invalid": 2515
+    }
+  },
+  {
     "name": "prhbilm1a",
-    "name_cs": "prhbilm1a",
-    "variable": "prhbilm1a",
     "dataset": "inno_h",
     "label": "Amount of Savings (last month)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "25",
-        "200",
-        "400",
-        "774.216400911162",
-        "727.5",
-        "20000",
-        "2806",
-        "439",
-        "2806"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2806,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilm1awn": {
+    "scale": "number",
+    "label_de": "Höhe der Ersparnisse (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 25.0,
+      "1st Qu.": 200.0,
+      "Median": 400.0,
+      "Mean": 774.2164009111617,
+      "3rd Qu.": 727.5,
+      "Max.": 20000.0,
+      "valid": 439,
+      "invalid": 3716
+    }
+  },
+  {
     "name": "prhbilm1awn",
-    "name_cs": "prhbilm1awn",
-    "variable": "prhbilm1awn",
     "dataset": "inno_h",
     "label": "Amount of Savings Do not know (last month)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3189,
         36,
         20
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "20",
-        "3225"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm1b": {
+    "label_de": "Höhe der Ersparnisse Weiß nicht (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 20,
+      "invalid": 4135
+    }
+  },
+  {
     "name": "prhbilm1b",
-    "name_cs": "prhbilm1b",
-    "variable": "prhbilm1b",
     "dataset": "inno_h",
     "label": "Amount of Deficit (last month)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "50",
-        "220",
-        "500",
-        "1508.27433628319",
-        "1000",
-        "40000",
-        "3132",
-        "113",
-        "3132"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3132,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilm1bwn": {
+    "scale": "number",
+    "label_de": "Höhe der Fehlbetrag (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 50.0,
+      "1st Qu.": 220.0,
+      "Median": 500.0,
+      "Mean": 1508.274336283186,
+      "3rd Qu.": 1000.0,
+      "Max.": 40000.0,
+      "valid": 113,
+      "invalid": 4042
+    }
+  },
+  {
     "name": "prhbilm1bwn",
-    "name_cs": "prhbilm1bwn",
-    "variable": "prhbilm1bwn",
     "dataset": "inno_h",
     "label": "Amount of Deficit Do not know (last month)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3234,
         1,
         10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Höhe der Fehlbetrag Weiß nicht (letzter Monat)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 10,
+      "invalid": 4145
+    }
+  },
+  {
+    "name": "prhbilm1c",
+    "dataset": "inno_h",
+    "label": "Deficit covered by Going into Dept or by Savings (last month)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Went into debt",
+        "[2] Used savings",
+        "[3] Both",
+        "[4] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Aufnahme von Schulden",
+        "[2] Verbrauch Ersparnisse",
+        "[3] Beides",
+        "[4] Weiß nicht"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "10",
-        "3235"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm1c": {
-    "study": "soep-is",
-    "name": "prhbilm1c",
-    "name_cs": "prhbilm1c",
-    "variable": "prhbilm1c",
-    "dataset": "inno_h",
-    "label": "Deficit covered by Going into Dept or by Savings (last month)",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3121,
         2,
         23,
         92,
         6,
         1
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Went into debt",
-        "Used savings",
-        "Both",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Aufnahme von Schulden",
-        "Verbrauch Ersparnisse",
-        "Beides",
-        "4"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "122",
-        "3123"
       ]
     },
     "scale": "cat",
-    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letzter Monat)"
-  },
-  "prhbilj2": {
+    "label_de": "Fehlbetrag gedeckt durch Schulden oder Ersparnisse (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 122,
+      "invalid": 4033
+    }
+  },
+  {
     "name": "prhbilj2",
-    "name_cs": "prhbilj2",
-    "variable": "prhbilj2",
     "dataset": "inno_h",
     "label": "Assets Used or Sold to Cover Deficit (last year)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         1656,
         7,
         145,
         1437
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1582",
-        "1663"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilj2a": {
+    "label_de": "Vermögensbestände verbraucht oder aufgelöst um Fehlbertrag zu decken (letztes Ja",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1582,
+      "invalid": 2573
+    }
+  },
+  {
     "name": "prhbilj2a",
-    "name_cs": "prhbilj2a",
-    "variable": "prhbilj2a",
     "dataset": "inno_h",
     "label": "Amount of Assets Used or Sold (last year)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "200",
-        "2000",
-        "5000",
-        "10015.731884058",
-        "12750",
-        "1e+05",
-        "3107",
-        "138",
-        "3107"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3100,
+        7
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhbilm2": {
+    "scale": "number",
+    "label_de": "Höhe der Vermögensbestände (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 200.0,
+      "1st Qu.": 2000.0,
+      "Median": 5000.0,
+      "Mean": 10015.731884057972,
+      "3rd Qu.": 12750.0,
+      "Max.": 100000.0,
+      "valid": 138,
+      "invalid": 4017
+    }
+  },
+  {
     "name": "prhbilm2",
-    "name_cs": "prhbilm2",
-    "variable": "prhbilm2",
     "dataset": "inno_h",
     "label": "Assets Used or Sold to Cover Deficit (last month)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         1656,
         6,
         49,
         1534
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1583",
-        "1662"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "prhbilm2a": {
+    "label_de": "Vermögensbestände verbraucht oder aufgelöst um Fehlbertrag zu decken (letzter Mo",
     "study": "soep-is",
+    "statistics": {
+      "valid": 1583,
+      "invalid": 2572
+    }
+  },
+  {
     "name": "prhbilm2a",
-    "name_cs": "prhbilm2a",
-    "variable": "prhbilm2a",
     "dataset": "inno_h",
     "label": "Amount of Assets Used or Sold (last month)",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "200",
-        "500",
-        "1100",
-        "3971.35416666667",
-        "4625",
-        "30000",
-        "3197",
-        "48",
-        "3197"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3196,
+        1
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "prhpfandl": {
+    "scale": "number",
+    "label_de": "Höhe der Vermögensbestände (letzter Monat)",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 200.0,
+      "1st Qu.": 500.0,
+      "Median": 1100.0,
+      "Mean": 3971.3541666666665,
+      "3rd Qu.": 4625.0,
+      "Max.": 30000.0,
+      "valid": 48,
+      "invalid": 4107
+    }
+  },
+  {
     "name": "prhpfandl",
-    "name_cs": "prhpfandl",
-    "variable": "prhpfandl",
     "dataset": "inno_h",
     "label": "Pawnshop used (last year)",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         2,
         3,
         15,
         3225
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3240",
-        "5"
       ]
     },
     "scale": "cat",
-    "label_de": "Pfandleihhaus genutzt (letztes Jahr)"
-  },
-  "im_os": {
+    "label_de": "Pfandleihhaus genutzt (letztes Jahr)",
     "study": "soep-is",
+    "statistics": {
+      "valid": 3240,
+      "invalid": 915
+    }
+  },
+  {
     "name": "im_os",
-    "name_cs": "im_os",
-    "variable": "im_os",
     "dataset": "inno_h",
     "label": "Innovative Module: Outsourcing",
     "categories": {
-      "frequencies": [
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         0,
-        3245
+        1
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
         "[0] Does Not Apply",
         "[1] Does Apply"
       ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Trifft nicht zu",
+        "[1] Trifft zu"
+      ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false
       ],
-      "values": [
-        "0",
-        "1"
-      ],
-      "labels_de": [
-        "[0] Trifft nicht zu",
-        "[1] Trifft zu"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3245",
-        "0"
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        910,
+        3245
       ]
     },
     "scale": "cat",
-    "label_de": "Innovatives Modul: Outsourcing"
-  },
-  "ossplit": {
+    "label_de": "Innovatives Modul: Outsourcing",
     "study": "soep-is",
+    "statistics": {
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
     "name": "ossplit",
-    "name_cs": "ossplit",
-    "variable": "ossplit",
     "dataset": "inno_h",
     "label": "Outsourcing Split",
     "categories": {
-      "frequencies": [
-        2,
-        1655,
-        1588
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "Split 1",
-        "Split 2"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Split 1",
+        "[2] Split 2"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Split 1",
+        "[2] Split 2"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2,
+        0,
+        1655,
+        1588
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Outsourcing Split",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 912
+    }
+  },
+  {
+    "name": "oshhilf1",
+    "dataset": "inno_h",
+    "label": "Household Help Last 3 Months",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Split 1",
-        "Split 2"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Outsourcing Split"
-  },
-  "oshhilf1": {
-    "study": "soep-is",
-    "name": "oshhilf1",
-    "name_cs": "oshhilf1",
-    "variable": "oshhilf1",
-    "dataset": "inno_h",
-    "label": "Household Help Last 3 Months",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         2,
         3,
         245,
         2967,
         28
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe letzten 3 Monate",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3240,
+      "invalid": 915
+    }
+  },
+  {
+    "name": "oshhilf2",
+    "dataset": "inno_h",
+    "label": "Household Help Lives In Household",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3240",
-        "5"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe letzten 3 Monate"
-  },
-  "oshhilf2": {
-    "study": "soep-is",
-    "name": "oshhilf2",
-    "name_cs": "oshhilf2",
-    "variable": "oshhilf2",
-    "dataset": "inno_h",
-    "label": "Household Help Lives In Household",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3000,
         1,
         8,
         236,
         0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe lebt im HH",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3911
+    }
+  },
+  {
+    "name": "oshhilf3",
+    "dataset": "inno_h",
+    "label": "Household Help Hours/Month",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3003,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Stunden/Monat",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 6.0,
+      "Median": 8.0,
+      "Mean": 11.351239669421487,
+      "3rd Qu.": 12.0,
+      "Max.": 75.0,
+      "valid": 242,
+      "invalid": 3913
+    }
+  },
+  {
+    "name": "oshhilf4",
+    "dataset": "inno_h",
+    "label": "Household Help Hours/Month Do not know",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3242,
+        3,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe Stunden/Monat Weiß nicht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 0,
+      "invalid": 4155
+    }
+  },
+  {
+    "name": "oshhilf5",
+    "dataset": "inno_h",
+    "label": "Household Help Expsenses/Month",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        1,
+        3017,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Haushaltshilfe Kosten/Monat",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 8.0,
+      "1st Qu.": 72.0,
+      "Median": 120.0,
+      "Mean": 150.2907488986784,
+      "3rd Qu.": 180.0,
+      "Max.": 2000.0,
+      "valid": 227,
+      "invalid": 3928
+    }
+  },
+  {
+    "name": "oshhilf6",
+    "dataset": "inno_h",
+    "label": "Household Help Expsenses/Month Do not know",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3228,
+        11,
+        6
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe Kosten/Monat Weiß nicht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 4149
+    }
+  },
+  {
+    "name": "oshhilf7",
+    "dataset": "inno_h",
+    "label": "Household Help Gender",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Male",
+        "[2] Female",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe lebt im HH"
-  },
-  "oshhilf3": {
-    "study": "soep-is",
-    "name": "oshhilf3",
-    "name_cs": "oshhilf3",
-    "variable": "oshhilf3",
-    "dataset": "inno_h",
-    "label": "Household Help Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "6",
-        "8",
-        "11.3512396694215",
-        "12",
-        "75",
-        "3003",
-        "242",
-        "3003"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltshilfe Stunden/Monat"
-  },
-  "oshhilf4": {
-    "study": "soep-is",
-    "name": "oshhilf4",
-    "name_cs": "oshhilf4",
-    "variable": "oshhilf4",
-    "dataset": "inno_h",
-    "label": "Household Help Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oshhilf5": {
-    "study": "soep-is",
-    "name": "oshhilf5",
-    "name_cs": "oshhilf5",
-    "variable": "oshhilf5",
-    "dataset": "inno_h",
-    "label": "Household Help Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "8",
-        "72",
-        "120",
-        "150.290748898678",
-        "180",
-        "2000",
-        "3018",
-        "227",
-        "3018"
-      ]
-    },
-    "scale": "",
-    "label_de": "Haushaltshilfe Kosten/Monat"
-  },
-  "oshhilf6": {
-    "study": "soep-is",
-    "name": "oshhilf6",
-    "name_cs": "oshhilf6",
-    "variable": "oshhilf6",
-    "dataset": "inno_h",
-    "label": "Household Help Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oshhilf7": {
-    "study": "soep-is",
-    "name": "oshhilf7",
-    "name_cs": "oshhilf7",
-    "variable": "oshhilf7",
-    "dataset": "inno_h",
-    "label": "Household Help Gender",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3000,
         1,
         15,
         228,
         1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe Geschlecht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3911
+    }
+  },
+  {
+    "name": "oshhilf8",
+    "dataset": "inno_h",
+    "label": "Household Help German Origin",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Male",
-        "Female",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] German",
+        "[2] Not German",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Deutsch",
+        "[2] Nicht Deutsch",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe Geschlecht"
-  },
-  "oshhilf8": {
-    "study": "soep-is",
-    "name": "oshhilf8",
-    "name_cs": "oshhilf8",
-    "variable": "oshhilf8",
-    "dataset": "inno_h",
-    "label": "Household Help German Origin",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3000,
         1,
         142,
         101,
         1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe dt. Herkunft",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 244,
+      "invalid": 3911
+    }
+  },
+  {
+    "name": "oshhilf9",
+    "dataset": "inno_h",
+    "label": "Household Help Through Company/Agency",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
-        "German",
-        "Not German",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "244",
-        "3001"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe dt. Herkunft"
-  },
-  "oshhilf9": {
-    "study": "soep-is",
-    "name": "oshhilf9",
-    "name_cs": "oshhilf9",
-    "variable": "oshhilf9",
-    "dataset": "inno_h",
-    "label": "Household Help Through Company/Agency",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3000,
         2,
         35,
         203,
         5
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "243",
-        "3002"
       ]
     },
     "scale": "cat",
-    "label_de": "Haushaltshilfe bei Firma/Agentur"
-  },
-  "oshhilf10a": {
+    "label_de": "Haushaltshilfe bei Firma/Agentur",
     "study": "soep-is",
+    "statistics": {
+      "valid": 243,
+      "invalid": 3912
+    }
+  },
+  {
     "name": "oshhilf10a",
-    "name_cs": "oshhilf10a",
-    "variable": "oshhilf10a",
     "dataset": "inno_h",
     "label": "Household Help Numeral House Number",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Same Answers A and B",
+        "[2] Different Answers A and B"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gleiche Antworten bei A und B",
+        "[2] Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3153,
         12,
         41,
         39
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushaltshilfe Ziffer Hausnr.",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 80,
+      "invalid": 4075
+    }
+  },
+  {
+    "name": "oshhilf10b",
+    "dataset": "inno_h",
+    "label": "Household Help Legal",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "-1",
-        "Same Answers A and B",
-        "Different Answers A and B"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "80",
-        "3165"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Haushaltshilfe Ziffer Hausnr."
-  },
-  "oshhilf10b": {
-    "study": "soep-is",
-    "name": "oshhilf10b",
-    "name_cs": "oshhilf10b",
-    "variable": "oshhilf10b",
-    "dataset": "inno_h",
-    "label": "Household Help Legal",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3134,
         1,
         36,
         69,
         5
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "110",
-        "3135"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "oskibet1": {
+    "label_de": "Haushaltshilfe offiziell beschäftigt",
     "study": "soep-is",
+    "statistics": {
+      "valid": 110,
+      "invalid": 4045
+    }
+  },
+  {
     "name": "oskibet1",
-    "name_cs": "oskibet1",
-    "variable": "oskibet1",
     "dataset": "inno_h",
     "label": "Child Care Last 3 Months",
     "categories": {
-      "frequencies": [
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
         2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2,
+        0,
         21,
         3206,
         16
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
       ]
     },
     "scale": "cat",
-    "label_de": "Kinderbetreuung letzten 3 Monate"
-  },
-  "oskibet2": {
+    "label_de": "Kinderbetreuung letzten 3 Monate",
     "study": "soep-is",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 912
+    }
+  },
+  {
     "name": "oskibet2",
-    "name_cs": "oskibet2",
-    "variable": "oskibet2",
     "dataset": "inno_h",
     "label": "Child Carer Lives in Household",
     "categories": {
-      "frequencies": [
-        3224,
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         1,
-        20,
-        0
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3224,
+        0,
+        1,
+        20,
+        0
       ]
     },
     "scale": "cat",
-    "label_de": "Kinderbetreuung lebt im HH"
-  },
-  "oskibet3": {
+    "label_de": "Kinderbetreuung lebt im HH",
     "study": "soep-is",
+    "statistics": {
+      "valid": 21,
+      "invalid": 4134
+    }
+  },
+  {
     "name": "oskibet3",
-    "name_cs": "oskibet3",
-    "variable": "oskibet3",
     "dataset": "inno_h",
     "label": "Child Care Hours/Month",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "2",
-        "10",
-        "20",
-        "30.45",
-        "26.25",
-        "120",
-        "3225",
-        "20",
-        "3225"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3225,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "Kinderbetreuung Stunden/Monat"
-  },
-  "oskibet4": {
+    "scale": "number",
+    "label_de": "Kinderbetreuung Stunden/Monat",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 2.0,
+      "1st Qu.": 10.0,
+      "Median": 20.0,
+      "Mean": 30.45,
+      "3rd Qu.": 26.25,
+      "Max.": 120.0,
+      "valid": 20,
+      "invalid": 4135
+    }
+  },
+  {
     "name": "oskibet4",
-    "name_cs": "oskibet4",
-    "variable": "oskibet4",
     "dataset": "inno_h",
     "label": "Child Care Hours/Month Do not know",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3244,
+        1,
+        0
+      ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oskibet5": {
+    "scale": "cat",
+    "label_de": "Kinderbetreuung Stunden/Monat Weiß nicht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 0,
+      "invalid": 4155
+    }
+  },
+  {
     "name": "oskibet5",
-    "name_cs": "oskibet5",
-    "variable": "oskibet5",
     "dataset": "inno_h",
     "label": "Child Care Expsenses/Month",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "35",
-        "100",
-        "150",
-        "190.809523809524",
-        "270",
-        "600",
-        "3224",
-        "21",
-        "3224"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3224,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "Kinderbetreuung Kosten/Monat"
-  },
-  "oskibet6": {
+    "scale": "number",
+    "label_de": "Kinderbetreuung Kosten/Monat",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 35.0,
+      "1st Qu.": 100.0,
+      "Median": 150.0,
+      "Mean": 190.8095238095238,
+      "3rd Qu.": 270.0,
+      "Max.": 600.0,
+      "valid": 21,
+      "invalid": 4134
+    }
+  },
+  {
     "name": "oskibet6",
-    "name_cs": "oskibet6",
-    "variable": "oskibet6",
     "dataset": "inno_h",
     "label": "Child Care Expsenses/Month Do not know",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3245,
+        0,
+        0
+      ]
     },
-    "statistics": {
-      "names": [],
-      "values": []
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "oskibet7": {
+    "scale": "cat",
+    "label_de": "Kinderbetreuung Kosten/Monat Weiß nicht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 0,
+      "invalid": 4155
+    }
+  },
+  {
     "name": "oskibet7",
-    "name_cs": "oskibet7",
-    "variable": "oskibet7",
     "dataset": "inno_h",
     "label": "Child Care Gender",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Male",
+        "[2] Female",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3224,
+        0,
         1,
         20,
         0
-      ],
-      "labels": [
-        "-2",
-        "Male",
-        "Female",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
       ]
     },
     "scale": "cat",
-    "label_de": "Kinderbetreuung Geschlecht"
-  },
-  "oskibet8": {
+    "label_de": "Kinderbetreuung Geschlecht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 21,
+      "invalid": 4134
+    }
+  },
+  {
     "name": "oskibet8",
-    "name_cs": "oskibet8",
-    "variable": "oskibet8",
     "dataset": "inno_h",
     "label": "Child Care German Origin",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] German",
+        "[2] Not German",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Deutsch",
+        "[2] Nicht Deutsch",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3224,
+        0,
         17,
         4,
         0
-      ],
-      "labels": [
-        "-2",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
       ]
     },
     "scale": "cat",
-    "label_de": "Kinderbetreuung dt. Herkunft"
-  },
-  "oskibet9": {
+    "label_de": "Kinderbetreuung dt. Herkunft",
     "study": "soep-is",
+    "statistics": {
+      "valid": 21,
+      "invalid": 4134
+    }
+  },
+  {
     "name": "oskibet9",
-    "name_cs": "oskibet9",
-    "variable": "oskibet9",
     "dataset": "inno_h",
     "label": "Child Care Through Company/Agency",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3224,
+        0,
         5,
         16,
         0
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "21",
-        "3224"
       ]
     },
     "scale": "cat",
-    "label_de": "Kinderbetreuung bei Firma/Agentur"
-  },
-  "oskibet10a": {
+    "label_de": "Kinderbetreuung bei Firma/Agentur",
     "study": "soep-is",
+    "statistics": {
+      "valid": 21,
+      "invalid": 4134
+    }
+  },
+  {
     "name": "oskibet10a",
-    "name_cs": "oskibet10a",
-    "variable": "oskibet10a",
     "dataset": "inno_h",
     "label": "Child Care Numeral House Number",
     "categories": {
-      "frequencies": [
-        3236,
-        4,
-        5
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
       ],
       "labels": [
-        "-2",
-        "Same Answers A and B",
-        "Different Answers A and B"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Same Answers A and B",
+        "[2] Different Answers A and B"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gleiche Antworten bei A und B",
+        "[2] Unterschiedliche Antworten bei A und B"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3236,
+        0,
+        4,
+        5
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Kinderbetreuung Ziffer Hausnr.",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 9,
+      "invalid": 4146
+    }
+  },
+  {
+    "name": "oskibet10b",
+    "dataset": "inno_h",
+    "label": "Child Care Legal",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Kinderbetreuung Ziffer Hausnr."
-  },
-  "oskibet10b": {
-    "study": "soep-is",
-    "name": "oskibet10b",
-    "name_cs": "oskibet10b",
-    "variable": "oskibet10b",
-    "dataset": "inno_h",
-    "label": "Child Care Legal",
-    "categories": {
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3238,
         1,
         3,
         3,
         0
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "3239"
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "osapfleg1": {
+    "label_de": "Kinderbetreuung offiziell beschäftigt",
     "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 4149
+    }
+  },
+  {
     "name": "osapfleg1",
-    "name_cs": "osapfleg1",
-    "variable": "osapfleg1",
     "dataset": "inno_h",
     "label": "Care of the Elderly Last 3 Months",
     "categories": {
-      "frequencies": [
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
         2,
-        33,
-        3199,
-        11
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3243",
-        "2"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege letzten 3 Monate"
-  },
-  "osapfleg2": {
-    "study": "soep-is",
-    "name": "osapfleg2",
-    "name_cs": "osapfleg2",
-    "variable": "osapfleg2",
-    "dataset": "inno_h",
-    "label": "Caregiver Lives In Household",
-    "categories": {
-      "frequencies": [
-        3212,
-        9,
-        24,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege lebt im HH"
-  },
-  "osapfleg3": {
-    "study": "soep-is",
-    "name": "osapfleg3",
-    "name_cs": "osapfleg3",
-    "variable": "osapfleg3",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Hours/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "15",
-        "20",
-        "49.6521739130435",
-        "55",
-        "210",
-        "3222",
-        "23",
-        "3222"
-      ]
-    },
-    "scale": "",
-    "label_de": "Altenpflege Stunden/Monat"
-  },
-  "osapfleg4": {
-    "study": "soep-is",
-    "name": "osapfleg4",
-    "name_cs": "osapfleg4",
-    "variable": "osapfleg4",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Hours/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osapfleg5": {
-    "study": "soep-is",
-    "name": "osapfleg5",
-    "name_cs": "osapfleg5",
-    "variable": "osapfleg5",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Expsenses/Month",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "6",
-        "200",
-        "245",
-        "500.941176470588",
-        "500",
-        "2000",
-        "3228",
-        "17",
-        "3228"
-      ]
-    },
-    "scale": "",
-    "label_de": "Altenpflege Kosten/Monat"
-  },
-  "osapfleg6": {
-    "study": "soep-is",
-    "name": "osapfleg6",
-    "name_cs": "osapfleg6",
-    "variable": "osapfleg6",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Expsenses/Month Do not know",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3236",
-        "9",
-        "3236"
-      ]
-    },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osapfleg7": {
-    "study": "soep-is",
-    "name": "osapfleg7",
-    "name_cs": "osapfleg7",
-    "variable": "osapfleg7",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Gender",
-    "categories": {
-      "frequencies": [
-        3212,
-        3,
-        30,
-        0
-      ],
-      "labels": [
-        "-2",
-        "Male",
-        "Female",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege Geschlecht"
-  },
-  "osapfleg8": {
-    "study": "soep-is",
-    "name": "osapfleg8",
-    "name_cs": "osapfleg8",
-    "variable": "osapfleg8",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly German Origin",
-    "categories": {
-      "frequencies": [
-        3212,
-        24,
-        8,
-        1
-      ],
-      "labels": [
-        "-2",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Altenpflege dt. Herkunft"
-  },
-  "osapfleg9": {
-    "study": "soep-is",
-    "name": "osapfleg9",
-    "name_cs": "osapfleg9",
-    "variable": "osapfleg9",
-    "dataset": "inno_h",
-    "label": "Care of the Elderly Through Company/Agency",
-    "categories": {
-      "frequencies": [
-        3212,
-        21,
-        9,
         3
       ],
       "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "33",
-        "3212"
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        2,
+        0,
+        33,
+        3199,
+        11
       ]
     },
     "scale": "cat",
-    "label_de": "Altenpflege bei Firma/Agentur"
-  },
-  "osapfleg10a": {
+    "label_de": "Altenpflege letzten 3 Monate",
     "study": "soep-is",
+    "statistics": {
+      "valid": 3243,
+      "invalid": 912
+    }
+  },
+  {
+    "name": "osapfleg2",
+    "dataset": "inno_h",
+    "label": "Caregiver Lives In Household",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3212,
+        0,
+        9,
+        24,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege lebt im HH",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 33,
+      "invalid": 4122
+    }
+  },
+  {
+    "name": "osapfleg3",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Hours/Month",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3222,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Stunden/Monat",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2.0,
+      "1st Qu.": 15.0,
+      "Median": 20.0,
+      "Mean": 49.65217391304348,
+      "3rd Qu.": 55.0,
+      "Max.": 210.0,
+      "valid": 23,
+      "invalid": 4132
+    }
+  },
+  {
+    "name": "osapfleg4",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Hours/Month Do not know",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3235,
+        4,
+        6
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege Stunden/Monat Weiß nicht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 4149
+    }
+  },
+  {
+    "name": "osapfleg5",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Expsenses/Month",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        1,
+        3227,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Altenpflege Kosten/Monat",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 6.0,
+      "1st Qu.": 200.0,
+      "Median": 245.0,
+      "Mean": 500.94117647058823,
+      "3rd Qu.": 500.0,
+      "Max.": 2000.0,
+      "valid": 17,
+      "invalid": 4138
+    }
+  },
+  {
+    "name": "osapfleg6",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Expsenses/Month Do not know",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3230,
+        6,
+        9
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege Kosten/Monat Weiß nicht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 9,
+      "invalid": 4146
+    }
+  },
+  {
+    "name": "osapfleg7",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Gender",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Male",
+        "[2] Female",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3212,
+        0,
+        3,
+        30,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege Geschlecht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 33,
+      "invalid": 4122
+    }
+  },
+  {
+    "name": "osapfleg8",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly German Origin",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] German",
+        "[2] Not German",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Deutsch",
+        "[2] Nicht Deutsch",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3212,
+        0,
+        24,
+        8,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege dt. Herkunft",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 33,
+      "invalid": 4122
+    }
+  },
+  {
+    "name": "osapfleg9",
+    "dataset": "inno_h",
+    "label": "Care of the Elderly Through Company/Agency",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3212,
+        0,
+        21,
+        9,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Altenpflege bei Firma/Agentur",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 33,
+      "invalid": 4122
+    }
+  },
+  {
     "name": "osapfleg10a",
-    "name_cs": "osapfleg10a",
-    "variable": "osapfleg10a",
     "dataset": "inno_h",
     "label": "Care of the Elderly Numeral House Number",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Same Answers A and B",
+        "[2] Different Answers A and B"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gleiche Antworten bei A und B",
+        "[2] Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3241,
         2,
         0,
         2
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Same Answers A and B",
-        "Different Answers A and B"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "2",
-        "3243"
       ]
     },
     "scale": "cat",
-    "label_de": "Altenpflege Ziffer Hausnr."
-  },
-  "osapfleg10b": {
+    "label_de": "Altenpflege Ziffer Hausnr.",
     "study": "soep-is",
+    "statistics": {
+      "valid": 2,
+      "invalid": 4153
+    }
+  },
+  {
     "name": "osapfleg10b",
-    "name_cs": "osapfleg10b",
-    "variable": "osapfleg10b",
     "dataset": "inno_h",
     "label": "Care of the Elderly Legal",
     "categories": {
-      "frequencies": [
-        3240,
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         1,
-        3,
-        1
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "5",
-        "3240"
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3240,
+        0,
+        1,
+        3,
+        1
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
-  },
-  "osgarta1": {
+    "label_de": "Altenpflege offiziell beschäftigt",
     "study": "soep-is",
+    "statistics": {
+      "valid": 5,
+      "invalid": 4150
+    }
+  },
+  {
     "name": "osgarta1",
-    "name_cs": "osgarta1",
-    "variable": "osgarta1",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Last 3 Months",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         2,
         1,
         94,
         3136,
         12
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "3242",
-        "3"
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit letzten 3 Monate"
-  },
-  "osgarta2": {
+    "label_de": "Gartenarbeit letzten 3 Monate",
     "study": "soep-is",
+    "statistics": {
+      "valid": 3242,
+      "invalid": 913
+    }
+  },
+  {
     "name": "osgarta2",
-    "name_cs": "osgarta2",
-    "variable": "osgarta2",
     "dataset": "inno_h",
     "label": "Gardener Lives In Household",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3151,
+        0,
         2,
         91,
         1
-      ],
-      "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit lebt im HH"
-  },
-  "osgarta3": {
+    "label_de": "Gartenarbeit lebt im HH",
     "study": "soep-is",
+    "statistics": {
+      "valid": 94,
+      "invalid": 4061
+    }
+  },
+  {
     "name": "osgarta3",
-    "name_cs": "osgarta3",
-    "variable": "osgarta3",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Hours/Month",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "1",
-        "2",
-        "3",
-        "6.56578947368421",
-        "8",
-        "46",
-        "3169",
-        "76",
-        "3169"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3169,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "Gartenarbeit Stunden/Monat"
-  },
-  "osgarta4": {
+    "scale": "number",
+    "label_de": "Gartenarbeit Stunden/Monat",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 2.0,
+      "Median": 3.0,
+      "Mean": 6.565789473684211,
+      "3rd Qu.": 8.0,
+      "Max.": 46.0,
+      "valid": 76,
+      "invalid": 4079
+    }
+  },
+  {
     "name": "osgarta4",
-    "name_cs": "osgarta4",
-    "variable": "osgarta4",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Hours/Month Do not know",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3235",
-        "10",
-        "3235"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3227,
+        8,
+        10
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osgarta5": {
+    "scale": "cat",
+    "label_de": "Gartenarbeit Stunden/Monat Weiß nicht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 10,
+      "invalid": 4145
+    }
+  },
+  {
     "name": "osgarta5",
-    "name_cs": "osgarta5",
-    "variable": "osgarta5",
     "dataset": "inno_h",
     "label": "Maintenance/Gardeningy Expsenses/Month",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "5",
-        "25",
-        "50",
-        "114.379746835443",
-        "120",
-        "1000",
-        "3166",
-        "79",
-        "3166"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3166,
+        0
       ]
     },
-    "scale": "",
-    "label_de": "Gartenarbeit Kosten/Monat"
-  },
-  "osgarta6": {
+    "scale": "number",
+    "label_de": "Gartenarbeit Kosten/Monat",
     "study": "soep-is",
+    "statistics": {
+      "Min.": 5.0,
+      "1st Qu.": 25.0,
+      "Median": 50.0,
+      "Mean": 114.37974683544304,
+      "3rd Qu.": 120.0,
+      "Max.": 1000.0,
+      "valid": 79,
+      "invalid": 4076
+    }
+  },
+  {
     "name": "osgarta6",
-    "name_cs": "osgarta6",
-    "variable": "osgarta6",
     "dataset": "inno_h",
     "label": "Maintenance/Gardeningy Expsenses/Month Do not know",
     "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": [],
-      "labels_de": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
       "values": [
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "1",
-        "3239",
-        "6",
-        "3239"
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3230,
+        9,
+        6
       ]
     },
-    "scale": "",
-    "label_de": "NA"
-  },
-  "osgarta7": {
+    "scale": "cat",
+    "label_de": "Gartenarbeit Kosten/Monat Weiß nicht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 4149
+    }
+  },
+  {
     "name": "osgarta7",
-    "name_cs": "osgarta7",
-    "variable": "osgarta7",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Gender",
     "categories": {
-      "frequencies": [
-        3151,
-        89,
-        5,
-        0
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "Male",
-        "Female",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Male",
+        "[2] Female",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "1",
-        "Weiblich",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3151,
+        0,
+        89,
+        5,
+        0
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit Geschlecht"
-  },
-  "osgarta8": {
+    "label_de": "Gartenarbeit Geschlecht",
     "study": "soep-is",
+    "statistics": {
+      "valid": 94,
+      "invalid": 4061
+    }
+  },
+  {
     "name": "osgarta8",
-    "name_cs": "osgarta8",
-    "variable": "osgarta8",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening German Origin",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] German",
+        "[2] Not German",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Deutsch",
+        "[2] Nicht Deutsch",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3151,
         1,
         79,
         11,
         3
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "German",
-        "Not German",
-        "Do not know"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Deutsch",
-        "Nicht Deutsch",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "93",
-        "3152"
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit dt. Herkunft"
-  },
-  "osgarta9": {
+    "label_de": "Gartenarbeit dt. Herkunft",
     "study": "soep-is",
+    "statistics": {
+      "valid": 93,
+      "invalid": 4062
+    }
+  },
+  {
     "name": "osgarta9",
-    "name_cs": "osgarta9",
-    "variable": "osgarta9",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Through Company/Agency",
     "categories": {
-      "frequencies": [
-        3151,
-        41,
-        53,
-        0
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
       ],
       "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
       ],
       "missings": [
-        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "94",
-        "3151"
+      "frequencies": [
+        0,
+        910,
+        0,
+        0,
+        3151,
+        0,
+        41,
+        53,
+        0
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit bei Firma/Agentur"
-  },
-  "osgarta10a": {
+    "label_de": "Gartenarbeit bei Firma/Agentur",
     "study": "soep-is",
+    "statistics": {
+      "valid": 94,
+      "invalid": 4061
+    }
+  },
+  {
     "name": "osgarta10a",
-    "name_cs": "osgarta10a",
-    "variable": "osgarta10a",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Numeral House Number",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Same Answers A and B",
+        "[2] Different Answers A and B"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Gleiche Antworten bei A und B",
+        "[2] Unterschiedliche Antworten bei A und B"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3212,
         3,
         20,
         10
-      ],
-      "labels": [
-        "-2",
-        "-1",
-        "Same Answers A and B",
-        "Different Answers A and B"
-      ],
-      "missings": [
-        false,
-        false,
-        false,
-        false
-      ],
-      "values": [
-        "-2",
-        "-1",
-        "1",
-        "2"
-      ],
-      "labels_de": [
-        "-2",
-        "-1",
-        "Gleiche Antworten bei A und B",
-        "Unterschiedliche Antworten bei A und B"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "30",
-        "3215"
       ]
     },
     "scale": "cat",
-    "label_de": "Gartenarbeit Ziffer Hausnr."
-  },
-  "osgarta10b": {
+    "label_de": "Gartenarbeit Ziffer Hausnr.",
     "study": "soep-is",
+    "statistics": {
+      "valid": 30,
+      "invalid": 4125
+    }
+  },
+  {
     "name": "osgarta10b",
-    "name_cs": "osgarta10b",
-    "variable": "osgarta10b",
     "dataset": "inno_h",
     "label": "Maintenance/Gardening Legal",
     "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Yes",
+        "[2] No",
+        "[3] Do not know"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein",
+        "[3] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
       "frequencies": [
+        0,
+        910,
+        0,
+        0,
         3225,
+        0,
         5,
         15,
         0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Gartenarbeit offiziell beschäftigt",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 20,
+      "invalid": 4135
+    }
+  },
+  {
+    "name": "im_pre17h",
+    "dataset": "inno_h",
+    "label": "Pretest: Living Conditions and Savings",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        0,
+        1
       ],
       "labels": [
-        "-2",
-        "Yes",
-        "No",
-        "Do not know"
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[0] Does Not Apply",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[0] Trifft nicht zu",
+        "[1] Trifft zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        578,
+        3577
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Pretest: Wohnumfeld und Sparen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4155,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "hteilna",
+    "dataset": "inno_h",
+    "label": "Reasons for participating",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[1] Other household members participate as well  want to contribute",
+        "[2] I want to stay loyal to the survey",
+        "[3] I do not want to disappoint the interviewer",
+        "[4] The scientific importance of participation",
+        "[5] Liking the compensation for the household",
+        "[6] Having fun participating",
+        "[7] Learning about oneself by participating",
+        "[8] Other"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[1] Andere Haushaltsmitglieder nehmen auch teil - möchte meinen Beitrag leisten",
+        "[2] Ich möchte der Befragung weiterhin die Treue halten",
+        "[3] Ich möchte den Interviewer nicht enttäuschen",
+        "[4] Die wissenschaftliche Bedeutung, teilzunehmen",
+        "[5] Gefallen am Haushaltsgeschenk oder dem Geldgeschenk",
+        "[6] Spaß an der Befragung",
+        "[7] Durch die Teilnahme an der Befragung lerne ich auch viel über mich selbst",
+        "[8] Sonstiges"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
         false
       ],
-      "values": [
-        "-2",
-        "1",
-        "2",
-        "3"
-      ],
-      "labels_de": [
-        "-2",
-        "Ja",
-        "Nein",
-        "3"
-      ]
-    },
-    "statistics": {
-      "names": [
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "20",
-        "3225"
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        0,
+        125,
+        1210,
+        468,
+        975,
+        116,
+        350,
+        230,
+        85
       ]
     },
     "scale": "cat",
-    "label_de": "NA"
+    "label_de": "Teilnahmegründe",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3559,
+      "invalid": 596
+    }
+  },
+  {
+    "name": "hhtypa",
+    "dataset": "inno_h",
+    "label": "Type of house",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[1] Single-family home",
+        "[2] Two-family home",
+        "[3] 3-5 family house",
+        "[4] 6-9 family house",
+        "[5] Apartment block with 10-19 households",
+        "[6] High-rise building with 20 or more households"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[1] Einfamilienhaus",
+        "[2] Zweifamilienhaus",
+        "[3] 3-5 Familienhaus",
+        "[4] 6-9 Familienhaus",
+        "[5] Wohnblock mit 10-19 Haushalten",
+        "[6] Hochhaus mit 20 und mehr Haushalten"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        0,
+        1263,
+        476,
+        480,
+        699,
+        505,
+        152
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haustyp",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3575,
+      "invalid": 580
+    }
+  },
+  {
+    "name": "hetage1a",
+    "dataset": "inno_h",
+    "label": "On which floor",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        1263,
+        45
+      ]
+    },
+    "scale": "number",
+    "label_de": "Etage",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 1.0,
+      "Median": 1.0,
+      "Mean": 1.744380784486558,
+      "3rd Qu.": 2.0,
+      "Max.": 44.0,
+      "valid": 2269,
+      "invalid": 1886
+    }
+  },
+  {
+    "name": "hwumpt",
+    "dataset": "inno_h",
+    "label": "Street characteristics: homogeneity",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Homogeneous street, buildings are mostly similar",
+        "[2] Not a homogeneous street, buildings differ",
+        "[3] Mostly commercial properties"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Homogen bebauter Straßenabschnitt, ähnlich bebaute Grundstücke",
+        "[2] Nicht homogen bebauter Straßenabschnitt, unterschiedlich bebaute Grundstücke",
+        "[3] Überwiegend gewerblich genutzte Häuser"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        198,
+        0,
+        2561,
+        778,
+        40
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Straßenabschnitt Homogenität",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3379,
+      "invalid": 776
+    }
+  },
+  {
+    "name": "hspar1a",
+    "dataset": "inno_h",
+    "label": "Saves to accrue wealth",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        2655,
+        0,
+        922
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen: Vermögensbildung",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 922,
+      "invalid": 3233
+    }
+  },
+  {
+    "name": "hspar1b",
+    "dataset": "inno_h",
+    "label": "Saves to prepare for sth (e.g., emergencies)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        1627,
+        0,
+        1950
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen: Vorsorge",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1950,
+      "invalid": 2205
+    }
+  },
+  {
+    "name": "hspar1",
+    "dataset": "inno_h",
+    "label": "No opportunity to save money",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        2221,
+        24,
+        1332
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen: Keine Möglichkeit, Geld zu sparen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 1332,
+      "invalid": 2823
+    }
+  },
+  {
+    "name": "hsparpt1",
+    "dataset": "inno_h",
+    "label": "Saving for: consumption / small purchases",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3512,
+        0,
+        65
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Konsum / kleine Anschaffungen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 65,
+      "invalid": 4090
+    }
+  },
+  {
+    "name": "hsparpt2",
+    "dataset": "inno_h",
+    "label": "Saving for: larger purchases (e.g., a car)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3471,
+        0,
+        106
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: größere Anschaffungen (z.B. Autokauf)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 106,
+      "invalid": 4049
+    }
+  },
+  {
+    "name": "hsparpt3",
+    "dataset": "inno_h",
+    "label": "Saving for: purchase / renovation of residential property",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3512,
+        0,
+        65
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Erwerb / Renovierung von Wohneigentum",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 65,
+      "invalid": 4090
+    }
+  },
+  {
+    "name": "hsparpt4",
+    "dataset": "inno_h",
+    "label": "Saving for: old age",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3451,
+        0,
+        126
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Altersvorsorge",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 126,
+      "invalid": 4029
+    }
+  },
+  {
+    "name": "hsparpt5",
+    "dataset": "inno_h",
+    "label": "Saving for: capital investment",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3532,
+        0,
+        45
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Kapitalanlage",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 45,
+      "invalid": 4110
+    }
+  },
+  {
+    "name": "hsparpt6",
+    "dataset": "inno_h",
+    "label": "Saving for: emergencies",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3405,
+        0,
+        172
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Notgroschen / Reserve",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 172,
+      "invalid": 3983
+    }
+  },
+  {
+    "name": "hsparpt7",
+    "dataset": "inno_h",
+    "label": "Saving for: education of children",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3552,
+        0,
+        25
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Ausbildung der Kinder",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 25,
+      "invalid": 4130
+    }
+  },
+  {
+    "name": "hsparpt8",
+    "dataset": "inno_h",
+    "label": "Saving for: vacation",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3455,
+        0,
+        122
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: Urlaub",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 122,
+      "invalid": 4033
+    }
+  },
+  {
+    "name": "hsparpt9",
+    "dataset": "inno_h",
+    "label": "Saving for: currently not saving",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] questionnaire version with modified filtering",
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        578,
+        0,
+        0,
+        3568,
+        6,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sparen für: spare aktuell kein Geld",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3,
+      "invalid": 4152
+    }
   }
-}
+]
