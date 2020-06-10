@@ -1,17 +1,20 @@
-from pprint import pprint
+import click
 
 from datapackage import Package
 from tableschema.exceptions import RelationError
 
-package = Package('metadata/datapackage.json')
+STUDY = "soep-core"
+VERSION = "v33"
 
-dataset_resource = package.get_resource('datasets')
-variable_resource = package.get_resource('variables')
+package = Package("metadata/datapackage.json")
 
-# pprint(dataset_resource.read(keyed=True, relations=True))
 
-analysis_units = package.get_resource('analysis_units').read(keyed=True)
-# pprint(analysis_units)
+@click.command()
+@click.argument("entity")
+def validate_entity(entity):
+    resource = package.get_resource(entity)
+    resource.check_relations()
 
-result = dataset_resource.check_relations()
-result = variable_resource.check_relations()
+
+if __name__ == "__main__":
+    validate_entity()
