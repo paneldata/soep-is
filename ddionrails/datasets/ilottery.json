@@ -142,7 +142,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennr. Spieler 1",
+    "label_de": "Unveränderliche Personennr. Spieler 1",
     "study": "soep-is",
     "statistics": {
       "Min.": 9018703.0,
@@ -194,7 +194,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennr. Spieler 2",
+    "label_de": "Unveränderliche Personennr. Spieler 2",
     "study": "soep-is",
     "statistics": {
       "Min.": 9016402.0,
@@ -1516,7 +1516,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betrag Entscheidungsblatt 1 fuer Spieler 1",
+    "label_de": "Betrag Entscheidungsblatt 1 für Spieler 1",
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
@@ -1724,7 +1724,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Zufallsentscheidung fuer Szenarien 1 und 2: Wer ist Spieler A?",
+    "label_de": "Zufallsentscheidung für Szenarien 1 und 2: Wer ist Spieler A?",
     "study": "soep-is",
     "statistics": {
       "valid": 260,
@@ -2390,7 +2390,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Uebergebener Betrag bei Gewinn",
+    "label_de": "Übergebener Betrag bei Gewinn",
     "study": "soep-is",
     "statistics": {
       "Min.": 5.0,

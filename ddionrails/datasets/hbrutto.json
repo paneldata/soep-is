@@ -137,9 +137,9 @@
         "[32] Supplementary Sample 2016"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -219,9 +219,9 @@
         "[2] East Germany"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -289,9 +289,9 @@
         "[5] New Household"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -375,7 +375,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Hoechste vergebene Personennummer im HH",
+    "label_de": "Höchste vergebene Personennummer im HH",
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
@@ -412,9 +412,9 @@
         "[0] No Interview"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -495,9 +495,9 @@
         "[12] Dec"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -609,7 +609,7 @@
         "[5] North Rhine-Westphalia",
         "[6] Hesse",
         "[7] Rhineland-Palatinate, Saarland",
-        "[8] Baden-Wuerttemberg",
+        "[8] Baden-Württemberg",
         "[9] Bavaria",
         "[10] Saarland",
         "[11] Berlin",
@@ -620,9 +620,9 @@
         "[16] Thuringia"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -738,9 +738,9 @@
         "[8] Info. Blocked"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -824,9 +824,9 @@
         "[4] Target Person"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -900,9 +900,9 @@
         "[4] 4 Interviewers"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -989,9 +989,9 @@
         "[9] 9+ Interview Contacts"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1081,9 +1081,9 @@
         "[3] Written, By Mail"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1153,9 +1153,9 @@
         "[2] Makeup Intv. Ok"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1220,9 +1220,9 @@
         "[2] Cover Letter-With Response"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1298,9 +1298,9 @@
         "[9] CAPI"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1399,9 +1399,9 @@
         "[9] HH Never Reached"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1503,9 +1503,9 @@
         "[10] Cawi"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1657,9 +1657,9 @@
         "[98] QNA"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1678,10 +1678,10 @@
         "[25] n. real. N. erreichbar",
         "[26] n. real. Fragebogen n. auswertbar",
         "[27] n. real. 2x temp. Ausfall, aber BRUTTO",
-        "[29] n. real. Son. unklare Faelle",
+        "[29] n. real. Son. unklare Fälle",
         "[31] derz.n.bereit trotz tele. Zusage",
         "[32] derz.n.bereit Wird i.Folgewelle angespr",
-        "[39] derz.n.bereit Sonst. unklare Faelle",
+        "[39] derz.n.bereit Sonst. unklare Fälle",
         "[40] Endg. Verweig.",
         "[41] Endg. Verweig. 2x temp. Ausfall",
         "[44] Endgültige Verweigerung, da eine Befragung mit Papierfragebogen nicht möglich",
@@ -1695,7 +1695,7 @@
         "[83] N. angetroffen Lebt bei Freunden",
         "[84] N. angetroffen HH. in Adressermittl.",
         "[85] N. angetroffen Neue Adresse n.Feldende",
-        "[89] N. angetroffen Sonst. unklare Faelle.",
+        "[89] N. angetroffen Sonst. unklare Fälle.",
         "[90] HH nicht auffindbar",
         "[98] QNA"
       ],
@@ -1824,9 +1824,9 @@
         "[3] Processed 3 Stage"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1924,9 +1924,9 @@
         "[99] New HH, Fieldwork in initial shipm"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2031,9 +2031,9 @@
         "[0] Terminated/untreated HH"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2106,9 +2106,9 @@
         "[9] No Answer"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2119,7 +2119,7 @@
         "[5] Wohnhaus 5-8 Whg",
         "[6] Wohnhaus 9 u.m.Whg",
         "[7] Hochhaus",
-        "[8] sonstige Gebaeude",
+        "[8] sonstige Gebäude",
         "[9] Keine Angabe"
       ],
       "missings": [
@@ -2207,9 +2207,9 @@
         "[11] Dorm, Guesthouse or similar Accommodation"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2305,9 +2305,9 @@
         "[9] No Answer"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2434,9 +2434,9 @@
         "[1] Telephone Known"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2495,14 +2495,14 @@
         "Rural region"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Staedtischer Raum",
-        "[2] Laendlicher Raum"
+        "[1] Städtischer Raum",
+        "[2] Ländlicher Raum"
       ],
       "missings": [
         true,
@@ -2526,7 +2526,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Staedtischer / Laendlicher Raum nach Kreistyp des BBSR (Gebietsstand 31.12.2017)",
+    "label_de": "Städtischer / Ländlicher Raum nach Kreistyp des BBSR (Gebietsstand 31.12.2017)",
     "study": "soep-is",
     "statistics": {
       "valid": 44913,
@@ -2575,12 +2575,12 @@
     "label_de": "Interviewer ID",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1001012.0,
+      "Min.": 880063.0,
       "1st Qu.": 1002293.0,
       "Median": 1003619.0,
-      "Mean": 1003586.0713771002,
-      "3rd Qu.": 1004904.0,
-      "Max.": 1009216.0,
+      "Mean": 1003369.4446087913,
+      "3rd Qu.": 1004902.0,
+      "Max.": 1008823.0,
       "valid": 52734,
       "invalid": 0
     }
@@ -2630,9 +2630,9 @@
       "Min.": 311294.0,
       "1st Qu.": 1002239.0,
       "Median": 1003554.0,
-      "Mean": 998221.9444412348,
+      "Mean": 998155.2969360834,
       "3rd Qu.": 1004895.0,
-      "Max.": 1009216.0,
+      "Max.": 1008823.0,
       "valid": 51927,
       "invalid": 807
     }
@@ -2661,9 +2661,9 @@
         "[1] Email Address Known"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2689,7 +2689,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haushalt mit e-mail-Anschluss",
+    "label_de": "Haushalt mit E-Mail-Anschluss",
     "study": "soep-is",
     "statistics": {
       "valid": 11698,
@@ -2724,9 +2724,9 @@
         "[3] Person Could Not Be Interviewed Until 1st End Of Fieldwork"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2795,9 +2795,9 @@
         "[4] Money (Investment) And Retrospect"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2863,9 +2863,9 @@
         "[1] Houshold In Post-Editing CAWI"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2924,9 +2924,9 @@
         "[2] No Reference To The Film In The Cover Letter"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2990,9 +2990,9 @@
         "[3] Big Language Barrier"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3061,9 +3061,9 @@
         "[4] Rather Rundown/Neglected"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3135,9 +3135,9 @@
         "[4] Rather Rundown/Neglected"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3203,9 +3203,9 @@
         "[1] Yes, Barriers/Closed-off Area"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3262,9 +3262,9 @@
         "[1] Yes, Because Of Intercom"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3321,9 +3321,9 @@
         "[1] Yes, Other Problem"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3380,9 +3380,9 @@
         "[1] No Access Problem"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3445,9 +3445,9 @@
         "[4] Very Unpleasant, Partly Threatening"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3482,7 +3482,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Gefuehl Strasse/Wohnanlage",
+    "label_de": "Gefühl Strasse/Wohnanlage",
     "study": "soep-is",
     "statistics": {
       "valid": 12000,
@@ -3521,9 +3521,9 @@
         "[5] Industrial Area"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3604,9 +3604,9 @@
         "[7] High Rise"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",

@@ -142,7 +142,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "unveraenderliche Personennummer des Kindes",
+    "label_de": "unveränderliche Personennummer des Kindes",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153803.0,
@@ -194,7 +194,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "unveraenderliche Personennummer des Elternteiles",
+    "label_de": "unveränderliche Personennummer des Elternteiles",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
@@ -281,10 +281,7 @@
         99,
         201,
         202,
-        203,
-        204,
-        205,
-        206
+        203
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -303,10 +300,7 @@
         "[99] Bonn Intervention Panel older 48 mon.",
         "[201] SOEP-IS 0-23 months",
         "[202] SOEP-IS 24-47 months",
-        "[203] SOEP-IS older than 48 months",
-        "[204] Bonn Intervention Panel 0-23 months",
-        "[205] Bonn Intervention Panel 24-47 months",
-        "[206] Bonn Intervention Panel older than 48 months"
+        "[203] SOEP-IS older than 48 months"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -322,10 +316,10 @@
         "[82] SOEP bioage08b",
         "[97] Bonn Intervention Panel 0-23 Monate",
         "[98] Bonn Intervention Panel 24-47 Monate",
-        "[99] Bonn Intervention Panel aelter 48 Mon.",
+        "[99] Bonn Intervention Panel älter 48 Mon.",
         "[201] SOEP-IS 0-23 Monate",
         "[202] SOEP-IS 24-47 Monate",
-        "[203] SOEP-IS aelter als 48 Monate"
+        "[203] SOEP-IS älter als 48 Monate"
       ],
       "missings": [
         true,
@@ -334,9 +328,6 @@
         true,
         true,
         true,
-        false,
-        false,
-        false,
         false,
         false,
         false,
@@ -366,10 +357,7 @@
         0,
         780,
         777,
-        9426,
-        0,
-        0,
-        0
+        9426
       ]
     },
     "scale": "cat",
@@ -416,7 +404,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -447,7 +435,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit(Vor-)Singen Kinderlieder letzte 14 Tage",
+    "label_de": "Häufigkeit(Vor-)Singen Kinderlieder letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 124,
@@ -490,7 +478,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -521,7 +509,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Spaziergaenge an frischer Luft letzte 14 Tage",
+    "label_de": "Häufigkeit Spaziergänge an frischer Luft letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 124,
@@ -564,7 +552,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -595,7 +583,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Malen,Basteln letzte 14 Tage",
+    "label_de": "Häufigkeit Malen,Basteln letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 124,
@@ -638,7 +626,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -669,7 +657,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Geschichten vorlesen,erzaehlen letzte 14 Tage",
+    "label_de": "Häufigkeit Geschichten vorlesen,erzählen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 125,
@@ -712,7 +700,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -743,7 +731,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Bilderbuecher anschauen letzte 14 Tage",
+    "label_de": "Häufigkeit Bilderbücher anschauen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -786,7 +774,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -817,7 +805,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit zum Spielplatz gehen letzte 14 Tage",
+    "label_de": "Häufigkeit zum Spielplatz gehen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 124,
@@ -860,7 +848,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -891,7 +879,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Besuch bei anderen Familien letzte 14 Tage",
+    "label_de": "Häufigkeit Besuch bei anderen Familien letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 124,
@@ -934,7 +922,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -965,7 +953,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit einkaufen gehen letzte 14 Tage",
+    "label_de": "Häufigkeit einkaufen gehen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 125,
@@ -1008,7 +996,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -1039,7 +1027,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit zusammen Video,TV anschauen letzte 14 Tage",
+    "label_de": "Häufigkeit zusammen Video,TV anschauen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 123,
@@ -1082,7 +1070,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -1113,7 +1101,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Karten-/Wuerfelspiele spielen letzte 14 Tage",
+    "label_de": "Häufigkeit Karten-/Würfelspiele spielen letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 52,
@@ -1156,7 +1144,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -1187,7 +1175,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit zusammen PC-/Internetspiele letzte 14 Tage",
+    "label_de": "Häufigkeit zusammen PC-/Internetspiele letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 52,
@@ -1230,7 +1218,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -1304,7 +1292,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] taeglich",
+        "[1] täglich",
         "[2] mehrmals pro Woche",
         "[3] mind. einmal pro Woche",
         "[4] gar nicht"
@@ -1335,7 +1323,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Hfgkt Geschichte vorlesen/erzaehlen and.Sprache letzte 14 Tage",
+    "label_de": "Hfgkt Geschichte vorlesen/erzählen and.Sprache letzte 14 Tage",
     "study": "soep-is",
     "statistics": {
       "valid": 47,
@@ -1380,7 +1368,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1414,7 +1402,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Elternrolle: eigene Wuensche zugunsten des Kindes opfern",
+    "label_de": "Elternrolle: eigene Wünsche zugunsten des Kindes opfern",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -1459,7 +1447,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1493,7 +1481,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Elternrolle: K. will mich aergern, wenn es nicht gehorcht, Verbotenes tut",
+    "label_de": "Elternrolle: K. will mich ärgern, wenn es nicht gehorcht, Verbotenes tut",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -1538,7 +1526,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1617,7 +1605,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1696,7 +1684,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1775,7 +1763,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1854,7 +1842,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1888,7 +1876,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Elternrolle: fuer das Wohl des Kindes alles aushalten",
+    "label_de": "Elternrolle: für das Wohl des Kindes alles aushalten",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -1933,7 +1921,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -1967,7 +1955,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Elternrolle: wenn K. sich falsch verhaelt, dann mit Absicht",
+    "label_de": "Elternrolle: wenn K. sich falsch verhält, dann mit Absicht",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -2012,7 +2000,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -2046,7 +2034,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Elternrolle: oft all. stehen, liegen lasse, um K. zu unterstuetzen",
+    "label_de": "Elternrolle: oft all. stehen, liegen lasse, um K. zu unterstützen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -2091,7 +2079,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] stimme ueberhaupt nicht zu",
+        "[1] stimme überhaupt nicht zu",
         "[2] stimme eher nicht zu",
         "[3] weder noch",
         "[4] stimme eher zu",
@@ -2356,7 +2344,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2384,7 +2372,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Lebensumstaende stark veraendert",
+    "label_de": "Lebensumstände stark verändert",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -2430,7 +2418,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2458,7 +2446,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind bereitet Glueck und Freude",
+    "label_de": "Kind bereitet Glück und Freude",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -2504,7 +2492,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2532,7 +2520,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "oft am Ende der Kraefte",
+    "label_de": "oft am Ende der Kräfte",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -2578,7 +2566,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2652,7 +2640,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2726,7 +2714,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2754,7 +2742,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "ueber Kind neue Kontakte knuepfen",
+    "label_de": "über Kind neue Kontakte knüpfen",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -2800,7 +2788,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2874,7 +2862,7 @@
         "[1] stimme voll zu",
         "[2] stimme eher zu",
         "[3] stimme eher nicht zu",
-        "[4] stimme ueberhaupt nicht zu"
+        "[4] stimme überhaupt nicht zu"
       ],
       "missings": [
         true,
@@ -2902,7 +2890,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind viel Zaertlichkeit geben ist wichtig",
+    "label_de": "Kind viel Zärtlichkeit geben ist wichtig",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -3035,7 +3023,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Ort der Enbindung",
+    "label_de": "Ort der Entbindung",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -3430,7 +3418,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: Strafe androhen, aber nicht ausfuehren",
+    "label_de": "Erziehung: Strafe androhen, aber nicht ausführen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -3509,7 +3497,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: Wissen, wo das Kind sich ausser Haus aufhaelt",
+    "label_de": "Erziehung: Wissen, wo das Kind sich außer Haus aufhält",
     "study": "soep-is",
     "statistics": {
       "valid": 62,
@@ -3667,7 +3655,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: Kind troesten, wenn es traurig ist",
+    "label_de": "Erziehung: Kind trösten, wenn es traurig ist",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -3825,7 +3813,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: Kind fuer undankbar halten, weil es nicht gehorcht",
+    "label_de": "Erziehung: Kind für undankbar halten, weil es nicht gehorcht",
     "study": "soep-is",
     "statistics": {
       "valid": 62,
@@ -4141,7 +4129,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: beschimpfen, wenn wuetend auf es",
+    "label_de": "Erziehung: beschimpfen, wenn wütend auf es",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4299,7 +4287,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: Bestrafung abschwaechen/vorzeitig aufheben",
+    "label_de": "Erziehung: Bestrafung abschwächen/vorzeitig aufheben",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4378,7 +4366,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: enttaeuscht, traurig, wenn K. sich schlecht benommen hat",
+    "label_de": "Erziehung: enttäuscht, traurig, wenn K. sich schlecht benommen hat",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4457,7 +4445,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehung: faellt schwer, in der Erziehung konsequent zu sein",
+    "label_de": "Erziehung: fällt schwer, in der Erziehung konsequent zu sein",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4502,7 +4490,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4536,7 +4524,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: guter Schueler",
+    "label_de": "Erziehungsziel: guter Schüler",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4581,7 +4569,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4660,7 +4648,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4739,7 +4727,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4773,7 +4761,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: Verhalten wie normaler Junge/normales Maedchen",
+    "label_de": "Erziehungsziel: Verhalten wie normaler Junge/normales Mädchen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -4818,7 +4806,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4897,7 +4885,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -4976,7 +4964,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5055,7 +5043,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5134,7 +5122,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5168,7 +5156,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: Ruecksichtnahme auf andere",
+    "label_de": "Erziehungsziel: Rücksichtnahme auf andere",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -5213,7 +5201,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5247,7 +5235,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: Gehorsam gegenueber Eltern",
+    "label_de": "Erziehungsziel: Gehorsam gegenüber Eltern",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -5292,7 +5280,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5326,7 +5314,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: gutes Urteilsvermoegen",
+    "label_de": "Erziehungsziel: gutes Urteilsvermögen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -5371,7 +5359,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5450,7 +5438,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5484,7 +5472,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: Bemuehen, Ziele zu erreichen",
+    "label_de": "Erziehungsziel: Bemühen, Ziele zu erreichen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -5529,7 +5517,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5563,7 +5551,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: Faehigkeit, sich in Gruppen einfuegen",
+    "label_de": "Erziehungsziel: Fähigkeit, sich in Gruppen einfügen",
     "study": "soep-is",
     "statistics": {
       "valid": 63,
@@ -5608,7 +5596,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5642,7 +5630,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Erziehungsziel: sich gegen Widerstaende durchzusetzen",
+    "label_de": "Erziehungsziel: sich gegen Widerstände durchzusetzen",
     "study": "soep-is",
     "statistics": {
       "valid": 62,
@@ -5687,7 +5675,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5766,7 +5754,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -5845,7 +5833,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht wichtig",
+        "[1] überhaupt nicht wichtig",
         "[2] eher unwichtig",
         "[3] weder noch",
         "[4] eher wichtig",
@@ -6017,7 +6005,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Koerperliches Befinden letz.Drittel der SS",
+    "label_de": "Körperliches Befinden letz.Drittel der SS",
     "study": "soep-is",
     "statistics": {
       "valid": 106,
@@ -6091,7 +6079,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Koerperliches Befinden erste 3 Monate n.G.",
+    "label_de": "Körperliches Befinden erste 3 Monate n.G.",
     "study": "soep-is",
     "statistics": {
       "valid": 107,
@@ -6331,7 +6319,8 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        0
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -6339,7 +6328,17 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[de] [0] keine"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] keine"
       ],
       "missings": [
         true,
@@ -6347,7 +6346,8 @@
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         0,
@@ -6355,19 +6355,14 @@
         0,
         0,
         0,
-        1
+        1,
+        96
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Dauer KHausaufent. i. erst. 3 Mon. in Tg",
     "study": "soep-is",
     "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 2.4018691588785046,
-      "3rd Qu.": 0.0,
-      "Max.": 99.0,
       "valid": 107,
       "invalid": 11172
     }
@@ -6383,7 +6378,8 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        0
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -6391,7 +6387,17 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[de] [0] keine"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] keine"
       ],
       "missings": [
         true,
@@ -6399,7 +6405,8 @@
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         0,
@@ -6407,19 +6414,14 @@
         0,
         0,
         0,
-        3
+        3,
+        109
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Dauer Krankenhausaufent. i. d. letzten 12 Mon. in Tg",
     "study": "soep-is",
     "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.639344262295082,
-      "3rd Qu.": 0.0,
-      "Max.": 21.0,
       "valid": 122,
       "invalid": 11157
     }
@@ -6568,7 +6570,8 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        0
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -6576,7 +6579,17 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[de] [0] keine"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] keine"
       ],
       "missings": [
         true,
@@ -6584,7 +6597,8 @@
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         0,
@@ -6592,19 +6606,14 @@
         0,
         0,
         0,
-        77
+        77,
+        19
       ]
     },
-    "scale": "number",
-    "label_de": "Anzahl aerztl. Hilfe i. d. ersten 3 Monaten",
+    "scale": "cat",
+    "label_de": "Anzahl ärztl. Hilfe i. d. ersten 3 Monaten",
     "study": "soep-is",
     "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 2.225806451612903,
-      "3rd Qu.": 2.0,
-      "Max.": 20.0,
       "valid": 31,
       "invalid": 11248
     }
@@ -6620,7 +6629,8 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        0
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -6628,7 +6638,17 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[de] [0] keine"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] keine"
       ],
       "missings": [
         true,
@@ -6636,7 +6656,8 @@
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         0,
@@ -6644,19 +6665,14 @@
         0,
         0,
         0,
-        52
+        52,
+        8
       ]
     },
-    "scale": "number",
-    "label_de": "Anzahl aerztl. Hilfe i. d. letzten 3 Monaten",
+    "scale": "cat",
+    "label_de": "Anzahl ärztl. Hilfe i. d. letzten 3 Monaten",
     "study": "soep-is",
     "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 1.0,
-      "Median": 1.0,
-      "Mean": 1.6923076923076923,
-      "3rd Qu.": 2.5,
-      "Max.": 6.0,
       "valid": 39,
       "invalid": 11240
     }
@@ -6723,7 +6739,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind laeuft Treppen vorwaerts hinunter",
+    "label_de": "Kind läuft Treppen vorwärts hinunter",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -6792,7 +6808,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind oeffnet Tueren mit Tuerklinke",
+    "label_de": "Kind öffnet Türen mit Türklinke",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -6861,7 +6877,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind klettert auf Klettergeruste und hohe Spielgeraete",
+    "label_de": "Kind klettert auf Klettergeruste und hohe Spielgeräte",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -7094,7 +7110,7 @@
         "[-1] keine Angabe",
         "[1] eher ungeplant",
         "[2] eher geplant",
-        "[3] erfolgte mit med. Unterstuetzung"
+        "[3] erfolgte mit med. Unterstützung"
       ],
       "missings": [
         true,
@@ -7313,7 +7329,7 @@
         "[2] Zweiter Schwangerschaftsmonat",
         "[3] Dritter Schwangerschaftsmonat",
         "[4] Vierte Schwangerschaftsmonat",
-        "[5] Fuenfter Schwangerschaftsmonat",
+        "[5] Fünfter Schwangerschaftsmonat",
         "[6] Sechster Schwangerschaftsmonat",
         "[7] Siebter Schwangerschaftsmonat",
         "[8] Achter Schwangerschaftsmonat",
@@ -7959,7 +7975,7 @@
         "[348] 2011 Dez",
         "[349] 2012 Jan",
         "[350] 2012 Feb",
-        "[351] 2012 Mae",
+        "[351] 2012 Mä",
         "[352] 2012 Apr",
         "[353] 2012 Mai",
         "[354] 2012 Jun",
@@ -7971,7 +7987,7 @@
         "[360] 2012 Dez",
         "[361] 2013 Jan",
         "[362] 2013 Feb",
-        "[363] 2013 Mae",
+        "[363] 2013 Mä",
         "[364] 2013 Apr",
         "[365] 2013 Mai",
         "[366] 2013 Jun",
@@ -7983,7 +7999,7 @@
         "[372] 2013 Dez",
         "[373] 2014 Jan",
         "[374] 2014 Feb",
-        "[375] 2014 Mae",
+        "[375] 2014 Mä",
         "[376] 2014 Apr",
         "[377] 2014 Mai",
         "[378] 2014 Jun",
@@ -7995,7 +8011,7 @@
         "[384] 2014 Dez",
         "[385] 2015 Jan",
         "[386] 2015 Feb",
-        "[387] 2015 Mae",
+        "[387] 2015 Mä",
         "[388] 2015 Apr",
         "[389] 2015 Mai",
         "[390] 2015 Jun",
@@ -8007,7 +8023,7 @@
         "[396] 2015 Dez",
         "[397] 2016 Jan",
         "[398] 2016 Feb",
-        "[399] 2016 Mae",
+        "[399] 2016 Mä",
         "[400] 2016 Apr",
         "[401] 2016 Mai",
         "[402] 2016 Jun",
@@ -8019,7 +8035,7 @@
         "[408] 2016 Dez",
         "[409] 2017 Jan",
         "[410] 2017 Feb",
-        "[411] 2017 Mae",
+        "[411] 2017 Mä",
         "[412] 2017 Apr",
         "[413] 2017 Mai",
         "[414] 2017 Jun",
@@ -8031,7 +8047,7 @@
         "[420] 2017 Dez",
         "[421] 2018 Jan",
         "[422] 2018 Feb",
-        "[423] 2018 Mae",
+        "[423] 2018 Mä",
         "[424] 2018 Apr",
         "[425] 2018 Mai",
         "[426] 2018 Jun",
@@ -9093,7 +9109,7 @@
         "[348] 2011 Dez",
         "[349] 2012 Jan",
         "[350] 2012 Feb",
-        "[351] 2012 Mae",
+        "[351] 2012 Mä",
         "[352] 2012 Apr",
         "[353] 2012 Mai",
         "[354] 2012 Jun",
@@ -9105,7 +9121,7 @@
         "[360] 2012 Dez",
         "[361] 2013 Jan",
         "[362] 2013 Feb",
-        "[363] 2013 Mae",
+        "[363] 2013 Mä",
         "[364] 2013 Apr",
         "[365] 2013 Mai",
         "[366] 2013 Jun",
@@ -9117,7 +9133,7 @@
         "[372] 2013 Dez",
         "[373] 2014 Jan",
         "[374] 2014 Feb",
-        "[375] 2014 Mae",
+        "[375] 2014 Mä",
         "[376] 2014 Apr",
         "[377] 2014 Mai",
         "[378] 2014 Jun",
@@ -9129,7 +9145,7 @@
         "[384] 2014 Dez",
         "[385] 2015 Jan",
         "[386] 2015 Feb",
-        "[387] 2015 Mae",
+        "[387] 2015 Mä",
         "[388] 2015 Apr",
         "[389] 2015 Mai",
         "[390] 2015 Jun",
@@ -9141,7 +9157,7 @@
         "[396] 2015 Dez",
         "[397] 2016 Jan",
         "[398] 2016 Feb",
-        "[399] 2016 Mae",
+        "[399] 2016 Mä",
         "[400] 2016 Apr",
         "[401] 2016 Mai",
         "[402] 2016 Jun",
@@ -9153,7 +9169,7 @@
         "[408] 2016 Dez",
         "[409] 2017 Jan",
         "[410] 2017 Feb",
-        "[411] 2017 Mae",
+        "[411] 2017 Mä",
         "[412] 2017 Apr",
         "[413] 2017 Mai",
         "[414] 2017 Jun",
@@ -9165,7 +9181,7 @@
         "[420] 2017 Dez",
         "[421] 2018 Jan",
         "[422] 2018 Feb",
-        "[423] 2018 Mae",
+        "[423] 2018 Mä",
         "[424] 2018 Apr",
         "[425] 2018 Mai",
         "[426] 2018 Jun",
@@ -9776,7 +9792,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betreuung durch Grosseltern (h/Woche)",
+    "label_de": "Betreuung durch Großeltern (h/Woche)",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
@@ -9828,7 +9844,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betreuung durch aeltere Geschwister (h/Woche)",
+    "label_de": "Betreuung durch ältere Geschwister (h/Woche)",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
@@ -10140,7 +10156,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betreuung in Hort und ausserschulischen Einrichtungen (h/Woche)",
+    "label_de": "Betreuung in Hort und außerschulischen Einrichtungen (h/Woche)",
     "study": "soep-is",
     "statistics": {
       "Min.": 2.0,
@@ -10311,7 +10327,7 @@
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] Maerz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -10514,7 +10530,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] maennlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -10746,7 +10762,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind beschaeftigt sich mit Rollenspielen",
+    "label_de": "Kind beschäftigt sich mit Rollenspielen",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -10815,7 +10831,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind zeigt Vorliebe fuer Spielgefaehrten/Freunde",
+    "label_de": "Kind zeigt Vorliebe für Spielgefährten/Freunde",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -10884,7 +10900,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind benennt eigene Gefuehle",
+    "label_de": "Kind benennt eigene Gefühle",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11022,7 +11038,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind bildet Saetze mit min. 2 Woertern",
+    "label_de": "Kind bildet Sätze mit min. 2 Wörtern",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11091,7 +11107,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind spricht in ganzen Saetzen",
+    "label_de": "Kind spricht in ganzen Sätzen",
     "study": "soep-is",
     "statistics": {
       "valid": 72,
@@ -11160,7 +11176,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind hoert einer Geschichte 5 Min. o. laenger aufm. zu",
+    "label_de": "Kind hört einer Geschichte 5 Min. o. länger aufm. zu",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11229,7 +11245,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ueberbringt einfache Nachrichten",
+    "label_de": "Kind überbringt einfache Nachrichten",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11298,7 +11314,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind isst selbstaendig mit Loeffel ohne zu kleckern",
+    "label_de": "Kind isst selbständig mit Löffel ohne zu kleckern",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11436,7 +11452,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind benuetzt fur grosses Geschaeft Toilette",
+    "label_de": "Kind benutzt für großes Geschäft Toilette",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11574,7 +11590,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind putzt sich selbst die Zaehne",
+    "label_de": "Kind putzt sich selbst die Zähne",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -11653,7 +11669,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Unterstuetzung durch den Partner",
+    "label_de": "Unterstützung durch den Partner",
     "study": "soep-is",
     "statistics": {
       "valid": 108,
@@ -11727,7 +11743,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind meist froehlich, zufrieden",
+    "label_de": "Kind meist fröhlich, zufrieden",
     "study": "soep-is",
     "statistics": {
       "valid": 179,
@@ -11801,7 +11817,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind leicht erregbar,weint haeufig",
+    "label_de": "Kind leicht erregbar,weint häufig",
     "study": "soep-is",
     "statistics": {
       "valid": 179,
@@ -11875,7 +11891,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind schwer zu troesten",
+    "label_de": "Kind schwer zu trösten",
     "study": "soep-is",
     "statistics": {
       "valid": 178,
@@ -12023,7 +12039,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind eher zurueckhaltend",
+    "label_de": "Kind eher zurückhaltend",
     "study": "soep-is",
     "statistics": {
       "valid": 71,
@@ -12097,7 +12113,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind gespraechig, redet gern",
+    "label_de": "Kind gesprächig, redet gern",
     "study": "soep-is",
     "statistics": {
       "valid": 73,
@@ -12171,7 +12187,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind zeigt Mitgefuehl, wenn andere traurig sind",
+    "label_de": "Kind zeigt Mitgefühl, wenn andere traurig sind",
     "study": "soep-is",
     "statistics": {
       "valid": 72,
@@ -12214,7 +12230,7 @@
         "[-1] keine Angabe",
         "[1] ja",
         "[2] nur selten, ausnahmsweise",
-        "[3] nein,grundsaetzlich nicht"
+        "[3] nein,grundsätzlich nicht"
       ],
       "missings": [
         true,
@@ -12504,7 +12520,7 @@
       ]
     },
     "scale": "number",
-    "label_de": " Alter des Kindes in Monaten",
+    "label_de": "Alter des Kindes in Monaten",
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
@@ -12549,7 +12565,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] maennlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -12672,7 +12688,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Koerpergroesse des Kindes in cm",
+    "label_de": "Körpergrösse des Kindes in cm",
     "study": "soep-is",
     "statistics": {
       "Min.": 30.0,
@@ -12887,7 +12903,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] keine dieser Untersuchungen durchgefuehrt",
+        "[0] keine dieser Untersuchungen durchgeführt",
         "[1] U1",
         "[2] U2",
         "[3] U3",
@@ -12933,7 +12949,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Letzte aerztliche Vorsorgeuntersuchung",
+    "label_de": "Letzte ärztliche Vorsorgeuntersuchung",
     "study": "soep-is",
     "statistics": {
       "valid": 869,
@@ -12952,16 +12968,9 @@
         -3,
         -2,
         -1,
-        0,
         1,
         2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
+        3
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -12970,16 +12979,9 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "none of these disorders",
         "sensory",
         "motor functions",
-        "neurological",
-        "speech",
-        "regulatory",
-        "chronic illness",
-        "physical disability",
-        "mental disability",
-        "other"
+        "neurological"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13001,13 +13003,6 @@
         true,
         false,
         false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
         false
       ],
       "frequencies": [
@@ -13017,20 +13012,13 @@
         0,
         33,
         1,
-        0,
         29,
         17,
-        808,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        808
       ]
     },
     "scale": "cat",
-    "label_de": "Anhaltspunkte fuer Stoerungen",
+    "label_de": "Anhaltspunkte für Störungen",
     "study": "soep-is",
     "statistics": {
       "valid": 854,
@@ -13089,7 +13077,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Wahrnehmung",
+    "label_de": "Störungen: Wahrnehmung",
     "study": "soep-is",
     "statistics": {
       "valid": 2,
@@ -13148,7 +13136,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Motorik",
+    "label_de": "Störungen: Motorik",
     "study": "soep-is",
     "statistics": {
       "valid": 14,
@@ -13207,7 +13195,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Neurolog. Stoerung",
+    "label_de": "Störungen: Neurolog. Störung",
     "study": "soep-is",
     "statistics": {
       "valid": 2,
@@ -13266,7 +13254,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Sprache",
+    "label_de": "Störungen: Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 5,
@@ -13325,7 +13313,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Regulation",
+    "label_de": "Störungen: Regulation",
     "study": "soep-is",
     "statistics": {
       "valid": 0,
@@ -13384,7 +13372,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: Chronische Krankheit",
+    "label_de": "Störungen: Chronische Krankheit",
     "study": "soep-is",
     "statistics": {
       "valid": 1,
@@ -13443,7 +13431,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: koerperliche Behinderung",
+    "label_de": "Störungen: körperliche Behinderung",
     "study": "soep-is",
     "statistics": {
       "valid": 6,
@@ -13502,7 +13490,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: geistige Behinderung",
+    "label_de": "Störungen: geistige Behinderung",
     "study": "soep-is",
     "statistics": {
       "valid": 0,
@@ -13561,7 +13549,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stoerungen: sonstige",
+    "label_de": "Störungen: sonstige",
     "study": "soep-is",
     "statistics": {
       "valid": 23,
@@ -13598,7 +13586,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] keine dieser Stoerungen"
+        "[1] keine dieser Störungen"
       ],
       "missings": [
         true,
@@ -13620,7 +13608,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Keine Einschraenken, Stoerungen, Behinderungen",
+    "label_de": "Keine Einschränken, Störungen, Behinderungen",
     "study": "soep-is",
     "statistics": {
       "valid": 841,
@@ -13684,7 +13672,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Einschraenkungen im Vergleich zu Gleichaltrigen",
+    "label_de": "Einschränkungen im Vergleich zu Gleichaltrigen",
     "study": "soep-is",
     "statistics": {
       "valid": 10229,
@@ -14038,7 +14026,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Mittelohrentzuendung",
+    "label_de": "Mittelohrentzündung",
     "study": "soep-is",
     "statistics": {
       "valid": 2134,
@@ -14274,7 +14262,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Schwerhoerigkeit",
+    "label_de": "Schwerhörigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 8,
@@ -14333,7 +14321,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Ernaehrungsstoerungen",
+    "label_de": "Ernährungsstörungen",
     "study": "soep-is",
     "statistics": {
       "valid": 252,
@@ -14451,7 +14439,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sonstige Stoerungen, Behinderungen",
+    "label_de": "Sonstige Störungen, Behinderungen",
     "study": "soep-is",
     "statistics": {
       "valid": 1048,
@@ -14510,7 +14498,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Keine Einschraenkungen, Stoerungen, Behinderungen",
+    "label_de": "Keine Einschränkungen, Störungen, Behinderungen",
     "study": "soep-is",
     "statistics": {
       "valid": 5444,
@@ -14587,8 +14575,7 @@
         -4,
         -3,
         -2,
-        -1,
-        1
+        -1
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -14596,16 +14583,7 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer",
-        "[1] does apply"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-1] no answer"
       ],
       "missings": [
         true,
@@ -14613,8 +14591,7 @@
         true,
         true,
         true,
-        true,
-        false
+        true
       ],
       "frequencies": [
         0,
@@ -14622,14 +14599,19 @@
         0,
         0,
         7377,
-        0,
-        84
+        0
       ]
     },
-    "scale": "cat",
+    "scale": "number",
     "label_de": "Betreuung durch Krippe / Kindergarten / Hort (in h/Tag)",
     "study": "soep-is",
     "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 3.0,
+      "Median": 5.0,
+      "Mean": 5.262173606210303,
+      "3rd Qu.": 7.0,
+      "Max.": 24.0,
       "valid": 2834,
       "invalid": 8445
     }
@@ -14922,7 +14904,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Keine Betreuung ausser durch die Befragungsperson",
+    "label_de": "Keine Betreuung außer durch die Befragungsperson",
     "study": "soep-is",
     "statistics": {
       "valid": 8077,
@@ -14961,7 +14943,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -14986,7 +14968,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist ruecksichtsvoll",
+    "label_de": "Kind ist rücksichtsvoll",
     "study": "soep-is",
     "statistics": {
       "valid": 6862,
@@ -15025,7 +15007,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15050,7 +15032,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist unruhig, ueberaktiv, kann nicht still sitzen",
+    "label_de": "Kind ist unruhig, überaktiv, kann nicht still sitzen",
     "study": "soep-is",
     "statistics": {
       "valid": 6862,
@@ -15089,7 +15071,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15153,7 +15135,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15178,7 +15160,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind hat oft Wutanfaelle, ist aufbrausend",
+    "label_de": "Kind hat oft Wutanfälle, ist aufbrausend",
     "study": "soep-is",
     "statistics": {
       "valid": 6862,
@@ -15217,7 +15199,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15242,7 +15224,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist Einzelgaenger, spielt meist alleine",
+    "label_de": "Kind ist Einzelgänger, spielt meist alleine",
     "study": "soep-is",
     "statistics": {
       "valid": 6861,
@@ -15281,7 +15263,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15306,7 +15288,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist hilfsbereit, wenn andere verletzt,krank,betruebt sind",
+    "label_de": "Kind ist hilfsbereit, wenn andere verletzt,krank,betrübt sind",
     "study": "soep-is",
     "statistics": {
       "valid": 6851,
@@ -15345,7 +15327,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15409,7 +15391,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15473,7 +15455,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15498,7 +15480,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist oft ungluecklich o. niedergeschlagen; weint haeufig",
+    "label_de": "Kind ist oft unglücklich o. niedergeschlagen; weint häufig",
     "study": "soep-is",
     "statistics": {
       "valid": 6856,
@@ -15537,7 +15519,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15601,7 +15583,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15665,7 +15647,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15690,7 +15672,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist in neuen Situationen nervoes,anklammernd",
+    "label_de": "Kind ist in neuen Situationen nervös,anklammernd",
     "study": "soep-is",
     "statistics": {
       "valid": 6853,
@@ -15729,7 +15711,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15754,7 +15736,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind wird von anderen gehaenselt o. schikaniert",
+    "label_de": "Kind wird von anderen gehänselt o. schikaniert",
     "study": "soep-is",
     "statistics": {
       "valid": 6821,
@@ -15793,7 +15775,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15857,7 +15839,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15921,7 +15903,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -15946,7 +15928,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind hat viele Aengste, fuerchtet sich leicht",
+    "label_de": "Kind hat viele Ängste, fürchtet sich leicht",
     "study": "soep-is",
     "statistics": {
       "valid": 6853,
@@ -15985,7 +15967,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -16010,7 +15992,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind fuehrt Aufgaben zu Ende, kann sich lange konzentrieren",
+    "label_de": "Kind führt Aufgaben zu Ende, kann sich lange konzentrieren",
     "study": "soep-is",
     "statistics": {
       "valid": 6842,
@@ -16049,7 +16031,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] ist eher  schuechtern",
+        "[0] ist eher  schüchtern",
         "[10] ist eher kontaktfreudig"
       ],
       "missings": [
@@ -16074,7 +16056,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist eher schuechtern, kontaktfreudig",
+    "label_de": "Kind ist eher schüchtern, kontaktfreudig",
     "study": "soep-is",
     "statistics": {
       "valid": 849,
@@ -16113,7 +16095,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] ist eher  gespraechig",
+        "[0] ist eher  gesprächig",
         "[10] ist eher still"
       ],
       "missings": [
@@ -16138,7 +16120,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist gespraechig/still",
+    "label_de": "Kind ist gesprächig/still",
     "study": "soep-is",
     "statistics": {
       "valid": 9465,
@@ -16266,7 +16248,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist eher trotzig,fuegsam",
+    "label_de": "Kind ist eher trotzig,fügsam",
     "study": "soep-is",
     "statistics": {
       "valid": 10311,
@@ -16433,7 +16415,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] ist gutmuetig",
+        "[0] ist gutmütig",
         "[10] ist leicht reizbar"
       ],
       "missings": [
@@ -16458,7 +16440,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist gutmuetig/leicht reizbar",
+    "label_de": "Kind ist gutmütig/leicht reizbar",
     "study": "soep-is",
     "statistics": {
       "valid": 9464,
@@ -16625,7 +16607,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] ist  zurueckgezogen",
+        "[0] ist  zurückgezogen",
         "[10] ist kontaktfreundig"
       ],
       "missings": [
@@ -16650,7 +16632,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist zurueckgezogen/kontaktfreudig",
+    "label_de": "Kind ist zurückgezogen/kontaktfreudig",
     "study": "soep-is",
     "statistics": {
       "valid": 9465,
@@ -16689,8 +16671,8 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] ist  aengstlich",
-        "[10] unaengstlich"
+        "[0] ist  ängstlich",
+        "[10] unängstlich"
       ],
       "missings": [
         true,
@@ -16714,7 +16696,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind ist aengstlich/unaengstlich",
+    "label_de": "Kind ist ängstlich/unängstlich",
     "study": "soep-is",
     "statistics": {
       "valid": 9462,
@@ -16960,7 +16942,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17024,7 +17006,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17088,7 +17070,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17152,7 +17134,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17275,7 +17257,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17398,7 +17380,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] ueberhaupt nicht",
+        "[1] überhaupt nicht",
         "[7] voll und ganz"
       ],
       "missings": [
@@ -17542,8 +17524,8 @@
         "[5] Gesamtschule",
         "[6] Berufsschule",
         "[7] Anderer Schultyp",
-        "[8] Foerderschule (ab 2015)",
-        "[9] Schule mit spez. paedag. Konzept (ab2015)"
+        "[8] Förderschule (ab 2015)",
+        "[9] Schule mit spez. pädag. Konzept (ab2015)"
       ],
       "missings": [
         true,
@@ -17629,7 +17611,7 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Grundschule",
-        "[2] Foerderschule",
+        "[2] Förderschule",
         "[3] Hauptschule",
         "[4] Realschule",
         "[5] Gymnasium",
@@ -17793,7 +17775,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kind hat Foerderbedarf",
+    "label_de": "Kind hat Förderbedarf",
     "study": "soep-is",
     "statistics": {
       "valid": 1540,
@@ -17839,7 +17821,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennr. Ankerkind",
+    "label_de": "Unveränderliche Personennr. Ankerkind",
     "study": "soep-is",
     "statistics": {
       "Min.": 49000003.0,
@@ -17891,7 +17873,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennr. Ankerkind 2",
+    "label_de": "Unveränderliche Personennr. Ankerkind 2",
     "study": "soep-is",
     "statistics": {
       "Min.": 49000407.0,
@@ -18002,7 +17984,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Balu_ID Ankerkind",
+    "label_de": "Unveränderliche Balu_ID Ankerkind",
     "study": "soep-is",
     "statistics": {
       "Min.": 100006.0,
@@ -18054,7 +18036,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Balu_ID Ankerkind 2",
+    "label_de": "Unveränderliche Balu_ID Ankerkind 2",
     "study": "soep-is",
     "statistics": {
       "Min.": 103756.0,
@@ -18113,9 +18095,9 @@
         "[12] 12th Grade"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18219,9 +18201,9 @@
         "[8] Does not apply, no grades in final report"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18230,7 +18212,7 @@
         "[3] Befriedigend",
         "[4] Ausreichend",
         "[5] Mangelhaft",
-        "[6] Ungenuegend",
+        "[6] Ungenügend",
         "[7] Hatte diese Fach nicht",
         "[8] Trifft nicht zu, keine Schulnoten im Zeugnis erhalten"
       ],
@@ -18313,9 +18295,9 @@
         "[8] Does not apply, no grades in final report"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18324,7 +18306,7 @@
         "[3] Befriedigend",
         "[4] Ausreichend",
         "[5] Mangelhaft",
-        "[6] Ungenuegend",
+        "[6] Ungenügend",
         "[7] Hatte diese Fach nicht",
         "[8] Trifft nicht zu, keine Schulnoten im Zeugnis erhalten"
       ],
@@ -18407,9 +18389,9 @@
         "[8] Does not apply, no grades in final report"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18418,7 +18400,7 @@
         "[3] Befriedigend",
         "[4] Ausreichend",
         "[5] Mangelhaft",
-        "[6] Ungenuegend",
+        "[6] Ungenügend",
         "[7] Hatte diese Fach nicht",
         "[8] Trifft nicht zu, keine Schulnoten im Zeugnis erhalten"
       ],
@@ -18488,12 +18470,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18557,12 +18539,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18626,12 +18608,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18697,12 +18679,12 @@
         "[1] Basic level",
         "[2] Advanced level",
         "[3] Unterricht im Klassenverband",
-        "[4] Don`t know"
+        "[4] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18771,12 +18753,12 @@
         "[1] Basic level",
         "[2] Advanced level",
         "[3] Unterricht im Klassenverband",
-        "[4] Don`t know"
+        "[4] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18845,12 +18827,12 @@
         "[1] Basic level",
         "[2] Advanced level",
         "[3] Unterricht im Klassenverband",
-        "[4] Don`t know"
+        "[4] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18919,12 +18901,12 @@
         "[1] Basic level",
         "[2] Advanced level",
         "[3] Unterricht im Klassenverband",
-        "[4] Don`t know"
+        "[4] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -18991,12 +18973,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19060,12 +19042,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19129,12 +19111,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19198,12 +19180,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19267,12 +19249,12 @@
         "[-1] no answer",
         "[1] Basic level",
         "[2] Advanced level",
-        "[3] Don`t know"
+        "[3] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19338,18 +19320,18 @@
         "[1] No",
         "[2] Yes, in one subject",
         "[3] Yes, in several subjects",
-        "[4] Don`t know"
+        "[4] Don't know"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Nein",
         "[2] Ja in einem Fach",
-        "[3] Ja, in mehreren Faechern",
+        "[3] Ja, in mehreren Fächern",
         "[4] Weiss nicht"
       ],
       "missings": [
@@ -19378,7 +19360,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "BIP ErgÃ¤nzungsunterricht",
+    "label_de": "BIP Ergänzungsunterricht",
     "study": "soep-is",
     "statistics": {
       "valid": 417,
@@ -19413,9 +19395,9 @@
         "[3] The primary school teacher"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19612,7 +19594,7 @@
         "[7] 2023",
         "[8] 2024",
         "[9] 2025",
-        "[10] spaeter",
+        "[10] später",
         "[11] hat die Schule schon verlassen"
       ],
       "missings": [
@@ -19662,34 +19644,22 @@
     "label": "BIP Already quit school, which year",
     "categories": {
       "values": [
-        -6,
         -5,
-        -4,
-        -3,
         -2,
         -1
       ],
       "labels": [
-        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the Questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer"
       ],
       "missings": [
         true,
         true,
-        true,
-        true,
-        true,
         true
       ],
       "frequencies": [
-        0,
         10481,
-        0,
-        0,
         794,
         0
       ]
@@ -19734,9 +19704,9 @@
         "[2] no"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19802,9 +19772,9 @@
         "[4] gymnasium, upper secondary school"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19870,9 +19840,9 @@
         "[1] does apply"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -19898,7 +19868,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "BIP Aufmerksamkeitsdefizit-/HyperaktivitÃ¤tsstÃ¶rung (ADHS)",
+    "label_de": "BIP Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS)",
     "study": "soep-is",
     "statistics": {
       "valid": 45,
@@ -19911,30 +19881,39 @@
     "label": "BIP does things that others find weird",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         1,
         5
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
         "[5] fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[5] Trifft voll zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
         true,
         true,
         true,
@@ -19942,7 +19921,10 @@
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         0,
         292,
@@ -19963,30 +19945,39 @@
     "label": "BIP likes to let imagination run free",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         1,
         5
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
         "[5] fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[5] Trifft voll zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
         true,
         true,
         true,
@@ -19994,7 +19985,10 @@
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         1,
         24,
@@ -20002,7 +19996,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "BIP Laesst seiner Phantasie gerne freien Lauf",
+    "label_de": "BIP Lässt seiner Phantasie gerne freien Lauf",
     "study": "soep-is",
     "statistics": {
       "valid": 797,
@@ -20015,30 +20009,39 @@
     "label": "BIP is not interested in theoretical discussions",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         1,
         5
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
         "[5] fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[5] Trifft voll zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
         true,
         true,
         true,
@@ -20046,7 +20049,10 @@
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         5,
         202,
@@ -20067,30 +20073,39 @@
     "label": "BIP likes to daydream",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         1,
         5
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
         "[5] fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[5] Trifft voll zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
         true,
         true,
         true,
@@ -20098,7 +20113,10 @@
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         3,
         119,
@@ -20106,7 +20124,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "BIP Haengt gerne Tagtraeumen nach",
+    "label_de": "BIP Hängt gerne Tagträumen nach",
     "study": "soep-is",
     "statistics": {
       "valid": 795,
@@ -20119,30 +20137,39 @@
     "label": "BIP has rather poor imagination",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         1,
         5
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
         "[5] fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[5] Trifft voll zu"
       ],
       "missings": [
+        true,
+        true,
+        true,
         true,
         true,
         true,
@@ -20150,7 +20177,10 @@
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         2,
         413,
@@ -20171,23 +20201,29 @@
     "label": "BIP Estimate of child's creativity in general",
     "categories": {
       "values": [
+        -6,
         -5,
+        -4,
+        -3,
         -2,
         -1,
         0,
         4
       ],
       "labels": [
+        "[-6] questionnaire version with modified filtering",
         "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
         "[0] not at all",
         "[4] extremely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -20198,11 +20234,17 @@
         true,
         true,
         true,
+        true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        0,
         10481,
+        0,
+        0,
         0,
         0,
         4,
@@ -20210,7 +20252,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "BIP Einschaetzung der allgemeinen Kreativitaet des Kindes",
+    "label_de": "BIP Einschätzung der allgemeinen Kreativität des Kindes",
     "study": "soep-is",
     "statistics": {
       "valid": 798,

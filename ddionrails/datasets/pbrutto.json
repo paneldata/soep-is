@@ -58,7 +58,7 @@
       "frequencies": []
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer",
+    "label_de": "Unveränderliche Personennummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
@@ -201,9 +201,9 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -613,30 +613,30 @@
         "[179] Malawi"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Deutschland",
-        "[2] TÃ¼rkei",
+        "[2] Türkei",
         "[3] Ex-Jugoslawien, soweit nicht differenzierter bekannt",
         "[4] Griechenland",
         "[5] Italien",
         "[6] Spanien",
-        "[10] Ãsterreich",
+        "[10] Österreich",
         "[11] Frankreich",
         "[12] Benelux",
-        "[13] DÃ¤nemark",
-        "[14] GroÃbritannien",
+        "[13] Dänemark",
+        "[14] Großbritannien",
         "[15] Schweden",
         "[16] Norwegen",
         "[17] Finnland",
         "[18] USA",
         "[19] Schweiz",
         "[20] Chile",
-        "[21] RumÃ¤nien",
+        "[21] Rumänien",
         "[22] Polen",
         "[23] Korea",
         "[24] Iran",
@@ -662,7 +662,7 @@
         "[44] Thailand",
         "[45] Jamaika",
         "[46] Saudi-Arabien",
-        "[47] Ãthiopien",
+        "[47] Äthiopien",
         "[48] Kolumbien",
         "[49] Ghana",
         "[50] Bangladesch",
@@ -696,12 +696,12 @@
         "[78] Ukraine",
         "[79] Algerien",
         "[80] Mosambik",
-        "[81] Ãgypten",
+        "[81] Ägypten",
         "[82] Tadschikistan",
         "[83] Vietnam",
         "[84] Somalia",
         "[85] Pakistan",
-        "[86] SÃ¼dafrika",
+        "[86] Südafrika",
         "[87] Vereinigte Arabische Emirate",
         "[88] El Salvador",
         "[89] Eritrea",
@@ -742,12 +742,12 @@
         "[124] Paraguay",
         "[125] Guinea",
         "[126] Kuwait",
-        "[127] ElfenbeinkÃ¼ste",
+        "[127] Elfenbeinküste",
         "[128] Malaysia",
         "[129] Samoa",
         "[130] Aserbaidschan",
         "[131] Seychellen",
-        "[132] WeiÃrussland",
+        "[132] Weißrussland",
         "[133] Uruguay",
         "[134] Bahamas",
         "[135] Uganda",
@@ -767,7 +767,7 @@
         "[149] Kurdistan",
         "[150] Liberia",
         "[151] Jemen",
-        "[152] PalÃ¤stina",
+        "[152] Palästina",
         "[153] Freistaat Danzig",
         "[154] Taiwan",
         "[155] Turkmenistan",
@@ -1166,7 +1166,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Staatsangehoerigkeit",
+    "label_de": "Staatsangehörigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 91616,
@@ -1547,30 +1547,30 @@
         "[179] Malawi"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Deutschland",
-        "[2] TÃ¼rkei",
+        "[2] Türkei",
         "[3] Ex-Jugoslawien, soweit nicht differenzierter bekannt",
         "[4] Griechenland",
         "[5] Italien",
         "[6] Spanien",
-        "[10] Ãsterreich",
+        "[10] Österreich",
         "[11] Frankreich",
         "[12] Benelux",
-        "[13] DÃ¤nemark",
-        "[14] GroÃbritannien",
+        "[13] Dänemark",
+        "[14] Großbritannien",
         "[15] Schweden",
         "[16] Norwegen",
         "[17] Finnland",
         "[18] USA",
         "[19] Schweiz",
         "[20] Chile",
-        "[21] RumÃ¤nien",
+        "[21] Rumänien",
         "[22] Polen",
         "[23] Korea",
         "[24] Iran",
@@ -1596,7 +1596,7 @@
         "[44] Thailand",
         "[45] Jamaika",
         "[46] Saudi-Arabien",
-        "[47] Ãthiopien",
+        "[47] Äthiopien",
         "[48] Kolumbien",
         "[49] Ghana",
         "[50] Bangladesch",
@@ -1630,12 +1630,12 @@
         "[78] Ukraine",
         "[79] Algerien",
         "[80] Mosambik",
-        "[81] Ãgypten",
+        "[81] Ägypten",
         "[82] Tadschikistan",
         "[83] Vietnam",
         "[84] Somalia",
         "[85] Pakistan",
-        "[86] SÃ¼dafrika",
+        "[86] Südafrika",
         "[87] Vereinigte Arabische Emirate",
         "[88] El Salvador",
         "[89] Eritrea",
@@ -1676,12 +1676,12 @@
         "[124] Paraguay",
         "[125] Guinea",
         "[126] Kuwait",
-        "[127] ElfenbeinkÃ¼ste",
+        "[127] Elfenbeinküste",
         "[128] Malaysia",
         "[129] Samoa",
         "[130] Aserbaidschan",
         "[131] Seychellen",
-        "[132] WeiÃrussland",
+        "[132] Weißrussland",
         "[133] Uruguay",
         "[134] Bahamas",
         "[135] Uganda",
@@ -1701,7 +1701,7 @@
         "[149] Kurdistan",
         "[150] Liberia",
         "[151] Jemen",
-        "[152] PalÃ¤stina",
+        "[152] Palästina",
         "[153] Freistaat Danzig",
         "[154] Taiwan",
         "[155] Turkmenistan",
@@ -2100,7 +2100,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "2. Staatsangehoerigkeit",
+    "label_de": "2. Staatsangehörigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 138,
@@ -2137,9 +2137,9 @@
         "[4] New Non-Core Sample Member"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2219,9 +2219,9 @@
         "[8] Converted From Category"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2341,9 +2341,9 @@
         "[2018] Survey Year 2018"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2469,16 +2469,16 @@
         "[8] Missed Several Previous Waves"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Trifft nicht zu",
         "[6] in akt. Welle wieder teilgen.",
         "[7] in akt. Welle nicht teilgen.",
-        "[8] Luecke ueber mehr. Vorwellen"
+        "[8] Lücke ueber mehr. Vorwellen"
       ],
       "missings": [
         true,
@@ -2506,7 +2506,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Lueckenbearbeitung",
+    "label_de": "Lückenbearbeitung",
     "study": "soep-is",
     "statistics": {
       "valid": 552,
@@ -2577,9 +2577,9 @@
         "[2018] Survey Year 2018"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2782,9 +2782,9 @@
         "[99] No Answer When Added"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2939,7 +2939,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Zugehoerigkeit zum HH",
+    "label_de": "Zugehörigkeit zum HH",
     "study": "soep-is",
     "statistics": {
       "valid": 92461,
@@ -2986,9 +2986,9 @@
         "[10] CAWI"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3083,9 +3083,9 @@
         "[9] Address Of HH Not Found"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3213,9 +3213,9 @@
         "[98] QNA"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3485,9 +3485,9 @@
         "[99] No Answer When Added"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3642,7 +3642,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Zugehoerigkeit zum HH im Vorjahr",
+    "label_de": "Zugehörigkeit zum HH im Vorjahr",
     "study": "soep-is",
     "statistics": {
       "valid": 76220,
@@ -3691,9 +3691,9 @@
         "[10] CAWI"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3829,9 +3829,9 @@
         "[98] QNA"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3980,9 +3980,9 @@
         "[9] Rejoined Panel HH"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4066,9 +4066,9 @@
         "[4] Target Person"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4103,7 +4103,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Info-Quelle fuer Adressermittlung",
+    "label_de": "Info-Quelle für Adressermittlung",
     "study": "soep-is",
     "statistics": {
       "valid": 999,
@@ -4464,14 +4464,14 @@
         "[9] Left Panel Before Biography"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] keine Biographie ausgefuellt da laenger dabei",
-        "[1] Biographie ausgefuellt",
+        "[0] keine Biographie ausgefüllt da länger dabei",
+        "[1] Biographie ausgefüllt",
         "[2] keine Biogr., Grund unbekannt",
         "[3] keine Biogr., gerade im Befragungsalter",
         "[4] keine Biogr., verweigert",
@@ -4529,7 +4529,7 @@
   {
     "name": "sample1",
     "dataset": "pbrutto",
-    "label": "SUBSAMPLE",
+    "label": "Subsample",
     "categories": {
       "values": [
         -6,
@@ -4564,9 +4564,9 @@
         "[32] S4 Supplementary 2016"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4650,9 +4650,9 @@
         "[4] Very Bad"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4724,9 +4724,9 @@
         "[4] Very Bad"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4802,14 +4802,14 @@
         "[6] Other"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Vollzeit erwerbstaetig",
-        "[2] Teilzeit erwerbstaetig",
+        "[1] Vollzeit erwerbstätig",
+        "[2] Teilzeit erwerbstätig",
         "[3] Arbeitslos gemeldet",
         "[4] Schule, Studium, Ausbildung",
         "[5] Rente",
@@ -4880,14 +4880,14 @@
         "[4] DJ Refused"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] DJ liegt vor",
-        "[2] DJ nicht moeglich",
+        "[2] DJ nicht möglich",
         "[4] DJ verweigert"
       ],
       "missings": [
@@ -4965,9 +4965,9 @@
         "[10] Biography from integrated Person-Biography-Questionaire"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5060,9 +5060,9 @@
         "[4] Money (Investment) And Retrospect"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5196,9 +5196,9 @@
         "[99] Relationship Unknown"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5385,9 +5385,9 @@
         "[99] Relationship Unknown"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5486,9 +5486,9 @@
         "[1] Anchor Child (Bonn Intervention Panel)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5553,9 +5553,9 @@
         "[5] Not asked about saliva sample because tubes were empty"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5632,13 +5632,13 @@
         "[4] No participation in SOEP-IS"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] App noch nicht verfuegbar",
+        "[0] App noch nicht verfügbar",
         "[1] EV liegt vor",
         "[2] EV liegt nicht vor",
         "[3] kein geeignetes Smartphone",
@@ -5709,9 +5709,9 @@
         "[4] not carried out"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5839,9 +5839,9 @@
         "[6] Unkown"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5882,7 +5882,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Uebereinstimmung vom Nachnamen bei Ehepaaren",
+    "label_de": "Übereinstimmung vom Nachnamen bei Ehepaaren",
     "study": "soep-is",
     "statistics": {
       "valid": 13960,
@@ -5913,9 +5913,9 @@
         "[1] Participated In The Experiment"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -5972,13 +5972,13 @@
         "[1] Changes In pvor Since Last Wave"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Aenderungen bei pvor zur Vorwelle"
+        "[1] Änderungen bei pvor zur Vorwelle"
       ],
       "missings": [
         true,
@@ -6000,7 +6000,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aenderung bei pvor zur Vorwelle",
+    "label_de": "Änderung bei pvor zur Vorwelle",
     "study": "soep-is",
     "statistics": {
       "valid": 71,
@@ -6031,13 +6031,13 @@
         "[1] Changes In pgeb Since Last Wave"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Aenderungen bei pgeb zur Vorwelle"
+        "[1] Änderungen bei pgeb zur Vorwelle"
       ],
       "missings": [
         true,
@@ -6059,7 +6059,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aenderung bei pgeb zur Vorwelle",
+    "label_de": "Änderung bei pgeb zur Vorwelle",
     "study": "soep-is",
     "statistics": {
       "valid": 75,
@@ -6090,13 +6090,13 @@
         "[1] Changes In sex Since Last Wave"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Aenderungen bei pgeb zur Vorwelle"
+        "[1] Änderungen bei pgeb zur Vorwelle"
       ],
       "missings": [
         true,
@@ -6118,7 +6118,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aenderung bei sex zur Vorwelle",
+    "label_de": "Änderung bei sex zur Vorwelle",
     "study": "soep-is",
     "statistics": {
       "valid": 9,
@@ -6149,13 +6149,13 @@
         "[1] Changes In pnat Since Last Wave"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Aenderungen bei pnat zur Vorwelle"
+        "[1] Änderungen bei pnat zur Vorwelle"
       ],
       "missings": [
         true,
@@ -6177,7 +6177,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aenderung bei pnat zur Vorwelle",
+    "label_de": "Änderung bei pnat zur Vorwelle",
     "study": "soep-is",
     "statistics": {
       "valid": 155,
@@ -6208,13 +6208,13 @@
         "[1] Changes In pnat2 Since Last Wave"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Aenderungen bei pnat2 zur Vorwelle"
+        "[1] Änderungen bei pnat2 zur Vorwelle"
       ],
       "missings": [
         true,
@@ -6236,7 +6236,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aenderung bei pnat2 zur Vorwelle",
+    "label_de": "Änderung bei pnat2 zur Vorwelle",
     "study": "soep-is",
     "statistics": {
       "valid": 0,

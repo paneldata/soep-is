@@ -142,7 +142,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer",
+    "label_de": "Unveränderliche Personennummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
@@ -352,26 +352,26 @@
         "[1] Arabisch",
         "[2] Bulgarisch",
         "[3] Chinesisch",
-        "[4] Daenisch",
+        "[4] Dänisch",
         "[5] Deutsch",
         "[6] Englisch",
         "[7] Finnisch",
-        "[8] Franzoesisch",
+        "[8] Französisch",
         "[9] Griechisch",
         "[10] Indisch",
         "[11] Italienisch",
         "[12] Japanisch",
-        "[13] Niederlaendisch",
+        "[13] Niederländisch",
         "[14] Norwegisch",
         "[15] Polnisch",
         "[16] Portugiesisch",
-        "[17] Rumaenisch",
+        "[17] Rumänisch",
         "[18] Russisch",
         "[19] Schwedisch",
         "[20] Slowakisch",
         "[21] Spanisch",
         "[22] Tschechisch",
-        "[23] Tuerkisch",
+        "[23] Türkisch",
         "[24] Ungarisch",
         "[25] Sonstige Sprache"
       ],
@@ -533,26 +533,26 @@
         "[1] Arabisch",
         "[2] Bulgarisch",
         "[3] Chinesisch",
-        "[4] Daenisch",
+        "[4] Dänisch",
         "[5] Deutsch",
         "[6] Englisch",
         "[7] Finnisch",
-        "[8] Franzoesisch",
+        "[8] Französisch",
         "[9] Griechisch",
         "[10] Indisch",
         "[11] Italienisch",
         "[12] Japanisch",
-        "[13] Niederlaendisch",
+        "[13] Niederländisch",
         "[14] Norwegisch",
         "[15] Polnisch",
         "[16] Portugiesisch",
-        "[17] Rumaenisch",
+        "[17] Rumänisch",
         "[18] Russisch",
         "[19] Schwedisch",
         "[20] Slowakisch",
         "[21] Spanisch",
         "[22] Tschechisch",
-        "[23] Tuerkisch",
+        "[23] Türkisch",
         "[24] Ungarisch",
         "[25] Sonstige Sprache",
         "[99] keine Fremdsprachenkenntnisse"
@@ -598,32 +598,32 @@
         0,
         0,
         0,
-        2082,
-        2091,
-        2102,
-        2089,
-        2110,
         2096,
+        2102,
+        2091,
+        2097,
+        2088,
+        2096,
+        2096,
+        2101,
+        2097,
+        2094,
+        2081,
+        2091,
+        2092,
+        2094,
         2091,
         2086,
-        2104,
-        2084,
-        2099,
+        2092,
         2094,
-        2092,
-        2090,
-        2092,
-        2099,
-        2101,
-        2100,
+        2096,
         2089,
-        2088,
         2091,
         2094,
-        2096,
-        2096,
+        2092,
+        2099,
         0,
-        2088
+        2104
       ]
     },
     "scale": "cat",
@@ -765,7 +765,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Einschaetzung der eigenen Sprachkenntnisse in dieser Sprache",
+    "label_de": "Einschätzung der eigenen Sprachkenntnisse in dieser Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 2538,
@@ -824,7 +824,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fragen in dieser Sprache stellen koennen",
+    "label_de": "Fragen in dieser Sprache stellen können",
     "study": "soep-is",
     "statistics": {
       "valid": 1958,
@@ -883,7 +883,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Kurze Sachverhalte in dieser Sprache beschreiben koennen",
+    "label_de": "Kurze Sachverhalte in dieser Sprache beschreiben können",
     "study": "soep-is",
     "statistics": {
       "valid": 1487,
@@ -942,7 +942,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Geschichten in dieser Sprache erzaehlen koennen",
+    "label_de": "Geschichten in dieser Sprache erzählen können",
     "study": "soep-is",
     "statistics": {
       "valid": 919,
@@ -1060,7 +1060,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Komplexe Sachverhalte in dieser Sprache spontan/fluessig ausdruecken koennen",
+    "label_de": "Komplexe Sachverhalte in dieser Sprache spontan/flüssig ausdruecken können",
     "study": "soep-is",
     "statistics": {
       "valid": 445,
@@ -1078,7 +1078,8 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        1
       ],
       "labels": [
         "[-6] questionnaire version with modified filtering",
@@ -1086,7 +1087,17 @@
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[1] Does Apply"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft zu"
       ],
       "missings": [
         true,
@@ -1094,7 +1105,8 @@
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         0,
@@ -1102,19 +1114,14 @@
         0,
         0,
         51255,
-        0
+        0,
+        45
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Keine Angabe zur angewandten Sprachkompetenz in dieser Sprache",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 1.0,
-      "Median": 1.0,
-      "Mean": 1.0,
-      "3rd Qu.": 1.0,
-      "Max.": 1.0,
       "valid": 45,
       "invalid": 230695
     }
@@ -1157,7 +1164,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft zu",
+        "[1] Nie",
         "[2] Selten",
         "[3] Manchmal",
         "[4] Oft",
@@ -1495,7 +1502,7 @@
       "frequencies": []
     },
     "scale": "a30",
-    "label_de": "Am haeufigsten verwendete Sprache",
+    "label_de": "Am häufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
   },
@@ -1510,7 +1517,7 @@
       "frequencies": []
     },
     "scale": "a15",
-    "label_de": "Am zweithaeufigsten verwendete Sprache",
+    "label_de": "Am zweithäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
   },
@@ -1525,7 +1532,7 @@
       "frequencies": []
     },
     "scale": "a15",
-    "label_de": "Am dritthaeufigsten verwendete Sprache",
+    "label_de": "Am dritthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
   },
@@ -1540,7 +1547,7 @@
       "frequencies": []
     },
     "scale": "a12",
-    "label_de": "Am vierthaeufigsten verwendete Sprache",
+    "label_de": "Am vierthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
   },
@@ -1555,7 +1562,7 @@
       "frequencies": []
     },
     "scale": "a12",
-    "label_de": "Am fuenfthaeufigsten verwendete Sprache",
+    "label_de": "Am fünfthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
   },
@@ -1673,7 +1680,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Offizielle Geschaeftssprache Gesamtunternehmen",
+    "label_de": "Offizielle Geschäftssprache Gesamtunternehmen",
     "study": "soep-is",
     "statistics": {
       "valid": 1044,
@@ -1742,7 +1749,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Offizielle Geschaeftssprache lokale Betriebsstaette",
+    "label_de": "Offizielle Geschäftssprache lokale Betriebsstätte",
     "study": "soep-is",
     "statistics": {
       "valid": 1040,
@@ -1957,13 +1964,13 @@
         "[4] Bodo",
         "[5] Bulgarisch",
         "[6] Chinesisch",
-        "[7] Daenisch",
+        "[7] Dänisch",
         "[8] Deutsch",
         "[9] Dogri",
         "[10] Englisch",
         "[11] Esperanto",
         "[12] Finnisch",
-        "[13] Franzoesisch",
+        "[13] Französisch",
         "[14] Garo",
         "[15] Gujarati",
         "[16] Griechisch",
@@ -1982,13 +1989,13 @@
         "[29] Marathi",
         "[30] Mizo",
         "[31] Nepali",
-        "[32] Niederlaendisch",
+        "[32] Niederländisch",
         "[33] Norwegisch",
         "[34] Oriya",
         "[35] Panjabi",
         "[36] Polnisch",
         "[37] Portugiesisch",
-        "[38] Rumaenisch",
+        "[38] Rumänisch",
         "[39] Russisch",
         "[40] Sanskrit",
         "[41] Santali",
@@ -2001,7 +2008,7 @@
         "[48] Tamil",
         "[49] Telugu",
         "[50] Tschechisch",
-        "[51] Tuerkisch",
+        "[51] Türkisch",
         "[52] Ungarisch",
         "[53] Urdu",
         "[54] Sonstige Sprache",
@@ -2655,7 +2662,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Lerngrund: Interesse fuer ein optionales Unterrichtsfach in der Schule",
+    "label_de": "Lerngrund: Interesse für ein optionales Unterrichtsfach in der Schule",
     "study": "soep-is",
     "statistics": {
       "valid": 289,
@@ -2714,7 +2721,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Lerngrund: Anforderung fuer Hochschule",
+    "label_de": "Lerngrund: Anforderung für Hochschule",
     "study": "soep-is",
     "statistics": {
       "valid": 65,
@@ -4043,7 +4050,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -4051,7 +4058,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -4075,7 +4082,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -4103,7 +4110,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -4135,7 +4142,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -4146,7 +4153,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -4167,10 +4174,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -4184,7 +4191,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -4193,10 +4200,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -4599,7 +4606,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.1",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.1",
     "study": "soep-is",
     "statistics": {
       "valid": 77660,
@@ -5047,7 +5054,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -5055,7 +5062,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -5079,7 +5086,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -5107,7 +5114,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -5139,7 +5146,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -5150,7 +5157,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -5171,10 +5178,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -5188,7 +5195,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -5197,10 +5204,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -5603,7 +5610,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.2",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.2",
     "study": "soep-is",
     "statistics": {
       "valid": 12815,
@@ -6051,7 +6058,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -6059,7 +6066,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -6083,7 +6090,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -6111,7 +6118,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -6143,7 +6150,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -6154,7 +6161,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -6175,10 +6182,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -6192,7 +6199,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -6201,10 +6208,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -6607,7 +6614,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.3",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.3",
     "study": "soep-is",
     "statistics": {
       "valid": 2640,
@@ -7055,7 +7062,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -7063,7 +7070,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -7087,7 +7094,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -7115,7 +7122,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -7147,7 +7154,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -7158,7 +7165,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -7179,10 +7186,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -7196,7 +7203,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -7205,10 +7212,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -7611,7 +7618,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.4",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.4",
     "study": "soep-is",
     "statistics": {
       "valid": 935,
@@ -8059,7 +8066,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -8067,7 +8074,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -8091,7 +8098,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -8119,7 +8126,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -8151,7 +8158,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -8162,7 +8169,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -8183,10 +8190,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -8200,7 +8207,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -8209,10 +8216,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -8615,7 +8622,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.5",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.5",
     "study": "soep-is",
     "statistics": {
       "valid": 330,
@@ -9063,7 +9070,7 @@
         "[31] Chile",
         "[32] China",
         "[33] Costa Rica",
-        "[34] Daenemark",
+        "[34] Dänemark",
         "[35] Demokratische Republik Kongo",
         "[36] Deutschland",
         "[37] Dominica",
@@ -9071,7 +9078,7 @@
         "[39] Dschibuti",
         "[40] Ecuador",
         "[41] El Salvador",
-        "[42] Elfenbeinkueste",
+        "[42] Elfenbeinküste",
         "[43] Eritrea",
         "[44] Estland",
         "[45] Fidschi",
@@ -9095,7 +9102,7 @@
         "[63] Iran",
         "[64] Irland",
         "[65] Island",
-        "[66] Israel",
+        "[66] Isräl",
         "[67] Italien",
         "[68] Jamaika",
         "[69] Japan",
@@ -9123,7 +9130,7 @@
         "[91] Liberia",
         "[92] Libyen",
         "[93] Liechtenstein",
-        "[94] Litauen",
+        "[94] Litaün",
         "[95] Luxemburg",
         "[100] Madagaskar",
         "[101] Malawi",
@@ -9155,7 +9162,7 @@
         "[127] Nordkorea",
         "[128] Norwegen",
         "[129] Oman",
-        "[130] Oesterreich",
+        "[130] Österreich",
         "[131] Pakistan",
         "[132] Palau",
         "[133] Panama",
@@ -9166,7 +9173,7 @@
         "[138] Polen",
         "[139] Portugal",
         "[140] Ruanda",
-        "[141] Rumaenien",
+        "[141] Rumänien",
         "[142] Salomonen",
         "[143] Sambia",
         "[144] Samoa",
@@ -9187,10 +9194,10 @@
         "[159] Sri Lanka",
         "[160] St. Kitts und Nevis",
         "[161] St. Vincent und die Grenadinen",
-        "[162] Suedafrika",
+        "[162] Südafrika",
         "[163] Sudan",
-        "[164] Suedkorea",
-        "[165] Suedsudan",
+        "[164] Südkorea",
+        "[165] Südsudan",
         "[166] Suriname",
         "[167] Swasiland",
         "[168] Syrien",
@@ -9204,7 +9211,7 @@
         "[176] Tschad",
         "[177] Tschechien",
         "[178] Tunesien",
-        "[179] Tuerkei",
+        "[179] Türkei",
         "[180] Turkmenistan",
         "[181] Tuvalu",
         "[182] Uganda",
@@ -9213,10 +9220,10 @@
         "[185] Uruguay",
         "[186] Usbekistan",
         "[187] Vanuatu",
-        "[188] Venezuela",
+        "[188] Venezüla",
         "[189] Vereinigte Arabische Emirate",
         "[190] Vereinigte Staaten von Amerika",
-        "[191] Vereinigtes Koenigreich",
+        "[191] Vereinigtes Königreich",
         "[192] Vietnam",
         "[193] Zentralafrikanische Republik",
         "[194] Zypern"
@@ -9619,7 +9626,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer mindestens sechs Monate in diesem Land gelebt: Nr.6",
+    "label_de": "Für mindestens sechs Monate in diesem Land gelebt: Nr.6",
     "study": "soep-is",
     "statistics": {
       "valid": 0,
@@ -9693,7 +9700,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "In welchem Wirtschaftszweig wuerden Sie gerne arbeiten?",
+    "label_de": "In welchem Wirtschaftszweig würden Sie gerne arbeiten?",
     "study": "soep-is",
     "statistics": {
       "valid": 55990,
@@ -9757,7 +9764,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Innovatives Modul: Sprache und Identitaet",
+    "label_de": "Innovatives Modul: Sprache und Identität",
     "study": "soep-is",
     "statistics": {
       "valid": 230740,
@@ -9964,7 +9971,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wichtigkeit Dialekt/Platt fuer eigene Identitaet",
+    "label_de": "Wichtigkeit Dialekt/Platt für eigene Identität",
     "study": "soep-is",
     "statistics": {
       "valid": 759,
@@ -10007,8 +10014,8 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Taeglich",
-        "[2] Regelmaeßig",
+        "[1] Täglich",
+        "[2] Regelmäßig",
         "[3] Hin und wieder",
         "[4] Nie"
       ],
@@ -10038,7 +10045,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Dialekt/Platt sprechen",
+    "label_de": "Häufigkeit Dialekt/Platt sprechen",
     "study": "soep-is",
     "statistics": {
       "valid": 4959,
@@ -10255,7 +10262,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wichtigkeit Dialekt/Platt Mutter fuer ihre Identitaet",
+    "label_de": "Wichtigkeit Dialekt/Platt Mutter für ihre Identität",
     "study": "soep-is",
     "statistics": {
       "valid": 787,
@@ -10334,7 +10341,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wichtigkeit Dialekt/Platt Vater fuer seine Identitaet",
+    "label_de": "Wichtigkeit Dialekt/Platt Vater für seine Identität",
     "study": "soep-is",
     "statistics": {
       "valid": 746,
@@ -11094,7 +11101,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Entfernung zu muetterliche Großeltern als Kind",
+    "label_de": "Entfernung zu mütterliche Großeltern als Kind",
     "study": "soep-is",
     "statistics": {
       "valid": 1525,
@@ -11178,7 +11185,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Entfernung zu vaeterliche Großeltern als Kind",
+    "label_de": "Entfernung zu väterliche Großeltern als Kind",
     "study": "soep-is",
     "statistics": {
       "valid": 1497,
@@ -11267,7 +11274,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Selbsteinschaetzung Englischkenntnisse (in Schulnoten 1 bis 6)",
+    "label_de": "Selbsteinschätzung Englischkenntnisse (in Schulnoten 1 bis 6)",
     "study": "soep-is",
     "statistics": {
       "valid": 1555,
@@ -11351,7 +11358,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewereinschaetzung zur Sprache des Befragten",
+    "label_de": "Interviewereinschätzung zur Sprache des Befragten",
     "study": "soep-is",
     "statistics": {
       "valid": 8201,
@@ -11435,7 +11442,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewereinschaetzung zur Redegewandheit des Befragten",
+    "label_de": "Interviewereinschätzung zur Redegewandheit des Befragten",
     "study": "soep-is",
     "statistics": {
       "valid": 6714,
@@ -11519,7 +11526,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewereinschaetzung eigene Sprache als Interviewer",
+    "label_de": "Interviewereinschätzung eigene Sprache als Interviewer",
     "study": "soep-is",
     "statistics": {
       "valid": 1547,
@@ -11603,7 +11610,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewereinschaetzung eigene Sprache als Interviewer im Allgemeinen",
+    "label_de": "Interviewereinschätzung eigene Sprache als Interviewer im Allgemeinen",
     "study": "soep-is",
     "statistics": {
       "valid": 6678,
@@ -11687,7 +11694,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewereinschaetzung eigene Sprache als Interviewer während Interview",
+    "label_de": "Interviewereinschätzung eigene Sprache als Interviewer während Interview",
     "study": "soep-is",
     "statistics": {
       "valid": 6705,
@@ -12333,7 +12340,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Dialekten: Schwaebisch",
+    "label_de": "Meinung zu Dialekten: Schwäbisch",
     "study": "soep-is",
     "statistics": {
       "valid": 19386,
@@ -12407,7 +12414,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Dialekten: Saechsisch",
+    "label_de": "Meinung zu Dialekten: Sächsisch",
     "study": "soep-is",
     "statistics": {
       "valid": 19431,
@@ -12629,7 +12636,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Dialekten: Koelsch/Rheinisches Platt",
+    "label_de": "Meinung zu Dialekten: Kölsch/Rheinisches Platt",
     "study": "soep-is",
     "statistics": {
       "valid": 19269,
@@ -12851,7 +12858,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Dialekten: Oesterreichisch",
+    "label_de": "Meinung zu Dialekten: Österreichisch",
     "study": "soep-is",
     "statistics": {
       "valid": 19521,
@@ -12978,12 +12985,12 @@
         "[1] Deutsch",
         "[2] Arabisch",
         "[3] Englisch",
-        "[4] Franzoesisch",
+        "[4] Französisch",
         "[5] Italienisch",
         "[6] Polnisch",
         "[7] Russisch",
         "[8] Spanisch",
-        "[9] Tuerkisch"
+        "[9] Türkisch"
       ],
       "missings": [
         true,
@@ -13526,7 +13533,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Einverstaendniserklaerung",
+    "label_de": "Einverständniserklärung",
     "study": "soep-is",
     "statistics": {
       "valid": 21051,
@@ -14179,7 +14186,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Bundesland mind. 6 Monate gelebt: Baden-Wuerttemberg",
+    "label_de": "Bundesland mind. 6 Monate gelebt: Baden-Württemberg",
     "study": "soep-is",
     "statistics": {
       "valid": 5409,
@@ -14958,7 +14965,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Bundesland mind. 6 Monate gelebt: Thueringen",
+    "label_de": "Bundesland mind. 6 Monate gelebt: Thüringen",
     "study": "soep-is",
     "statistics": {
       "valid": 1791,
@@ -15688,96 +15695,30 @@
     "dataset": "ilanguage",
     "label": "Start date and time",
     "categories": {
-      "values": [
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-5] not included in this version of the questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] answer improbable",
-        "[-2] does not apply",
-        "[-1] no answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        229358,
-        0,
-        0,
-        0,
-        0
-      ]
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
     },
-    "scale": "number",
+    "scale": "a20",
     "label_de": "Startdatum und Uhrzeit",
     "study": "soep-is",
-    "statistics": {
-      "Min.": 13727709959.0,
-      "1st Qu.": 13728396631.5,
-      "Median": 13731933668.5,
-      "Mean": 13732265385.619392,
-      "3rd Qu.": 13735471129.75,
-      "Max.": 13742082758.0,
-      "valid": 1382,
-      "invalid": 229358
-    }
+    "statistics": {}
   },
   {
     "name": "etime",
     "dataset": "ilanguage",
     "label": "End date and time",
     "categories": {
-      "values": [
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-5] not included in this version of the questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] answer improbable",
-        "[-2] does not apply",
-        "[-1] no answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        229358,
-        0,
-        0,
-        0,
-        0
-      ]
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
     },
-    "scale": "number",
+    "scale": "a20",
     "label_de": "Enddatum und Uhrzeit",
     "study": "soep-is",
-    "statistics": {
-      "Min.": 13727710525.0,
-      "1st Qu.": 13728420077.0,
-      "Median": 13731953613.0,
-      "Mean": 13732306907.340086,
-      "3rd Qu.": 13735562297.5,
-      "Max.": 13742083422.0,
-      "valid": 1382,
-      "invalid": 229358
-    }
+    "statistics": {}
   },
   {
     "name": "intdau",
@@ -15990,7 +15931,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interesse fuer Sprache",
+    "label_de": "Interesse für Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 1435,
@@ -16112,7 +16053,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Jemand spricht nicht ausgepraegten Dialekt aber eingefaerbt: Sympathie dafuer",
+    "label_de": "Jemand spricht nicht ausgeprägten Dialekt aber eingefärbt: Sympathie dafür",
     "study": "soep-is",
     "statistics": {
       "valid": 717,
@@ -16186,7 +16127,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Jemand spricht Hochdeutsch aber eingefaerbt: Sympathie dafuer",
+    "label_de": "Jemand spricht Hochdeutsch aber eingefärbt: Sympathie dafür",
     "study": "soep-is",
     "statistics": {
       "valid": 717,
@@ -16245,7 +16186,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sollte mehr fuer Plattdeutsch getan werden",
+    "label_de": "Sollte mehr für Plattdeutsch getan werden",
     "study": "soep-is",
     "statistics": {
       "valid": 1165,
@@ -16589,7 +16530,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Bayrisch: schoen",
+    "label_de": "Bayrisch: schön",
     "study": "soep-is",
     "statistics": {
       "valid": 484,
@@ -16811,7 +16752,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: melodisch",
+    "label_de": "Sächsisch: melodisch",
     "study": "soep-is",
     "statistics": {
       "valid": 471,
@@ -16885,7 +16826,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: anziehend",
+    "label_de": "Sächsisch: anziehend",
     "study": "soep-is",
     "statistics": {
       "valid": 472,
@@ -16959,7 +16900,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: logisch",
+    "label_de": "Sächsisch: logisch",
     "study": "soep-is",
     "statistics": {
       "valid": 360,
@@ -17033,7 +16974,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: schoen",
+    "label_de": "Sächsisch: schön",
     "study": "soep-is",
     "statistics": {
       "valid": 478,
@@ -17107,7 +17048,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: weich",
+    "label_de": "Sächsisch: weich",
     "study": "soep-is",
     "statistics": {
       "valid": 466,
@@ -17181,7 +17122,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Saechsisch: systematisch",
+    "label_de": "Sächsisch: systematisch",
     "study": "soep-is",
     "statistics": {
       "valid": 405,
@@ -17477,7 +17418,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Plattdeutsch: schoen",
+    "label_de": "Plattdeutsch: schön",
     "study": "soep-is",
     "statistics": {
       "valid": 440,
@@ -17921,7 +17862,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Deutsch: schoen",
+    "label_de": "Deutsch: schön",
     "study": "soep-is",
     "statistics": {
       "valid": 1425,
@@ -18159,7 +18100,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Schaetzung Prozent Bevoelkerung: andere Muttersprache als Deutsch",
+    "label_de": "Schätzung Prozent Bevölkerung: andere Muttersprache als Deutsch",
     "study": "soep-is",
     "statistics": {
       "Min.": 2.0,
@@ -18224,7 +18165,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wuerde Kind zu einem deutsch-italienischen Kindergarten schicken",
+    "label_de": "Würde Kind zu einem deutsch-italienischen Kindergarten schicken",
     "study": "soep-is",
     "statistics": {
       "valid": 674,
@@ -18283,7 +18224,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wuerde Kind zu einem deutsch-tuerkischen Kindergarten schicken",
+    "label_de": "Würde Kind zu einem deutsch-türkischen Kindergarten schicken",
     "study": "soep-is",
     "statistics": {
       "valid": 675,
@@ -18479,7 +18420,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Hat Franzoesisch genannt"
+        "[1] Hat Französisch genannt"
       ],
       "missings": [
         true,
@@ -18499,7 +18440,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Welche Fremdsprachen sollten in Schule angeboten werden: Franzoesisch",
+    "label_de": "Welche Fremdsprachen sollten in Schule angeboten werden: Französisch",
     "study": "soep-is",
     "statistics": {
       "valid": 901,
@@ -18877,7 +18818,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Welche Fremdsprachen sollten in Schule angeboten werden: Tuerkisch",
+    "label_de": "Welche Fremdsprachen sollten in Schule angeboten werden: Türkisch",
     "study": "soep-is",
     "statistics": {
       "valid": 88,
@@ -18999,7 +18940,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sprachliche Unterschiede: Norddeutsche vs. Sueddeutsche",
+    "label_de": "Sprachliche Unterschiede: Norddeutsche vs. Süddeutsche",
     "study": "soep-is",
     "statistics": {
       "valid": 1418,
@@ -19147,7 +19088,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sprachliche Unterschiede: Deutsche vs. Oesterreicher",
+    "label_de": "Sprachliche Unterschiede: Deutsche vs. Österreicher",
     "study": "soep-is",
     "statistics": {
       "valid": 1425,
@@ -19328,7 +19269,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Zielperson informiert sich gelegentlich ueber Sprache",
+    "label_de": "Zielperson informiert sich gelegentlich über Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 1357,
@@ -19583,7 +19524,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wie Informationen zu Sprache suchen: Woerterbuecher",
+    "label_de": "Wie Informationen zu Sprache suchen: Wörterbücher",
     "study": "soep-is",
     "statistics": {
       "valid": 679,
@@ -19760,7 +19701,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wie Informationen zu Sprache suchen: Woerterbuecher im Internet",
+    "label_de": "Wie Informationen zu Sprache suchen: Wörterbücher im Internet",
     "study": "soep-is",
     "statistics": {
       "valid": 679,
@@ -20118,7 +20059,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Suche zu: Rechtschreibung",
+    "label_de": "Häufigkeit Suche zu: Rechtschreibung",
     "study": "soep-is",
     "statistics": {
       "valid": 675,
@@ -20192,7 +20133,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Suche zu: Grammatik",
+    "label_de": "Häufigkeit Suche zu: Grammatik",
     "study": "soep-is",
     "statistics": {
       "valid": 677,
@@ -20266,7 +20207,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Suche zu: Herkunft von Woertern",
+    "label_de": "Häufigkeit Suche zu: Herkunft von Wörtern",
     "study": "soep-is",
     "statistics": {
       "valid": 678,
@@ -20340,7 +20281,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Suche zu: Bedeutung von Woertern",
+    "label_de": "Häufigkeit Suche zu: Bedeutung von Wörtern",
     "study": "soep-is",
     "statistics": {
       "valid": 678,
@@ -20669,7 +20610,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Veraenderung der dt. Sprache aufgefallen",
+    "label_de": "Veränderung der dt. Sprache aufgefallen",
     "study": "soep-is",
     "statistics": {
       "valid": 1408,
@@ -20743,7 +20684,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Staerke der Veraenderung der dt. Sprache",
+    "label_de": "Stärke der Veränderung der dt. Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 1263,
@@ -20845,7 +20786,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beispiele f. Veraend. in deutscher Spr.: Abkuerzungen",
+    "label_de": "Beispiele f. Veränd. in deutscher Spr.: Abkürzungen",
     "study": "soep-is",
     "statistics": {
       "valid": 85,
@@ -20899,7 +20840,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beispiele f. Veraend. in deutscher Spr.: Seltener Genitiv",
+    "label_de": "Beispiele f. Veränd. in deutscher Spr.: Seltener Genitiv",
     "study": "soep-is",
     "statistics": {
       "valid": 39,
@@ -20953,7 +20894,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beispiele f. Veraend. in deutscher Spr.: Mehr Englisch",
+    "label_de": "Beispiele f. Veränd. in deutscher Spr.: Mehr Englisch",
     "study": "soep-is",
     "statistics": {
       "valid": 628,
@@ -21007,7 +20948,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beispiele f. Veraend. in deutscher Spr.: Rechtschreibung",
+    "label_de": "Beispiele f. Veränd. in deutscher Spr.: Rechtschreibung",
     "study": "soep-is",
     "statistics": {
       "valid": 193,
@@ -21061,7 +21002,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beispiele f. Veraend. in deutscher Spr.: Vereinfachung",
+    "label_de": "Beispiele f. Veränd. in deutscher Spr.: Vereinfachung",
     "study": "soep-is",
     "statistics": {
       "valid": 53,
@@ -21163,7 +21104,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Werbung",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Werbung",
     "study": "soep-is",
     "statistics": {
       "valid": 62,
@@ -21217,7 +21158,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Chats",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Chats",
     "study": "soep-is",
     "statistics": {
       "valid": 90,
@@ -21271,7 +21212,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Einwanderer*innen",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Einwanderer*innen",
     "study": "soep-is",
     "statistics": {
       "valid": 221,
@@ -21325,7 +21266,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Das Internet",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Das Internet",
     "study": "soep-is",
     "statistics": {
       "valid": 173,
@@ -21379,7 +21320,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Medien",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Medien",
     "study": "soep-is",
     "statistics": {
       "valid": 288,
@@ -21433,7 +21374,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Fernsehen",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Fernsehen",
     "study": "soep-is",
     "statistics": {
       "valid": 62,
@@ -21487,7 +21428,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wodurch Veraend. in der dt. Sprache hervorgerufen: Jugendliche",
+    "label_de": "Wodurch Veränd. in der dt. Sprache hervorgerufen: Jugendliche",
     "study": "soep-is",
     "statistics": {
       "valid": 243,
@@ -21594,7 +21535,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Es sollte mehr fuer dt. Sprache getan werden",
+    "label_de": "Es sollte mehr für dt. Sprache getan werden",
     "study": "soep-is",
     "statistics": {
       "valid": 1296,
@@ -21648,7 +21589,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Regierung",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Regierung",
     "study": "soep-is",
     "statistics": {
       "valid": 42,
@@ -21702,7 +21643,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Medien",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Medien",
     "study": "soep-is",
     "statistics": {
       "valid": 139,
@@ -21756,7 +21697,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Eltern",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Eltern",
     "study": "soep-is",
     "statistics": {
       "valid": 263,
@@ -21810,7 +21751,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Politiker*innen",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Politiker*innen",
     "study": "soep-is",
     "statistics": {
       "valid": 166,
@@ -21864,7 +21805,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Kindergarten",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Kindergarten",
     "study": "soep-is",
     "statistics": {
       "valid": 59,
@@ -21918,7 +21859,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Schule",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Schule",
     "study": "soep-is",
     "statistics": {
       "valid": 558,
@@ -21972,7 +21913,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Der Staat",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Der Staat",
     "study": "soep-is",
     "statistics": {
       "valid": 126,
@@ -22026,7 +21967,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wer sollte mehr fuer die deutsche Sprache tun: Lehrer*innen",
+    "label_de": "Wer sollte mehr für die deutsche Sprache tun: Lehrer*innen",
     "study": "soep-is",
     "statistics": {
       "valid": 130,
@@ -22207,7 +22148,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Beruehrung mit Leichter Sprache",
+    "label_de": "Häufigkeit Berührung mit Leichter Sprache",
     "study": "soep-is",
     "statistics": {
       "valid": 394,
@@ -22687,7 +22628,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Lesen: Buecher",
+    "label_de": "Häufigkeit Lesen: Bücher",
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
@@ -22761,7 +22702,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Lesen: Zeitungen",
+    "label_de": "Häufigkeit Lesen: Zeitungen",
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
@@ -22835,7 +22776,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Lesen: Digitale Buecher",
+    "label_de": "Häufigkeit Lesen: Digitale Bücher",
     "study": "soep-is",
     "statistics": {
       "valid": 1431,
@@ -22909,7 +22850,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Lesen: Digitale Zeitungen",
+    "label_de": "Häufigkeit Lesen: Digitale Zeitungen",
     "study": "soep-is",
     "statistics": {
       "valid": 1430,
@@ -22983,7 +22924,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Schreiben: Hand",
+    "label_de": "Häufigkeit Schreiben: Hand",
     "study": "soep-is",
     "statistics": {
       "valid": 1438,
@@ -23057,7 +22998,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Schreiben: Tastatur",
+    "label_de": "Häufigkeit Schreiben: Tastatur",
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
@@ -23131,7 +23072,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haeufigkeit Schreiben: virtuelle Tastatur",
+    "label_de": "Häufigkeit Schreiben: virtuelle Tastatur",
     "study": "soep-is",
     "statistics": {
       "valid": 1437,
@@ -23238,7 +23179,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Audiostimme: maennlich oder weiblich",
+    "label_de": "Audiostimme: männlich oder weiblich",
     "study": "soep-is",
     "statistics": {
       "valid": 674,
@@ -23470,7 +23411,7 @@
   {
     "name": "onlang33a4",
     "dataset": "ilanguage",
-    "label": "Rating sentence auditory: Dann habe ich ihm gesagt, du brauchst naechsten",
+    "label": "Rating sentence auditory: Dann habe ich ihm gesagt, du brauchst nächsten",
     "categories": {
       "values": [
         -5,
@@ -23534,7 +23475,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Satz auditiv: Dann habe ich ihm gesagt, du brauchst naechsten",
+    "label_de": "Meinung zu Satz auditiv: Dann habe ich ihm gesagt, du brauchst nächsten",
     "study": "soep-is",
     "statistics": {
       "valid": 672,
@@ -23904,7 +23845,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Satz auditiv: Sie wollen zum Bahnhof? Dann muessen Sie",
+    "label_de": "Meinung zu Satz auditiv: Sie wollen zum Bahnhof? Dann müssen Sie",
     "study": "soep-is",
     "statistics": {
       "valid": 672,
@@ -24210,7 +24151,7 @@
   {
     "name": "onlang33b4",
     "dataset": "ilanguage",
-    "label": "Rating sentence written: Dann habe ich ihm gesagt, du brauchst naechsten",
+    "label": "Rating sentence written: Dann habe ich ihm gesagt, du brauchst nächsten",
     "categories": {
       "values": [
         -5,
@@ -24274,7 +24215,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Satz geschrieben: Dann habe ich ihm gesagt, du brauchst naechsten",
+    "label_de": "Meinung zu Satz geschrieben: Dann habe ich ihm gesagt, du brauchst nächsten",
     "study": "soep-is",
     "statistics": {
       "valid": 760,
@@ -24644,7 +24585,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Meinung zu Satz geschrieben: Sie wollen zum Bahnhof? Dann muessen Sie",
+    "label_de": "Meinung zu Satz geschrieben: Sie wollen zum Bahnhof? Dann müssen Sie",
     "study": "soep-is",
     "statistics": {
       "valid": 759,
@@ -24952,7 +24893,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Position des fuenften Satzes von onlang33",
+    "label_de": "Position des fünften Satzes von onlang33",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,

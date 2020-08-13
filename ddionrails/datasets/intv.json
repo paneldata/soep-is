@@ -13,12 +13,12 @@
     "label_de": "Interviewer ID",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1001035.0,
+      "Min.": 880099.0,
       "1st Qu.": 1002913.0,
-      "Median": 1004634.0,
-      "Mean": 1004783.7533360291,
+      "Median": 1004632.0,
+      "Mean": 1004732.0703598867,
       "3rd Qu.": 1006303.0,
-      "Max.": 1009792.0,
+      "Max.": 1009788.0,
       "valid": 2473,
       "invalid": 0
     }

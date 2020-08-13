@@ -142,7 +142,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer des Elternteiles / der Befragungsperson",
+    "label_de": "Unveränderliche Personennummer des Elternteiles / der Befragungsperson",
     "study": "soep-is",
     "statistics": {
       "Min.": 49000001.0,
@@ -194,7 +194,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer des Kindes",
+    "label_de": "Unveränderliche Personennummer des Kindes",
     "study": "soep-is",
     "statistics": {
       "Min.": 49000003.0,
@@ -7306,13 +7306,13 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
@@ -7385,13 +7385,13 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
@@ -7464,13 +7464,13 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
@@ -7543,13 +7543,13 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
@@ -7583,7 +7583,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haenge gerne Tagtraeumen nach",
+    "label_de": "Hänge gerne Tagträumen nach",
     "study": "soep-is",
     "statistics": {
       "valid": 724,
@@ -7622,13 +7622,13 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
@@ -7701,9 +7701,9 @@
         "[5] Extremely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -7741,7 +7741,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Selbsteinschaetzung Kreativitaet allgmemein",
+    "label_de": "Selbsteinschätzung Kreativität allgemein",
     "study": "soep-is",
     "statistics": {
       "valid": 726,
@@ -7774,9 +7774,9 @@
         "[10] Extremely ready"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -7838,9 +7838,9 @@
         "[10] Extremely stressed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -7902,9 +7902,9 @@
         "[10] Extremely ready"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -7933,7 +7933,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Bereitschaft zu verzichten fuer zukuenftigen Vorteil",
+    "label_de": "Bereitschaft zu verzichten für zukünftigen Vorteil",
     "study": "soep-is",
     "statistics": {
       "valid": 726,
@@ -7972,17 +7972,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8012,7 +8012,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Setze mir Ziel, aber verfolge spaeter doch ein anderes",
+    "label_de": "Setze mir Ziel, aber verfolge später doch ein anderes",
     "study": "soep-is",
     "statistics": {
       "valid": 723,
@@ -8051,17 +8051,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8130,17 +8130,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8170,7 +8170,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Fuer kurze Zeit von Projekt oder Idee besessen",
+    "label_de": "Für kurze Zeit von Projekt oder Idee besessen",
     "study": "soep-is",
     "statistics": {
       "valid": 720,
@@ -8209,17 +8209,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8288,17 +8288,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8367,17 +8367,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8407,7 +8407,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Von Rueckschlaegen lasse ich mich nicht entmutigen",
+    "label_de": "Von Rückschlägen lasse ich mich nicht entmutigen",
     "study": "soep-is",
     "statistics": {
       "valid": 723,
@@ -8446,17 +8446,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8525,17 +8525,17 @@
         "[5] Fully applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Trifft ueberhaupt nicht zu",
+        "[1] Trifft überhaupt nicht zu",
         "[2] Trifft eher nicht zu",
         "[3] Teils teils",
         "[4] Trifft eher zu",
-        "[5] Trifft voellig zu"
+        "[5] Trifft völlig zu"
       ],
       "missings": [
         true,
@@ -8565,7 +8565,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Ich bin fleissig",
+    "label_de": "Ich bin fleißig",
     "study": "soep-is",
     "statistics": {
       "valid": 725,
@@ -8604,9 +8604,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -8644,7 +8644,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Gegen Aussenseiter und Nichtstuer mit aller Haerte vorgehen",
+    "label_de": "Gegen Außenseiter und Nichtstuer mit aller Härte vorgehen",
     "study": "soep-is",
     "statistics": {
       "valid": 698,
@@ -8683,9 +8683,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -8723,7 +8723,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Unruhestifter sollten spueren, dass sie in Gesellschaft unerwuenscht",
+    "label_de": "Unruhestifter sollten spüren, dass sie in Gesellschaft unerwünscht",
     "study": "soep-is",
     "statistics": {
       "valid": 711,
@@ -8762,9 +8762,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -8802,7 +8802,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Gesellschaftliche Regeln ohne Mitleid durchgesetzen",
+    "label_de": "Gesellschaftliche Regeln ohne Mitleid durchsetzen",
     "study": "soep-is",
     "statistics": {
       "valid": 715,
@@ -8841,9 +8841,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -8881,7 +8881,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Brauchen starke Fuehrungspersonen fuer Sicherheit",
+    "label_de": "Brauchen starke Führungspersonen für Sicherheit",
     "study": "soep-is",
     "statistics": {
       "valid": 717,
@@ -8920,9 +8920,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -8960,7 +8960,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Entscheidungen Fuehrungspersonen ueberlassen",
+    "label_de": "Entscheidungen Führungspersonen überlassen",
     "study": "soep-is",
     "statistics": {
       "valid": 721,
@@ -8999,9 +8999,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -9039,7 +9039,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Dankbar sein fuer fuehrende Koepfe",
+    "label_de": "Dankbar sein für führende Köpfe",
     "study": "soep-is",
     "statistics": {
       "valid": 721,
@@ -9078,9 +9078,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -9157,9 +9157,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -9197,7 +9197,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Bewaehrte Verhaltensweisen nicht in Frage stellen",
+    "label_de": "Bewährte Verhaltensweisen nicht in Frage stellen",
     "study": "soep-is",
     "statistics": {
       "valid": 718,
@@ -9236,9 +9236,9 @@
         "[5] Fully agree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -9276,7 +9276,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Am Beste, Dinge in der ueblichen Art machen",
+    "label_de": "Am Beste, Dinge in der üblichen Art machen",
     "study": "soep-is",
     "statistics": {
       "valid": 722,
@@ -9309,9 +9309,9 @@
         "[10] Extremely competitive"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -9340,7 +9340,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Selbsteinschaetzung Wettbewerbsbereitschaft",
+    "label_de": "Selbsteinschätzung Wettbewerbsbereitschaft",
     "study": "soep-is",
     "statistics": {
       "valid": 726,
@@ -9373,14 +9373,14 @@
         "[2] Option 2"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Moeglichkeit 1",
-        "[2] Moeglichkeit 2"
+        "[1] Möglichkeit 1",
+        "[2] Möglichkeit 2"
       ],
       "missings": [
         true,

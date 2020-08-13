@@ -168,7 +168,7 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.5986884832382202,
+      "Mean": 1.5986884402725987,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
       "valid": 7777,
@@ -220,7 +220,7 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 1.6822689771652222,
+      "Mean": 1.6822690293101528,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
       "valid": 8973,
@@ -317,9 +317,9 @@
         "[8] 2011 Or Later"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -330,7 +330,7 @@
         "[5] 1981 bis 1990",
         "[6] 1991 bis 2000",
         "[7] 2001 bis 2010",
-        "[8] 2011 oder spaeter"
+        "[8] 2011 oder später"
       ],
       "missings": [
         true,
@@ -403,15 +403,15 @@
         "[4] Dilapidated"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] in gutem Zustand",
-        "[2] teilw.ren.beduerftig",
-        "[3] ganz ren.beduerftig",
+        "[2] teilw.ren.bedürftig",
+        "[3] ganz ren.bedürftig",
         "[4] abbruchreif"
       ],
       "missings": [
@@ -440,7 +440,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Renovierungsbeduerftigkeit",
+    "label_de": "Renovierungsbedürftigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 9680,
@@ -479,9 +479,9 @@
         "[5] Much Too Large"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -519,7 +519,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beurteilung der Wohnungsgroesse",
+    "label_de": "Beurteilung der Wohnungsgrösse",
     "study": "soep-is",
     "statistics": {
       "valid": 8636,
@@ -552,9 +552,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -583,7 +583,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Ausstattung: Kueche",
+    "label_de": "Ausstattung: Küche",
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
@@ -616,9 +616,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -680,9 +680,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -744,9 +744,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -808,9 +808,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -872,9 +872,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -936,9 +936,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1000,9 +1000,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1064,9 +1064,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1128,9 +1128,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1192,9 +1192,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1256,9 +1256,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1320,9 +1320,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1384,9 +1384,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1454,13 +1454,13 @@
         "[5] Home Occupant"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Eigentuemer",
+        "[1] Eigentümer",
         "[2] Hauptmieter",
         "[3] Untermieter",
         "[4] Mieter",
@@ -1494,7 +1494,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Eigentuemer, Mieter",
+    "label_de": "Eigentümer, Mieter",
     "study": "soep-is",
     "statistics": {
       "valid": 33027,
@@ -1531,16 +1531,16 @@
         "[4] Got back from public property"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] vom Vorbesitzer gekauft",
         "[2] Erbschaft, Schenkung",
         "[3] neu gekauft oder gebaut",
-        "[4] aus Volkseigentum rueckueberf."
+        "[4] aus Volkseigentum rücküberf."
       ],
       "missings": [
         true,
@@ -1601,9 +1601,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1632,7 +1632,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Eigentumsfoerderung mit oeff. Darlehen",
+    "label_de": "Eigentumsförderung mit öff. Darlehen",
     "study": "soep-is",
     "statistics": {
       "valid": 164,
@@ -1665,9 +1665,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1696,7 +1696,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Foerderung mit oeff. Darlehen letztes Jahr",
+    "label_de": "Förderung mit öff. Darlehen letztes Jahr",
     "study": "soep-is",
     "statistics": {
       "valid": 3389,
@@ -1735,14 +1735,14 @@
         "[5] Too Expensive"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] sehr guenstig",
-        "[2] guenstig",
+        "[1] sehr günstig",
+        "[2] günstig",
         "[3] angemessen",
         "[4] etwas zu hoch",
         "[5] viel zu hoch"
@@ -1775,7 +1775,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Beurteilung Miethoehe",
+    "label_de": "Beurteilung Miethöhe",
     "study": "soep-is",
     "statistics": {
       "valid": 3633,
@@ -1810,9 +1810,9 @@
         "[3] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1877,9 +1877,9 @@
         "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1908,7 +1908,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "verbilligt ueberlassene Wohnung",
+    "label_de": "verbilligt überlassene Wohnung",
     "study": "soep-is",
     "statistics": {
       "valid": 4074,
@@ -1954,7 +1954,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Wohnflaeche in qm",
+    "label_de": "Wohnfläche in qm",
     "study": "soep-is",
     "statistics": {
       "Min.": 8.0,
@@ -2006,7 +2006,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Zahl der Wohnraeume ueber 6 qm",
+    "label_de": "Zahl der Wohnräume über 6 qm",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
@@ -2255,9 +2255,9 @@
         "[3] Pays Neither Rent Nor Utilities"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2322,9 +2322,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2353,7 +2353,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Imputation Flag, Wohnflaeche in qm",
+    "label_de": "Imputation Flag, Wohnfläche in qm",
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
@@ -2386,9 +2386,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2417,7 +2417,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Imputation Flag, Zahl der Wohnraeume ueber 6 qm",
+    "label_de": "Imputation Flag, Zahl der Wohnräume über 6 qm",
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
@@ -2450,9 +2450,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2514,9 +2514,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2582,9 +2582,9 @@
         "[3] Imputed Costs Of Heating And Warm Water"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2652,9 +2652,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2728,9 +2728,9 @@
         "[8] Other combination"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2858,9 +2858,9 @@
         "[82] Other combination with K. LE 16"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3014,15 +3014,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] Maerz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3132,17 +3132,17 @@
         "[300] Web-based Interview"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[100] mit Interviewerbetreuung",
-        "[110] muendliches Interview",
-        "[120] Selbstausfuellung o. I.",
+        "[110] mündliches Interview",
+        "[120] Selbstausfüllung o. I.",
         "[130] Mischform",
-        "[131] Selbstausfuellung m. I.",
+        "[131] Selbstausfüllung m. I.",
         "[132] teils-teils",
         "[133] Proxy",
         "[134] mit Begleitperson",
@@ -3346,7 +3346,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1] [DE100] Baden-Wuerttemberg",
+        "[1] [DE100] Baden-Württemberg",
         "[2] [DE200] Bavaria",
         "[3] [DE300] Berlin",
         "[4] [DE400] Brandenburg",
@@ -3364,13 +3364,13 @@
         "[16] [DEG00] Thuringia"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] [DE100] Baden-Wuerttemberg",
+        "[1] [DE100] Baden-Württemberg",
         "[2] [DE200] Bayern",
         "[3] [DE300] Berlin",
         "[4] [DE400] Brandenburg",
@@ -3385,7 +3385,7 @@
         "[13] [DED00] Sachsen",
         "[14] [DEE00] Sachsen-Anhalt",
         "[15] [DEF00] Schleswig-Holstein",
-        "[16] [DEG00] Thueringen"
+        "[16] [DEG00] Thüringen"
       ],
       "missings": [
         true,
@@ -3730,9 +3730,9 @@
         "[1] Imputed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",

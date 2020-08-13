@@ -58,7 +58,7 @@
       "frequencies": []
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer",
+    "label_de": "Unveränderliche Personennummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
@@ -198,7 +198,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -383,7 +383,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -482,7 +482,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aktivitaet",
+    "label_de": "Aktivität",
     "study": "soep-is",
     "statistics": {
       "valid": 92445,
@@ -500,7 +500,7 @@
       "frequencies": []
     },
     "scale": "a15",
-    "label_de": "Beginn der Aktivitaet",
+    "label_de": "Beginn der Aktivität",
     "study": "soep-is",
     "statistics": {}
   },
@@ -515,7 +515,7 @@
       "frequencies": []
     },
     "scale": "a15",
-    "label_de": "Ende der Aktivitaet",
+    "label_de": "Ende der Aktivität",
     "study": "soep-is",
     "statistics": {}
   },
@@ -544,7 +544,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -571,7 +571,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sekundaere Aktivitaet ja / nein",
+    "label_de": "Sekundäre Aktivität ja / nein",
     "study": "soep-is",
     "statistics": {
       "valid": 84829,
@@ -651,7 +651,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -750,7 +750,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Sekundaere Aktivitaet",
+    "label_de": "Sekundäre Aktivität",
     "study": "soep-is",
     "statistics": {
       "valid": 13408,
@@ -768,7 +768,7 @@
       "frequencies": []
     },
     "scale": "a5",
-    "label_de": "Beginn der sek. Aktivitaet",
+    "label_de": "Beginn der sek. Aktivität",
     "study": "soep-is",
     "statistics": {}
   },
@@ -783,7 +783,7 @@
       "frequencies": []
     },
     "scale": "a5",
-    "label_de": "Ende der sek. Aktivitaet",
+    "label_de": "Ende der sek. Aktivität",
     "study": "soep-is",
     "statistics": {}
   },
@@ -812,7 +812,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -873,7 +873,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -935,7 +935,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -994,7 +994,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1053,7 +1053,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1112,7 +1112,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1171,7 +1171,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1230,7 +1230,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1289,7 +1289,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1348,7 +1348,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1407,7 +1407,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1466,7 +1466,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1525,7 +1525,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1552,7 +1552,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Glueck",
+    "label_de": "Glück",
     "study": "soep-is",
     "statistics": {
       "valid": 21995,
@@ -1584,7 +1584,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1611,7 +1611,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aerger",
+    "label_de": "Ärger",
     "study": "soep-is",
     "statistics": {
       "valid": 22019,
@@ -1643,7 +1643,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1702,7 +1702,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1729,7 +1729,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Muedigkeit",
+    "label_de": "Müdigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 22047,
@@ -1761,7 +1761,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1820,7 +1820,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1879,7 +1879,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1938,7 +1938,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -1997,7 +1997,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -2056,7 +2056,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -2115,7 +2115,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -2174,7 +2174,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -2233,7 +2233,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
@@ -2292,11 +2292,11 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",
-        "[0] Ueberhaupt nicht typisch",
+        "[0] Überhaupt nicht typisch",
         "[10] Sehr typisch"
       ],
       "missings": [
@@ -2319,7 +2319,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Wie typisch war dieser Tag, alles in allem, fuer Sie?",
+    "label_de": "Wie typisch war dieser Tag, alles in allem, für Sie?",
     "study": "soep-is",
     "statistics": {
       "valid": 101850,
@@ -2351,7 +2351,7 @@
       ],
       "labels_de": [
         "[-5] Nicht im Fragebogen enthalten",
-        "[-4] Unzulaessige Mehrfachantwort",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] Nicht valide",
         "[-2] Trifft nicht zu",
         "[-1] Keine Angabe",

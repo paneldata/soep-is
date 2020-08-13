@@ -28,13 +28,41 @@
     "dataset": "biobirth",
     "label": "Never Changing Person ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire version with modified filtering",
+        "[-5] Not contained in questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
-    "label_de": "Unveraenderliche Personennummer",
+    "label_de": "Unveränderliche Personennummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
@@ -61,7 +89,7 @@
         "[2] female"
       ],
       "labels_de": [
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -111,9 +139,9 @@
         "[31] Birth Biography - Kids From Bio"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1949,13 +1977,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2013,13 +2041,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2077,13 +2105,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2141,13 +2169,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2205,13 +2233,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2269,13 +2297,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2333,13 +2361,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2397,13 +2425,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2461,13 +2489,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2525,13 +2553,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2589,13 +2617,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2653,13 +2681,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2717,13 +2745,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2781,13 +2809,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2845,13 +2873,13 @@
         "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] mÃ¤nnlich",
+        "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
@@ -2929,15 +2957,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3043,15 +3071,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3157,15 +3185,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3271,15 +3299,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3385,15 +3413,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3499,15 +3527,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3613,15 +3641,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3727,15 +3755,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3841,15 +3869,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -3955,15 +3983,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -4069,15 +4097,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -4183,15 +4211,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -4297,15 +4325,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -4411,15 +4439,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",
@@ -4525,15 +4553,15 @@
         "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geÃ¤nderter FilterfÃ¼hrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulÃ¤ssige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Januar",
         "[2] Februar",
-        "[3] MÃ¤rz",
+        "[3] März",
         "[4] April",
         "[5] Mai",
         "[6] Juni",

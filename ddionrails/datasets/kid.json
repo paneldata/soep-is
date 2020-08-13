@@ -159,9 +159,9 @@
         "[32] Innovationssample 2016 Aufstockung"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -205,7 +205,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stichprobenzugehoerigkeit",
+    "label_de": "Stichprobenzugehörigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 16112,
@@ -231,8 +231,6 @@
         11,
         12,
         23,
-        24,
-        25,
         41,
         61,
         62
@@ -251,16 +249,14 @@
         "[11] Non-Relative",
         "[12] Child Of The Partner of HH Head",
         "[23] Adoptive Child",
-        "[24] Foster Child",
-        "[25] Grandchild",
         "[41] Brother, Sister",
         "[61] Aunt, Uncle",
         "[62] Niece/Nephew"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -291,8 +287,6 @@
         false,
         false,
         false,
-        false,
-        false,
         false
       ],
       "frequencies": [
@@ -309,8 +303,6 @@
         10,
         261,
         10,
-        0,
-        0,
         8,
         2,
         4
@@ -390,9 +382,9 @@
         "[40] Currently In HH"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -406,13 +398,13 @@
         "[11] Geboren",
         "[12] Zuzg.a.Alt-BRD s.l.B",
         "[13] Zuzg.a.Ausland s.l.B",
-        "[14] In den HH zurueckgek.",
+        "[14] In den HH zurückgek.",
         "[15] Zuzug Inl.v.l.Befr.",
         "[16] Zuzg.a.Ausland v.l.By",
         "[17] Geboren vor letzter Befr.",
         "[18] Zuzg.a.Alt-DDR",
         "[20] Lebt im neuen HH",
-        "[30] Lebt im HH s.laenger",
+        "[30] Lebt im HH s.länger",
         "[31] Geboren",
         "[32] Zuzg a.Alt-BRD s.J.d.Vr",
         "[33] Zuzg a.Ausland s.J.d.Vr",
@@ -481,7 +473,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Haushaltszugehoerigkeit",
+    "label_de": "Haushaltszugehörigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 16112,
@@ -884,9 +876,9 @@
         "[5] Full Day"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -971,13 +963,13 @@
         "[9] Other School (East 90,91)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Grundschule inkl. Foerderstufe",
+        "[1] Grundschule inkl. Förderstufe",
         "[2] Hauptschule",
         "[3] Realschule",
         "[4] Gymnasium",
@@ -1056,9 +1048,9 @@
         "[2] Other School"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1122,9 +1114,9 @@
         "[3] No Pre-School Attended (2009-2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1199,9 +1191,9 @@
         "[7] Other School"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1276,9 +1268,9 @@
         "[1] Boarding School (East 90/91)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1377,18 +1369,18 @@
         "[37] Learn Disabilities Special School"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sonderschule",
         "[6] Lernbehindertenschule",
-        "[7] Foerderschule",
+        "[7] Förderschule",
         "[10] Behindertenschule",
         "[11] Blindenschule",
-        "[16] Koerperbehindertenschule",
+        "[16] Körperbehindertenschule",
         "[17] Orientierungsstufe",
         "[20] Sprachheilschule",
         "[21] Sprachheilgrundschule",
@@ -1396,15 +1388,15 @@
         "[24] Wirtschaftsschule",
         "[25] Aufbauschule",
         "[26] Berufsfachschule",
-        "[27] Berufsfoerderungsschule",
+        "[27] Berufsförderungsschule",
         "[28] Berufsvorbereitendes Jahr",
         "[29] BFH 95",
         "[31] Haushaltsschule",
         "[32] Lebenshilfe Schulvorb.",
-        "[34] Schwerhoerigenschule",
+        "[34] Schwerhörigenschule",
         "[35] Lernbehinderte",
         "[36] Sonderschule - Kirche",
-        "[37] Sonderschule fuer Lernbehinderte"
+        "[37] Sonderschule für Lernbehinderte"
       ],
       "missings": [
         true,
@@ -1503,15 +1495,15 @@
         "[3] Public Provider (2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Traeger: oeff. Einrichtung",
-        "[2] Traeger: oeff. Schule(2011)",
-        "[3] Traeger: oeff. Einrichtung(2011)"
+        "[1] Träger: öff. Einrichtung",
+        "[2] Träger: öff. Schule(2011)",
+        "[3] Träger: öff. Einrichtung(2011)"
       ],
       "missings": [
         true,
@@ -1537,7 +1529,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Traeger: oeff. Einrichtung",
+    "label_de": "Träger: öff. Einrichtung",
     "study": "soep-is",
     "statistics": {
       "valid": 456,
@@ -1572,15 +1564,15 @@
         "[3] Private Provider (2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Traeger: priv.-gemeinn. Einricht.",
-        "[2] Traeger: priv.-gemeinn. Schule(2011)",
-        "[3] Traeger: priv.-gemeinn. Einricht.(2011)"
+        "[1] Träger: priv.-gemeinn. Einricht.",
+        "[2] Träger: priv.-gemeinn. Schule(2011)",
+        "[3] Träger: priv.-gemeinn. Einricht.(2011)"
       ],
       "missings": [
         true,
@@ -1606,7 +1598,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Traeger: private-gemeinn. Einrichtung",
+    "label_de": "Träger: private-gemeinn. Einrichtung",
     "study": "soep-is",
     "statistics": {
       "valid": 10,
@@ -1641,15 +1633,15 @@
         "[3] Church Institution (2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Traeger: kirchl., gemeinn. Einrichtung",
-        "[2] Traeger: kirchl. Schule(2011)",
-        "[3] Traeger: kirchl., gemeinn. Einrichtung(2011)"
+        "[1] Träger: kirchl., gemeinn. Einrichtung",
+        "[2] Träger: kirchl. Schule(2011)",
+        "[3] Träger: kirchl., gemeinn. Einrichtung(2011)"
       ],
       "missings": [
         true,
@@ -1675,7 +1667,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Traeger: kirchlich, gemeinn. Einrichtung",
+    "label_de": "Träger: kirchlich, gemeinn. Einrichtung",
     "study": "soep-is",
     "statistics": {
       "valid": 47,
@@ -1708,14 +1700,14 @@
         "[3] Provided By Company (2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Traeger: betriebl. Einrichtung",
-        "[3] Traeger: betriebl. Einrichtung(2011)"
+        "[1] Träger: betriebl. Einrichtung",
+        "[3] Träger: betriebl. Einrichtung(2011)"
       ],
       "missings": [
         true,
@@ -1739,7 +1731,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Traeger: betriebl. Einrichtung",
+    "label_de": "Träger: betriebl. Einrichtung",
     "study": "soep-is",
     "statistics": {
       "valid": 0,
@@ -1774,15 +1766,15 @@
         "[3] Commercial Provider (2011)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Traeger: priv.-gewerbl. Einricht.",
-        "[2] Traeger: Privatschule(2011)",
-        "[3] Traeger: priv.-gewerbl. Einricht.(2011)"
+        "[1] Träger: priv.-gewerbl. Einricht.",
+        "[2] Träger: Privatschule(2011)",
+        "[3] Träger: priv.-gewerbl. Einricht.(2011)"
       ],
       "missings": [
         true,
@@ -1808,7 +1800,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Traeger: private-gewerbl. Einrichtung",
+    "label_de": "Träger: private-gewerbl. Einrichtung",
     "study": "soep-is",
     "statistics": {
       "valid": 9,
@@ -1845,9 +1837,9 @@
         "[4] No, Not Full-Time (2009-)"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1969,9 +1961,9 @@
         "[3] Cannot Rely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2040,9 +2032,9 @@
         "[4] No, lunch provided"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2110,9 +2102,9 @@
         "[2] Fixed Sum in EURO"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2224,9 +2216,9 @@
         "[1] Carer: Relatives"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2283,9 +2275,9 @@
         "[1] Carer: Friends"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2342,9 +2334,9 @@
         "[1] Carer: Paid Care"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2401,9 +2393,9 @@
         "[1] Carer: Child Minder"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2460,9 +2452,9 @@
         "[1] Carer: None"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2571,9 +2563,9 @@
         "[1] no costs"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2630,9 +2622,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2689,13 +2681,13 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Ja, fruehkindl. Musikerziehung"
+        "[1] Ja, frühkindl. Musikerziehung"
       ],
       "missings": [
         true,
@@ -2717,7 +2709,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Unter 6: fruehkindl. Musikerziehung",
+    "label_de": "Unter 6: frühkindl. Musikerziehung",
     "study": "soep-is",
     "statistics": {
       "valid": 36,
@@ -2748,13 +2740,13 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Ja, Malen fuer Kinder"
+        "[1] Ja, Malen für Kinder"
       ],
       "missings": [
         true,
@@ -2776,7 +2768,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Unter 6: Malen fuer Kinder",
+    "label_de": "Unter 6: Malen für Kinder",
     "study": "soep-is",
     "statistics": {
       "valid": 4,
@@ -2807,13 +2799,13 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Ja, andere Aktivitaet"
+        "[1] Ja, andere Aktivität"
       ],
       "missings": [
         true,
@@ -2835,7 +2827,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Unter 6: andere Aktivitaet",
+    "label_de": "Unter 6: andere Aktivität",
     "study": "soep-is",
     "statistics": {
       "valid": 31,
@@ -2866,13 +2858,13 @@
         "[1] No Activities Under 6"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Keine Aktivitaeten unter 6"
+        "[1] Keine Aktivitäten unter 6"
       ],
       "missings": [
         true,
@@ -2894,7 +2886,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Keine Aktivitaeten unter 6",
+    "label_de": "Keine Aktivitäten unter 6",
     "study": "soep-is",
     "statistics": {
       "valid": 161,
@@ -2925,9 +2917,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2984,9 +2976,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3043,9 +3035,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3102,9 +3094,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3161,9 +3153,9 @@
         "[1] Other School Activities"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3220,9 +3212,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3279,9 +3271,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3338,9 +3330,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3397,9 +3389,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3456,9 +3448,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3515,9 +3507,9 @@
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3574,13 +3566,13 @@
         "[1] No Activities Above 6"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Keine Aktivitaeten ab 6"
+        "[1] Keine Aktivitäten ab 6"
       ],
       "missings": [
         true,
@@ -3602,7 +3594,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Keine Aktivitaeten ab 6",
+    "label_de": "Keine Aktivitäten ab 6",
     "study": "soep-is",
     "statistics": {
       "valid": 122,
@@ -3685,9 +3677,9 @@
         "[1] no costs"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
