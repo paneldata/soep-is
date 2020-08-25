@@ -1,4 +1,4 @@
-study,questionnaire,question,item,dataset,variable,concept
+study,instrument,question,item,dataset,variable,concept
 soep-is,soep-is-2011,A000C,lgeb,p11_Inno_final,ppgeb,
 soep-is,soep-is-2011,A000C,lgeb,l11_inno_final,lgeb,
 soep-is,soep-is-2011,A000C,lgebmo,l11_inno_final,lgebmo,
