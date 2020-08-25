@@ -1,4 +1,4 @@
-study,dataset,period,analysis_unit,conceptual_dataset,label,description
+study,name,period,analysis_unit,conceptual_dataset,label,description
 soep-is,bio,0,p,org/net,Variables from the Life Course Question Module,
 soep-is,bioage,0,p,org/net,Variables from the Modules of Questions on Children,
 soep-is,biobirth,0,p,track,Birth Biography of Female and Male Respondents,
