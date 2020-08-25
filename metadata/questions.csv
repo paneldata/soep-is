@@ -1,4 +1,4 @@
-study,questionnaire,question,item,template.id,text_de,instruction_de,text,instruction,scale,answer_list,range,concept,filter,goto,description,scripternotes,number,old.template.id,dataset,var_fix
+study,instrument,question,item,template.id,text_de,instruction_de,text,instruction,scale,answer_list,range,concept,filter,goto,description,scripternotes,number,old.template.id,dataset,var_fix
 soep-is,soep-is-2018-f,UE1,1,18062,Einstieg/Screening,,Entry/Screening,,txt,,,,,,,,,,,
 soep-is,soep-is-2018-f,Q10000032,name,18113,Vorname: ...,,First name: ...,,chr,,,name,"[Q10000010,98 \ Q10000011,2]",,,,,,,
 soep-is,soep-is-2018-f,Q10000033,lsex,18114,Geschlecht:,,Sex:,,cat,2+,,lsex,"[Q10000010,98 \ Q10000011,2]",,,,,,,
