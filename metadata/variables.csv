@@ -1,4 +1,4 @@
-study,dataset,version,variable,template_id,label,label_de,concept,type,description,description_de,case_sensitive_name,categories,categories_de
+study,dataset,version,name,template_id,label,label_de,concept,type,description,description_de,case_sensitive_name,categories,categories_de
 soep-is,bio,2018,cid,,"Case-ID, Original Household Number","Case ID, Ursprungshaushaltsnummer",,byte,,,,,
 soep-is,bio,2018,hid,,Current Wave HH Number,Aktuelle Haushaltsnummer,,byte,,,,,
 soep-is,bio,2018,pid,,Never Changing Person ID,Unveränderliche Personennummer (PID),,byte,,,,,
