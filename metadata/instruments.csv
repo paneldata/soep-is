@@ -1,4 +1,4 @@
-study,questionnaire,label,description,analysis_unit,period,author,label_de,description_de,publish,qtyp
+study,name,label,description,analysis_unit,period,author,label_de,description_de,publish,qtyp
 soep-is,soep-is-2018-f,Questionnaire 2018,,,2018,SOEP-IS Group,Fragebogen 2018,,1,
 soep-is,soep-is-2017-f,Questionnaire 2017,,,2017,SOEP-IS Group,Fragebogen 2017,,1,
 soep-is,soep-is-2016-a,Questionnaire 2016 (Boost Sample),,,2016,SOEP-IS Group,Fragebogen 2016 (Aufwuchsstichprobe),,1,
