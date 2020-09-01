@@ -1,4 +1,4 @@
-type,study_name,dataset_name,variable_name,instrument_name,question_name,url,url_text
+type,study,dataset,variable,instrument,question,url,url_text
 study,soep-is,,,,,https://doi.org/10.5684/soep.is.2018,doi:10.5684/soep.is.2018
 study,soep-is,bio,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.787426.de/diw_ssp0837.pdf,PDF Codebook (en)
 study,soep-is,bioage,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.787428.de/diw_ssp0838.pdf,PDF Codebook (en)
@@ -26,7 +26,7 @@ study,soep-is,pbrutto,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.
 study,soep-is,pgen,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.789386.de/diw_ssp0860.pdf,PDF Codebook (en)
 study,soep-is,phrf,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.789388.de/diw_ssp0861.pdf,PDF Codebook (en)
 study,soep-is,ppfad,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.789390.de/diw_ssp0862.pdf,PDF Codebook (en)
-instrument,soep-is,,,soep-is-2018-f,,,PDF with Reference to Variables (de)
+instrument,soep-is,,,soep-is-2018-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.798096.de/diw_ssp0889.pdf,PDF with Reference to Variables (de)
 instrument,soep-is,,,soep-is-2017-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.789421.de/diw_ssp0865.pdf,PDF with Reference to Variables (de)
 instrument,soep-is,,,soep-is-2016-a,,https://www.diw.de/documents/publikationen/73/diw_01.c.624337.de/diw_ssp0710.pdf,PDF with Reference to Variables (de)
 instrument,soep-is,,,soep-is-2016-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.624341.de/diw_ssp0712.pdf,PDF with Reference to Variables (de)
@@ -38,7 +38,7 @@ instrument,soep-is,,,soep-is-2013-f,,https://www.diw.de/documents/publikationen/
 instrument,soep-is,,,soep-is-2012-aufwuchs,,https://www.diw.de/documents/publikationen/73/diw_01.c.590975.de/diw_ssp0524.pdf,PDF with Reference to Variables (de)
 instrument,soep-is,,,soep-is-2012-haupt,,https://www.diw.de/documents/publikationen/73/diw_01.c.590979.de/diw_ssp0526.pdf,PDF with Reference to Variables (de)
 instrument,soep-is,,,soep-is-2011,,https://www.diw.de/documents/publikationen/73/diw_01.c.590955.de/diw_ssp0522.pdf,PDF with Reference to Variables (de)
-instrument,soep-is,,,soep-is-2018-f,,,PDF with Reference to Variables (en)
+instrument,soep-is,,,soep-is-2018-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.798098.de/diw_ssp0890.pdf,PDF with Reference to Variables (en)
 instrument,soep-is,,,soep-is-2017-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.789423.de/diw_ssp0866.pdf,PDF with Reference to Variables (en)
 instrument,soep-is,,,soep-is-2016-a,,https://www.diw.de/documents/publikationen/73/diw_01.c.624339.de/diw_ssp0711.pdf,PDF with Reference to Variables (en)
 instrument,soep-is,,,soep-is-2016-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.624343.de/diw_ssp0713.pdf,PDF with Reference to Variables (en)
@@ -49,4 +49,4 @@ instrument,soep-is,,,soep-is-2013-a,,https://www.diw.de/documents/publikationen/
 instrument,soep-is,,,soep-is-2013-f,,https://www.diw.de/documents/publikationen/73/diw_01.c.591111.de/diw_ssp0531.pdf,PDF with Reference to Variables (en)
 instrument,soep-is,,,soep-is-2012-aufwuchs,,https://www.diw.de/documents/publikationen/73/diw_01.c.590977.de/diw_ssp0525.pdf,PDF with Reference to Variables (en)
 instrument,soep-is,,,soep-is-2012-haupt,,https://www.diw.de/documents/publikationen/73/diw_01.c.590991.de/diw_ssp0527.pdf,PDF with Reference to Variables (en)
-instrument,soep-is,,,soep-is-2011,,,PDF with Reference to Variables (en)
+instrument,soep-is,,,soep-is-2011,,https://www.diw.de/documents/publikationen/73/diw_01.c.798100.de/diw_ssp0891.pdf,PDF with Reference to Variables (en)

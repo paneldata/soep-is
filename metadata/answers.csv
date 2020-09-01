@@ -236,10 +236,10 @@ soep-is,soep-is-2018-f,33+16,3,Seltener,Less often
 soep-is,soep-is-2018-f,33+16,4,Nie,Never
 soep-is,soep-is-2018-f,33+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,371+16,1,Sehr stark,An extreme amount
-soep-is,soep-is-2018-f,371+16,2,Ziemlich stark,quiet strong
-soep-is,soep-is-2018-f,371+16,3,Mäßig,moderate
-soep-is,soep-is-2018-f,371+16,4,Ziemlich schwach,quiet weak
-soep-is,soep-is-2018-f,371+16,5,Sehr schwach,very weak
+soep-is,soep-is-2018-f,371+16,2,Ziemlich stark,quiet strongly
+soep-is,soep-is-2018-f,371+16,3,Mäßig,moderately
+soep-is,soep-is-2018-f,371+16,4,Ziemlich schwach,quiet weakly
+soep-is,soep-is-2018-f,371+16,5,Sehr schwach,very weakly
 soep-is,soep-is-2018-f,371+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,3742+16,1,1,1
 soep-is,soep-is-2018-f,3742+16,2,2,2
@@ -647,7 +647,7 @@ soep-is,soep-is-2018-f,3979+,1,Email-Adresse korrekt,Email address correct
 soep-is,soep-is-2018-f,3979+,2,Email-Adresse nicht korrekt,Email address is not correct
 soep-is,soep-is-2018-f,3983+,1,[Fragen zum Haushalt beantworten/Fragen zum Haushalt (erneut) beantworten],[Answer questions for the household/Answers questions for the household (again)]
 soep-is,soep-is-2018-f,3983+,2,Fragen zum Haushalt überspringen,Skip questions about the houshold
-soep-is,soep-is-2018-f,3984+,1,Microfaser-Handtuch,Microfiber-towel
+soep-is,soep-is-2018-f,3984+,1,Microfaser-Handtuch,Microfiber towel
 soep-is,soep-is-2018-f,3984+,2,Schreibset,writing set
 soep-is,soep-is-2018-f,3984+,3,Keines davon,None Of These
 soep-is,soep-is-2018-f,3985+,1,Freie Wahl,Free choice
@@ -659,7 +659,7 @@ soep-is,soep-is-2018-f,3986+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,3987+,1,Microfaser-Handtuch zuerst übergeben (45% der Stichprobe),Microfiber towel first handed over (45% of sample)
 soep-is,soep-is-2018-f,3987+,2,Schreibset zuerst übergeben (45% der Stichprobe),Writing set first handed over (45% of sample)
 soep-is,soep-is-2018-f,3989+16,1,Sehr gut,Very good
-soep-is,soep-is-2018-f,3989+16,2,Eher gut,Rather correct
+soep-is,soep-is-2018-f,3989+16,2,Eher gut,Rather good
 soep-is,soep-is-2018-f,3989+16,3,Zufriedenstellend,Satisfactory
 soep-is,soep-is-2018-f,3989+16,4,Eher schlecht,Rather wrong
 soep-is,soep-is-2018-f,3989+16,5,Sehr schlecht,Very bad
@@ -689,7 +689,7 @@ soep-is,soep-is-2018-f,3994+16,3,Die Mieten werden gleich bleiben,The rents will
 soep-is,soep-is-2018-f,3994+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,3995+16,1,Der Kaufpreis wird steigen,The purchase price will increase
 soep-is,soep-is-2018-f,3995+16,2,Der Kaufpreis wird fallen,The purchase price will decrease
-soep-is,soep-is-2018-f,3995+16,3,Der Kaufpreis wird gleich bleiben,The purchase price will remmain the same
+soep-is,soep-is-2018-f,3995+16,3,Der Kaufpreis wird gleich bleiben,The purchase price will remain the same
 soep-is,soep-is-2018-f,3995+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,3996+16,1,Anteil in Prozent,Percentage
 soep-is,soep-is-2018-f,3996+16,-1,Keine Angabe,No answer
@@ -1011,7 +1011,7 @@ soep-is,soep-is-2018-f,4060+16,5,Für überhaupt nicht vertretbar 5,For not at a
 soep-is,soep-is-2018-f,4060+16,-1,Keine Angabe,No answer
 soep-is,soep-is-2018-f,4061+16,1,%,percent
 soep-is,soep-is-2018-f,4061+16,-1,Keine Angabe,No answer
-soep-is,soep-is-2018-f,42+16,1,"In der DDR, einschließlich Ostberlin","In East Germany, including East-berlin"
+soep-is,soep-is-2018-f,42+16,1,"In der DDR, einschließlich Ostberlin","In East Germany, including East-Berlin"
 soep-is,soep-is-2018-f,42+16,2,"In der Bundesrepublik, einschließlich Westberlin","In West Germany, including West-Berlin"
 soep-is,soep-is-2018-f,42+16,3,In einem anderen Land,In another country
 soep-is,soep-is-2018-f,42+16,-1,Keine Angabe,No answer
