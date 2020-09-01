@@ -1,6 +1,9 @@
-name,label,label_de,description
-gen,generated,generiert,
-org/gross,gross,brutto,
-org/net,questionnaires,erfragt,
-survey,weights,Gewichte,
-track,tracking,Pfad,
+study,name,label,label_de,description,description_de
+soep-is,track,Tracking,Struktur-/Pfad-Daten,Essential files to track persons or household over time,
+soep-is,org/gross,Gross,Brutto-Daten,"Information on gross sample, mostly from the field work",
+soep-is,org/net,Original,Fragebogendaten (netto),"Information from succesfull interviewed respondents, mostly based on a questionnaire",
+soep-is,survey,Survey,Methodendaten,Dataset describing the survey design or weighting scheme,
+soep-is,gen,Generated,Generierte Daten,"Generated data, checked for longitudinally consistency",
+soep-is,gen/bio,Gen. Biographical,Generierte Bio-Daten,"Generated biographical data, checked for longitudinally consistency",
+soep-is,spell,Spell,,Spell data,
+soep-is,raw,Raw data (undistributed),Rohdaten (nicht veröffentlicht),Undistributed original datasets,
