@@ -12,9 +12,8 @@ config:
 
 * **Title:** soep-is
 * SOEP Innovation-Sample
-* **doi:** 10.5684/soep.is.2016.2
 * **Authors:** SOEP-IS Group
-* Publications using these data should cite the DOI (**doi:10.5684/soep.is.2016.2**) and include the following reference:    
+* Publications using these data should cite the DOI and include the following reference:    
 Richter, David, and Jürgen Schupp. 2015. The SOEP Innovation Sample (SOEP IS). Schmollers Jahrbuch 135 (3), 389-399 (doi: 10.3790/schm.135.3.389)
 * **URL:** [SOEP- IS](https://www.diw.de/sixcms/detail.php?id=diw_01.c.583496.en)
 
@@ -45,35 +44,13 @@ To ensure the confidentiality of respondents’ information, the SOEP adheres to
 After users have signed or updated their data distribution contract with DIW Berlin, they will receive the SOEP-IS dataset by personalized encrypted download. At the SOEP Data Research Center, users can also access small-scale regional data that can be linked to the SOEP-IS data.
 Additional information and all the required forms can be found on the SOEP webpage.
 
-## Data description
-
-data        | description
-------------|------------------------------------------------------
-H           | Variables from the Household Question Module
-P           | Variables from the Individual Question Module
-INNO        | Variables from the Innovation Modules
-BIO         | Variables from the Life Course Question Module
-BIOBIRTH    | Birth Biography of Female Respondents
-BIOBRTHM    | Birth Biography of Male Respondents
-KID         | Pooled Dataset on Children
-BIOAGE      | Variables from the Modules of Questions on Children
-HGEN        | Household-related Status and Generated Variables
-PGEN        | Person-related Status and Generated Variables
-PPFAD       | Person-related Meta-dataset
-HBRUTTO     | Household-related Gross File
-PBRUTTO     | Person-related Gross File
-HHRF        | Household-related Weighting Factors
-PHRF        | Person-related Weighting Factors
-
 The datasets are available for Stata and SPSS in versions with German and English labels.
 
 ### Samples and fieldwork
 
-In 2016, more than 5,500 adult respondents in more than 3,500 households participated in the SOEP-Innovation Sample. Many of these women and men have been answering core SOEP questions since 1998 as part of an extension sample to the SOEP, while others entered in 2009. These individuals provide a wealth of longitudinal data to the SOEP Innovation Sample. Within the framework of the SOEP-Innovation Sample, additional samples were recruited in 2012, 2013, 2014, and 2016.
+In 2018, more than 4,800 adult respondents in more than 3,200 households participated in the SOEP-Innovation Sample. Many of these women and men have been answering core SOEP questions since 1998 as part of an extension sample to the SOEP, while others entered in 2009. These individuals provide a wealth of longitudinal data to the SOEP Innovation Sample. Within the framework of the SOEP-Innovation Sample, additional samples were recruited in 2012, 2013, 2014, and 2016.
 
 ## Data Collection
 
-The annual fieldwork runs from September to December of each year. The first wave of the first subsample of the
-SOEP-IS started in September 2011, with a newly developed core questionnaire “SOEP Innovations” and new
-methods to measure gender stereotypes.
+The annual fieldwork runs from September to December of each year. The first wave of the first subsample of the SOEP-IS started in September 2011, with a newly developed core questionnaire “SOEP Innovations” and new methods to measure gender stereotypes.
 The overall volume and costs of the surveys conducted in the SOEP-IS are lower than if “fresh” samples were used: central household and individual characteristics, invariant over time, are already available and do not have to be collected again.

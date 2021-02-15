@@ -107,9 +107,9 @@ def create_questions_from_generations(
     updated_generations = create_indirect_links_recursive(generations)
 
     # Remove rows when output version is not the specified version
-    # updated_generations = updated_generations[
-    #     updated_generations["output_version"] == version
-    # ]
+    updated_generations = updated_generations[
+        updated_generations["output_version"] == version
+    ]
 
     indirect_relations = updated_generations.merge(
         logical_variables,
@@ -156,7 +156,10 @@ def questions_from_generations(version):
     questions_variables = create_questions_from_generations(version)
 
     # keep only variables from datasets defined in datasets.csv
+
+    # print(questions_variables)
+
     datasets = pd.read_csv("ddionrails/datasets.csv")
-    mask = questions_variables["dataset_name"].isin(datasets["name"].unique())
+    mask = questions_variables["dataset_name"].isin(datasets["dataset_name"].unique())
     questions_variables = questions_variables[mask]
     questions_variables.to_csv("ddionrails/questions_variables.csv", index=False)
