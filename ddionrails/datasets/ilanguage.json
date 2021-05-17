@@ -598,32 +598,32 @@
         0,
         0,
         0,
-        2096,
-        2102,
-        2091,
-        2097,
-        2088,
-        2096,
-        2096,
-        2101,
-        2097,
         2094,
-        2081,
-        2091,
-        2092,
+        2110,
         2094,
-        2091,
-        2086,
-        2092,
+        2087,
         2094,
+        2095,
+        2093,
+        2100,
         2096,
         2089,
-        2091,
-        2094,
+        2096,
         2092,
-        2099,
+        2084,
+        2103,
+        2096,
+        2096,
+        2090,
+        2084,
+        2087,
+        2105,
+        2095,
+        2094,
+        2095,
+        2092,
         0,
-        2104
+        2083
       ]
     },
     "scale": "cat",
@@ -14635,40 +14635,46 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        1
       ],
       "labels": [
         "[-5] not included in this version of the questionnaire",
         "[-4] inadmissible multiple answer",
         "[-3] answer improbable",
         "[-2] does not apply",
-        "[-1] no answer"
+        "[-1] no answer",
+        "[1] Yes"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja"
       ],
       "missings": [
         true,
         true,
         true,
         true,
-        true
+        true,
+        false
       ],
       "frequencies": [
         181564,
         0,
         0,
         39780,
-        0
+        0,
+        9396
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Bundesland mind. 6 Monate gelebt: Nordrhein-Westfalen",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 1.0,
-      "Median": 1.0,
-      "Mean": 1.0,
-      "3rd Qu.": 1.0,
-      "Max.": 1.0,
       "valid": 9396,
       "invalid": 221344
     }
@@ -14679,18 +14685,43 @@
     "label": "Lived for 6 months in: Rhineland-Palatinate",
     "categories": {
       "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         1
       ],
       "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
         "[1] Yes"
       ],
       "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[1] Ja"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        181564,
+        0,
+        0,
+        46683,
+        0,
         2493
       ]
     },

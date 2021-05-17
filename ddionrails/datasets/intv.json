@@ -13,20 +13,20 @@
     "label_de": "Interviewer ID",
     "study": "soep-is",
     "statistics": {
-      "Min.": 880099.0,
-      "1st Qu.": 1002913.0,
-      "Median": 1004632.0,
-      "Mean": 1004732.0703598867,
-      "3rd Qu.": 1006303.0,
-      "Max.": 1009788.0,
-      "valid": 2473,
+      "Min.": 1001028.0,
+      "1st Qu.": 1002481.5,
+      "Median": 1003741.0,
+      "Mean": 1003653.2866568915,
+      "3rd Qu.": 1004964.0,
+      "Max.": 1006055.0,
+      "valid": 2728,
       "invalid": 0
     }
   },
   {
     "name": "syear",
     "dataset": "intv",
-    "label": "Survey Year",
+    "label": "Befragungsjahr ",
     "categories": {
       "values": [],
       "labels": [],
@@ -34,23 +34,23 @@
       "frequencies": []
     },
     "scale": "number",
-    "label_de": "Survey Year",
+    "label_de": "Befragungsjahr ",
     "study": "soep-is",
     "statistics": {
       "Min.": 2011.0,
       "1st Qu.": 2013.0,
       "Median": 2015.0,
-      "Mean": 2014.728669632026,
+      "Mean": 2015.1308651026393,
       "3rd Qu.": 2017.0,
-      "Max.": 2018.0,
-      "valid": 2473,
+      "Max.": 2019.0,
+      "valid": 2728,
       "invalid": 0
     }
   },
   {
     "name": "eintritt",
     "dataset": "intv",
-    "label": "Year Joined",
+    "label": "Eintrittsjahr",
     "categories": {
       "values": [
         -6,
@@ -61,12 +61,12 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -82,27 +82,27 @@
         0,
         0,
         0,
-        2
+        0
       ]
     },
     "scale": "number",
-    "label_de": "Year Joined",
+    "label_de": "Eintrittsjahr",
     "study": "soep-is",
     "statistics": {
       "Min.": 1969.0,
       "1st Qu.": 2000.0,
       "Median": 2007.0,
-      "Mean": 2003.7482800485634,
+      "Mean": 2003.7972873900294,
       "3rd Qu.": 2011.0,
       "Max.": 2019.0,
-      "valid": 2471,
-      "invalid": 2
+      "valid": 2728,
+      "invalid": 0
     }
   },
   {
     "name": "soepseit",
     "dataset": "intv",
-    "label": "Year Started Working at SOEP",
+    "label": "Erstes Arbeitsjahr im SOEP",
     "categories": {
       "values": [
         -6,
@@ -113,12 +113,12 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -134,27 +134,27 @@
         0,
         0,
         0,
-        14
+        13
       ]
     },
     "scale": "number",
-    "label_de": "Year Started Working at SOEP",
+    "label_de": "Erstes Arbeitsjahr im SOEP",
     "study": "soep-is",
     "statistics": {
       "Min.": 1984.0,
       "1st Qu.": 2005.0,
       "Median": 2009.0,
-      "Mean": 2007.3977226514844,
+      "Mean": 2007.4850828729282,
       "3rd Qu.": 2012.0,
-      "Max.": 2018.0,
-      "valid": 2459,
-      "invalid": 14
+      "Max.": 2019.0,
+      "valid": 2715,
+      "invalid": 13
     }
   },
   {
     "name": "festseit",
     "dataset": "intv",
-    "label": "Year Gained Permanent Position",
+    "label": "Erstes Arbeitsjahr mit Festanstellung",
     "categories": {
       "values": [
         -6,
@@ -166,22 +166,22 @@
         0
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] Not permanently employed"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Nicht dauerhaft angestellt"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] Not permanently employed"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Nicht dauerhaft angestellt"
       ],
       "missings": [
         true,
@@ -198,22 +198,22 @@
         0,
         0,
         784,
-        2,
-        1621
+        0,
+        1861
       ]
     },
     "scale": "cat",
-    "label_de": "Year Gained Permanent Position",
+    "label_de": "Erstes Arbeitsjahr mit Festanstellung",
     "study": "soep-is",
     "statistics": {
-      "valid": 1687,
-      "invalid": 786
+      "valid": 1944,
+      "invalid": 784
     }
   },
   {
     "name": "sex_intv",
     "dataset": "intv",
-    "label": "Gender",
+    "label": "Geschlecht des Interviewers ",
     "categories": {
       "values": [
         -6,
@@ -226,24 +226,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] männlich",
+        "[2] weiblich"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] männlich",
+        "[2] weiblich"
       ],
       "missings": [
         true,
@@ -261,23 +261,23 @@
         0,
         0,
         0,
-        2,
-        1386,
-        1085
+        0,
+        1530,
+        1198
       ]
     },
     "scale": "cat",
-    "label_de": "Gender",
+    "label_de": "Geschlecht des Interviewers ",
     "study": "soep-is",
     "statistics": {
-      "valid": 2471,
-      "invalid": 2
+      "valid": 2728,
+      "invalid": 0
     }
   },
   {
     "name": "gebjahr_intv",
     "dataset": "intv",
-    "label": "Year of Birth",
+    "label": "Geburtsjahr des Interviewers ",
     "categories": {
       "values": [
         -6,
@@ -288,12 +288,12 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -309,27 +309,27 @@
         0,
         0,
         0,
-        2
+        0
       ]
     },
     "scale": "number",
-    "label_de": "Year of Birth",
+    "label_de": "Geburtsjahr des Interviewers ",
     "study": "soep-is",
     "statistics": {
       "Min.": 1927.0,
       "1st Qu.": 1945.0,
       "Median": 1951.0,
-      "Mean": 1951.792391744233,
+      "Mean": 1951.850073313783,
       "3rd Qu.": 1957.0,
       "Max.": 1994.0,
-      "valid": 2471,
-      "invalid": 2
+      "valid": 2728,
+      "invalid": 0
     }
   },
   {
     "name": "famstand",
     "dataset": "intv",
-    "label": "Marital Status",
+    "label": "Familienstand des Interviewers ",
     "categories": {
       "values": [
         -6,
@@ -344,28 +344,28 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "unbekannt",
         "[1] Single",
-        "[2] Married",
-        "[3] Widowed/Divorced/Separated"
+        "[2] Verheiratet",
+        "[3] Verwitwet/Geschieden/Getrennt"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "unbekannt",
         "[1] Single",
-        "[2] Married",
-        "[3] Widowed/Divorced/Separated"
+        "[2] Verheiratet",
+        "[3] Verwitwet/Geschieden/Getrennt"
       ],
       "missings": [
         true,
@@ -385,25 +385,25 @@
         0,
         0,
         0,
-        2,
         0,
-        323,
-        1801,
-        347
+        0,
+        359,
+        1985,
+        384
       ]
     },
     "scale": "cat",
-    "label_de": "Marital Status",
+    "label_de": "Familienstand des Interviewers ",
     "study": "soep-is",
     "statistics": {
-      "valid": 2471,
-      "invalid": 2
+      "valid": 2728,
+      "invalid": 0
     }
   },
   {
     "name": "btaetig",
     "dataset": "intv",
-    "label": "Employment Status",
+    "label": "Berufsstatus",
     "categories": {
       "values": [
         -6,
@@ -420,32 +420,32 @@
         6
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Fully Employed",
-        "[2] Part-Time Work",
-        "[3] Homemaker",
-        "[4] Retiree / Pensioner",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Vollzeitbeschäftigung",
+        "[2] Teilzeitbeschäftigung",
+        "[3] Hausfrau/Hausmann",
+        "[4] Rentner/Pensionär",
         "[5] Student / Trainee",
-        "[6] Currently Unemployed"
+        "[6] arbeitslos"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Fully Employed",
-        "[2] Part-Time Work",
-        "[3] Homemaker",
-        "[4] Retiree / Pensioner",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Vollzeitbeschäftigung",
+        "[2] Teilzeitbeschäftigung",
+        "[3] Hausfrau/Hausmann",
+        "[4] Rentner/Pensionär",
         "[5] Student / Trainee",
-        "[6] Currently Unemployed"
+        "[6] arbeitslos"
       ],
       "missings": [
         true,
@@ -467,27 +467,27 @@
         0,
         0,
         0,
-        3,
-        626,
-        702,
-        362,
-        698,
-        65,
-        17
+        1,
+        713,
+        764,
+        389,
+        773,
+        69,
+        19
       ]
     },
     "scale": "cat",
-    "label_de": "Employment Status",
+    "label_de": "Berufsstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 2470,
-      "invalid": 3
+      "valid": 2727,
+      "invalid": 1
     }
   },
   {
     "name": "schule",
     "dataset": "intv",
-    "label": "Education",
+    "label": "Bildungsstand des Interviewers",
     "categories": {
       "values": [
         -6,
@@ -503,30 +503,30 @@
         5
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Sec. Gen. School Leaving Certificat",
-        "[2] Vocational High School Leaving Certificate",
-        "[3] College Entrance Exam",
-        "[4] Tertiary Education with Degree",
-        "[5] Tertiary Education without Degree"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sekundarschulabschluss ",
+        "[2] Fachhochschulreife",
+        "[3] Abitur",
+        "[4] Tertiäre Bildung mit Abschluss",
+        "[5] Tertiäre Bildung ohne Abschluss"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Sec. Gen. School Leaving Certificat",
-        "[2] Vocational High School Leaving Certificate",
-        "[3] College Entrance Exam",
-        "[4] Tertiary Education with Degree",
-        "[5] Tertiary Education without Degree"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sekundarschulabschluss ",
+        "[2] Fachhochschulreife",
+        "[3] Abitur",
+        "[4] Tertiäre Bildung mit Abschluss",
+        "[5] Tertiäre Bildung ohne Abschluss"
       ],
       "missings": [
         true,
@@ -547,26 +547,26 @@
         0,
         0,
         0,
-        2,
-        375,
-        996,
-        308,
-        144,
-        648
+        0,
+        417,
+        1096,
+        341,
+        160,
+        714
       ]
     },
     "scale": "cat",
-    "label_de": "Education",
+    "label_de": "Bildungsstand des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 2471,
-      "invalid": 2
+      "valid": 2728,
+      "invalid": 0
     }
   },
   {
     "name": "iverh5",
     "dataset": "intv",
-    "label": "Social Desirability: Too Much Change",
+    "label": "Soziale Erwünschtheit: Zu viel Wechsel",
     "categories": {
       "values": [
         -6,
@@ -579,24 +579,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "missings": [
         true,
@@ -613,24 +613,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         53,
         10
       ]
     },
     "scale": "cat",
-    "label_de": "Social Desirability: Too Much Change",
+    "label_de": "Soziale Erwünschtheit: Zu viel Wechsel",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "iverh6",
     "dataset": "intv",
-    "label": "Social Desirability: Cursing",
+    "label": "Soziale Erwünschtheit: Fluchen",
     "categories": {
       "values": [
         -6,
@@ -643,24 +643,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "missings": [
         true,
@@ -677,24 +677,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         35,
         3
       ]
     },
     "scale": "cat",
-    "label_de": "Social Desirability: Cursing",
+    "label_de": "Soziale Erwünschtheit: Fluchen",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "iverh7",
     "dataset": "intv",
-    "label": "Social Desirability: White Lies",
+    "label": "Soziale Erwünschtheit: Notlügen",
     "categories": {
       "values": [
         -6,
@@ -707,24 +707,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "missings": [
         true,
@@ -741,24 +741,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         7,
         9
       ]
     },
     "scale": "cat",
-    "label_de": "Social Desirability: White Lies",
+    "label_de": "Soziale Erwünschtheit: Notlügen",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "iverh8",
     "dataset": "intv",
-    "label": "Social Desirability: Stealing",
+    "label": "Soziale Erwünschtheit: Stehlen",
     "categories": {
       "values": [
         -6,
@@ -771,24 +771,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "missings": [
         true,
@@ -805,24 +805,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         18,
         67
       ]
     },
     "scale": "cat",
-    "label_de": "Social Desirability: Stealing",
+    "label_de": "Soziale Erwünschtheit: Stehlen",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "iverh9",
     "dataset": "intv",
-    "label": "Social Desirability: Exploiting",
+    "label": "Soziale Erwünschtheit: Ausnutzen",
     "categories": {
       "values": [
         -6,
@@ -835,24 +835,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Does Not Apply At All",
-        "[7] Applies Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht zu",
+        "[7] Trifft voll zu"
       ],
       "missings": [
         true,
@@ -869,24 +869,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         50,
         1
       ]
     },
     "scale": "cat",
-    "label_de": "Social Desirability: Exploiting",
+    "label_de": "Soziale Erwünschtheit: Ausnutzen",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "ipol1",
     "dataset": "intv",
-    "label": "Political Interests",
+    "label": "Interesse für Politik",
     "categories": {
       "values": [
         -6,
@@ -901,28 +901,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Much",
-        "[2] Much",
-        "[3] Not Much",
-        "[4] Not At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] sehr stark",
+        "[2] stark",
+        "[3] nicht so stark",
+        "[4] überhaupt nicht "
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Much",
-        "[2] Much",
-        "[3] Not Much",
-        "[4] Not At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] sehr stark",
+        "[2] stark",
+        "[3] nicht so stark",
+        "[4] überhaupt nicht "
       ],
       "missings": [
         true,
@@ -941,7 +941,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         39,
         56,
@@ -950,17 +950,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Political Interests",
+    "label_de": "Interesse für Politik",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "ipol2",
     "dataset": "intv",
-    "label": "Supports Political Party",
+    "label": "Allgemeine Parteienpräferenz",
     "categories": {
       "values": [
         -6,
@@ -973,24 +973,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Yes",
-        "[2] No"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Yes",
-        "[2] No"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
       ],
       "missings": [
         true,
@@ -1007,24 +1007,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         80,
         40
       ]
     },
     "scale": "cat",
-    "label_de": "Supports Political Party",
+    "label_de": "Allgemeine Parteienpräferenz",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "ipol3",
     "dataset": "intv",
-    "label": "Political Party Preference",
+    "label": "Parteienidentifikation ",
     "categories": {
       "values": [
         -6,
@@ -1045,39 +1045,39 @@
         27
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[1] SPD",
         "[2] CDU",
         "[3] CSU",
         "[4] FDP",
-        "[5] Alliance90/The Greens",
-        "[6] The Left",
-        "NPD/Republikaner/Die Rechte",
-        "[8] Other",
-        "Piratenpartei",
+        "[5] Bündnis90/Die Grünen",
+        "[6] Linke",
+        "[7] NPD/Republikaner/Die Rechte",
+        "[8] Andere",
+        "[26] Piratenpartei",
         "[27] AfD"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[1] SPD",
         "[2] CDU",
         "[3] CSU",
         "[4] FDP",
-        "[5] Alliance90/The Greens",
-        "[6] The Left",
-        "NPD/Republikaner/Die Rechte",
-        "[8] Other",
-        "Piratenpartei",
+        "[5] Bündnis90/Die Grünen",
+        "[6] Linke",
+        "[7] NPD/Republikaner/Die Rechte",
+        "[8] Andere",
+        "[26] Piratenpartei",
         "[27] AfD"
       ],
       "missings": [
@@ -1103,7 +1103,7 @@
         0,
         0,
         0,
-        2393,
+        2648,
         4,
         21,
         25,
@@ -1118,17 +1118,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Political Party Preference",
+    "label_de": "Parteienidentifikation ",
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 2397
+      "invalid": 2652
     }
   },
   {
     "name": "ipolso",
     "dataset": "intv",
-    "label": "Other Party",
+    "label": "Andere Partei",
     "categories": {
       "values": [
         -6,
@@ -1142,24 +1142,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] see ipol3",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] siehe ipol3",
         "[1] BUeSO",
         "[2] OeDP"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] see ipol3",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] siehe ipol3",
         "[1] BUeSO",
         "[2] OeDP"
       ],
@@ -1179,7 +1179,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         119,
         1,
@@ -1187,17 +1187,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Other Party",
+    "label_de": "Andere Partei",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "ipol4",
     "dataset": "intv",
-    "label": "Amount Of Support For Political Party",
+    "label": "Stärke Parteizuneigung",
     "categories": {
       "values": [
         -6,
@@ -1213,30 +1213,30 @@
         5
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Strong",
-        "[2] Fairly Strong",
-        "[3] Moderate",
-        "[4] Fairly Weak",
-        "[5] Very Weak"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] sehr stark",
+        "[2] ziemlich stark",
+        "[3] mäßig",
+        "[4] ziemlich schwach",
+        "[5] sehr schwach"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Strong",
-        "[2] Fairly Strong",
-        "[3] Moderate",
-        "[4] Fairly Weak",
-        "[5] Very Weak"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] sehr stark",
+        "[2] ziemlich stark",
+        "[3] mäßig",
+        "[4] ziemlich schwach",
+        "[5] sehr schwach"
       ],
       "missings": [
         true,
@@ -1256,7 +1256,7 @@
         0,
         0,
         0,
-        2397,
+        2652,
         0,
         7,
         39,
@@ -1266,17 +1266,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Amount Of Support For Political Party",
+    "label_de": "Stärke Parteizuneigung",
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 2397
+      "invalid": 2652
     }
   },
   {
     "name": "ipol6",
     "dataset": "intv",
-    "label": "Political Attitude",
+    "label": "Politische Einstellung",
     "categories": {
       "values": [
         -6,
@@ -1291,28 +1291,28 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] Completely Left",
-        "[1] Very Left",
-        "[9] Very Right",
-        "[10] Completely Right"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Ganz links",
+        "[1] Sehr links",
+        "[9] Sehr rechts",
+        "[10] Ganz rechts"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[0] Completely Left",
-        "[1] Very Left",
-        "[9] Very Right",
-        "[10] Completely Right"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Ganz links",
+        "[1] Sehr links",
+        "[9] Sehr rechts",
+        "[10] Ganz rechts"
       ],
       "missings": [
         true,
@@ -1331,7 +1331,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         2,
         0,
         2,
@@ -1340,17 +1340,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Political Attitude",
+    "label_de": "Politische Einstellung",
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2354
+      "invalid": 2609
     }
   },
   {
     "name": "isor03",
     "dataset": "intv",
-    "label": "Worried About Own Health",
+    "label": "Interviewer Sorgen eigene Gesundheit ",
     "categories": {
       "values": [
         -6,
@@ -1364,26 +1364,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1401,7 +1401,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         19,
         65,
@@ -1409,17 +1409,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Own Health",
+    "label_de": "Interviewer Sorgen eigene Gesundheit ",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "isor04",
     "dataset": "intv",
-    "label": "Worried About Environment",
+    "label": "Interviewer Sorgen Umweltschutz",
     "categories": {
       "values": [
         -6,
@@ -1433,26 +1433,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1470,7 +1470,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         43,
         62,
@@ -1478,17 +1478,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Environment",
+    "label_de": "Interviewer Sorgen Umweltschutz",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "isor05",
     "dataset": "intv",
-    "label": "Worried About Peace",
+    "label": "Interviewer Sorgen Friedenserhaltung",
     "categories": {
       "values": [
         -6,
@@ -1502,26 +1502,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1539,7 +1539,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         70,
         42,
@@ -1547,17 +1547,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Peace",
+    "label_de": "Interviewer Sorgen Friedenserhaltung",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "isor02",
     "dataset": "intv",
-    "label": "Worried About Finances",
+    "label": "Interviewer Sorgen Stabilität Finanzmärkte ",
     "categories": {
       "values": [
         -6,
@@ -1571,26 +1571,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1608,7 +1608,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         13,
         58,
@@ -1616,17 +1616,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Finances",
+    "label_de": "Interviewer Sorgen Stabilität Finanzmärkte ",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "isor08",
     "dataset": "intv",
-    "label": "Worried About Immigration To Germany",
+    "label": "Interviewer Sorgen Zuwanderung ",
     "categories": {
       "values": [
         -6,
@@ -1640,26 +1640,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1677,7 +1677,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         1,
         42,
         63,
@@ -1685,17 +1685,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Immigration To Germany",
+    "label_de": "Interviewer Sorgen Zuwanderung ",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2353
+      "invalid": 2608
     }
   },
   {
     "name": "isor09",
     "dataset": "intv",
-    "label": "Worried About Hostility To Foreigners",
+    "label": "Interviewer Sorgen Ausländerfeindlichkeit ",
     "categories": {
       "values": [
         -6,
@@ -1709,26 +1709,26 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Concerned",
-        "[2] Somewhat Concerned",
-        "[3] Not Concerned At All"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Große Sorgen",
+        "[2] Einige Sorgen",
+        "[3] Keine Sorgen"
       ],
       "missings": [
         true,
@@ -1746,7 +1746,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         64,
         44,
@@ -1754,17 +1754,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Worried About Hostility To Foreigners",
+    "label_de": "Interviewer Sorgen Ausländerfeindlichkeit ",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "ithem01",
     "dataset": "intv",
-    "label": "Fair that higher educated people have better chances in life",
+    "label": "Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben haben",
     "categories": {
       "values": [
         -6,
@@ -1777,24 +1777,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "missings": [
         true,
@@ -1811,24 +1811,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         3,
         17,
         10
       ]
     },
     "scale": "cat",
-    "label_de": "Fair that higher educated people have better chances in life",
+    "label_de": "Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben haben",
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2355
+      "invalid": 2610
     }
   },
   {
     "name": "ithem01a",
     "dataset": "intv",
-    "label": "How sure: Fair that higher educated people have better chances in life",
+    "label": "Wie sicher: Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben hab",
     "categories": {
       "values": [
         -6,
@@ -1843,28 +1843,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "missings": [
         true,
@@ -1883,7 +1883,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         2,
         38,
         65,
@@ -1892,17 +1892,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "How sure: Fair that higher educated people have better chances in life",
+    "label_de": "Wie sicher: Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben hab",
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2354
+      "invalid": 2609
     }
   },
   {
     "name": "ithem02",
     "dataset": "intv",
-    "label": "Free to joke about religious topics / attitudes in public",
+    "label": "Freiheit sich über religiöse Themen / Einstellungen öffentlich lustig zu machen",
     "categories": {
       "values": [
         -6,
@@ -1915,24 +1915,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "missings": [
         true,
@@ -1949,24 +1949,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         2,
         35,
         9
       ]
     },
     "scale": "cat",
-    "label_de": "Free to joke about religious topics / attitudes in public",
+    "label_de": "Freiheit sich über religiöse Themen / Einstellungen öffentlich lustig zu machen",
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2354
+      "invalid": 2609
     }
   },
   {
     "name": "ithem02a",
     "dataset": "intv",
-    "label": "How sure: Free to joke about religious topics / attitudes in public",
+    "label": "Wie sicher: Freiheit sich über religiöse Themen / Einstellungen öffentlich lusti",
     "categories": {
       "values": [
         -6,
@@ -1981,28 +1981,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "missings": [
         true,
@@ -2021,7 +2021,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         2,
         63,
         41,
@@ -2030,17 +2030,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "How sure: Free to joke about religious topics / attitudes in public",
+    "label_de": "Wie sicher: Freiheit sich über religiöse Themen / Einstellungen öffentlich lusti",
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2354
+      "invalid": 2609
     }
   },
   {
     "name": "ithem03",
     "dataset": "intv",
-    "label": "Equal possibilities / chances for same-sex couples",
+    "label": "Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
     "categories": {
       "values": [
         -6,
@@ -2053,24 +2053,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "missings": [
         true,
@@ -2087,24 +2087,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         3,
         17,
         32
       ]
     },
     "scale": "cat",
-    "label_de": "Equal possibilities / chances for same-sex couples",
+    "label_de": "Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2355
+      "invalid": 2610
     }
   },
   {
     "name": "ithem03a",
     "dataset": "intv",
-    "label": "How sure: Equal possibilities / chances for same-sex couples",
+    "label": "Wie sicher: Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
     "categories": {
       "values": [
         -6,
@@ -2119,28 +2119,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "missings": [
         true,
@@ -2159,7 +2159,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         2,
         61,
         38,
@@ -2168,17 +2168,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "How sure: Equal possibilities / chances for same-sex couples",
+    "label_de": "Wie sicher: Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2354
+      "invalid": 2609
     }
   },
   {
     "name": "ithem04",
     "dataset": "intv",
-    "label": "Medically assisted suicide should be allowed in Germany",
+    "label": "Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
     "categories": {
       "values": [
         -6,
@@ -2191,24 +2191,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "missings": [
         true,
@@ -2225,24 +2225,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         3,
         12,
         44
       ]
     },
     "scale": "cat",
-    "label_de": "Medically assisted suicide should be allowed in Germany",
+    "label_de": "Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2355
+      "invalid": 2610
     }
   },
   {
     "name": "ithem04a",
     "dataset": "intv",
-    "label": "How sure: Medically assisted suicide should be allowed in Germany",
+    "label": "Wie sicher: Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
     "categories": {
       "values": [
         -6,
@@ -2257,28 +2257,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "missings": [
         true,
@@ -2297,7 +2297,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         3,
         58,
         41,
@@ -2306,17 +2306,17 @@
       ]
     },
     "scale": "cat",
-    "label_de": "How sure: Medically assisted suicide should be allowed in Germany",
+    "label_de": "Wie sicher: Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2355
+      "invalid": 2610
     }
   },
   {
     "name": "ithem05",
     "dataset": "intv",
-    "label": "Legalization of cannabis / marihuana in Germany",
+    "label": "Legalisierung von Cannabis / Marihuana in Deutschland",
     "categories": {
       "values": [
         -6,
@@ -2329,24 +2329,24 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Do Not Agree At All",
-        "[7] Agree Fully"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Stimme überhaupt nicht zu ",
+        "[7] Stimme voll zu"
       ],
       "missings": [
         true,
@@ -2363,24 +2363,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         4,
         44,
         13
       ]
     },
     "scale": "cat",
-    "label_de": "Legalization of cannabis / marihuana in Germany",
+    "label_de": "Legalisierung von Cannabis / Marihuana in Deutschland",
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 2356
+      "invalid": 2611
     }
   },
   {
     "name": "ithem05a",
     "dataset": "intv",
-    "label": "How sure: Legalization of cannabis / marihuana in Germany",
+    "label": "Wie sicher: Legalisierung von Cannabis / Marihuana in Deutschland",
     "categories": {
       "values": [
         -6,
@@ -2395,28 +2395,28 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
-        "[1] Very Sure",
-        "[2] Rather Sure",
-        "[3] Rather Uncertain",
-        "[4] Very Uncertain"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sicher",
+        "[2] Eher sicher",
+        "[3] Eher unsicher",
+        "[4] Sehr unsicher"
       ],
       "missings": [
         true,
@@ -2435,7 +2435,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         4,
         64,
         27,
@@ -2444,11 +2444,11 @@
       ]
     },
     "scale": "cat",
-    "label_de": "How sure: Legalization of cannabis / marihuana in Germany",
+    "label_de": "Wie sicher: Legalisierung von Cannabis / Marihuana in Deutschland",
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 2356
+      "invalid": 2611
     }
   },
   {
@@ -2466,21 +2466,21 @@
         9
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[9] CAPI"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[9] CAPI"
       ],
       "missings": [
@@ -2497,7 +2497,7 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         121
       ]
@@ -2507,13 +2507,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "idatt",
     "dataset": "intv",
-    "label": "Day Of The Interview",
+    "label": "Tag des Interviews",
     "categories": {
       "values": [
         -6,
@@ -2524,12 +2524,12 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -2544,12 +2544,12 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0
       ]
     },
     "scale": "number",
-    "label_de": "Day Of The Interview",
+    "label_de": "Tag des Interviews",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
@@ -2559,13 +2559,13 @@
       "3rd Qu.": 25.0,
       "Max.": 31.0,
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "idatm",
     "dataset": "intv",
-    "label": "Month Of The Interview",
+    "label": "Monat des Interviews",
     "categories": {
       "values": [
         -6,
@@ -2578,22 +2578,22 @@
         9
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[8] August",
         "[9] September"
       ],
       "labels_de": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[8] August",
         "[9] September"
       ],
@@ -2612,24 +2612,24 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0,
         104,
         17
       ]
     },
     "scale": "cat",
-    "label_de": "Month Of The Interview",
+    "label_de": "Monat des Interviews",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   },
   {
     "name": "idatj",
     "dataset": "intv",
-    "label": "Interview Year",
+    "label": "Jahr des Interviews",
     "categories": {
       "values": [
         -6,
@@ -2640,12 +2640,12 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
-        "[-1] No Answer"
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -2660,12 +2660,12 @@
         0,
         0,
         0,
-        2352,
+        2607,
         0
       ]
     },
     "scale": "number",
-    "label_de": "Interview Year",
+    "label_de": "Jahr des Interviews",
     "study": "soep-is",
     "statistics": {
       "Min.": 2015.0,
@@ -2675,7 +2675,7 @@
       "3rd Qu.": 2015.0,
       "Max.": 2015.0,
       "valid": 121,
-      "invalid": 2352
+      "invalid": 2607
     }
   }
 ]

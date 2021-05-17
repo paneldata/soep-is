@@ -14,12 +14,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 879649.0,
-      "Median": 962817.5,
-      "Mean": 2223432.114461712,
-      "3rd Qu.": 4081853.25,
+      "1st Qu.": 880795.0,
+      "Median": 965480.0,
+      "Mean": 2264146.7114357864,
+      "3rd Qu.": 4088048.0,
       "Max.": 4173037.0,
-      "valid": 24838,
+      "valid": 27720,
       "invalid": 0
     }
   },
@@ -38,12 +38,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 884316.0,
-      "Median": 959502.0,
-      "Mean": 2192023.31012964,
-      "3rd Qu.": 4079553.0,
+      "1st Qu.": 885576.0,
+      "Median": 961264.0,
+      "Mean": 2225736.4287878787,
+      "3rd Qu.": 4085103.0,
       "Max.": 4173037.0,
-      "valid": 24838,
+      "valid": 27720,
       "invalid": 0
     }
   },
@@ -61,9 +61,9 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
         "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulaessige Mehrfachantwort",
+        "[-4] unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe"
@@ -92,10 +92,10 @@
       "Min.": 2011.0,
       "1st Qu.": 2013.0,
       "Median": 2015.0,
-      "Mean": 2014.9212899589338,
+      "Mean": 2015.3453463203464,
       "3rd Qu.": 2017.0,
-      "Max.": 2018.0,
-      "valid": 24838,
+      "Max.": 2019.0,
+      "valid": 27720,
       "invalid": 0
     }
   },
@@ -114,12 +114,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1.0099999904632568,
-      "Median": 1.0800000429153442,
-      "Mean": 0.9717907905578613,
+      "1st Qu.": 1.0199999809265137,
+      "Median": 1.090000033378601,
+      "Mean": 0.9977229407482161,
       "3rd Qu.": 1.190000057220459,
-      "Max.": 5.070000171661377,
-      "valid": 24838,
+      "Max.": 5.27,
+      "valid": 27720,
       "invalid": 0
     }
   },
@@ -138,12 +138,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 6623.1954345703125,
-      "Median": 10309.72998046875,
-      "Mean": 13144.947265625,
-      "3rd Qu.": 16227.878173828125,
-      "Max.": 136236.40625,
-      "valid": 24838,
+      "1st Qu.": 6597.033337521421,
+      "Median": 10367.512940778215,
+      "Mean": 13275.62060657683,
+      "3rd Qu.": 16512.090664689058,
+      "Max.": 136236.41935749078,
+      "valid": 27720,
       "invalid": 0
     }
   }

@@ -38,16 +38,16 @@
       ]
     },
     "scale": "number",
-    "label_de": "Urhaushaltsnummer",
+    "label_de": "Ursprungshaushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 4900001.0,
-      "1st Qu.": 4901431.0,
-      "Median": 4902934.0,
-      "Mean": 4902923.617336849,
-      "3rd Qu.": 4904382.0,
+      "1st Qu.": 4901466.0,
+      "Median": 4902942.0,
+      "Mean": 4902932.922230951,
+      "3rd Qu.": 4904388.0,
       "Max.": 4905976.0,
-      "valid": 3034,
+      "valid": 3819,
       "invalid": 0
     }
   },
@@ -90,16 +90,16 @@
       ]
     },
     "scale": "number",
-    "label_de": "Haushaltsnummer",
+    "label_de": "Aktuelle Haushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 4900001.0,
-      "1st Qu.": 4901431.0,
-      "Median": 4902934.0,
-      "Mean": 4902923.617336849,
-      "3rd Qu.": 4904382.0,
+      "1st Qu.": 4901466.0,
+      "Median": 4902942.0,
+      "Mean": 4902932.922230951,
+      "3rd Qu.": 4904388.0,
       "Max.": 4905976.0,
-      "valid": 3034,
+      "valid": 3819,
       "invalid": 0
     }
   },
@@ -146,12 +146,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 49000001.0,
-      "1st Qu.": 49014303.25,
-      "Median": 49029302.0,
-      "Mean": 49029197.23500329,
-      "3rd Qu.": 49043776.5,
+      "1st Qu.": 49014601.0,
+      "Median": 49029401.0,
+      "Mean": 49029290.11180937,
+      "3rd Qu.": 49043851.5,
       "Max.": 49059701.0,
-      "valid": 3034,
+      "valid": 3819,
       "invalid": 0
     }
   },
@@ -186,7 +186,7 @@
       ],
       "frequencies": [
         0,
-        46,
+        90,
         0,
         0,
         0,
@@ -198,13 +198,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 49000003.0,
-      "1st Qu.": 49014305.0,
+      "1st Qu.": 49014505.0,
       "Median": 49029403.0,
-      "Mean": 49029224.298862115,
-      "3rd Qu.": 49043803.0,
+      "Mean": 49029323.75945294,
+      "3rd Qu.": 49043903.0,
       "Max.": 49059703.0,
-      "valid": 2988,
-      "invalid": 46
+      "valid": 3729,
+      "invalid": 90
     }
   },
   {
@@ -250,12 +250,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 2014.0,
-      "1st Qu.": 2014.0,
-      "Median": 2015.0,
-      "Mean": 2015.4676994067238,
-      "3rd Qu.": 2016.0,
-      "Max.": 2017.0,
-      "valid": 3034,
+      "1st Qu.": 2015.0,
+      "Median": 2016.0,
+      "Mean": 2015.9882168106835,
+      "3rd Qu.": 2017.0,
+      "Max.": 2018.0,
+      "valid": 3819,
       "invalid": 0
     }
   },
@@ -294,7 +294,7 @@
         0,
         0,
         0,
-        8
+        9
       ]
     },
     "scale": "number",
@@ -304,11 +304,11 @@
       "Min.": 1954.0,
       "1st Qu.": 1967.0,
       "Median": 1971.0,
-      "Mean": 1972.341374752148,
+      "Mean": 1972.741469816273,
       "3rd Qu.": 1976.0,
-      "Max.": 2000.0,
-      "valid": 3026,
-      "invalid": 8
+      "Max.": 2001.0,
+      "valid": 3810,
+      "invalid": 9
     }
   },
   {
@@ -363,68 +363,16 @@
         0,
         0,
         0,
-        967,
-        2067
+        1220,
+        2599
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht",
     "study": "soep-is",
     "statistics": {
-      "valid": 3034,
+      "valid": 3819,
       "invalid": 0
-    }
-  },
-  {
-    "name": "balu_id",
-    "dataset": "ibip_parent",
-    "label": "Never Changing Balu_ID",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] questionnaire version with modified filtering",
-        "[-5] not included in this version of the questionnaire",
-        "[-4] inadmissible multiple answer",
-        "[-3] answer improbable",
-        "[-2] does not apply",
-        "[-1] no answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        53,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Unveränderliche Balu_ID",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 100006.0,
-      "1st Qu.": 103688.0,
-      "Median": 107776.0,
-      "Mean": 133388.17007715532,
-      "3rd Qu.": 200437.0,
-      "Max.": 203800.0,
-      "valid": 2981,
-      "invalid": 53
     }
   },
   {
@@ -458,11 +406,11 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2316,
         0,
         0,
         3,
-        3
+        4
       ]
     },
     "scale": "number",
@@ -472,11 +420,11 @@
       "Min.": 0.0,
       "1st Qu.": 5.0,
       "Median": 7.0,
-      "Mean": 5.984939759036145,
+      "Mean": 5.81216577540107,
       "3rd Qu.": 7.0,
       "Max.": 7.0,
-      "valid": 996,
-      "invalid": 2038
+      "valid": 1496,
+      "invalid": 2323
     }
   },
   {
@@ -510,11 +458,11 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2316,
         0,
         0,
         2,
-        0
+        1
       ]
     },
     "scale": "number",
@@ -524,11 +472,11 @@
       "Min.": 0.0,
       "1st Qu.": 5.0,
       "Median": 5.0,
-      "Mean": 5.506,
+      "Mean": 5.423333333333333,
       "3rd Qu.": 7.0,
       "Max.": 7.0,
-      "valid": 1000,
-      "invalid": 2034
+      "valid": 1500,
+      "invalid": 2319
     }
   },
   {
@@ -562,11 +510,11 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2316,
         0,
         0,
         3,
-        19
+        21
       ]
     },
     "scale": "number",
@@ -576,11 +524,11 @@
       "Min.": 0.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.7673469387755103,
+      "Mean": 1.5449628127112913,
       "3rd Qu.": 2.0,
       "Max.": 7.0,
-      "valid": 980,
-      "invalid": 2054
+      "valid": 1479,
+      "invalid": 2340
     }
   },
   {
@@ -670,31 +618,31 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
         0,
         0,
-        0,
-        3,
-        5,
-        8,
-        28,
-        18,
-        54,
-        123,
-        102,
-        0,
-        161
+        1,
+        7,
+        10,
+        13,
+        45,
+        40,
+        107,
+        250,
+        196,
+        165,
+        169
       ]
     },
     "scale": "cat",
     "label_de": "Kind: Spaß bei der Befragung",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1003,
+      "invalid": 2816
     }
   },
   {
@@ -744,12 +692,12 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
         0,
-        502,
+        1003,
         0
       ]
     },
@@ -757,8 +705,8 @@
     "label_de": "Zustimmung zur Befragung des Kindes",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1003,
+      "invalid": 2816
     }
   },
   {
@@ -820,7 +768,7 @@
       ],
       "frequencies": [
         0,
-        2522,
+        3307,
         0,
         0,
         3,
@@ -837,7 +785,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 509,
-      "invalid": 2525
+      "invalid": 3310
     }
   },
   {
@@ -899,7 +847,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -916,7 +864,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1069,
-      "invalid": 1965
+      "invalid": 2750
     }
   },
   {
@@ -978,7 +926,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -995,7 +943,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1069,
-      "invalid": 1965
+      "invalid": 2750
     }
   },
   {
@@ -1057,7 +1005,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1074,7 +1022,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -1136,7 +1084,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1153,7 +1101,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1067,
-      "invalid": 1967
+      "invalid": 2752
     }
   },
   {
@@ -1215,7 +1163,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1232,7 +1180,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1069,
-      "invalid": 1965
+      "invalid": 2750
     }
   },
   {
@@ -1294,7 +1242,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1311,7 +1259,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1066,
-      "invalid": 1968
+      "invalid": 2753
     }
   },
   {
@@ -1373,7 +1321,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1390,7 +1338,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1066,
-      "invalid": 1968
+      "invalid": 2753
     }
   },
   {
@@ -1452,7 +1400,7 @@
       ],
       "frequencies": [
         0,
-        2458,
+        3243,
         0,
         0,
         0,
@@ -1469,7 +1417,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 567,
-      "invalid": 2467
+      "invalid": 3252
     }
   },
   {
@@ -1531,7 +1479,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1548,7 +1496,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -1610,7 +1558,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1627,7 +1575,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1069,
-      "invalid": 1965
+      "invalid": 2750
     }
   },
   {
@@ -1689,7 +1637,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1706,7 +1654,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1066,
-      "invalid": 1968
+      "invalid": 2753
     }
   },
   {
@@ -1768,7 +1716,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1785,7 +1733,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -1847,7 +1795,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1864,7 +1812,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -1926,7 +1874,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -1943,7 +1891,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -2005,7 +1953,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -2022,7 +1970,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1063,
-      "invalid": 1971
+      "invalid": 2756
     }
   },
   {
@@ -2084,7 +2032,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -2101,7 +2049,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1069,
-      "invalid": 1965
+      "invalid": 2750
     }
   },
   {
@@ -2163,7 +2111,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -2180,7 +2128,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1068,
-      "invalid": 1966
+      "invalid": 2751
     }
   },
   {
@@ -2242,7 +2190,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -2259,7 +2207,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1067,
-      "invalid": 1967
+      "invalid": 2752
     }
   },
   {
@@ -2321,7 +2269,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -2338,7 +2286,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1054,
-      "invalid": 1980
+      "invalid": 2765
     }
   },
   {
@@ -2400,24 +2348,24 @@
       ],
       "frequencies": [
         0,
-        944,
+        1228,
         0,
         0,
         1,
         5,
-        1032,
-        854,
-        163,
-        31,
-        4
+        1249,
+        1078,
+        213,
+        39,
+        6
       ]
     },
     "scale": "cat",
     "label_de": "Kind: Gesundheitszustand",
     "study": "soep-is",
     "statistics": {
-      "valid": 2084,
-      "invalid": 950
+      "valid": 2585,
+      "invalid": 1234
     }
   },
   {
@@ -2467,21 +2415,21 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
         2,
-        171,
-        329
+        321,
+        680
       ]
     },
     "scale": "cat",
     "label_de": "Kind: Aktiv Musik machen mit wem",
     "study": "soep-is",
     "statistics": {
-      "valid": 500,
-      "invalid": 2534
+      "valid": 1001,
+      "invalid": 2818
     }
   },
   {
@@ -2515,10 +2463,10 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        411,
+        809,
         0
       ]
     },
@@ -2532,8 +2480,8 @@
       "Mean": 1.0,
       "3rd Qu.": 1.0,
       "Max.": 1.0,
-      "valid": 91,
-      "invalid": 2943
+      "valid": 194,
+      "invalid": 3625
     }
   },
   {
@@ -2567,10 +2515,10 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        394,
+        804,
         0
       ]
     },
@@ -2584,8 +2532,8 @@
       "Mean": 1.0,
       "3rd Qu.": 1.0,
       "Max.": 1.0,
-      "valid": 108,
-      "invalid": 2926
+      "valid": 199,
+      "invalid": 3620
     }
   },
   {
@@ -2619,10 +2567,10 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        476,
+        941,
         0
       ]
     },
@@ -2636,8 +2584,8 @@
       "Mean": 1.0,
       "3rd Qu.": 1.0,
       "Max.": 1.0,
-      "valid": 26,
-      "invalid": 3008
+      "valid": 62,
+      "invalid": 3757
     }
   },
   {
@@ -2671,10 +2619,10 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        471,
+        946,
         0
       ]
     },
@@ -2688,8 +2636,8 @@
       "Mean": 1.0,
       "3rd Qu.": 1.0,
       "Max.": 1.0,
-      "valid": 31,
-      "invalid": 3003
+      "valid": 57,
+      "invalid": 3762
     }
   },
   {
@@ -2723,10 +2671,10 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        489,
+        983,
         0
       ]
     },
@@ -2740,8 +2688,8 @@
       "Mean": 1.0,
       "3rd Qu.": 1.0,
       "Max.": 1.0,
-      "valid": 13,
-      "invalid": 3021
+      "valid": 20,
+      "invalid": 3799
     }
   },
   {
@@ -2803,15 +2751,15 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        1,
-        441,
-        51,
-        9,
-        0,
+        2,
+        829,
+        143,
+        27,
+        2,
         0
       ]
     },
@@ -2819,8 +2767,8 @@
     "label_de": "Trinkt erlaubterweise Alkohol",
     "study": "soep-is",
     "statistics": {
-      "valid": 501,
-      "invalid": 2533
+      "valid": 1001,
+      "invalid": 2818
     }
   },
   {
@@ -2882,24 +2830,24 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        3,
-        481,
-        12,
-        5,
-        1,
-        0
+        4,
+        922,
+        55,
+        19,
+        2,
+        1
       ]
     },
     "scale": "cat",
     "label_de": "Trinkt unerlaubterweise Alkohol",
     "study": "soep-is",
     "statistics": {
-      "valid": 499,
-      "invalid": 2535
+      "valid": 999,
+      "invalid": 2820
     }
   },
   {
@@ -2961,15 +2909,15 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        0,
-        497,
-        3,
         1,
-        1,
+        985,
+        8,
+        5,
+        4,
         0
       ]
     },
@@ -2977,8 +2925,8 @@
     "label_de": "Raucht erlaubterweise",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1002,
+      "invalid": 2817
     }
   },
   {
@@ -3040,24 +2988,24 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        1,
-        486,
-        9,
-        4,
-        0,
-        2
+        2,
+        955,
+        26,
+        13,
+        2,
+        5
       ]
     },
     "scale": "cat",
     "label_de": "Raucht unerlaubterweise",
     "study": "soep-is",
     "statistics": {
-      "valid": 501,
-      "invalid": 2533
+      "valid": 1001,
+      "invalid": 2818
     }
   },
   {
@@ -3119,15 +3067,15 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
-        0,
-        0,
-        494,
-        7,
         0,
         1,
+        968,
+        28,
+        4,
+        2,
         0
       ]
     },
@@ -3135,8 +3083,8 @@
     "label_de": "Hat schon zu viel Alkohol getrunken",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1002,
+      "invalid": 2817
     }
   },
   {
@@ -3198,24 +3146,24 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        0,
-        480,
-        18,
-        3,
-        0,
-        1
+        1,
+        950,
+        40,
+        7,
+        1,
+        4
       ]
     },
     "scale": "cat",
     "label_de": "Hat schon Ärger mit der Polizei gehabt",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1002,
+      "invalid": 2817
     }
   },
   {
@@ -3277,24 +3225,24 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        0,
-        448,
-        35,
-        14,
         2,
-        3
+        856,
+        95,
+        33,
+        8,
+        9
       ]
     },
     "scale": "cat",
-    "label_de": "Hat schon die Schule \"geschwänzt\"",
+    "label_de": "Hat schon die Schule geschwänzt",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1001,
+      "invalid": 2818
     }
   },
   {
@@ -3356,24 +3304,24 @@
       ],
       "frequencies": [
         0,
-        2532,
+        2816,
         0,
         0,
         0,
-        0,
-        475,
-        15,
-        7,
-        5,
-        0
+        2,
+        948,
+        34,
+        9,
+        6,
+        4
       ]
     },
     "scale": "cat",
     "label_de": "Hat schon einen Schulverweis erhalten",
     "study": "soep-is",
     "statistics": {
-      "valid": 502,
-      "invalid": 2532
+      "valid": 1001,
+      "invalid": 2818
     }
   },
   {
@@ -3423,21 +3371,21 @@
       ],
       "frequencies": [
         0,
-        944,
+        1228,
         0,
         0,
         1,
         15,
-        1845,
-        229
+        2306,
+        269
       ]
     },
     "scale": "cat",
     "label_de": "Erhält Taschengeld",
     "study": "soep-is",
     "statistics": {
-      "valid": 2074,
-      "invalid": 960
+      "valid": 2575,
+      "invalid": 1244
     }
   },
   {
@@ -3471,11 +3419,11 @@
       ],
       "frequencies": [
         0,
-        944,
+        1228,
         0,
         2,
-        1416,
-        7
+        1807,
+        10
       ]
     },
     "scale": "number",
@@ -3485,11 +3433,11 @@
       "Min.": 1.0,
       "1st Qu.": 3.0,
       "Median": 5.0,
-      "Mean": 5.815037593984963,
-      "3rd Qu.": 7.0,
-      "Max.": 40.0,
-      "valid": 665,
-      "invalid": 2369
+      "Mean": 6.422279792746114,
+      "3rd Qu.": 8.0,
+      "Max.": 45.0,
+      "valid": 772,
+      "invalid": 3047
     }
   },
   {
@@ -3523,10 +3471,10 @@
       ],
       "frequencies": [
         0,
-        944,
+        1228,
         0,
         0,
-        916,
+        1066,
         3
       ]
     },
@@ -3535,13 +3483,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
-      "1st Qu.": 10.0,
-      "Median": 15.0,
-      "Mean": 18.625106746370623,
-      "3rd Qu.": 20.0,
+      "1st Qu.": 12.0,
+      "Median": 20.0,
+      "Mean": 21.54927726675427,
+      "3rd Qu.": 25.0,
       "Max.": 350.0,
-      "valid": 1171,
-      "invalid": 1863
+      "valid": 1522,
+      "invalid": 2297
     }
   },
   {
@@ -3611,7 +3559,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -3630,7 +3578,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1075,
-      "invalid": 1959
+      "invalid": 2744
     }
   },
   {
@@ -3700,7 +3648,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -3719,7 +3667,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1075,
-      "invalid": 1959
+      "invalid": 2744
     }
   },
   {
@@ -3789,7 +3737,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -3808,7 +3756,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1075,
-      "invalid": 1959
+      "invalid": 2744
     }
   },
   {
@@ -3878,7 +3826,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -3897,7 +3845,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1073,
-      "invalid": 1961
+      "invalid": 2746
     }
   },
   {
@@ -3967,7 +3915,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -3986,7 +3934,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1074,
-      "invalid": 1960
+      "invalid": 2745
     }
   },
   {
@@ -4056,7 +4004,7 @@
       ],
       "frequencies": [
         0,
-        1446,
+        2231,
         0,
         0,
         1,
@@ -4075,7 +4023,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1574,
-      "invalid": 1460
+      "invalid": 2245
     }
   },
   {
@@ -4145,7 +4093,7 @@
       ],
       "frequencies": [
         0,
-        1946,
+        2731,
         0,
         0,
         0,
@@ -4164,7 +4112,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1074,
-      "invalid": 1960
+      "invalid": 2745
     }
   },
   {
@@ -4234,7 +4182,7 @@
       ],
       "frequencies": [
         0,
-        1446,
+        2231,
         0,
         0,
         1,
@@ -4253,7 +4201,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1572,
-      "invalid": 1462
+      "invalid": 2247
     }
   },
   {
@@ -4323,7 +4271,7 @@
       ],
       "frequencies": [
         0,
-        1446,
+        2231,
         0,
         0,
         1,
@@ -4342,7 +4290,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1579,
-      "invalid": 1455
+      "invalid": 2240
     }
   },
   {
@@ -4432,7 +4380,7 @@
       ],
       "frequencies": [
         0,
-        2022,
+        2807,
         0,
         0,
         1,
@@ -4456,7 +4404,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 992,
-      "invalid": 2042
+      "invalid": 2827
     }
   },
   {
@@ -4506,7 +4454,7 @@
       ],
       "frequencies": [
         0,
-        2022,
+        2807,
         0,
         0,
         0,
@@ -4520,7 +4468,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1012,
-      "invalid": 2022
+      "invalid": 2807
     }
   },
   {
@@ -4582,7 +4530,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4599,7 +4547,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1000,
-      "invalid": 2034
+      "invalid": 2819
     }
   },
   {
@@ -4661,7 +4609,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4678,7 +4626,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1000,
-      "invalid": 2034
+      "invalid": 2819
     }
   },
   {
@@ -4740,7 +4688,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4757,7 +4705,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 998,
-      "invalid": 2036
+      "invalid": 2821
     }
   },
   {
@@ -4819,7 +4767,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4836,7 +4784,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 998,
-      "invalid": 2036
+      "invalid": 2821
     }
   },
   {
@@ -4898,7 +4846,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4915,7 +4863,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 999,
-      "invalid": 2035
+      "invalid": 2820
     }
   },
   {
@@ -4977,7 +4925,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -4994,7 +4942,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1000,
-      "invalid": 2034
+      "invalid": 2819
     }
   },
   {
@@ -5056,7 +5004,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5073,7 +5021,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 991,
-      "invalid": 2043
+      "invalid": 2828
     }
   },
   {
@@ -5135,7 +5083,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5152,7 +5100,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 995,
-      "invalid": 2039
+      "invalid": 2824
     }
   },
   {
@@ -5214,7 +5162,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5231,7 +5179,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 992,
-      "invalid": 2042
+      "invalid": 2827
     }
   },
   {
@@ -5293,7 +5241,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5310,7 +5258,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 993,
-      "invalid": 2041
+      "invalid": 2826
     }
   },
   {
@@ -5372,7 +5320,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5389,7 +5337,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 991,
-      "invalid": 2043
+      "invalid": 2828
     }
   },
   {
@@ -5451,7 +5399,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5468,7 +5416,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 993,
-      "invalid": 2041
+      "invalid": 2826
     }
   },
   {
@@ -5530,7 +5478,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5547,7 +5495,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 996,
-      "invalid": 2038
+      "invalid": 2823
     }
   },
   {
@@ -5609,7 +5557,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5626,7 +5574,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 995,
-      "invalid": 2039
+      "invalid": 2824
     }
   },
   {
@@ -5688,7 +5636,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5705,7 +5653,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 998,
-      "invalid": 2036
+      "invalid": 2821
     }
   },
   {
@@ -5767,7 +5715,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5784,7 +5732,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 994,
-      "invalid": 2040
+      "invalid": 2825
     }
   },
   {
@@ -5846,7 +5794,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5863,7 +5811,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 995,
-      "invalid": 2039
+      "invalid": 2824
     }
   },
   {
@@ -5925,7 +5873,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -5942,7 +5890,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 977,
-      "invalid": 2057
+      "invalid": 2842
     }
   },
   {
@@ -6004,7 +5952,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6021,7 +5969,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 988,
-      "invalid": 2046
+      "invalid": 2831
     }
   },
   {
@@ -6083,7 +6031,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6100,7 +6048,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 985,
-      "invalid": 2049
+      "invalid": 2834
     }
   },
   {
@@ -6162,7 +6110,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6179,7 +6127,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 989,
-      "invalid": 2045
+      "invalid": 2830
     }
   },
   {
@@ -6241,7 +6189,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6258,7 +6206,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 986,
-      "invalid": 2048
+      "invalid": 2833
     }
   },
   {
@@ -6320,7 +6268,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6337,7 +6285,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 990,
-      "invalid": 2044
+      "invalid": 2829
     }
   },
   {
@@ -6399,7 +6347,7 @@
       ],
       "frequencies": [
         0,
-        2032,
+        2817,
         0,
         0,
         1,
@@ -6416,7 +6364,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 994,
-      "invalid": 2040
+      "invalid": 2825
     }
   },
   {
@@ -6477,20 +6425,20 @@
         782,
         0,
         0,
-        1386,
+        2100,
         0,
-        61,
+        89,
         1,
-        34,
-        770
+        55,
+        792
       ]
     },
     "scale": "cat",
     "label_de": "Eltern im Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 866,
-      "invalid": 2168
+      "valid": 937,
+      "invalid": 2882
     }
   },
   {
@@ -6556,7 +6504,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -6574,7 +6522,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 731,
-      "invalid": 2303
+      "invalid": 3088
     }
   },
   {
@@ -6640,7 +6588,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -6658,7 +6606,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 730,
-      "invalid": 2304
+      "invalid": 3089
     }
   },
   {
@@ -6724,7 +6672,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -6742,7 +6690,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 728,
-      "invalid": 2306
+      "invalid": 3091
     }
   },
   {
@@ -6808,7 +6756,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -6826,7 +6774,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 729,
-      "invalid": 2305
+      "invalid": 3090
     }
   },
   {
@@ -6896,7 +6844,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -6915,7 +6863,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 742,
-      "invalid": 2292
+      "invalid": 3077
     }
   },
   {
@@ -6985,7 +6933,7 @@
       ],
       "frequencies": [
         0,
-        2285,
+        3070,
         0,
         0,
         0,
@@ -7004,7 +6952,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 743,
-      "invalid": 2291
+      "invalid": 3076
     }
   },
   {
@@ -7066,7 +7014,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7083,7 +7031,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 719,
-      "invalid": 2315
+      "invalid": 3100
     }
   },
   {
@@ -7145,7 +7093,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7162,7 +7110,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 721,
-      "invalid": 2313
+      "invalid": 3098
     }
   },
   {
@@ -7248,7 +7196,7 @@
       ],
       "frequencies": [
         0,
-        2257,
+        3042,
         0,
         0,
         0,
@@ -7271,7 +7219,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 776,
-      "invalid": 2258
+      "invalid": 3043
     }
   },
   {
@@ -7333,7 +7281,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7350,7 +7298,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7412,7 +7360,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7429,7 +7377,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 725,
-      "invalid": 2309
+      "invalid": 3094
     }
   },
   {
@@ -7491,7 +7439,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7508,7 +7456,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 725,
-      "invalid": 2309
+      "invalid": 3094
     }
   },
   {
@@ -7570,7 +7518,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7587,7 +7535,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 724,
-      "invalid": 2310
+      "invalid": 3095
     }
   },
   {
@@ -7649,7 +7597,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7666,7 +7614,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7728,7 +7676,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7745,7 +7693,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7795,7 +7743,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7809,7 +7757,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7859,7 +7807,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7873,7 +7821,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7923,7 +7871,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -7937,7 +7885,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -7999,7 +7947,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8016,7 +7964,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 723,
-      "invalid": 2311
+      "invalid": 3096
     }
   },
   {
@@ -8078,7 +8026,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8095,7 +8043,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 723,
-      "invalid": 2311
+      "invalid": 3096
     }
   },
   {
@@ -8157,7 +8105,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8174,7 +8122,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 720,
-      "invalid": 2314
+      "invalid": 3099
     }
   },
   {
@@ -8236,7 +8184,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8253,7 +8201,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 721,
-      "invalid": 2313
+      "invalid": 3098
     }
   },
   {
@@ -8315,7 +8263,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8332,7 +8280,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -8394,7 +8342,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8411,7 +8359,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 723,
-      "invalid": 2311
+      "invalid": 3096
     }
   },
   {
@@ -8473,7 +8421,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8490,7 +8438,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 724,
-      "invalid": 2310
+      "invalid": 3095
     }
   },
   {
@@ -8552,7 +8500,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8569,7 +8517,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 725,
-      "invalid": 2309
+      "invalid": 3094
     }
   },
   {
@@ -8631,7 +8579,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8648,7 +8596,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 698,
-      "invalid": 2336
+      "invalid": 3121
     }
   },
   {
@@ -8710,7 +8658,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8727,7 +8675,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 711,
-      "invalid": 2323
+      "invalid": 3108
     }
   },
   {
@@ -8789,7 +8737,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8806,7 +8754,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 715,
-      "invalid": 2319
+      "invalid": 3104
     }
   },
   {
@@ -8868,7 +8816,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8885,7 +8833,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 717,
-      "invalid": 2317
+      "invalid": 3102
     }
   },
   {
@@ -8947,7 +8895,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -8964,7 +8912,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 721,
-      "invalid": 2313
+      "invalid": 3098
     }
   },
   {
@@ -9026,7 +8974,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9043,7 +8991,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 721,
-      "invalid": 2313
+      "invalid": 3098
     }
   },
   {
@@ -9105,7 +9053,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9122,7 +9070,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 724,
-      "invalid": 2310
+      "invalid": 3095
     }
   },
   {
@@ -9184,7 +9132,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9201,7 +9149,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 718,
-      "invalid": 2316
+      "invalid": 3101
     }
   },
   {
@@ -9263,7 +9211,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9280,7 +9228,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 722,
-      "invalid": 2312
+      "invalid": 3097
     }
   },
   {
@@ -9330,7 +9278,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9344,7 +9292,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 726,
-      "invalid": 2308
+      "invalid": 3093
     }
   },
   {
@@ -9394,7 +9342,7 @@
       ],
       "frequencies": [
         0,
-        2308,
+        3093,
         0,
         0,
         0,
@@ -9408,7 +9356,2348 @@
     "study": "soep-is",
     "statistics": {
       "valid": 711,
-      "invalid": 2323
+      "invalid": 3108
+    }
+  },
+  {
+    "name": "bipapstart",
+    "dataset": "ibip_parent",
+    "label": "[de] Augenpaare einschätzen Einstieg",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Test starten",
+        "[de] [2] Test nicht durchführen"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Test starten",
+        "[2] Test nicht durchführen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        214,
+        0,
+        561,
+        10
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Augenpaare einschätzen Einstieg",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 571,
+      "invalid": 3248
+    }
+  },
+  {
+    "name": "bipap1",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] niedergeschlagen",
+        "[de] [2] befreit",
+        "[de] [3] schüchtern",
+        "[de] [4] aufgeregt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] niedergeschlagen",
+        "[2] befreit",
+        "[3] schüchtern",
+        "[4] aufgeregt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        514,
+        60,
+        46,
+        155
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 1",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap1_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap1",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        224,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap1",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.1,
+      "1st Qu.": 0.25,
+      "Median": 0.36666666666666664,
+      "Mean": 0.39875222816399286,
+      "3rd Qu.": 0.5,
+      "Max.": 1.9666666666666666,
+      "valid": 561,
+      "invalid": 3258
+    }
+  },
+  {
+    "name": "bipap2",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] verärgert",
+        "[de] [2] feindlich",
+        "[de] [3] schockiert",
+        "[de] [4] voreingenommen"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] verärgert",
+        "[2] feindlich",
+        "[3] schockiert",
+        "[4] voreingenommen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        65,
+        94,
+        109,
+        507
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 2",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap2_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap2",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap2",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.125,
+      "Median": 0.18333333333333332,
+      "Mean": 0.2250752688172043,
+      "3rd Qu.": 0.26666666666666666,
+      "Max.": 1.0166666666666666,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap3",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 3",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] gleichgültig",
+        "[de] [2] verlegen",
+        "[de] [3] skeptisch",
+        "[de] [4] niedergeschlagen"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] gleichgültig",
+        "[2] verlegen",
+        "[3] skeptisch",
+        "[4] niedergeschlagen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        75,
+        53,
+        626,
+        21
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 3",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap3_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap3",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap3",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.08333333333333333,
+      "Median": 0.11666666666666667,
+      "Mean": 0.1500215053763441,
+      "3rd Qu.": 0.15,
+      "Max.": 1.5166666666666666,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap4",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 4",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] irritiert",
+        "[de] [2] enttäuscht",
+        "[de] [3] depressiv",
+        "[de] [4] anklagend"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] irritiert",
+        "[2] enttäuscht",
+        "[3] depressiv",
+        "[4] anklagend"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        103,
+        94,
+        54,
+        524
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 4",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap4_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap4",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap4",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.1,
+      "Median": 0.13333333333333333,
+      "Mean": 0.17384946236559143,
+      "3rd Qu.": 0.18333333333333332,
+      "Max.": 1.8333333333333333,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap5",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 5",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] versunken",
+        "[de] [2] zerstreut",
+        "[de] [3] ermutigend",
+        "[de] [4] amüsiert"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] versunken",
+        "[2] zerstreut",
+        "[3] ermutigend",
+        "[4] amüsiert"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        577,
+        92,
+        39,
+        67
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 5",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap5_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap5",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap5",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.1,
+      "Median": 0.13333333333333333,
+      "Mean": 0.1607741935483871,
+      "3rd Qu.": 0.18333333333333332,
+      "Max.": 1.9333333333333333,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap6",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 6",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] arrogant",
+        "[de] [2] dankbar",
+        "[de] [3] spöttisch",
+        "[de] [4] unsicher"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] arrogant",
+        "[2] dankbar",
+        "[3] spöttisch",
+        "[4] unsicher"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        141,
+        148,
+        120,
+        366
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 6",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap6_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap6",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap6",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.1,
+      "Median": 0.13333333333333333,
+      "Mean": 0.17240860215053763,
+      "3rd Qu.": 0.2,
+      "Max.": 0.8833333333333333,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap7",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 7",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] voreingenommen",
+        "[de] [2] dankbar",
+        "[de] [3] beharrlich",
+        "[de] [4] bittend"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] voreingenommen",
+        "[2] dankbar",
+        "[3] beharrlich",
+        "[4] bittend"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        359,
+        39,
+        201,
+        176
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 7",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap7_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap7",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap7",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.016666666666666666,
+      "1st Qu.": 0.11666666666666667,
+      "Median": 0.15,
+      "Mean": 0.1910537634408602,
+      "3rd Qu.": 0.21666666666666667,
+      "Max.": 1.8333333333333333,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap8",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 8",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] nachdenklich",
+        "[de] [2] irritiert",
+        "[de] [3] aufgeregt",
+        "[de] [4] feindlich"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] nachdenklich",
+        "[2] irritiert",
+        "[3] aufgeregt",
+        "[4] feindlich"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        521,
+        180,
+        45,
+        29
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 8",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap8_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap8",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap8",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.1,
+      "Median": 0.11666666666666667,
+      "Mean": 0.14397849462365592,
+      "3rd Qu.": 0.16666666666666666,
+      "Max.": 0.75,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap9",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 9",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] ernst",
+        "[de] [2] beschämt",
+        "[de] [3] verblüfft",
+        "[de] [4] besorgt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] ernst",
+        "[2] beschämt",
+        "[3] verblüfft",
+        "[4] besorgt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        566,
+        25,
+        26,
+        158
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 9",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap9_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap9",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap9",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.016666666666666666,
+      "1st Qu.": 0.08333333333333333,
+      "Median": 0.11666666666666667,
+      "Mean": 0.14604301075268816,
+      "3rd Qu.": 0.16666666666666666,
+      "Max.": 2.683333333333333,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap10",
+    "dataset": "ibip_parent",
+    "label": "[de] Bilder Augenpaare 10",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] beschämt",
+        "[de] [2] nervös",
+        "[de] [3] misstrauisch",
+        "[de] [4] zögernd"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] beschämt",
+        "[2] nervös",
+        "[3] misstrauisch",
+        "[4] zögernd"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        32,
+        58,
+        572,
+        113
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Bilder Augenpaare 10",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipap10_dauer",
+    "dataset": "ibip_parent",
+    "label": "[de] Dauer bipap10",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Dauer bipap10",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.08333333333333333,
+      "Median": 0.1,
+      "Mean": 0.13548387096774195,
+      "3rd Qu.": 0.15,
+      "Max.": 1.15,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipaps",
+    "dataset": "ibip_parent",
+    "label": "[de] Schätzung wie viele Augenpaare richtig",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Schätzung wie viele Augenpaare richtig",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 4.0,
+      "Median": 5.0,
+      "Mean": 5.179354838709678,
+      "3rd Qu.": 6.0,
+      "Max.": 10.0,
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipapa",
+    "dataset": "ibip_parent",
+    "label": "[de] Auflösung wie viele Augenpaare richtig",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Weniger als 8 richtig eingeschätzt, 0 EUR",
+        "[de] [2] 8 oder 9 richtig, 3 EUR",
+        "[de] [3] Alle 10 richtig, 5 EUR"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Weniger als 8 richtig eingeschätzt, 0 EUR",
+        "[2] 8 oder 9 richtig, 3 EUR",
+        "[3] Alle 10 richtig, 5 EUR"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        10,
+        0,
+        271,
+        403,
+        101
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Auflösung wie viele Augenpaare richtig",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 775,
+      "invalid": 3044
+    }
+  },
+  {
+    "name": "bipbaus1",
+    "dataset": "ibip_parent",
+    "label": "[de] Wenn mir jemand einen Gefallen tut, bin ich bereit ihn zu erwidern",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        10
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [0] Beschreibt mich überhaupt nicht",
+        "[de] [10] Beschreibt mich perfekt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Beschreibt mich überhaupt nicht",
+        "[10] Beschreibt mich perfekt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        0,
+        2,
+        284
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn mir jemand einen Gefallen tut, bin ich bereit ihn zu erwidern",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 785,
+      "invalid": 3034
+    }
+  },
+  {
+    "name": "bipbaus2",
+    "dataset": "ibip_parent",
+    "label": "[de] Wenn ich sehr ungerecht behandelt werde, räche ich mich bei der ersten Gele",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        10
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [0] Beschreibt mich überhaupt nicht",
+        "[de] [10] Beschreibt mich perfekt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Beschreibt mich überhaupt nicht",
+        "[10] Beschreibt mich perfekt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        3,
+        272,
+        18
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Wenn ich sehr ungerecht behandelt werde, räche ich mich bei der ersten Gelegenhe",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 782,
+      "invalid": 3037
+    }
+  },
+  {
+    "name": "bipbaus3",
+    "dataset": "ibip_parent",
+    "label": "[de] Ich vermute, dass Leute nur die besten Absichten haben",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        10
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [0] Beschreibt mich überhaupt nicht",
+        "[de] [10] Beschreibt mich perfekt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Beschreibt mich überhaupt nicht",
+        "[10] Beschreibt mich perfekt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        4,
+        25,
+        17
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ich vermute, dass Leute nur die besten Absichten haben",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 781,
+      "invalid": 3038
+    }
+  },
+  {
+    "name": "bipbaus4",
+    "dataset": "ibip_parent",
+    "label": "[de] Ich neige dazu, Aufgaben zu verschieben, auch wenn ich weiß, dass es besser",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        10
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [0] Beschreibt mich überhaupt nicht",
+        "[de] [10] Beschreibt mich perfekt"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Beschreibt mich überhaupt nicht",
+        "[10] Beschreibt mich perfekt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        1,
+        77,
+        45
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ich neige dazu, Aufgaben zu verschieben, auch wenn ich weiß, dass es besser wäre",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 784,
+      "invalid": 3035
+    }
+  },
+  {
+    "name": "bipekzu",
+    "dataset": "ibip_parent",
+    "label": "[de] Einkommen ausreichend",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Sehr schlecht",
+        "[de] [2] Schlecht",
+        "[de] [3] Relativ schlecht",
+        "[de] [4] Relativ gut",
+        "[de] [5] Gut",
+        "[de] [6] Sehr gut"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr schlecht",
+        "[2] Schlecht",
+        "[3] Relativ schlecht",
+        "[4] Relativ gut",
+        "[5] Gut",
+        "[6] Sehr gut"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3036,
+        0,
+        0,
+        0,
+        0,
+        9,
+        25,
+        42,
+        258,
+        278,
+        171
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Einkommen ausreichend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 783,
+      "invalid": 3036
+    }
+  },
+  {
+    "name": "bipschue",
+    "dataset": "ibip_parent",
+    "label": "[de] Schüchtern / Kontaktfreudig",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Sehr schüchtern",
+        "[de] [2] Etwas schüchtern",
+        "[de] [1] Etwas kontaktfreudig",
+        "[de] [2] Sehr kontaktfreudig"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr schüchtern",
+        "[2] Etwas schüchtern",
+        "[1] Etwas kontaktfreudig",
+        "[2] Sehr kontaktfreudig"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        0,
+        13,
+        131,
+        335,
+        306
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Schüchtern / Kontaktfreudig",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 785,
+      "invalid": 3034
+    }
+  },
+  {
+    "name": "bipsorfs",
+    "dataset": "ibip_parent",
+    "label": "[de] Sorgen um finanzielle Situation",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Nie",
+        "[de] [2] Sehr selten",
+        "[de] [3] Selten",
+        "[de] [4] Manchmal",
+        "[de] [5] Oft",
+        "[de] [6] Sehr oft",
+        "[de] [7] Immer"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Nie",
+        "[2] Sehr selten",
+        "[3] Selten",
+        "[4] Manchmal",
+        "[5] Oft",
+        "[6] Sehr oft",
+        "[7] Immer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3036,
+        0,
+        0,
+        0,
+        0,
+        121,
+        101,
+        147,
+        209,
+        120,
+        61,
+        24
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sorgen um finanzielle Situation",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 783,
+      "invalid": 3036
+    }
+  },
+  {
+    "name": "bipugeld1",
+    "dataset": "ibip_parent",
+    "label": "[de] Fällt es Ihnen eher schwer, Ihre Ausgaben zu begrenzen",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Trifft überhaupt nicht auf mich zu",
+        "[de] [7] Trifft voll auf mich zu"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht auf mich zu",
+        "[7] Trifft voll auf mich zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        5,
+        194,
+        31
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Fällt es Ihnen eher schwer, Ihre Ausgaben zu begrenzen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 780,
+      "invalid": 3039
+    }
+  },
+  {
+    "name": "bipugeld2",
+    "dataset": "ibip_parent",
+    "label": "[de] Fällt es Ihnen eher schwer, Geld auszugeben",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        7
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] Trifft überhaupt nicht auf mich zu",
+        "[de] [7] Trifft voll auf mich zu"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Trifft überhaupt nicht auf mich zu",
+        "[7] Trifft voll auf mich zu"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3034,
+        0,
+        0,
+        0,
+        5,
+        167,
+        20
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Fällt es Ihnen eher schwer, Geld auszugeben",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 780,
+      "invalid": 3039
+    }
+  },
+  {
+    "name": "hschaetz1",
+    "dataset": "ibip_parent",
+    "label": "[de] Schätzung 1: In welcher Gruppe ist Ihr HH-Nettoeinkommen",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[de] [1] In die Gruppe der Haushalte mit den höchsten Einkommen",
+        "[de] [2] In die Gruppe der Haushalte mit den zweithöchsten Einkommen",
+        "[de] [3] In die Gruppe der Haushalte mit den dritthöchsten Einkommen",
+        "[de] [4] In die Gruppe der Haushalte mit den vierthöchsten Einkommen",
+        "[de] [5] In die Gruppe der Haushalte mit den fünfthöchsten Einkommen",
+        "[de] [6] In die Gruppe der Haushalte mit den sechsthöchsten Einkommen",
+        "[de] [7] In die Gruppe der Haushalte mit den siebthöchsten Einkommen",
+        "[de] [8] In die Gruppe der Haushalte mit den achthöchsten Einkommen",
+        "[de] [9] In die Gruppe der Haushalte mit den neunthöchsten Einkommen",
+        "[de] [10] In die Gruppe der Haushalte mit den zehnthöchsten Einkommen",
+        "[de] [11] Weiß nicht"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] In die Gruppe der Haushalte mit den höchsten Einkommen",
+        "[2] In die Gruppe der Haushalte mit den zweithöchsten Einkommen",
+        "[3] In die Gruppe der Haushalte mit den dritthöchsten Einkommen",
+        "[4] In die Gruppe der Haushalte mit den vierthöchsten Einkommen",
+        "[5] In die Gruppe der Haushalte mit den fünfthöchsten Einkommen",
+        "[6] In die Gruppe der Haushalte mit den sechsthöchsten Einkommen",
+        "[7] In die Gruppe der Haushalte mit den siebthöchsten Einkommen",
+        "[8] In die Gruppe der Haushalte mit den achthöchsten Einkommen",
+        "[9] In die Gruppe der Haushalte mit den neunthöchsten Einkommen",
+        "[10] In die Gruppe der Haushalte mit den zehnthöchsten Einkommen",
+        "[11] Weiß nicht"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        3097,
+        0,
+        0,
+        0,
+        3,
+        14,
+        22,
+        62,
+        97,
+        204,
+        104,
+        74,
+        66,
+        35,
+        33,
+        8
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Schätzung 1: In welcher Gruppe ist Ihr HH-Nettoeinkommen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 719,
+      "invalid": 3100
+    }
+  },
+  {
+    "name": "hschaetz2",
+    "dataset": "ibip_parent",
+    "label": "[de] Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe höchster HH-Nettoeink.",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3097,
+        0,
+        0,
+        32,
+        5
+      ]
+    },
+    "scale": "number",
+    "label_de": "Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe höchster HH-Nettoeink.",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2000.0,
+      "1st Qu.": 6000.0,
+      "Median": 10000.0,
+      "Mean": 12626.135766423358,
+      "3rd Qu.": 12000.0,
+      "Max.": 200000.0,
+      "valid": 685,
+      "invalid": 3134
+    }
+  },
+  {
+    "name": "hschaetz3",
+    "dataset": "ibip_parent",
+    "label": "[de] Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe fünfthöchster HH-Nettoe",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3097,
+        0,
+        0,
+        37,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe fünfthöchster HH-Nettoeink.",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1200.0,
+      "1st Qu.": 3000.0,
+      "Median": 4000.0,
+      "Mean": 4347.489051094891,
+      "3rd Qu.": 5000.0,
+      "Max.": 80000.0,
+      "valid": 685,
+      "invalid": 3134
+    }
+  },
+  {
+    "name": "hschaetz4",
+    "dataset": "ibip_parent",
+    "label": "[de] Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe neunthöchster HH-Nettoe",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        3097,
+        0,
+        0,
+        37,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Schätzung 2: Ab welchem HH-Nettoeinkommen in Gruppe neunthöchster HH-Nettoeink.",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 400.0,
+      "1st Qu.": 1200.0,
+      "Median": 1500.0,
+      "Mean": 1918.0262773722627,
+      "3rd Qu.": 2000.0,
+      "Max.": 10000.0,
+      "valid": 685,
+      "invalid": 3134
     }
   }
 ]
