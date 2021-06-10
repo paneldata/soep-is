@@ -38,26 +38,6 @@
         ]
     },
     {
-        "file": "concepts.csv",
-        "fields": [
-            "name"
-        ],
-        "relations_from": [
-            {
-                "file": "questions.csv",
-                "fields": [
-                    "concept"
-                ]
-            },
-            {
-                "file": "variables.csv",
-                "fields": [
-                    "concept"
-                ]
-            }
-        ]
-    },
-    {
         "file": "conceptual_datasets.csv",
         "fields": [
             "name"
