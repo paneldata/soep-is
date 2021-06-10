@@ -1,12 +1,12 @@
-study,name,label,description,analysis_unit,period,author,label_de,description_de,publish,qtyp
-soep-is,soep-is-2019,Questionnaire 2019,,,2019,SOEP-IS Group,Fragebogen 2019,,1,
-soep-is,soep-is-2018-f,Questionnaire 2018,,,2018,SOEP-IS Group,Fragebogen 2018,,1,
-soep-is,soep-is-2018-arb,ARB-Online-Survey 2018,,,2018,SOEP-IS Group,ARB-Online-Befragung 2018,,1,
-soep-is,soep-is-2017-f,Questionnaire 2017,,,2017,SOEP-IS Group,Fragebogen 2017,,1,
-soep-is,soep-is-2016-a,Questionnaire 2016 (Boost Sample),,,2016,SOEP-IS Group,Fragebogen 2016 (Aufwuchsstichprobe),,1,
-soep-is,soep-is-2016-f,Questionnaire 2016,,,2016,SOEP-IS Group,Fragebogen 2016,,1,
-soep-is,soep-is-2015,Questionnaire 2015,,,2015,SOEP-IS Group,Fragebogen 2015,,1,
-soep-is,soep-is-2014-a,Questionnaire 2014 (Boost Sample),,,2014,SOEP-IS Group,Fragebogen 2014 (Aufwuchsstichprobe),"Innovative Modules Surveyed in 2014
+study,name,label,label_de,description,description_de,analysis_unit,period
+soep-is,soep-is-2019,Questionnaire 2019,Fragebogen 2019,,,,2019
+soep-is,soep-is-2018-f,Questionnaire 2018,Fragebogen 2018,,,,2018
+soep-is,soep-is-2018-arb,ARB-Online-Survey 2018,ARB-Online-Befragung 2018,,,,2018
+soep-is,soep-is-2017-f,Questionnaire 2017,Fragebogen 2017,,,,2017
+soep-is,soep-is-2016-a,Questionnaire 2016 (Boost Sample),Fragebogen 2016 (Aufwuchsstichprobe),,,,2016
+soep-is,soep-is-2016-f,Questionnaire 2016,Fragebogen 2016,,,,2016
+soep-is,soep-is-2015,Questionnaire 2015,Fragebogen 2015,,,,2015
+soep-is,soep-is-2014-a,Questionnaire 2014 (Boost Sample),Fragebogen 2014 (Aufwuchsstichprobe),,"Innovative Modules Surveyed in 2014
 
 - Cross-Cultural Study of Happiness and Personality (Uchida & Trommsdorff)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -22,8 +22,8 @@ soep-is,soep-is-2014-a,Questionnaire 2014 (Boost Sample),,,2014,SOEP-IS Group,Fr
 - Major Life Events (Luhmann & Zimmermann)
 - Measurement of Self-Evaluation and Overconfidence in Different Life Domains (Ziebarth, Arni, & Goette)
 - Separating Systematic Measurement Error Components Using MTMM (Cernat & Obersky)
-- Short Form of the “CHAOS” Scale (Rauch)",1,
-soep-is,soep-is-2014-f,Questionnaire 2014,"Innovative Modules Surveyed in 2014
+- Short Form of the “CHAOS” Scale (Rauch)",,2014
+soep-is,soep-is-2014-f,Questionnaire 2014,Fragebogen 2014,"Innovative Modules Surveyed in 2014
 
 - Cross-Cultural Study of Happiness and Personality (Uchida & Trommsdorff)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -39,7 +39,7 @@ soep-is,soep-is-2014-f,Questionnaire 2014,"Innovative Modules Surveyed in 2014
 - Major Life Events (Luhmann & Zimmermann)
 - Measurement of Self-Evaluation and Overconfidence in Different Life Domains (Ziebarth, Arni, & Goette)
 - Separating Systematic Measurement Error Components Using MTMM (Cernat & Obersky)
-- Short Form of the “CHAOS” Scale (Rauch)",,2014,SOEP-IS Group,Fragebogen 2014,"Innovative Modules Surveyed in 2014
+- Short Form of the “CHAOS” Scale (Rauch)","Innovative Modules Surveyed in 2014
 
 - Cross-Cultural Study of Happiness and Personality (Uchida & Trommsdorff)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -55,8 +55,8 @@ soep-is,soep-is-2014-f,Questionnaire 2014,"Innovative Modules Surveyed in 2014
 - Major Life Events (Luhmann & Zimmermann)
 - Measurement of Self-Evaluation and Overconfidence in Different Life Domains (Ziebarth, Arni, & Goette)
 - Separating Systematic Measurement Error Components Using MTMM (Cernat & Obersky)
-- Short Form of the “CHAOS” Scale (Rauch)",1,
-soep-is,soep-is-2013-a,Questionnaire 2013 (Boost Sample),"Innovative Modules Surveyed in 2013
+- Short Form of the “CHAOS” Scale (Rauch)",,2014
+soep-is,soep-is-2013-a,Questionnaire 2013 (Boost Sample),Fragebogen 2013 (Aufwuchsstichprobe),"Innovative Modules Surveyed in 2013
 
 - Conspiracy Mentality (Haffke)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -65,7 +65,7 @@ soep-is,soep-is-2013-a,Questionnaire 2013 (Boost Sample),"Innovative Modules Sur
 - Mobility & Identity (Neyer, Zimmermann, & Schubach)
 - Narcissism (Küffner, Hutteman, & Back)
 - Assessment of Sleep Characteristics (Stang & Zinkhan)
-- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",,2013,SOEP-IS Group,Fragebogen 2013 (Aufwuchsstichprobe),"Innovative Modules Surveyed in 2013
+- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ","Innovative Modules Surveyed in 2013
 
 - Conspiracy Mentality (Haffke)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -74,8 +74,8 @@ soep-is,soep-is-2013-a,Questionnaire 2013 (Boost Sample),"Innovative Modules Sur
 - Mobility & Identity (Neyer, Zimmermann, & Schubach)
 - Narcissism (Küffner, Hutteman, & Back)
 - Assessment of Sleep Characteristics (Stang & Zinkhan)
-- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",1,
-soep-is,soep-is-2013-f,Questionnaire 2013,"Innovative Modules Surveyed in 2013
+- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",,2013
+soep-is,soep-is-2013-f,Questionnaire 2013,Fragebogen 2013,"Innovative Modules Surveyed in 2013
 
 - Conspiracy Mentality (Haffke)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -84,7 +84,7 @@ soep-is,soep-is-2013-f,Questionnaire 2013,"Innovative Modules Surveyed in 2013
 - Mobility & Identity (Neyer, Zimmermann, & Schubach)
 - Narcissism (Küffner, Hutteman, & Back)
 - Assessment of Sleep Characteristics (Stang & Zinkhan)
-- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",,2013,SOEP-IS Group,Fragebogen 2013,"Innovative Modules Surveyed in 2013
+- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ","Innovative Modules Surveyed in 2013
 
 - Conspiracy Mentality (Haffke)
 - Day Reconstruction Method (DRM; Lucas & Donnellan)
@@ -93,8 +93,8 @@ soep-is,soep-is-2013-f,Questionnaire 2013,"Innovative Modules Surveyed in 2013
 - Mobility & Identity (Neyer, Zimmermann, & Schubach)
 - Narcissism (Küffner, Hutteman, & Back)
 - Assessment of Sleep Characteristics (Stang & Zinkhan)
-- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",1,
-soep-is,soep-is-2012-aufwuchs,Questionnaire 2012 (Boost Sample),"Innovative Modules Surveyed in 2012
+- Socio-Economic Effects of Physical Activity (Lechner & Pawlowski) ",,2013
+soep-is,soep-is-2012-aufwuchs,Questionnaire 2012 (Boost Sample),Fragebogen 2012 (Aufwuchsstichprobe),"Innovative Modules Surveyed in 2012
 
 - Adaptive Test of Environmental Behavior (Otto & Kaiser)
 - Control Strivings (Gerstorf & Heckhausen)
@@ -104,7 +104,7 @@ soep-is,soep-is-2012-aufwuchs,Questionnaire 2012 (Boost Sample),"Innovative Modu
 - Implicit Association Test of Self-Esteem (Gebauer, Asendorpf & Bruder)
 - Fear of Dementia (Kessler)
 - GeNECA (Just Sustainable Development Based on the Capability Approach; Gutwald, Krause, Leßmann, Masson, Mock, Omann, Rauschmayer, Volkert)
-- Loneliness & Depression (Brähler & Zenger) ",,2012,SOEP-IS Group,Fragebogen 2012 (Aufwuchsstichprobe),"Der grundlegende Aufbau des Erhebungsinstruments für den Aufwuchs des SOEP-IS wurde analog
+- Loneliness & Depression (Brähler & Zenger) ","Der grundlegende Aufbau des Erhebungsinstruments für den Aufwuchs des SOEP-IS wurde analog
 zur Längsschnittstichprobe des SOEP-IS gestaltet. Der eingesetzte CAPI-Fragebogen bestand aus
 zwei grundlegenden Teilen: einem „Basismodul“ und dem aus verschiedenen Komponenten
 bestehenden „Innovationsmodul“ mit neun Frageblöcken.
@@ -131,8 +131,8 @@ Das Innovationsmodul besteht aus diesen Frageblöcken:
 
 - Demenz
 
-Eine Übersicht der einzelnen Module und deren Platzierung im Befragungsverlauf liefert die Abbildung 2.1 im Methodenbericht (http://hdl.handle.net/10419/96119).",1,
-soep-is,soep-is-2012-haupt,Questionnaire 2012,"Innovative Modules Surveyed in 2012
+Eine Übersicht der einzelnen Module und deren Platzierung im Befragungsverlauf liefert die Abbildung 2.1 im Methodenbericht (http://hdl.handle.net/10419/96119).",,2012
+soep-is,soep-is-2012-haupt,Questionnaire 2012,Fragebogen 2012,"Innovative Modules Surveyed in 2012
 
 - Adaptive Test of Environmental Behavior (Otto & Kaiser)
 - Control Strivings (Gerstorf & Heckhausen)
@@ -142,7 +142,7 @@ soep-is,soep-is-2012-haupt,Questionnaire 2012,"Innovative Modules Surveyed in 20
 - Implicit Association Test of Self-Esteem (Gebauer, Asendorpf & Bruder)
 - Fear of Dementia (Kessler)
 - GeNECA (Just Sustainable Development Based on the Capability Approach; Gutwald, Krause, Leßmann, Masson, Mock, Omann, Rauschmayer, Volkert)
-- Loneliness & Depression (Brähler & Zenger) ",,2012,SOEP-IS Group,Fragebogen 2012,"Das Basismodul des 2012 in den Samples E und I eingesetzten Erhebungsinstruments entsprach weitestgehend dem in 2011 etablierten Basisfragebogen für das SOEP-IS, der 2012 bereits im Sample I im Einsatz war. Im Unterschied zur Vorwelle beantworten in der Fortführung nur noch neue Personen bzw. Personen, die in der Vorwelle noch nicht im Befragungsalter waren, die Lebenslauffragen. Eine Übersicht der einzelnen Basismodule und deren Platzierung im Befragungsverlauf in Relation zu den Innovationsmodulen Abbildung 6.1 im Methodenbericht (http://hdl.handle.net/10419/96119).",1,
-soep-is,soep-is-2011,Questionnaire 2011,,,2011,SOEP-IS Group,Fragebogen 2011,"Im Erhebungsjahr 2011 wurde erstmals ein integrierter Kernfragebogen eingesetzt, der den Standard für die zukünftigen Wellen des Innovationssamples bilden wird. Der Fragebogen wurde in einem zusammenhängenden CAPI-Skript programmiert, um einen flüssigen und reibungslosen Interviewablauf zu gewährleisten und bestand aus den Kernelementen des SOEP-HAUSHALTS-Fragebogens, des PERSONEN-Fragebogens, des LEBENSLAUF-Fragebogens sowie der drei Mutter-Kind-Module.
+- Loneliness & Depression (Brähler & Zenger) ","Das Basismodul des 2012 in den Samples E und I eingesetzten Erhebungsinstruments entsprach weitestgehend dem in 2011 etablierten Basisfragebogen für das SOEP-IS, der 2012 bereits im Sample I im Einsatz war. Im Unterschied zur Vorwelle beantworten in der Fortführung nur noch neue Personen bzw. Personen, die in der Vorwelle noch nicht im Befragungsalter waren, die Lebenslauffragen. Eine Übersicht der einzelnen Basismodule und deren Platzierung im Befragungsverlauf in Relation zu den Innovationsmodulen Abbildung 6.1 im Methodenbericht (http://hdl.handle.net/10419/96119).",,2012
+soep-is,soep-is-2011,Questionnaire 2011,Fragebogen 2011,,"Im Erhebungsjahr 2011 wurde erstmals ein integrierter Kernfragebogen eingesetzt, der den Standard für die zukünftigen Wellen des Innovationssamples bilden wird. Der Fragebogen wurde in einem zusammenhängenden CAPI-Skript programmiert, um einen flüssigen und reibungslosen Interviewablauf zu gewährleisten und bestand aus den Kernelementen des SOEP-HAUSHALTS-Fragebogens, des PERSONEN-Fragebogens, des LEBENSLAUF-Fragebogens sowie der drei Mutter-Kind-Module.
 
-Weiterhin kamen Innovationsmodule zum Einsatz, die in der Regel jährlich wechseln und in den Personenteil des Fragebogens integriert sind. Folgende Innovationen waren enthalten: Impliziter Assoziations Test (IAT) und entsprechende explizite Fragen zur Messung von Geschlechterstereotypen, die Messung der vier Facetten von Ungerechtigkeitssensibilität (Opfersensibilität, Beobachtersensibilität, Nutznießersensibilität, Tätersensibilität sowie Fragen zur privaten, gesetzlichen und betrieblichen Altersvorsoge. ",1,
+Weiterhin kamen Innovationsmodule zum Einsatz, die in der Regel jährlich wechseln und in den Personenteil des Fragebogens integriert sind. Folgende Innovationen waren enthalten: Impliziter Assoziations Test (IAT) und entsprechende explizite Fragen zur Messung von Geschlechterstereotypen, die Messung der vier Facetten von Ungerechtigkeitssensibilität (Opfersensibilität, Beobachtersensibilität, Nutznießersensibilität, Tätersensibilität sowie Fragen zur privaten, gesetzlichen und betrieblichen Altersvorsoge. ",,2011
