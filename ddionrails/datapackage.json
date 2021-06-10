@@ -338,10 +338,10 @@
       }
     },
     {
-      "path": "questionnaires.csv",
+      "path": "instruments.csv",
       "profile": "tabular-data-resource",
-      "name": "questionnaires",
-      "title": "Questionnaires",
+      "name": "instruments",
+      "title": "Instruments",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
@@ -469,6 +469,122 @@
           }
         ]
       }
+    },
+    {
+      "name": "questions",
+      "path": "questions.csv",
+      "title": "Questions",
+      "description": "A description about the questions.csv file",
+      "schema": {
+        "fields": [
+          {
+            "name": "study",
+            "title": "Foreign key to Study",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "instrument",
+            "title": "Foreign key to Instrument",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "name",
+            "title": "Name of the Question",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": true,
+              "maxLength": 255
+            }
+          },
+          {
+            "name": "item",
+            "title": "A question's text content id",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "text",
+            "title": "The item's english text",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "text_de",
+            "title": "The item's german text",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "answer_list",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "instruction",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "instruction_de",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "goto",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false
+            }
+          },
+          {
+            "name": "concept",
+            "title": "The concept the question is linked to",
+            "type": "string",
+            "format": "default",
+            "constraints": {
+              "required": false,
+              "maxLength": 255
+            }
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8"
     }
   ]
 }
