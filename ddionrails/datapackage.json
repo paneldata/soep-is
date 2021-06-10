@@ -113,7 +113,7 @@
       "schema": {
         "fields": [
           {
-            "name": "study_name",
+            "name": "study",
             "title": "Name of the study",
             "type": "string",
             "format": "default",
@@ -142,17 +142,17 @@
             }
           },
           {
-            "name": "conceptual_dataset_name",
+            "name": "conceptual_dataset",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "analysis_unit_name",
+            "name": "analysis_unit",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "period_name",
+            "name": "period",
             "type": "string",
             "format": "default"
           },
@@ -175,26 +175,26 @@
           }
         ],
         "primaryKey": [
-          "study_name",
+          "study",
           "name"
         ],
         "foreignKeys": [
           {
-            "fields": "analysis_unit_name",
+            "fields": "analysis_unit",
             "reference": {
               "resource": "analysis_units",
               "fields": "name"
             }
           },
           {
-            "fields": "conceptual_dataset_name",
+            "fields": "conceptual_dataset",
             "reference": {
               "resource": "conceptual_datasets",
               "fields": "name"
             }
           },
           {
-            "fields": "period_name",
+            "fields": "period",
             "reference": {
               "resource": "periods",
               "fields": "name"
@@ -214,7 +214,7 @@
       "schema": {
         "fields": [
           {
-            "name": "study_name",
+            "name": "study",
             "title": "Name of the study",
             "type": "string",
             "format": "default",
@@ -264,7 +264,7 @@
           }
         ],
         "primaryKey": [
-          "study_name",
+          "study",
           "name"
         ]
       }
@@ -348,7 +348,7 @@
       "schema": {
         "fields": [
           {
-            "name": "study_name",
+            "name": "study",
             "type": "string",
             "format": "default"
           },
@@ -369,12 +369,12 @@
             "format": "default"
           },
           {
-            "name": "analysis_unit_name",
+            "name": "analysis_unit",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "period_name",
+            "name": "period",
             "type": "integer",
             "format": "default"
           },
@@ -390,7 +390,7 @@
           }
         ],
         "primaryKey": [
-          "study_name",
+          "study",
           "questionnaire"
         ]
       }
@@ -406,7 +406,7 @@
       "schema": {
         "fields": [
           {
-            "name": "study_name",
+            "name": "study",
             "title": "Name of the study",
             "type": "string",
             "format": "default",
@@ -416,7 +416,7 @@
             }
           },
           {
-            "name": "dataset_name",
+            "name": "dataset",
             "title": "Name of the dataset",
             "type": "string",
             "format": "default",
@@ -455,13 +455,13 @@
           }
         ],
         "primaryKey": [
-          "study_name",
-          "dataset_name",
+          "study",
+          "dataset",
           "name"
         ],
         "foreignKeys": [
           {
-            "fields": "dataset_name",
+            "fields": "dataset",
             "reference": {
               "resource": "datasets",
               "fields": "name"
