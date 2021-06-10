@@ -1,6 +1,1 @@
-name,label,label_de,description
-gen,generated,generiert,
-org/gross,gross,brutto,
-org/net,questionnaires,erfragt,
-survey,weights,Gewichte,
-track,tracking,Pfad,
+../metadata/conceptual_datasets.csv
