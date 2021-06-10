@@ -353,8 +353,8 @@
             "format": "default"
           },
           {
-            "name": "questionnaire",
-            "title": "Name of the questionnaire",
+            "name": "instrument",
+            "title": "Name of the instrument",
             "type": "string",
             "format": "default"
           },
@@ -391,7 +391,7 @@
         ],
         "primaryKey": [
           "study",
-          "questionnaire"
+          "instrument"
         ]
       }
     },
