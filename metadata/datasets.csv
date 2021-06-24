@@ -1,6 +1,4 @@
 study,name,label,label_de,description,description_de,analysis_unit,conceptual_dataset,period
-soep-is,soep-bip-2020-s,Variables from individual questionnaires 2020,,,,p,raw,2020
-soep-is,bip2020,Variables from individual questionnaires 2020,,,,p,raw,2020
 soep-is,bio,Variables from the Life Course Question Module,,,,p,org/net,0
 soep-is,bioage,Variables from the Modules of Questions on Children,,,,p,org/net,0
 soep-is,biobirth,Birth Biography of Female and Male Respondents,,,,p,track,0

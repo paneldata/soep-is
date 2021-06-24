@@ -5735,209 +5735,222 @@ Bitte stellen Sie sicher, dass die Zielperson hier nicht auf den Bildschirm scha
 soep-is,soep-is-2018-f,Q742,panw,Were other persons present while filling out the questionnaire?,Waren beim Ausfüllen des Fragebogens weitere Personen anwesend?,1021,"Indicate everything that applies, without interviewer!","Geben Sie bitte alles Zutreffende an, ohne Interviewer!",,
 soep-is,soep-is-2018-f,Q743,ptext,Are there any further notes related to the interview?,Gibt es noch sonstige Hinweise zum Interview?,,"In keywords, please.",Bitte in Stichworten!,,
 soep-is,soep-is-2018-f,Q764,1,You receive Euro from the module Income Distribution II / Financial Decisions II / Gorilla Test.,Sie erhalten Euro aus dem Modul Einkommensverteilung II / Finanzielle Entscheidungen II / Gorilla-Test.,,Please pay the respondent [sum= Incentivization Innovation Modules + Standard SOEP Incentivization] euros. Note: the amount to be paid out from the Financial Decision II module was rounded to whole euro amounts for the benefit of the target person.,Bitte zahlen Sie der Befragungsperson [Summe= Incentivierung Innovationsmodule + Standard SOEP Incentivierung] Euro aus. Hinweis: der auszuzahlende Betrag aus dem Modul Finanzielle Entscheidung II wurde zu Gunsten der Zielperson auf ganze Eurobeträge gerundet.,,
-soep-is,soep-is-2018-arb,Q001,,,"Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! 
+soep-is,soep-is-2018-arb,Q001,,"[de] Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! 
+
+Vor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. 
+
+Um die Befragung zu starten, klicken Sie bitte auf ""Weiter"". 
+
+Sollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.","Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! 
 
 Vor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. 
 
 Um die Befragung zu starten, klicken Sie bitte auf ""Weiter"". 
 
 Sollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.",,,,,
-soep-is,soep-is-2018-arb,Q002,,,Dummy Reihenfolge Blöcke A/D,,,,,
-soep-is,soep-is-2018-arb,Q002,BlockA,,"A zuerst, D an vierter Stelle",1,,,,BlockA
-soep-is,soep-is-2018-arb,Q002,BlockD,,"D zuerst, A an vierter Stelle",1,,,,BlockD
-soep-is,soep-is-2018-arb,B001,,,A. Bewertung der individuellen Lebenssituation,,,,,
-soep-is,soep-is-2018-arb,Q003,,,Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …,,,,,
-soep-is,soep-is-2018-arb,Q003,A1_1,,... Ihrer monatlichen Einkünfte,3,,,,A1_1
-soep-is,soep-is-2018-arb,Q003,A1_2,,... Ihres Vermögens,3,,,,A1_2
-soep-is,soep-is-2018-arb,Q003,A1_3,,... der Regelmäßigkeit Ihres Einkommens,3,,,,A1_3
-soep-is,soep-is-2018-arb,Q003,A1_4,,"... der Möglichkeit, Dinge zu tun, die Ihnen wichtig sind",3,,,,A1_4
-soep-is,soep-is-2018-arb,Q003,A1_5,,"... der Möglichkeit, sich etwas leisten zu können",3,,,,A1_5
-soep-is,soep-is-2018-arb,Q003,A1_6,,... Ihres Gesundheitszustandes,3,,,,A1_6
-soep-is,soep-is-2018-arb,Q003,A1_7,,... Ihrer Wohnsituation,3,,,,A1_7
-soep-is,soep-is-2018-arb,Q003,A1_8,,... Ihrer Beliebtheit bei Mitmenschen,3,,,,A1_8
-soep-is,soep-is-2018-arb,Q004,,,"Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. 
+soep-is,soep-is-2018-arb,Q002,,[de] Dummy Reihenfolge Blöcke A/D,Dummy Reihenfolge Blöcke A/D,,,,,
+soep-is,soep-is-2018-arb,Q002,BlockA,"[de] A zuerst, D an vierter Stelle","A zuerst, D an vierter Stelle",1,,,,BlockA
+soep-is,soep-is-2018-arb,Q002,BlockD,"[de] D zuerst, A an vierter Stelle","D zuerst, A an vierter Stelle",1,,,,BlockD
+soep-is,soep-is-2018-arb,B001,,[de] A. Bewertung der individuellen Lebenssituation,A. Bewertung der individuellen Lebenssituation,,,,,
+soep-is,soep-is-2018-arb,Q003,,[de] Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …,Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …,,,,,
+soep-is,soep-is-2018-arb,Q003,A1_1,[de] ... Ihrer monatlichen Einkünfte,... Ihrer monatlichen Einkünfte,3,,,,A1_1
+soep-is,soep-is-2018-arb,Q003,A1_2,[de] ... Ihres Vermögens,... Ihres Vermögens,3,,,,A1_2
+soep-is,soep-is-2018-arb,Q003,A1_3,[de] ... der Regelmäßigkeit Ihres Einkommens,... der Regelmäßigkeit Ihres Einkommens,3,,,,A1_3
+soep-is,soep-is-2018-arb,Q003,A1_4,"[de] ... der Möglichkeit, Dinge zu tun, die Ihnen wichtig sind","... der Möglichkeit, Dinge zu tun, die Ihnen wichtig sind",3,,,,A1_4
+soep-is,soep-is-2018-arb,Q003,A1_5,"[de] ... der Möglichkeit, sich etwas leisten zu können","... der Möglichkeit, sich etwas leisten zu können",3,,,,A1_5
+soep-is,soep-is-2018-arb,Q003,A1_6,[de] ... Ihres Gesundheitszustandes,... Ihres Gesundheitszustandes,3,,,,A1_6
+soep-is,soep-is-2018-arb,Q003,A1_7,[de] ... Ihrer Wohnsituation,... Ihrer Wohnsituation,3,,,,A1_7
+soep-is,soep-is-2018-arb,Q003,A1_8,[de] ... Ihrer Beliebtheit bei Mitmenschen,... Ihrer Beliebtheit bei Mitmenschen,3,,,,A1_8
+soep-is,soep-is-2018-arb,Q004,,"[de] Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. 
+Wir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.","Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. 
 Wir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.",,,,,
-soep-is,soep-is-2018-arb,Q051,,,"Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",,,,,
-soep-is,soep-is-2018-arb,Q005,,,Wo würden Sie sich auf der Leiter platzieren?,,,,,
-soep-is,soep-is-2018-arb,Q005,A2,,"Je höher Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am oberen Ende der Leiter. Je niedriger Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am unteren Ende. Bitte klicken Sie an, auf welcher Leitersprosse Sie zum gegenwärtigen Zeitpunkt im Vergleich zu anderen Menschen in Deutschland stehen.",4,,,,A2
-soep-is,soep-is-2018-arb,Q006,A3,,"Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",4,,,,A3
-soep-is,soep-is-2018-arb,Q007,A4,,"Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",4,,,,A4
-soep-is,soep-is-2018-arb,Q008,A5,,"Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",4,,,,A5
-soep-is,soep-is-2018-arb,Q009,A6,,"Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",4,,,,A6
-soep-is,soep-is-2018-arb,B002,,,B. Fragen zur Armut in Deutschland,,,,,
-soep-is,soep-is-2018-arb,Q010,,,"Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",,,,,
-soep-is,soep-is-2018-arb,Q011,,,Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?,,,"Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, „Hartz IV“, Sozialhilfe, Arbeitslosengeld, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen zählen dazu.",,
-soep-is,soep-is-2018-arb,Q011,B1,,Euro im Monat,,,,,B1
+soep-is,soep-is-2018-arb,Q051,,"[de] Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.","Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",,,,,
+soep-is,soep-is-2018-arb,Q005,,[de] Wo würden Sie sich auf der Leiter platzieren?,Wo würden Sie sich auf der Leiter platzieren?,,,,,
+soep-is,soep-is-2018-arb,Q005,A2,"[de] Je höher Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am oberen Ende der Leiter. Je niedriger Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am unteren Ende. Bitte klicken Sie an, auf welcher Leitersprosse Sie zum gegenwärtigen Zeitpunkt im Vergleich zu anderen Menschen in Deutschland stehen.","Je höher Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am oberen Ende der Leiter. Je niedriger Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am unteren Ende. Bitte klicken Sie an, auf welcher Leitersprosse Sie zum gegenwärtigen Zeitpunkt im Vergleich zu anderen Menschen in Deutschland stehen.",4,,,,A2
+soep-is,soep-is-2018-arb,Q006,A3,"[de] Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?","Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",4,,,,A3
+soep-is,soep-is-2018-arb,Q007,A4,"[de] Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?","Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",4,,,,A4
+soep-is,soep-is-2018-arb,Q008,A5,"[de] Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?","Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",4,,,,A5
+soep-is,soep-is-2018-arb,Q009,A6,"[de] Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?","Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",4,,,,A6
+soep-is,soep-is-2018-arb,B002,,[de] B. Fragen zur Armut in Deutschland,B. Fragen zur Armut in Deutschland,,,,,
+soep-is,soep-is-2018-arb,Q010,,"[de] Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.","Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",,,,,
+soep-is,soep-is-2018-arb,Q011,,[de] Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?,Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?,,"[de] Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, „Hartz IV“, Sozialhilfe, Arbeitslosengeld, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen zählen dazu.","Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, „Hartz IV“, Sozialhilfe, Arbeitslosengeld, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen zählen dazu.",,
+soep-is,soep-is-2018-arb,Q011,B1,[de] Euro im Monat,Euro im Monat,,,,,B1
 soep-is,soep-is-2018-arb,Q011,B1ka,,,5,,,,B1ka
-soep-is,soep-is-2018-arb,Q012,,,"Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",,,"0% bedeutet, keine Person in Deutschland ist arm aufgrund eines niedrigen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind arm aufgrund eines niedrigen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",,
-soep-is,soep-is-2018-arb,Q012,B2,,Prozent der Menschen in Deutschland,,,,,B2
+soep-is,soep-is-2018-arb,Q012,,"[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?","Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",,"[de] 0% bedeutet, keine Person in Deutschland ist arm aufgrund eines niedrigen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind arm aufgrund eines niedrigen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.","0% bedeutet, keine Person in Deutschland ist arm aufgrund eines niedrigen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind arm aufgrund eines niedrigen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",,
+soep-is,soep-is-2018-arb,Q012,B2,[de] Prozent der Menschen in Deutschland,Prozent der Menschen in Deutschland,,,,,B2
 soep-is,soep-is-2018-arb,Q012,B2ka,,,5,,,,B2ka
-soep-is,soep-is-2018-arb,Q013,B3,,"Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",6,,,,B3
-soep-is,soep-is-2018-arb,Q014,B4,,Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,7,,,,B4
-soep-is,soep-is-2018-arb,Q015,,,"Wann kann man jemanden als arm bezeichnen? 
+soep-is,soep-is-2018-arb,Q013,B3,"[de] Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?","Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",6,,,,B3
+soep-is,soep-is-2018-arb,Q014,B4,[de] Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,7,,,,B4
+soep-is,soep-is-2018-arb,Q015,,"[de] Wann kann man jemanden als arm bezeichnen? 
 
-Menschen sind arm, wenn sie…",,,"Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",,
-soep-is,soep-is-2018-arb,Q015,B5_1,,… aus finanziellen Gründen auf gemeinsame Unternehmungen mit Freunden oder Familie verzichten müssen.,8,,,,B5_1
-soep-is,soep-is-2018-arb,Q015,B5_2,,… unabhängig von ihren finanziellen Mitteln gesellschaftlich benachteiligt werden (z.B. aufgrund der Herkunft).,8,,,,B5_2
-soep-is,soep-is-2018-arb,Q015,B5_3,,… auf Grundsicherungsleistungen (z.B. Hartz IV) angewiesen sind.,8,,,,B5_3
-soep-is,soep-is-2018-arb,Q015,B5_4,,… auf Angebote von Wohlfahrtsorganisationen (z.B. Tafeln) angewiesen sind.,8,,,,B5_4
-soep-is,soep-is-2018-arb,Q015,B5_5,,… keine finanziellen Rücklagen haben.,8,,,,B5_5
-soep-is,soep-is-2018-arb,Q015,B5_6,,… kaum oder keine Kontakte mit Freunden oder Familie haben.,8,,,,B5_6
-soep-is,soep-is-2018-arb,Q015,B5_7,,"… sehr harte oder unangenehme Arbeiten verrichten müssen, um überhaupt über die Runden zu kommen.",8,,,,B5_7
-soep-is,soep-is-2018-arb,Q015,B5_8,,… kein sicheres Einkommen haben.,8,,,,B5_8
-soep-is,soep-is-2018-arb,Q015,B5_9,,… arbeitslos sind.,8,,,,B5_9
-soep-is,soep-is-2018-arb,Q015,B5_10,,… keine Perspektiven auf dem Arbeitsmarkt haben.,8,,,,B5_10
-soep-is,soep-is-2018-arb,Q045,B6,,"Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",1+16,,,,B6
-soep-is,soep-is-2018-arb,Q046,B7,,Welche Aspekte sind das?,,,,,B7
+Menschen sind arm, wenn sie…","Wann kann man jemanden als arm bezeichnen? 
+
+Menschen sind arm, wenn sie…",,"[de] Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.","Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",,
+soep-is,soep-is-2018-arb,Q015,B5_1,[de] … aus finanziellen Gründen auf gemeinsame Unternehmungen mit Freunden oder Familie verzichten müssen.,… aus finanziellen Gründen auf gemeinsame Unternehmungen mit Freunden oder Familie verzichten müssen.,8,,,,B5_1
+soep-is,soep-is-2018-arb,Q015,B5_2,[de] … unabhängig von ihren finanziellen Mitteln gesellschaftlich benachteiligt werden (z.B. aufgrund der Herkunft).,… unabhängig von ihren finanziellen Mitteln gesellschaftlich benachteiligt werden (z.B. aufgrund der Herkunft).,8,,,,B5_2
+soep-is,soep-is-2018-arb,Q015,B5_3,[de] … auf Grundsicherungsleistungen (z.B. Hartz IV) angewiesen sind.,… auf Grundsicherungsleistungen (z.B. Hartz IV) angewiesen sind.,8,,,,B5_3
+soep-is,soep-is-2018-arb,Q015,B5_4,[de] … auf Angebote von Wohlfahrtsorganisationen (z.B. Tafeln) angewiesen sind.,… auf Angebote von Wohlfahrtsorganisationen (z.B. Tafeln) angewiesen sind.,8,,,,B5_4
+soep-is,soep-is-2018-arb,Q015,B5_5,[de] … keine finanziellen Rücklagen haben.,… keine finanziellen Rücklagen haben.,8,,,,B5_5
+soep-is,soep-is-2018-arb,Q015,B5_6,[de] … kaum oder keine Kontakte mit Freunden oder Familie haben.,… kaum oder keine Kontakte mit Freunden oder Familie haben.,8,,,,B5_6
+soep-is,soep-is-2018-arb,Q015,B5_7,"[de] … sehr harte oder unangenehme Arbeiten verrichten müssen, um überhaupt über die Runden zu kommen.","… sehr harte oder unangenehme Arbeiten verrichten müssen, um überhaupt über die Runden zu kommen.",8,,,,B5_7
+soep-is,soep-is-2018-arb,Q015,B5_8,[de] … kein sicheres Einkommen haben.,… kein sicheres Einkommen haben.,8,,,,B5_8
+soep-is,soep-is-2018-arb,Q015,B5_9,[de] … arbeitslos sind.,… arbeitslos sind.,8,,,,B5_9
+soep-is,soep-is-2018-arb,Q015,B5_10,[de] … keine Perspektiven auf dem Arbeitsmarkt haben.,… keine Perspektiven auf dem Arbeitsmarkt haben.,8,,,,B5_10
+soep-is,soep-is-2018-arb,Q045,B6,"[de] Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?","Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",1+16,,,,B6
+soep-is,soep-is-2018-arb,Q046,B7,[de] Welche Aspekte sind das?,Welche Aspekte sind das?,,,,,B7
 soep-is,soep-is-2018-arb,Q046,B7ka,,,5,,,,B7ka
-soep-is,soep-is-2018-arb,Q016,,,"Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",,,,,
-soep-is,soep-is-2018-arb,Q016,B8_1,,Mangelnde Fähigkeiten,9,,,,B8_1
-soep-is,soep-is-2018-arb,Q016,B8_2,,Unzureichende Ausbildung,9,,,,B8_2
-soep-is,soep-is-2018-arb,Q016,B8_3,,Mangelnde Anstrengung,9,,,,B8_3
-soep-is,soep-is-2018-arb,Q016,B8_4,,Schlechte Ausgangsbedingungen im Elternhaus,9,,,,B8_4
-soep-is,soep-is-2018-arb,Q016,B8_5,,"Wirtschaftssystem, das auf Profit ausgerichtet ist",9,,,,B8_5
-soep-is,soep-is-2018-arb,Q016,B8_6,,"Technischer Fortschritt, der die eigene Ausbildung überflüssig macht",9,,,,B8_6
-soep-is,soep-is-2018-arb,Q016,B8_7,,Gesundheitliche Einschränkungen,9,,,,B8_7
-soep-is,soep-is-2018-arb,Q016,B8_8,,"Familiäre Lebensumstände (z.B. alleinerziehend, zu pflegende Person in der Familie)",9,,,,B8_8
-soep-is,soep-is-2018-arb,Q016,B8_9,,Falscher Umgang mit Geld,9,,,,B8_9
-soep-is,soep-is-2018-arb,Q016,B8_10,,Pech,9,,,,B8_10
-soep-is,soep-is-2018-arb,Q017,,,"Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",,,,,
-soep-is,soep-is-2018-arb,Q017,B9_1,,"Für jeden besteht das Risiko, irgendwann im Leben arm zu sein.",8,,,,B9_1
-soep-is,soep-is-2018-arb,Q017,B9_2,,"Das Risiko, arm zu sein, beschränkt sich auf bestimmte Gruppen.",8,,,,B9_2
-soep-is,soep-is-2018-arb,Q017,B9_3,,"Manche Menschen haben aufgrund ihrer Lebensumstände keine Chance, ihre Armut zu überwinden.",8,,,,B9_3
-soep-is,soep-is-2018-arb,Q017,B9_4,,"Sozialleistungen werden an Arme zu leichtfertig vergeben, ohne dass eigene Anstrengungen verlangt werden.",8,,,,B9_4
-soep-is,soep-is-2018-arb,Q018,,,"Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",,,,,
-soep-is,soep-is-2018-arb,Q018,B10_1,,Unter 18 Jahre,10,,,,B10_1
-soep-is,soep-is-2018-arb,Q018,B10_2,,18 bis 24 Jahre,10,,,,B10_2
-soep-is,soep-is-2018-arb,Q018,B10_3,,25 bis 49 Jahre,10,,,,B10_3
-soep-is,soep-is-2018-arb,Q018,B10_4,,50 bis 64 Jahre,10,,,,B10_4
-soep-is,soep-is-2018-arb,Q018,B10_5,,65 Jahre und älter,10,,,,B10_5
-soep-is,soep-is-2018-arb,Q019,,,"Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",,,"Bitte geben Sie für jeden der im Folgenden aufgeführten möglichen Gründe an, inwiefern Sie diesem zustimmen.",,
-soep-is,soep-is-2018-arb,Q019,B11_1,,Weil die öffentliche Berichterstattung über Altersarmut das so erscheinen lässt.,8,,,,B11_1
-soep-is,soep-is-2018-arb,Q019,B11_2,,Weil dieses Lebensalter für viele Menschen noch weit weg ist und daher große Unsicherheit besteht.,8,,,,B11_2
-soep-is,soep-is-2018-arb,Q019,B11_3,,"Weil das Schicksal von Armut im Alter als „größer“ verstanden wird, da die Betroffenen vielfach ihr gesamtes Leben hart gearbeitet haben.",8,,,,B11_3
-soep-is,soep-is-2018-arb,Q019,B11_4,,"Weil für alte Menschen Armut mutmaßlich dauerhaft sein wird, da kaum mehr Veränderungsmöglichkeiten bestehen.",8,,,,B11_4
-soep-is,soep-is-2018-arb,Q019,B11_5,,Weil die amtlichen Statistiken nicht das wahre Bild wiedergeben.,8,,,,B11_5
-soep-is,soep-is-2018-arb,B003,,,C. Fragen zum Reichtum in Deutschland,,,,,
-soep-is,soep-is-2018-arb,Q020,,,Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.,,,,,
-soep-is,soep-is-2018-arb,Q021,,,Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?,,,"Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Kindergeld, Unterhalt zählen dazu.",,
-soep-is,soep-is-2018-arb,Q021,C1,,Euro im Monat,,,,,C1
+soep-is,soep-is-2018-arb,Q016,,"[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?","Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",,,,,
+soep-is,soep-is-2018-arb,Q016,B8_1,[de] Mangelnde Fähigkeiten,Mangelnde Fähigkeiten,9,,,,B8_1
+soep-is,soep-is-2018-arb,Q016,B8_2,[de] Unzureichende Ausbildung,Unzureichende Ausbildung,9,,,,B8_2
+soep-is,soep-is-2018-arb,Q016,B8_3,[de] Mangelnde Anstrengung,Mangelnde Anstrengung,9,,,,B8_3
+soep-is,soep-is-2018-arb,Q016,B8_4,[de] Schlechte Ausgangsbedingungen im Elternhaus,Schlechte Ausgangsbedingungen im Elternhaus,9,,,,B8_4
+soep-is,soep-is-2018-arb,Q016,B8_5,"[de] Wirtschaftssystem, das auf Profit ausgerichtet ist","Wirtschaftssystem, das auf Profit ausgerichtet ist",9,,,,B8_5
+soep-is,soep-is-2018-arb,Q016,B8_6,"[de] Technischer Fortschritt, der die eigene Ausbildung überflüssig macht","Technischer Fortschritt, der die eigene Ausbildung überflüssig macht",9,,,,B8_6
+soep-is,soep-is-2018-arb,Q016,B8_7,[de] Gesundheitliche Einschränkungen,Gesundheitliche Einschränkungen,9,,,,B8_7
+soep-is,soep-is-2018-arb,Q016,B8_8,"[de] Familiäre Lebensumstände (z.B. alleinerziehend, zu pflegende Person in der Familie)","Familiäre Lebensumstände (z.B. alleinerziehend, zu pflegende Person in der Familie)",9,,,,B8_8
+soep-is,soep-is-2018-arb,Q016,B8_9,[de] Falscher Umgang mit Geld,Falscher Umgang mit Geld,9,,,,B8_9
+soep-is,soep-is-2018-arb,Q016,B8_10,[de] Pech,Pech,9,,,,B8_10
+soep-is,soep-is-2018-arb,Q017,,"[de] Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.","Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",,,,,
+soep-is,soep-is-2018-arb,Q017,B9_1,"[de] Für jeden besteht das Risiko, irgendwann im Leben arm zu sein.","Für jeden besteht das Risiko, irgendwann im Leben arm zu sein.",8,,,,B9_1
+soep-is,soep-is-2018-arb,Q017,B9_2,"[de] Das Risiko, arm zu sein, beschränkt sich auf bestimmte Gruppen.","Das Risiko, arm zu sein, beschränkt sich auf bestimmte Gruppen.",8,,,,B9_2
+soep-is,soep-is-2018-arb,Q017,B9_3,"[de] Manche Menschen haben aufgrund ihrer Lebensumstände keine Chance, ihre Armut zu überwinden.","Manche Menschen haben aufgrund ihrer Lebensumstände keine Chance, ihre Armut zu überwinden.",8,,,,B9_3
+soep-is,soep-is-2018-arb,Q017,B9_4,"[de] Sozialleistungen werden an Arme zu leichtfertig vergeben, ohne dass eigene Anstrengungen verlangt werden.","Sozialleistungen werden an Arme zu leichtfertig vergeben, ohne dass eigene Anstrengungen verlangt werden.",8,,,,B9_4
+soep-is,soep-is-2018-arb,Q018,,"[de] Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?","Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",,,,,
+soep-is,soep-is-2018-arb,Q018,B10_1,[de] Unter 18 Jahre,Unter 18 Jahre,10,,,,B10_1
+soep-is,soep-is-2018-arb,Q018,B10_2,[de] 18 bis 24 Jahre,18 bis 24 Jahre,10,,,,B10_2
+soep-is,soep-is-2018-arb,Q018,B10_3,[de] 25 bis 49 Jahre,25 bis 49 Jahre,10,,,,B10_3
+soep-is,soep-is-2018-arb,Q018,B10_4,[de] 50 bis 64 Jahre,50 bis 64 Jahre,10,,,,B10_4
+soep-is,soep-is-2018-arb,Q018,B10_5,[de] 65 Jahre und älter,65 Jahre und älter,10,,,,B10_5
+soep-is,soep-is-2018-arb,Q019,,"[de] Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?","Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",,"[de] Bitte geben Sie für jeden der im Folgenden aufgeführten möglichen Gründe an, inwiefern Sie diesem zustimmen.","Bitte geben Sie für jeden der im Folgenden aufgeführten möglichen Gründe an, inwiefern Sie diesem zustimmen.",,
+soep-is,soep-is-2018-arb,Q019,B11_1,[de] Weil die öffentliche Berichterstattung über Altersarmut das so erscheinen lässt.,Weil die öffentliche Berichterstattung über Altersarmut das so erscheinen lässt.,8,,,,B11_1
+soep-is,soep-is-2018-arb,Q019,B11_2,[de] Weil dieses Lebensalter für viele Menschen noch weit weg ist und daher große Unsicherheit besteht.,Weil dieses Lebensalter für viele Menschen noch weit weg ist und daher große Unsicherheit besteht.,8,,,,B11_2
+soep-is,soep-is-2018-arb,Q019,B11_3,"[de] Weil das Schicksal von Armut im Alter als „größer“ verstanden wird, da die Betroffenen vielfach ihr gesamtes Leben hart gearbeitet haben.","Weil das Schicksal von Armut im Alter als „größer“ verstanden wird, da die Betroffenen vielfach ihr gesamtes Leben hart gearbeitet haben.",8,,,,B11_3
+soep-is,soep-is-2018-arb,Q019,B11_4,"[de] Weil für alte Menschen Armut mutmaßlich dauerhaft sein wird, da kaum mehr Veränderungsmöglichkeiten bestehen.","Weil für alte Menschen Armut mutmaßlich dauerhaft sein wird, da kaum mehr Veränderungsmöglichkeiten bestehen.",8,,,,B11_4
+soep-is,soep-is-2018-arb,Q019,B11_5,[de] Weil die amtlichen Statistiken nicht das wahre Bild wiedergeben.,Weil die amtlichen Statistiken nicht das wahre Bild wiedergeben.,8,,,,B11_5
+soep-is,soep-is-2018-arb,B003,,[de] C. Fragen zum Reichtum in Deutschland,C. Fragen zum Reichtum in Deutschland,,,,,
+soep-is,soep-is-2018-arb,Q020,,[de] Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.,Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.,,,,,
+soep-is,soep-is-2018-arb,Q021,,[de] Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?,Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?,,"[de] Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Kindergeld, Unterhalt zählen dazu.","Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Kindergeld, Unterhalt zählen dazu.",,
+soep-is,soep-is-2018-arb,Q021,C1,[de] Euro im Monat,Euro im Monat,,,,,C1
 soep-is,soep-is-2018-arb,Q021,C1ka,,,5,,,,C1ka
-soep-is,soep-is-2018-arb,Q022,,,Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?,,,"Netto-Betrag, also nach Abzug von Schulden. Wir meinen hierbei sowohl Geld- als auch Sachvermögen einschließlich des selbstgenutzten und vermieteten Wohneigentums.",,
-soep-is,soep-is-2018-arb,Q022,C2,,Euro (ca.),,,,,C2
+soep-is,soep-is-2018-arb,Q022,,[de] Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?,Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?,,"[de] Netto-Betrag, also nach Abzug von Schulden. Wir meinen hierbei sowohl Geld- als auch Sachvermögen einschließlich des selbstgenutzten und vermieteten Wohneigentums.","Netto-Betrag, also nach Abzug von Schulden. Wir meinen hierbei sowohl Geld- als auch Sachvermögen einschließlich des selbstgenutzten und vermieteten Wohneigentums.",,
+soep-is,soep-is-2018-arb,Q022,C2,[de] Euro (ca.),Euro (ca.),,,,,C2
 soep-is,soep-is-2018-arb,Q022,C2ka,,,5,,,,C2ka
-soep-is,soep-is-2018-arb,Q023,,,"Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",,,"0% bedeutet, keine Person in Deutschland ist reich aufgrund eines hohen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind reich aufgrund eines hohen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",,
-soep-is,soep-is-2018-arb,Q023,C3,,Prozent der Menschen in Deutschland,,,,,C3
+soep-is,soep-is-2018-arb,Q023,,"[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?","Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",,"[de] 0% bedeutet, keine Person in Deutschland ist reich aufgrund eines hohen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind reich aufgrund eines hohen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.","0% bedeutet, keine Person in Deutschland ist reich aufgrund eines hohen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind reich aufgrund eines hohen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",,
+soep-is,soep-is-2018-arb,Q023,C3,[de] Prozent der Menschen in Deutschland,Prozent der Menschen in Deutschland,,,,,C3
 soep-is,soep-is-2018-arb,Q023,C3ka,,,5,,,,C3ka
-soep-is,soep-is-2018-arb,Q024,C4,,"Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",6,,,,C4
-soep-is,soep-is-2018-arb,Q025,C5,,Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,7,,,,C5
-soep-is,soep-is-2018-arb,Q026,,,"Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",,,,,
-soep-is,soep-is-2018-arb,Q026,C6_1,,Begabungen,9,,,,C6_1
-soep-is,soep-is-2018-arb,Q026,C6_2,,Gründergeist,9,,,,C6_2
-soep-is,soep-is-2018-arb,Q026,C6_3,,Glück,9,,,,C6_3
-soep-is,soep-is-2018-arb,Q026,C6_4,,"Bereitschaft, rücksichtslos zu handeln",9,,,,C6_4
-soep-is,soep-is-2018-arb,Q026,C6_5,,Hohe Risikobereitschaft,9,,,,C6_5
-soep-is,soep-is-2018-arb,Q026,C6_6,,Harte Arbeit,9,,,,C6_6
-soep-is,soep-is-2018-arb,Q026,C6_7,,Die richtigen Leute kennen,9,,,,C6_7
-soep-is,soep-is-2018-arb,Q026,C6_8,,Gute familiäre Ausgangsbedingungen,9,,,,C6_8
-soep-is,soep-is-2018-arb,Q026,C6_9,,"Das Wirtschaftssystem, das Kapitaleigner und Top-Manager begünstigt",9,,,,C6_9
-soep-is,soep-is-2018-arb,Q026,C6_10,,Gutes Gespür für Geld,9,,,,C6_10
-soep-is,soep-is-2018-arb,Q026,C6_11,,Ausgezeichnete Ausbildung,9,,,,C6_11
-soep-is,soep-is-2018-arb,Q026,C6_12,,Partnerwahl,9,,,,C6_12
-soep-is,soep-is-2018-arb,Q027,,,Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?,,,,,
-soep-is,soep-is-2018-arb,Q027,C7_1,,"In Deutschland hat jeder die Möglichkeit, reich zu werden.",8,,,,C7_1
-soep-is,soep-is-2018-arb,Q027,C7_2,,"In Deutschland können nur diejenigen reich werden, die selbst schon reiche Eltern haben.",8,,,,C7_2
-soep-is,soep-is-2018-arb,Q027,C7_3,,Die Steuern für Reiche sind viel zu niedrig.,8,,,,C7_3
-soep-is,soep-is-2018-arb,Q027,C7_4,,"Es ist gerecht, dass Eltern ihr Vermögen an ihre Kinder weitergeben.",8,,,,C7_4
-soep-is,soep-is-2018-arb,B004,,,D. Gesellschaftlich notwendige Dienstleistungen,,,,,
-soep-is,soep-is-2018-arb,Q028,,,"Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",,,,,
-soep-is,soep-is-2018-arb,Q029,,,Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?,,,,,
-soep-is,soep-is-2018-arb,Q029,D1_1,,Haltestelle für öffentliche Verkehrsmittel: Dauer in Minuten,,,,,D1_1
-soep-is,soep-is-2018-arb,Q029,D1_2,,Haltestelle für öffentliche Verkehrsmittel: nicht benötigt/vorhanden,11,,,,D1_2
-soep-is,soep-is-2018-arb,Q029,D2_1,,Einkaufsmöglichkeit für den täglichen Bedarf: Dauer in Minuten,,,,,D2_1
-soep-is,soep-is-2018-arb,Q029,D2_2,,Einkaufsmöglichkeit für den täglichen Bedarf: nicht benötigt/vorhanden,11,,,,D2_2
-soep-is,soep-is-2018-arb,Q029,D3_1,,"Ärzte, Therapieeinrichtungen: Dauer in Minuten",,,,,D3_1
-soep-is,soep-is-2018-arb,Q029,D3_2,,"Ärzte, Therapieeinrichtungen: nicht benötigt/vorhanden",11,,,,D3_2
-soep-is,soep-is-2018-arb,Q029,D4_1,,"Kindertagesstätte, Kindergarten: Dauer in Minuten",,,,,D4_1
-soep-is,soep-is-2018-arb,Q029,D4_2,,"Kindertagesstätte, Kindergarten: nicht benötigt/vorhanden",11,,,,D4_2
-soep-is,soep-is-2018-arb,Q029,D5_1,,Kinderspielplatz: Dauer in Minuten,,,,,D5_1
-soep-is,soep-is-2018-arb,Q029,D5_2,,Kinderspielplatz: nicht benötigt/vorhanden,11,,,,D5_2
-soep-is,soep-is-2018-arb,Q029,D6_1,,Grundschule: Dauer in Minuten,,,,,D6_1
-soep-is,soep-is-2018-arb,Q029,D6_2,,Grundschule: nicht benötigt/vorhanden,11,,,,D6_2
-soep-is,soep-is-2018-arb,Q029,D7_1,,Weiterführende Schule: Dauer in Minuten,,,,,D7_1
-soep-is,soep-is-2018-arb,Q029,D7_2,,Weiterführende Schule: nicht benötigt/vorhanden,11,,,,D7_2
-soep-is,soep-is-2018-arb,Q029,D8_1,,"Jugendtreff, Jugendclub o.ä.: Dauer in Minuten",,,,,D8_1
-soep-is,soep-is-2018-arb,Q029,D8_2,,"Jugendtreff, Jugendclub o.ä.: nicht benötigt/vorhanden",11,,,,D8_2
-soep-is,soep-is-2018-arb,Q029,D9_1,,Eltern-Kind-Treff: Dauer in Minuten,,,,,D9_1
-soep-is,soep-is-2018-arb,Q029,D9_2,,Eltern-Kind-Treff: nicht benötigt/vorhanden,11,,,,D9_2
-soep-is,soep-is-2018-arb,Q029,D10_1,,Einrichtung/Tagesstätte für ältere Menschen: Dauer in Minuten,,,,,D10_1
-soep-is,soep-is-2018-arb,Q029,D10_2,,Einrichtung/Tagesstätte für ältere Menschen: nicht benötigt/vorhanden,11,,,,D10_2
-soep-is,soep-is-2018-arb,Q029,D11_1,,Gaststätte/Kneipe: Dauer in Minuten,,,,,D11_1
-soep-is,soep-is-2018-arb,Q029,D11_2,,Gaststätte/Kneipe: nicht benötigt/vorhanden,11,,,,D11_2
-soep-is,soep-is-2018-arb,Q029,D12_1,,"Park- oder Grünanlagen, Wald, Feld oder Wiese: Dauer in Minuten",,,,,D12_1
-soep-is,soep-is-2018-arb,Q029,D12_2,,"Park- oder Grünanlagen, Wald, Feld oder Wiese: nicht benötigt/vorhanden",11,,,,D12_2
-soep-is,soep-is-2018-arb,Q029,D13_1,,"Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): Dauer in Minuten",,,,,D13_1
-soep-is,soep-is-2018-arb,Q029,D13_2,,"Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): nicht benötigt/vorhanden",11,,,,D13_2
-soep-is,soep-is-2018-arb,Q029,D14_1,,Schwimmbad und Sportanlagen: Dauer in Minuten,,,,,D14_1
-soep-is,soep-is-2018-arb,Q029,D14_2,,Schwimmbad und Sportanlagen: nicht benötigt/vorhanden,11,,,,D14_2
-soep-is,soep-is-2018-arb,Q029,D15_1,,"Bürgertreff, Stadtteilbüro: Dauer in Minuten",,,,,D15_1
-soep-is,soep-is-2018-arb,Q029,D15_2,,"Bürgertreff, Stadtteilbüro: nicht benötigt/vorhanden",11,,,,D15_2
-soep-is,soep-is-2018-arb,Q30,,,Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,,,Mehrfachantworten möglich!,,
-soep-is,soep-is-2018-arb,Q30,D16_1,,Bürgernahes Verwaltungs- und Dienstleistungszentrum,12,,,,D16_1
-soep-is,soep-is-2018-arb,Q30,D16_2,,Einkaufsmöglichkeiten für den alltäglichen Bedarf,12,,,,D16_2
-soep-is,soep-is-2018-arb,Q30,D16_3,,"Einkaufsmöglichkeiten für langlebige Konsumgüter (Kleidung, Technik, Hobby, Wohnungseinrichtung)",12,,,,D16_3
-soep-is,soep-is-2018-arb,Q30,D16_4,,Schneller Internetanschluss,12,,,,D16_4
-soep-is,soep-is-2018-arb,Q30,D16_5,,Touristisches bzw. allgemeines Freizeitangebot einschließlich Gastronomie,12,,,,D16_5
-soep-is,soep-is-2018-arb,Q30,D16_6,,"Kindergarten, Kindertagesstätte, Kinderhort, Spielplatz",12,,,,D16_6
-soep-is,soep-is-2018-arb,Q30,D16_7,,Schulen,12,,,,D16_7
-soep-is,soep-is-2018-arb,Q30,D16_8,,"Angebot an Ausbildungsplätzen, Lehrstellen",12,,,,D16_8
-soep-is,soep-is-2018-arb,Q30,D16_9,,Freizeitmöglichkeiten für Jugendliche einschließlich Sportangebote,12,,,,D16_9
-soep-is,soep-is-2018-arb,Q30,D16_10,,Altersübergreifende Treffpunkte,12,,,,D16_10
-soep-is,soep-is-2018-arb,Q30,D16_11,,Angebot an Arbeits- und Verdienstmöglichkeiten,12,,,,D16_11
-soep-is,soep-is-2018-arb,Q30,D16nd,,Nichts davon,12,,,,D16nd
-soep-is,soep-is-2018-arb,Q30,D16ka,,Keine Angabe,12,,,,D16ka
-soep-is,soep-is-2018-arb,Q052,,,Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,,,Mehrfachantworten möglich!,,
-soep-is,soep-is-2018-arb,Q052,D17_1,,"Versorgung mit Ärzten, Krankenhäusern und therapeutischen Einrichtungen",12,,,,D17_1
-soep-is,soep-is-2018-arb,Q052,D17_2,,Einsatzbereitschaft des Notarztes,12,,,,D17_2
-soep-is,soep-is-2018-arb,Q052,D17_3,,"Betreuungseinrichtungen, Pflegeangebote für ältere Menschen",12,,,,D17_3
-soep-is,soep-is-2018-arb,Q052,D17_4,,"Verkehrsanbindung (Autobahnanschluss, Straßennetz)",12,,,,D17_4
-soep-is,soep-is-2018-arb,Q052,D17_5,,"Öffentliche Verkehrsanbindung (Bahnhof, Busnetz)",12,,,,D17_5
-soep-is,soep-is-2018-arb,Q052,D17_6,,Sicherheit und Schutz vor Kriminalität,12,,,,D17_6
-soep-is,soep-is-2018-arb,Q052,D17_7,,Einsatzbereitschaft der Feuerwehr,12,,,,D17_7
-soep-is,soep-is-2018-arb,Q052,D17_8,,Versorgung mit Wohnungen,12,,,,D17_8
-soep-is,soep-is-2018-arb,Q052,D17nd,,Nichts davon,12,,,,D17nd
-soep-is,soep-is-2018-arb,Q052,D17ka,,Keine Angabe,12,,,,D17ka
-soep-is,soep-is-2018-arb,Q031,D18,,Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?,383+16,,,,D18
-soep-is,soep-is-2018-arb,Q032,,,"Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",,,,,
-soep-is,soep-is-2018-arb,Q032,D19_1,,Ich pflege Kontakte zu Nachbarn,13,,,,D19_1
-soep-is,soep-is-2018-arb,Q032,D19_2,,"Ich bin aktiv in einem Verein, einer Initiative, einer Partei oder der örtlichen Kirchengemeinde",13,,,,D19_2
-soep-is,soep-is-2018-arb,Q032,D19_3,,Ich gehe in Wohnungsnähe spazieren,13,,,,D19_3
-soep-is,soep-is-2018-arb,Q032,D19_4,,Ich sorge für ein gutes Erscheinungsbild meiner Wohnung/meines Hauses,13,,,,D19_4
-soep-is,soep-is-2018-arb,Q032,D19_5,,"Ich achte besonders darauf, ob die Haltestellen oder Parks in meiner Wohnumgebung sauber sind und trage dazu auch bei",13,,,,D19_5
-soep-is,soep-is-2018-arb,B005,,,E. Bewertungen der Einkommensverteilung,,,,,
-soep-is,soep-is-2018-arb,Q033,E1_1,,"Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",14,,,,E1_1
-soep-is,soep-is-2018-arb,Q050,E1_2,,"Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",14,,,,E1_2
-soep-is,soep-is-2018-arb,Q034,E2to7pos,,Dummy Reihenfolge Bewertung Einkommensverteilung,,,,,E2to7pos
-soep-is,soep-is-2018-arb,Q049,E7,,"Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E7
-soep-is,soep-is-2018-arb,Q035,E2,,"Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E2
-soep-is,soep-is-2018-arb,Q036,E3,,"Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E3
-soep-is,soep-is-2018-arb,Q037,E4,,"Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E4
-soep-is,soep-is-2018-arb,Q038,E5,,Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …,14,,,,E5
-soep-is,soep-is-2018-arb,Q039,E6,,Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …,14,,,,E6
-soep-is,soep-is-2018-arb,B006,,,"F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",,,,,
-soep-is,soep-is-2018-arb,Q041,,,"Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",,,,,
+soep-is,soep-is-2018-arb,Q024,C4,"[de] Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?","Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",6,,,,C4
+soep-is,soep-is-2018-arb,Q025,C5,[de] Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?,7,,,,C5
+soep-is,soep-is-2018-arb,Q026,,"[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?","Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",,,,,
+soep-is,soep-is-2018-arb,Q026,C6_1,[de] Begabungen,Begabungen,9,,,,C6_1
+soep-is,soep-is-2018-arb,Q026,C6_2,[de] Gründergeist,Gründergeist,9,,,,C6_2
+soep-is,soep-is-2018-arb,Q026,C6_3,[de] Glück,Glück,9,,,,C6_3
+soep-is,soep-is-2018-arb,Q026,C6_4,"[de] Bereitschaft, rücksichtslos zu handeln","Bereitschaft, rücksichtslos zu handeln",9,,,,C6_4
+soep-is,soep-is-2018-arb,Q026,C6_5,[de] Hohe Risikobereitschaft,Hohe Risikobereitschaft,9,,,,C6_5
+soep-is,soep-is-2018-arb,Q026,C6_6,[de] Harte Arbeit,Harte Arbeit,9,,,,C6_6
+soep-is,soep-is-2018-arb,Q026,C6_7,[de] Die richtigen Leute kennen,Die richtigen Leute kennen,9,,,,C6_7
+soep-is,soep-is-2018-arb,Q026,C6_8,[de] Gute familiäre Ausgangsbedingungen,Gute familiäre Ausgangsbedingungen,9,,,,C6_8
+soep-is,soep-is-2018-arb,Q026,C6_9,"[de] Das Wirtschaftssystem, das Kapitaleigner und Top-Manager begünstigt","Das Wirtschaftssystem, das Kapitaleigner und Top-Manager begünstigt",9,,,,C6_9
+soep-is,soep-is-2018-arb,Q026,C6_10,[de] Gutes Gespür für Geld,Gutes Gespür für Geld,9,,,,C6_10
+soep-is,soep-is-2018-arb,Q026,C6_11,[de] Ausgezeichnete Ausbildung,Ausgezeichnete Ausbildung,9,,,,C6_11
+soep-is,soep-is-2018-arb,Q026,C6_12,[de] Partnerwahl,Partnerwahl,9,,,,C6_12
+soep-is,soep-is-2018-arb,Q027,,[de] Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?,Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?,,,,,
+soep-is,soep-is-2018-arb,Q027,C7_1,"[de] In Deutschland hat jeder die Möglichkeit, reich zu werden.","In Deutschland hat jeder die Möglichkeit, reich zu werden.",8,,,,C7_1
+soep-is,soep-is-2018-arb,Q027,C7_2,"[de] In Deutschland können nur diejenigen reich werden, die selbst schon reiche Eltern haben.","In Deutschland können nur diejenigen reich werden, die selbst schon reiche Eltern haben.",8,,,,C7_2
+soep-is,soep-is-2018-arb,Q027,C7_3,[de] Die Steuern für Reiche sind viel zu niedrig.,Die Steuern für Reiche sind viel zu niedrig.,8,,,,C7_3
+soep-is,soep-is-2018-arb,Q027,C7_4,"[de] Es ist gerecht, dass Eltern ihr Vermögen an ihre Kinder weitergeben.","Es ist gerecht, dass Eltern ihr Vermögen an ihre Kinder weitergeben.",8,,,,C7_4
+soep-is,soep-is-2018-arb,B004,,[de] D. Gesellschaftlich notwendige Dienstleistungen,D. Gesellschaftlich notwendige Dienstleistungen,,,,,
+soep-is,soep-is-2018-arb,Q028,,"[de] Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.","Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",,,,,
+soep-is,soep-is-2018-arb,Q029,,[de] Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?,Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?,,,,,
+soep-is,soep-is-2018-arb,Q029,D1_1,[de] Haltestelle für öffentliche Verkehrsmittel: Dauer in Minuten,Haltestelle für öffentliche Verkehrsmittel: Dauer in Minuten,,,,,D1_1
+soep-is,soep-is-2018-arb,Q029,D1_2,[de] Haltestelle für öffentliche Verkehrsmittel: nicht benötigt/vorhanden,Haltestelle für öffentliche Verkehrsmittel: nicht benötigt/vorhanden,11,,,,D1_2
+soep-is,soep-is-2018-arb,Q029,D2_1,[de] Einkaufsmöglichkeit für den täglichen Bedarf: Dauer in Minuten,Einkaufsmöglichkeit für den täglichen Bedarf: Dauer in Minuten,,,,,D2_1
+soep-is,soep-is-2018-arb,Q029,D2_2,[de] Einkaufsmöglichkeit für den täglichen Bedarf: nicht benötigt/vorhanden,Einkaufsmöglichkeit für den täglichen Bedarf: nicht benötigt/vorhanden,11,,,,D2_2
+soep-is,soep-is-2018-arb,Q029,D3_1,"[de] Ärzte, Therapieeinrichtungen: Dauer in Minuten","Ärzte, Therapieeinrichtungen: Dauer in Minuten",,,,,D3_1
+soep-is,soep-is-2018-arb,Q029,D3_2,"[de] Ärzte, Therapieeinrichtungen: nicht benötigt/vorhanden","Ärzte, Therapieeinrichtungen: nicht benötigt/vorhanden",11,,,,D3_2
+soep-is,soep-is-2018-arb,Q029,D4_1,"[de] Kindertagesstätte, Kindergarten: Dauer in Minuten","Kindertagesstätte, Kindergarten: Dauer in Minuten",,,,,D4_1
+soep-is,soep-is-2018-arb,Q029,D4_2,"[de] Kindertagesstätte, Kindergarten: nicht benötigt/vorhanden","Kindertagesstätte, Kindergarten: nicht benötigt/vorhanden",11,,,,D4_2
+soep-is,soep-is-2018-arb,Q029,D5_1,[de] Kinderspielplatz: Dauer in Minuten,Kinderspielplatz: Dauer in Minuten,,,,,D5_1
+soep-is,soep-is-2018-arb,Q029,D5_2,[de] Kinderspielplatz: nicht benötigt/vorhanden,Kinderspielplatz: nicht benötigt/vorhanden,11,,,,D5_2
+soep-is,soep-is-2018-arb,Q029,D6_1,[de] Grundschule: Dauer in Minuten,Grundschule: Dauer in Minuten,,,,,D6_1
+soep-is,soep-is-2018-arb,Q029,D6_2,[de] Grundschule: nicht benötigt/vorhanden,Grundschule: nicht benötigt/vorhanden,11,,,,D6_2
+soep-is,soep-is-2018-arb,Q029,D7_1,[de] Weiterführende Schule: Dauer in Minuten,Weiterführende Schule: Dauer in Minuten,,,,,D7_1
+soep-is,soep-is-2018-arb,Q029,D7_2,[de] Weiterführende Schule: nicht benötigt/vorhanden,Weiterführende Schule: nicht benötigt/vorhanden,11,,,,D7_2
+soep-is,soep-is-2018-arb,Q029,D8_1,"[de] Jugendtreff, Jugendclub o.ä.: Dauer in Minuten","Jugendtreff, Jugendclub o.ä.: Dauer in Minuten",,,,,D8_1
+soep-is,soep-is-2018-arb,Q029,D8_2,"[de] Jugendtreff, Jugendclub o.ä.: nicht benötigt/vorhanden","Jugendtreff, Jugendclub o.ä.: nicht benötigt/vorhanden",11,,,,D8_2
+soep-is,soep-is-2018-arb,Q029,D9_1,[de] Eltern-Kind-Treff: Dauer in Minuten,Eltern-Kind-Treff: Dauer in Minuten,,,,,D9_1
+soep-is,soep-is-2018-arb,Q029,D9_2,[de] Eltern-Kind-Treff: nicht benötigt/vorhanden,Eltern-Kind-Treff: nicht benötigt/vorhanden,11,,,,D9_2
+soep-is,soep-is-2018-arb,Q029,D10_1,[de] Einrichtung/Tagesstätte für ältere Menschen: Dauer in Minuten,Einrichtung/Tagesstätte für ältere Menschen: Dauer in Minuten,,,,,D10_1
+soep-is,soep-is-2018-arb,Q029,D10_2,[de] Einrichtung/Tagesstätte für ältere Menschen: nicht benötigt/vorhanden,Einrichtung/Tagesstätte für ältere Menschen: nicht benötigt/vorhanden,11,,,,D10_2
+soep-is,soep-is-2018-arb,Q029,D11_1,[de] Gaststätte/Kneipe: Dauer in Minuten,Gaststätte/Kneipe: Dauer in Minuten,,,,,D11_1
+soep-is,soep-is-2018-arb,Q029,D11_2,[de] Gaststätte/Kneipe: nicht benötigt/vorhanden,Gaststätte/Kneipe: nicht benötigt/vorhanden,11,,,,D11_2
+soep-is,soep-is-2018-arb,Q029,D12_1,"[de] Park- oder Grünanlagen, Wald, Feld oder Wiese: Dauer in Minuten","Park- oder Grünanlagen, Wald, Feld oder Wiese: Dauer in Minuten",,,,,D12_1
+soep-is,soep-is-2018-arb,Q029,D12_2,"[de] Park- oder Grünanlagen, Wald, Feld oder Wiese: nicht benötigt/vorhanden","Park- oder Grünanlagen, Wald, Feld oder Wiese: nicht benötigt/vorhanden",11,,,,D12_2
+soep-is,soep-is-2018-arb,Q029,D13_1,"[de] Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): Dauer in Minuten","Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): Dauer in Minuten",,,,,D13_1
+soep-is,soep-is-2018-arb,Q029,D13_2,"[de] Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): nicht benötigt/vorhanden","Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): nicht benötigt/vorhanden",11,,,,D13_2
+soep-is,soep-is-2018-arb,Q029,D14_1,[de] Schwimmbad und Sportanlagen: Dauer in Minuten,Schwimmbad und Sportanlagen: Dauer in Minuten,,,,,D14_1
+soep-is,soep-is-2018-arb,Q029,D14_2,[de] Schwimmbad und Sportanlagen: nicht benötigt/vorhanden,Schwimmbad und Sportanlagen: nicht benötigt/vorhanden,11,,,,D14_2
+soep-is,soep-is-2018-arb,Q029,D15_1,"[de] Bürgertreff, Stadtteilbüro: Dauer in Minuten","Bürgertreff, Stadtteilbüro: Dauer in Minuten",,,,,D15_1
+soep-is,soep-is-2018-arb,Q029,D15_2,"[de] Bürgertreff, Stadtteilbüro: nicht benötigt/vorhanden","Bürgertreff, Stadtteilbüro: nicht benötigt/vorhanden",11,,,,D15_2
+soep-is,soep-is-2018-arb,Q30,,[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,,[de] Mehrfachantworten möglich!,Mehrfachantworten möglich!,,
+soep-is,soep-is-2018-arb,Q30,D16_1,[de] Bürgernahes Verwaltungs- und Dienstleistungszentrum,Bürgernahes Verwaltungs- und Dienstleistungszentrum,12,,,,D16_1
+soep-is,soep-is-2018-arb,Q30,D16_2,[de] Einkaufsmöglichkeiten für den alltäglichen Bedarf,Einkaufsmöglichkeiten für den alltäglichen Bedarf,12,,,,D16_2
+soep-is,soep-is-2018-arb,Q30,D16_3,"[de] Einkaufsmöglichkeiten für langlebige Konsumgüter (Kleidung, Technik, Hobby, Wohnungseinrichtung)","Einkaufsmöglichkeiten für langlebige Konsumgüter (Kleidung, Technik, Hobby, Wohnungseinrichtung)",12,,,,D16_3
+soep-is,soep-is-2018-arb,Q30,D16_4,[de] Schneller Internetanschluss,Schneller Internetanschluss,12,,,,D16_4
+soep-is,soep-is-2018-arb,Q30,D16_5,[de] Touristisches bzw. allgemeines Freizeitangebot einschließlich Gastronomie,Touristisches bzw. allgemeines Freizeitangebot einschließlich Gastronomie,12,,,,D16_5
+soep-is,soep-is-2018-arb,Q30,D16_6,"[de] Kindergarten, Kindertagesstätte, Kinderhort, Spielplatz","Kindergarten, Kindertagesstätte, Kinderhort, Spielplatz",12,,,,D16_6
+soep-is,soep-is-2018-arb,Q30,D16_7,[de] Schulen,Schulen,12,,,,D16_7
+soep-is,soep-is-2018-arb,Q30,D16_8,"[de] Angebot an Ausbildungsplätzen, Lehrstellen","Angebot an Ausbildungsplätzen, Lehrstellen",12,,,,D16_8
+soep-is,soep-is-2018-arb,Q30,D16_9,[de] Freizeitmöglichkeiten für Jugendliche einschließlich Sportangebote,Freizeitmöglichkeiten für Jugendliche einschließlich Sportangebote,12,,,,D16_9
+soep-is,soep-is-2018-arb,Q30,D16_10,[de] Altersübergreifende Treffpunkte,Altersübergreifende Treffpunkte,12,,,,D16_10
+soep-is,soep-is-2018-arb,Q30,D16_11,[de] Angebot an Arbeits- und Verdienstmöglichkeiten,Angebot an Arbeits- und Verdienstmöglichkeiten,12,,,,D16_11
+soep-is,soep-is-2018-arb,Q30,D16nd,[de] Nichts davon,Nichts davon,12,,,,D16nd
+soep-is,soep-is-2018-arb,Q30,D16ka,[de] Keine Angabe,Keine Angabe,12,,,,D16ka
+soep-is,soep-is-2018-arb,Q052,,[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?,,[de] Mehrfachantworten möglich!,Mehrfachantworten möglich!,,
+soep-is,soep-is-2018-arb,Q052,D17_1,"[de] Versorgung mit Ärzten, Krankenhäusern und therapeutischen Einrichtungen","Versorgung mit Ärzten, Krankenhäusern und therapeutischen Einrichtungen",12,,,,D17_1
+soep-is,soep-is-2018-arb,Q052,D17_2,[de] Einsatzbereitschaft des Notarztes,Einsatzbereitschaft des Notarztes,12,,,,D17_2
+soep-is,soep-is-2018-arb,Q052,D17_3,"[de] Betreuungseinrichtungen, Pflegeangebote für ältere Menschen","Betreuungseinrichtungen, Pflegeangebote für ältere Menschen",12,,,,D17_3
+soep-is,soep-is-2018-arb,Q052,D17_4,"[de] Verkehrsanbindung (Autobahnanschluss, Straßennetz)","Verkehrsanbindung (Autobahnanschluss, Straßennetz)",12,,,,D17_4
+soep-is,soep-is-2018-arb,Q052,D17_5,"[de] Öffentliche Verkehrsanbindung (Bahnhof, Busnetz)","Öffentliche Verkehrsanbindung (Bahnhof, Busnetz)",12,,,,D17_5
+soep-is,soep-is-2018-arb,Q052,D17_6,[de] Sicherheit und Schutz vor Kriminalität,Sicherheit und Schutz vor Kriminalität,12,,,,D17_6
+soep-is,soep-is-2018-arb,Q052,D17_7,[de] Einsatzbereitschaft der Feuerwehr,Einsatzbereitschaft der Feuerwehr,12,,,,D17_7
+soep-is,soep-is-2018-arb,Q052,D17_8,[de] Versorgung mit Wohnungen,Versorgung mit Wohnungen,12,,,,D17_8
+soep-is,soep-is-2018-arb,Q052,D17nd,[de] Nichts davon,Nichts davon,12,,,,D17nd
+soep-is,soep-is-2018-arb,Q052,D17ka,[de] Keine Angabe,Keine Angabe,12,,,,D17ka
+soep-is,soep-is-2018-arb,Q031,D18,[de] Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?,Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?,383+16,,,,D18
+soep-is,soep-is-2018-arb,Q032,,"[de] Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?","Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",,,,,
+soep-is,soep-is-2018-arb,Q032,D19_1,[de] Ich pflege Kontakte zu Nachbarn,Ich pflege Kontakte zu Nachbarn,13,,,,D19_1
+soep-is,soep-is-2018-arb,Q032,D19_2,"[de] Ich bin aktiv in einem Verein, einer Initiative, einer Partei oder der örtlichen Kirchengemeinde","Ich bin aktiv in einem Verein, einer Initiative, einer Partei oder der örtlichen Kirchengemeinde",13,,,,D19_2
+soep-is,soep-is-2018-arb,Q032,D19_3,[de] Ich gehe in Wohnungsnähe spazieren,Ich gehe in Wohnungsnähe spazieren,13,,,,D19_3
+soep-is,soep-is-2018-arb,Q032,D19_4,[de] Ich sorge für ein gutes Erscheinungsbild meiner Wohnung/meines Hauses,Ich sorge für ein gutes Erscheinungsbild meiner Wohnung/meines Hauses,13,,,,D19_4
+soep-is,soep-is-2018-arb,Q032,D19_5,"[de] Ich achte besonders darauf, ob die Haltestellen oder Parks in meiner Wohnumgebung sauber sind und trage dazu auch bei","Ich achte besonders darauf, ob die Haltestellen oder Parks in meiner Wohnumgebung sauber sind und trage dazu auch bei",13,,,,D19_5
+soep-is,soep-is-2018-arb,B005,,[de] E. Bewertungen der Einkommensverteilung,E. Bewertungen der Einkommensverteilung,,,,,
+soep-is,soep-is-2018-arb,Q033,E1_1,"[de] Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?","Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",14,,,,E1_1
+soep-is,soep-is-2018-arb,Q050,E1_2,"[de] Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?","Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",14,,,,E1_2
+soep-is,soep-is-2018-arb,Q034,E2to7pos,[de] Dummy Reihenfolge Bewertung Einkommensverteilung,Dummy Reihenfolge Bewertung Einkommensverteilung,,,,,E2to7pos
+soep-is,soep-is-2018-arb,Q049,E7,"[de] Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?","Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E7
+soep-is,soep-is-2018-arb,Q035,E2,"[de] Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?","Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E2
+soep-is,soep-is-2018-arb,Q036,E3,"[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?","Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E3
+soep-is,soep-is-2018-arb,Q037,E4,"[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?","Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",14,,,,E4
+soep-is,soep-is-2018-arb,Q038,E5,[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …,Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …,14,,,,E5
+soep-is,soep-is-2018-arb,Q039,E6,[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …,Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …,14,,,,E6
+soep-is,soep-is-2018-arb,B006,,"[de] F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung","F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",,,,,
+soep-is,soep-is-2018-arb,Q041,,"[de] Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.","Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",,,,,
 soep-is,soep-is-2018-arb,Q041,F1,,,,,,,F1
 soep-is,soep-is-2018-arb,Q041,F1ka,,,5,,,,F1ka
-soep-is,soep-is-2018-arb,Q047,,,"Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.
+soep-is,soep-is-2018-arb,Q047,,"[de] Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.
+
+Es ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).","Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.
 
 Es ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).",,,,,
-soep-is,soep-is-2018-arb,Q047,F2,,Sind Sie mit dem Zusammenspielen Ihrer Angaben aus beiden Studien einverstanden?,15,,,,F2
-soep-is,soep-is-2018-arb,Q042,,,"Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. 
+soep-is,soep-is-2018-arb,Q047,F2,[de] Sind Sie mit dem Zusammenspielen Ihrer Angaben aus beiden Studien einverstanden?,Sind Sie mit dem Zusammenspielen Ihrer Angaben aus beiden Studien einverstanden?,15,,,,F2
+soep-is,soep-is-2018-arb,Q042,,"[de] Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. 
+
+Für ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.","Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. 
 
 Für ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.",,,,,
-soep-is,soep-is-2018-arb,Q042,F3,,"Hätten Sie Interesse, an einem zusätzlichen Interview über Armut und Reichtum teilzunehmen? In diesem Fall wird Kantar Sie gesondert schriftlich in Verbindung mit weiteren Informationen dazu kontaktieren. Ihre konkrete Einwilligung zur Teilnahme geben Sie erst dann schriftlich ab.",16,,,,F3
-soep-is,soep-is-2018-arb,Q048,F4,,"Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",17,,,,F4
-soep-is,soep-is-2018-arb,Q044,,,Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.,,,,,
+soep-is,soep-is-2018-arb,Q042,F3,"[de] Hätten Sie Interesse, an einem zusätzlichen Interview über Armut und Reichtum teilzunehmen? In diesem Fall wird Kantar Sie gesondert schriftlich in Verbindung mit weiteren Informationen dazu kontaktieren. Ihre konkrete Einwilligung zur Teilnahme geben Sie erst dann schriftlich ab.","Hätten Sie Interesse, an einem zusätzlichen Interview über Armut und Reichtum teilzunehmen? In diesem Fall wird Kantar Sie gesondert schriftlich in Verbindung mit weiteren Informationen dazu kontaktieren. Ihre konkrete Einwilligung zur Teilnahme geben Sie erst dann schriftlich ab.",16,,,,F3
+soep-is,soep-is-2018-arb,Q048,F4,"[de] Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.","Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",17,,,,F4
+soep-is,soep-is-2018-arb,Q044,,[de] Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.,Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.,,,,,
 soep-is,soep-is-2017-f,UE2,1,PT1 Reasons for participation,PT1 Teilnahmegründe,,,,,
 soep-is,soep-is-2017-f,Q2,1,"1 = Questions on CV intended 2 = Questions on CV NOT intended, CV: [1/2]",1 = Lebenslauffragen vorgesehen 2 = Lebenslauffragen NICHT vorgesehen leblauf: [1/2],,,,,
 soep-is,soep-is-2017-f,Q601,pt1,"There are different reasons for househoulds to participate in this survey.
