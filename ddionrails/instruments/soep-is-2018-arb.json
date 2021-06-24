@@ -9,10 +9,11 @@
     "Q001": {
       "question": "Q001",
       "name": "Q001",
-      "label": "",
+      "label": "[de] Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! \n\nVor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. \n\nUm die Befragung zu starten, klicken Sie bitte auf \"Weiter\". \n\nSollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.",
       "label_de": "Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! \n\nVor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. \n\nUm die Befragung zu starten, klicken Sie bitte auf \"Weiter\". \n\nSollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.",
       "items": [
         {
+          "text": "[de] Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! \n\nVor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. \n\nUm die Befragung zu starten, klicken Sie bitte auf \"Weiter\". \n\nSollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.",
           "text_de": "Herzlich willkommen zur Online-Zusatzbefragung „Wahrnehmung von Armut und Reichtum“! \n\nVor kurzem haben Sie an der SOEP Innovationserhebung 2018 teilgenommen. Dafür nochmals herzlichen Dank! Damals haben Sie uns Ihre E-Mail-Adresse gegeben und sich bereit erklärt, für diese ergänzende Online-Befragung zur Verfügung zu stehen. Diese Studie führt Kantar Public im Auftrag des Deutschen Instituts für Wirtschaftsforschung (DIW) und des Bundesministeriums für Arbeit und Soziales (BMAS) durch. Die Bearbeitung des Fragebogens dauert etwa 15 Minuten. Als Dankeschön für einen zu Ende bearbeiteten Fragebogen erhalten Sie 5 Euro. Sie haben auch die Möglichkeit, diesen Betrag an UNICEF zu spenden. Am Ende des Fragebogens können Sie entsprechend angeben, ob Sie den Geldbetrag selbst erhalten oder an UNICEF spenden möchten. \n\nUm die Befragung zu starten, klicken Sie bitte auf \"Weiter\". \n\nSollten Sie bei einer Frage eine Antwort fälschlicherweise angeklickt haben, können Sie Ihre Angabe jederzeit korrigieren. Indem Sie auf „Zurück“ klicken, kehren Sie zur vorherigen Frage zurück. Sie können die Befragung jederzeit unterbrechen, indem Sie das Browserfenster schließen. Wenn Sie die Befragung zu einem späteren Zeitpunkt erneut starten, beginnen Sie wieder an der Stelle, an der Sie den Fragebogen unterbrochen haben.",
           "sn": 0,
           "item": "root",
@@ -26,10 +27,11 @@
     "Q002": {
       "question": "Q002",
       "name": "Q002",
-      "label": "",
+      "label": "[de] Dummy Reihenfolge Blöcke A/D",
       "label_de": "Dummy Reihenfolge Blöcke A/D",
       "items": [
         {
+          "text": "[de] Dummy Reihenfolge Blöcke A/D",
           "text_de": "Dummy Reihenfolge Blöcke A/D",
           "sn": 0,
           "item": "root",
@@ -37,15 +39,18 @@
         },
         {
           "item": "BlockA",
+          "text": "[de] A zuerst, D an vierter Stelle",
           "text_de": "A zuerst, D an vierter Stelle",
           "concept": "BlockA",
           "answers": [
             {
               "value": 0,
+              "label": "[de] Trifft nicht zu",
               "label_de": "Trifft nicht zu"
             },
             {
               "value": 1,
+              "label": "[de] Trifft zu",
               "label_de": "Trifft zu"
             }
           ],
@@ -54,15 +59,18 @@
         },
         {
           "item": "BlockD",
+          "text": "[de] D zuerst, A an vierter Stelle",
           "text_de": "D zuerst, A an vierter Stelle",
           "concept": "BlockD",
           "answers": [
             {
               "value": 0,
+              "label": "[de] Trifft nicht zu",
               "label_de": "Trifft nicht zu"
             },
             {
               "value": 1,
+              "label": "[de] Trifft zu",
               "label_de": "Trifft zu"
             }
           ],
@@ -77,10 +85,11 @@
     "B001": {
       "question": "B001",
       "name": "B001",
-      "label": "",
+      "label": "[de] A. Bewertung der individuellen Lebenssituation",
       "label_de": "A. Bewertung der individuellen Lebenssituation",
       "items": [
         {
+          "text": "[de] A. Bewertung der individuellen Lebenssituation",
           "text_de": "A. Bewertung der individuellen Lebenssituation",
           "sn": 0,
           "item": "root",
@@ -94,10 +103,11 @@
     "Q003": {
       "question": "Q003",
       "name": "Q003",
-      "label": "",
+      "label": "[de] Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
       "label_de": "Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
       "items": [
         {
+          "text": "[de] Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
           "text_de": "Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
           "sn": 0,
           "item": "root",
@@ -105,31 +115,38 @@
         },
         {
           "item": "A1_1",
+          "text": "[de] ... Ihrer monatlichen Einkünfte",
           "text_de": "... Ihrer monatlichen Einkünfte",
           "concept": "A1_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -138,31 +155,38 @@
         },
         {
           "item": "A1_2",
+          "text": "[de] ... Ihres Vermögens",
           "text_de": "... Ihres Vermögens",
           "concept": "A1_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -171,31 +195,38 @@
         },
         {
           "item": "A1_3",
+          "text": "[de] ... der Regelmäßigkeit Ihres Einkommens",
           "text_de": "... der Regelmäßigkeit Ihres Einkommens",
           "concept": "A1_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -204,31 +235,38 @@
         },
         {
           "item": "A1_4",
+          "text": "[de] ... der Möglichkeit, Dinge zu tun, die Ihnen wichtig sind",
           "text_de": "... der Möglichkeit, Dinge zu tun, die Ihnen wichtig sind",
           "concept": "A1_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -237,31 +275,38 @@
         },
         {
           "item": "A1_5",
+          "text": "[de] ... der Möglichkeit, sich etwas leisten zu können",
           "text_de": "... der Möglichkeit, sich etwas leisten zu können",
           "concept": "A1_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -270,31 +315,38 @@
         },
         {
           "item": "A1_6",
+          "text": "[de] ... Ihres Gesundheitszustandes",
           "text_de": "... Ihres Gesundheitszustandes",
           "concept": "A1_6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -303,31 +355,38 @@
         },
         {
           "item": "A1_7",
+          "text": "[de] ... Ihrer Wohnsituation",
           "text_de": "... Ihrer Wohnsituation",
           "concept": "A1_7",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -336,31 +395,38 @@
         },
         {
           "item": "A1_8",
+          "text": "[de] ... Ihrer Beliebtheit bei Mitmenschen",
           "text_de": "... Ihrer Beliebtheit bei Mitmenschen",
           "concept": "A1_8",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Sehr viel schlechter",
               "label_de": "Sehr viel schlechter"
             },
             {
               "value": 2,
+              "label": "[de] Etwas schlechter",
               "label_de": "Etwas schlechter"
             },
             {
               "value": 3,
+              "label": "[de] Etwa gleich",
               "label_de": "Etwa gleich"
             },
             {
               "value": 4,
+              "label": "[de] Etwas besser",
               "label_de": "Etwas besser"
             },
             {
               "value": 5,
+              "label": "[de] Sehr viel besser",
               "label_de": "Sehr viel besser"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -375,10 +441,11 @@
     "Q004": {
       "question": "Q004",
       "name": "Q004",
-      "label": "",
+      "label": "[de] Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. \nWir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.",
       "label_de": "Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. \nWir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.",
       "items": [
         {
+          "text": "[de] Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. \nWir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.",
           "text_de": "Einige von Ihnen haben bereits im Rahmen der Innovationserhebung Fragen beantwortet, bei denen Sie sich auf einer Leiter platzieren sollen. \nWir möchten Sie nun bitten, sich auch im Rahmen dieser Online-Befragung bei den nächsten Fragen auf einer fiktiven Leiter zu platzieren.",
           "sn": 0,
           "item": "root",
@@ -392,10 +459,11 @@
     "Q051": {
       "question": "Q051",
       "name": "Q051",
-      "label": "",
+      "label": "[de] Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",
       "label_de": "Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",
       "items": [
         {
+          "text": "[de] Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",
           "text_de": "Stellen Sie sich vor, diese Leiter zeigt an, wo Menschen in Deutschland stehen. An der Spitze der Leiter sind Menschen, die am besten gestellt sind - die am meisten Geld besitzen, die höchste Bildung und die angesehensten Berufe haben. Am unteren Ende der Leiter sind Menschen, die am schlechtesten gestellt sind - die am wenigsten Geld besitzen, über die geringste Bildung verfügen und die am wenigsten angesehen sind oder keine Berufe haben.",
           "sn": 0,
           "item": "root",
@@ -409,10 +477,11 @@
     "Q005": {
       "question": "Q005",
       "name": "Q005",
-      "label": "",
+      "label": "[de] Wo würden Sie sich auf der Leiter platzieren?",
       "label_de": "Wo würden Sie sich auf der Leiter platzieren?",
       "items": [
         {
+          "text": "[de] Wo würden Sie sich auf der Leiter platzieren?",
           "text_de": "Wo würden Sie sich auf der Leiter platzieren?",
           "sn": 0,
           "item": "root",
@@ -420,51 +489,63 @@
         },
         {
           "item": "A2",
+          "text": "[de] Je höher Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am oberen Ende der Leiter. Je niedriger Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am unteren Ende. Bitte klicken Sie an, auf welcher Leitersprosse Sie zum gegenwärtigen Zeitpunkt im Vergleich zu anderen Menschen in Deutschland stehen.",
           "text_de": "Je höher Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am oberen Ende der Leiter. Je niedriger Sie auf der Leiter stehen, desto ähnlicher sind Sie den Menschen am unteren Ende. Bitte klicken Sie an, auf welcher Leitersprosse Sie zum gegenwärtigen Zeitpunkt im Vergleich zu anderen Menschen in Deutschland stehen.",
           "concept": "A2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10",
               "label_de": "10"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -479,56 +560,68 @@
     "Q006": {
       "question": "Q006",
       "name": "Q006",
-      "label": "",
+      "label": "[de] Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
       "label_de": "Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
       "items": [
         {
           "item": "A3",
+          "text": "[de] Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "text_de": "Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "concept": "A3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10",
               "label_de": "10"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -543,56 +636,68 @@
     "Q007": {
       "question": "Q007",
       "name": "Q007",
-      "label": "",
+      "label": "[de] Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
       "label_de": "Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
       "items": [
         {
           "item": "A4",
+          "text": "[de] Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "text_de": "Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "concept": "A4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10",
               "label_de": "10"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -607,56 +712,68 @@
     "Q008": {
       "question": "Q008",
       "name": "Q008",
-      "label": "",
+      "label": "[de] Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
       "label_de": "Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
       "items": [
         {
           "item": "A5",
+          "text": "[de] Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
           "text_de": "Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
           "concept": "A5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10",
               "label_de": "10"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -671,56 +788,68 @@
     "Q009": {
       "question": "Q009",
       "name": "Q009",
-      "label": "",
+      "label": "[de] Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
       "label_de": "Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
       "items": [
         {
           "item": "A6",
+          "text": "[de] Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
           "text_de": "Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
           "concept": "A6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10",
               "label_de": "10"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -735,10 +864,11 @@
     "B002": {
       "question": "B002",
       "name": "B002",
-      "label": "",
+      "label": "[de] B. Fragen zur Armut in Deutschland",
       "label_de": "B. Fragen zur Armut in Deutschland",
       "items": [
         {
+          "text": "[de] B. Fragen zur Armut in Deutschland",
           "text_de": "B. Fragen zur Armut in Deutschland",
           "sn": 0,
           "item": "root",
@@ -752,10 +882,11 @@
     "Q010": {
       "question": "Q010",
       "name": "Q010",
-      "label": "",
+      "label": "[de] Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",
       "label_de": "Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",
       "items": [
         {
+          "text": "[de] Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",
           "text_de": "Im Folgenden würden wir gerne von Ihnen erfahren, welche Vorstellung von Armut Sie haben und was es aus Ihrer Sicht bedeutet, in Deutschland arm zu sein.",
           "sn": 0,
           "item": "root",
@@ -769,11 +900,13 @@
     "Q011": {
       "question": "Q011",
       "name": "Q011",
-      "label": "",
+      "label": "[de] Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?",
       "label_de": "Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?",
       "items": [
         {
+          "text": "[de] Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?",
           "text_de": "Unterhalb von welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach arm?",
+          "instruction": "[de] Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, „Hartz IV“, Sozialhilfe, Arbeitslosengeld, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen zählen dazu.",
           "instruction_de": "Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, „Hartz IV“, Sozialhilfe, Arbeitslosengeld, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen zählen dazu.",
           "sn": 0,
           "item": "root",
@@ -781,6 +914,7 @@
         },
         {
           "item": "B1",
+          "text": "[de] Euro im Monat",
           "text_de": "Euro im Monat",
           "concept": "B1",
           "sn": 1,
@@ -792,6 +926,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -806,11 +941,13 @@
     "Q012": {
       "question": "Q012",
       "name": "Q012",
-      "label": "",
+      "label": "[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",
       "label_de": "Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",
       "items": [
         {
+          "text": "[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",
           "text_de": "Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines niedrigen persönlichen Nettoeinkommens als arm bezeichnen würden?",
+          "instruction": "[de] 0% bedeutet, keine Person in Deutschland ist arm aufgrund eines niedrigen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind arm aufgrund eines niedrigen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",
           "instruction_de": "0% bedeutet, keine Person in Deutschland ist arm aufgrund eines niedrigen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind arm aufgrund eines niedrigen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",
           "sn": 0,
           "item": "root",
@@ -818,6 +955,7 @@
         },
         {
           "item": "B2",
+          "text": "[de] Prozent der Menschen in Deutschland",
           "text_de": "Prozent der Menschen in Deutschland",
           "concept": "B2",
           "sn": 1,
@@ -829,6 +967,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -843,40 +982,48 @@
     "Q013": {
       "question": "Q013",
       "name": "Q013",
-      "label": "",
+      "label": "[de] Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
       "label_de": "Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
       "items": [
         {
           "item": "B3",
+          "text": "[de] Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
           "text_de": "Was würden Sie sagen, wie hat sich der Anteil armer Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
           "concept": "B3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Hat stark zugenommen",
               "label_de": "Hat stark zugenommen"
             },
             {
               "value": 2,
+              "label": "[de] Hat etwas zugenommen",
               "label_de": "Hat etwas zugenommen"
             },
             {
               "value": 3,
+              "label": "[de] Ist gleich geblieben",
               "label_de": "Ist gleich geblieben"
             },
             {
               "value": 4,
+              "label": "[de] Hat etwas abgenommen",
               "label_de": "Hat etwas abgenommen"
             },
             {
               "value": 5,
+              "label": "[de] Hat stark abgenommen",
               "label_de": "Hat stark abgenommen"
             },
             {
               "value": -11,
+              "label": "[de] Weiß nicht",
               "label_de": "Weiß nicht"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -891,40 +1038,48 @@
     "Q014": {
       "question": "Q014",
       "name": "Q014",
-      "label": "",
+      "label": "[de] Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
       "label_de": "Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
       "items": [
         {
           "item": "B4",
+          "text": "[de] Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
           "text_de": "Und wie wird sich voraussichtlich der Anteil armer Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
           "concept": "B4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Wird stark zunehmen",
               "label_de": "Wird stark zunehmen"
             },
             {
               "value": 2,
+              "label": "[de] Wird etwas zunehmen",
               "label_de": "Wird etwas zunehmen"
             },
             {
               "value": 3,
+              "label": "[de] Wird gleich bleiben",
               "label_de": "Wird gleich bleiben"
             },
             {
               "value": 4,
+              "label": "[de] Wird etwas abnehmen",
               "label_de": "Wird etwas abnehmen"
             },
             {
               "value": 5,
+              "label": "[de] Wird stark abnehmen",
               "label_de": "Wird stark abnehmen"
             },
             {
               "value": -11,
+              "label": "[de] Weiß nicht",
               "label_de": "Weiß nicht"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -939,11 +1094,13 @@
     "Q015": {
       "question": "Q015",
       "name": "Q015",
-      "label": "",
+      "label": "[de] Wann kann man jemanden als arm bezeichnen? \n\nMenschen sind arm, wenn sie…",
       "label_de": "Wann kann man jemanden als arm bezeichnen? \n\nMenschen sind arm, wenn sie…",
       "items": [
         {
+          "text": "[de] Wann kann man jemanden als arm bezeichnen? \n\nMenschen sind arm, wenn sie…",
           "text_de": "Wann kann man jemanden als arm bezeichnen? \n\nMenschen sind arm, wenn sie…",
+          "instruction": "[de] Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",
           "instruction_de": "Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",
           "sn": 0,
           "item": "root",
@@ -951,31 +1108,38 @@
         },
         {
           "item": "B5_1",
+          "text": "[de] … aus finanziellen Gründen auf gemeinsame Unternehmungen mit Freunden oder Familie verzichten müssen.",
           "text_de": "… aus finanziellen Gründen auf gemeinsame Unternehmungen mit Freunden oder Familie verzichten müssen.",
           "concept": "B5_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -984,31 +1148,38 @@
         },
         {
           "item": "B5_2",
+          "text": "[de] … unabhängig von ihren finanziellen Mitteln gesellschaftlich benachteiligt werden (z.B. aufgrund der Herkunft).",
           "text_de": "… unabhängig von ihren finanziellen Mitteln gesellschaftlich benachteiligt werden (z.B. aufgrund der Herkunft).",
           "concept": "B5_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1017,31 +1188,38 @@
         },
         {
           "item": "B5_3",
+          "text": "[de] … auf Grundsicherungsleistungen (z.B. Hartz IV) angewiesen sind.",
           "text_de": "… auf Grundsicherungsleistungen (z.B. Hartz IV) angewiesen sind.",
           "concept": "B5_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1050,31 +1228,38 @@
         },
         {
           "item": "B5_4",
+          "text": "[de] … auf Angebote von Wohlfahrtsorganisationen (z.B. Tafeln) angewiesen sind.",
           "text_de": "… auf Angebote von Wohlfahrtsorganisationen (z.B. Tafeln) angewiesen sind.",
           "concept": "B5_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1083,31 +1268,38 @@
         },
         {
           "item": "B5_5",
+          "text": "[de] … keine finanziellen Rücklagen haben.",
           "text_de": "… keine finanziellen Rücklagen haben.",
           "concept": "B5_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1116,31 +1308,38 @@
         },
         {
           "item": "B5_6",
+          "text": "[de] … kaum oder keine Kontakte mit Freunden oder Familie haben.",
           "text_de": "… kaum oder keine Kontakte mit Freunden oder Familie haben.",
           "concept": "B5_6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1149,31 +1348,38 @@
         },
         {
           "item": "B5_7",
+          "text": "[de] … sehr harte oder unangenehme Arbeiten verrichten müssen, um überhaupt über die Runden zu kommen.",
           "text_de": "… sehr harte oder unangenehme Arbeiten verrichten müssen, um überhaupt über die Runden zu kommen.",
           "concept": "B5_7",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1182,31 +1388,38 @@
         },
         {
           "item": "B5_8",
+          "text": "[de] … kein sicheres Einkommen haben.",
           "text_de": "… kein sicheres Einkommen haben.",
           "concept": "B5_8",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1215,31 +1428,38 @@
         },
         {
           "item": "B5_9",
+          "text": "[de] … arbeitslos sind.",
           "text_de": "… arbeitslos sind.",
           "concept": "B5_9",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1248,31 +1468,38 @@
         },
         {
           "item": "B5_10",
+          "text": "[de] … keine Perspektiven auf dem Arbeitsmarkt haben.",
           "text_de": "… keine Perspektiven auf dem Arbeitsmarkt haben.",
           "concept": "B5_10",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1287,24 +1514,28 @@
     "Q045": {
       "question": "Q045",
       "name": "Q045",
-      "label": "",
+      "label": "[de] Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",
       "label_de": "Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",
       "items": [
         {
           "item": "B6",
+          "text": "[de] Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",
           "text_de": "Gibt es außer den eben genannten Aspekten noch weitere Aspekte, wann man Menschen als arm bezeichnen kann?",
           "concept": "B6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Ja",
               "label_de": "Ja"
             },
             {
               "value": 2,
+              "label": "[de] Nein",
               "label_de": "Nein"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1319,11 +1550,12 @@
     "Q046": {
       "question": "Q046",
       "name": "Q046",
-      "label": "",
+      "label": "[de] Welche Aspekte sind das?",
       "label_de": "Welche Aspekte sind das?",
       "items": [
         {
           "item": "B7",
+          "text": "[de] Welche Aspekte sind das?",
           "text_de": "Welche Aspekte sind das?",
           "concept": "B7",
           "sn": 0,
@@ -1335,6 +1567,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1349,10 +1582,11 @@
     "Q016": {
       "question": "Q016",
       "name": "Q016",
-      "label": "",
+      "label": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
       "label_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
       "items": [
         {
+          "text": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
           "text_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
           "sn": 0,
           "item": "root",
@@ -1360,31 +1594,38 @@
         },
         {
           "item": "B8_1",
+          "text": "[de] Mangelnde Fähigkeiten",
           "text_de": "Mangelnde Fähigkeiten",
           "concept": "B8_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1393,31 +1634,38 @@
         },
         {
           "item": "B8_2",
+          "text": "[de] Unzureichende Ausbildung",
           "text_de": "Unzureichende Ausbildung",
           "concept": "B8_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1426,31 +1674,38 @@
         },
         {
           "item": "B8_3",
+          "text": "[de] Mangelnde Anstrengung",
           "text_de": "Mangelnde Anstrengung",
           "concept": "B8_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1459,31 +1714,38 @@
         },
         {
           "item": "B8_4",
+          "text": "[de] Schlechte Ausgangsbedingungen im Elternhaus",
           "text_de": "Schlechte Ausgangsbedingungen im Elternhaus",
           "concept": "B8_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1492,31 +1754,38 @@
         },
         {
           "item": "B8_5",
+          "text": "[de] Wirtschaftssystem, das auf Profit ausgerichtet ist",
           "text_de": "Wirtschaftssystem, das auf Profit ausgerichtet ist",
           "concept": "B8_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1525,31 +1794,38 @@
         },
         {
           "item": "B8_6",
+          "text": "[de] Technischer Fortschritt, der die eigene Ausbildung überflüssig macht",
           "text_de": "Technischer Fortschritt, der die eigene Ausbildung überflüssig macht",
           "concept": "B8_6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1558,31 +1834,38 @@
         },
         {
           "item": "B8_7",
+          "text": "[de] Gesundheitliche Einschränkungen",
           "text_de": "Gesundheitliche Einschränkungen",
           "concept": "B8_7",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1591,31 +1874,38 @@
         },
         {
           "item": "B8_8",
+          "text": "[de] Familiäre Lebensumstände (z.B. alleinerziehend, zu pflegende Person in der Familie)",
           "text_de": "Familiäre Lebensumstände (z.B. alleinerziehend, zu pflegende Person in der Familie)",
           "concept": "B8_8",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1624,31 +1914,38 @@
         },
         {
           "item": "B8_9",
+          "text": "[de] Falscher Umgang mit Geld",
           "text_de": "Falscher Umgang mit Geld",
           "concept": "B8_9",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1657,31 +1954,38 @@
         },
         {
           "item": "B8_10",
+          "text": "[de] Pech",
           "text_de": "Pech",
           "concept": "B8_10",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1696,10 +2000,11 @@
     "Q017": {
       "question": "Q017",
       "name": "Q017",
-      "label": "",
+      "label": "[de] Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
       "label_de": "Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
       "items": [
         {
+          "text": "[de] Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
           "text_de": "Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
           "sn": 0,
           "item": "root",
@@ -1707,31 +2012,38 @@
         },
         {
           "item": "B9_1",
+          "text": "[de] Für jeden besteht das Risiko, irgendwann im Leben arm zu sein.",
           "text_de": "Für jeden besteht das Risiko, irgendwann im Leben arm zu sein.",
           "concept": "B9_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1740,31 +2052,38 @@
         },
         {
           "item": "B9_2",
+          "text": "[de] Das Risiko, arm zu sein, beschränkt sich auf bestimmte Gruppen.",
           "text_de": "Das Risiko, arm zu sein, beschränkt sich auf bestimmte Gruppen.",
           "concept": "B9_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1773,31 +2092,38 @@
         },
         {
           "item": "B9_3",
+          "text": "[de] Manche Menschen haben aufgrund ihrer Lebensumstände keine Chance, ihre Armut zu überwinden.",
           "text_de": "Manche Menschen haben aufgrund ihrer Lebensumstände keine Chance, ihre Armut zu überwinden.",
           "concept": "B9_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1806,31 +2132,38 @@
         },
         {
           "item": "B9_4",
+          "text": "[de] Sozialleistungen werden an Arme zu leichtfertig vergeben, ohne dass eigene Anstrengungen verlangt werden.",
           "text_de": "Sozialleistungen werden an Arme zu leichtfertig vergeben, ohne dass eigene Anstrengungen verlangt werden.",
           "concept": "B9_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1845,10 +2178,11 @@
     "Q018": {
       "question": "Q018",
       "name": "Q018",
-      "label": "",
+      "label": "[de] Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",
       "label_de": "Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",
       "items": [
         {
+          "text": "[de] Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",
           "text_de": "Was meinen Sie, wie hoch ist das Risiko, in unterschiedlichen Lebensphasen in Deutschland arm zu sein?",
           "sn": 0,
           "item": "root",
@@ -1856,31 +2190,38 @@
         },
         {
           "item": "B10_1",
+          "text": "[de] Unter 18 Jahre",
           "text_de": "Unter 18 Jahre",
           "concept": "B10_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Kein Risiko",
               "label_de": "Kein Risiko"
             },
             {
               "value": 2,
+              "label": "[de] Eher geringes Risiko",
               "label_de": "Eher geringes Risiko"
             },
             {
               "value": 3,
+              "label": "[de] Mittleres Risiko",
               "label_de": "Mittleres Risiko"
             },
             {
               "value": 4,
+              "label": "[de] Eher hohes Risiko",
               "label_de": "Eher hohes Risiko"
             },
             {
               "value": 5,
+              "label": "[de] Sehr hohes Risiko",
               "label_de": "Sehr hohes Risiko"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1889,31 +2230,38 @@
         },
         {
           "item": "B10_2",
+          "text": "[de] 18 bis 24 Jahre",
           "text_de": "18 bis 24 Jahre",
           "concept": "B10_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Kein Risiko",
               "label_de": "Kein Risiko"
             },
             {
               "value": 2,
+              "label": "[de] Eher geringes Risiko",
               "label_de": "Eher geringes Risiko"
             },
             {
               "value": 3,
+              "label": "[de] Mittleres Risiko",
               "label_de": "Mittleres Risiko"
             },
             {
               "value": 4,
+              "label": "[de] Eher hohes Risiko",
               "label_de": "Eher hohes Risiko"
             },
             {
               "value": 5,
+              "label": "[de] Sehr hohes Risiko",
               "label_de": "Sehr hohes Risiko"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1922,31 +2270,38 @@
         },
         {
           "item": "B10_3",
+          "text": "[de] 25 bis 49 Jahre",
           "text_de": "25 bis 49 Jahre",
           "concept": "B10_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Kein Risiko",
               "label_de": "Kein Risiko"
             },
             {
               "value": 2,
+              "label": "[de] Eher geringes Risiko",
               "label_de": "Eher geringes Risiko"
             },
             {
               "value": 3,
+              "label": "[de] Mittleres Risiko",
               "label_de": "Mittleres Risiko"
             },
             {
               "value": 4,
+              "label": "[de] Eher hohes Risiko",
               "label_de": "Eher hohes Risiko"
             },
             {
               "value": 5,
+              "label": "[de] Sehr hohes Risiko",
               "label_de": "Sehr hohes Risiko"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1955,31 +2310,38 @@
         },
         {
           "item": "B10_4",
+          "text": "[de] 50 bis 64 Jahre",
           "text_de": "50 bis 64 Jahre",
           "concept": "B10_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Kein Risiko",
               "label_de": "Kein Risiko"
             },
             {
               "value": 2,
+              "label": "[de] Eher geringes Risiko",
               "label_de": "Eher geringes Risiko"
             },
             {
               "value": 3,
+              "label": "[de] Mittleres Risiko",
               "label_de": "Mittleres Risiko"
             },
             {
               "value": 4,
+              "label": "[de] Eher hohes Risiko",
               "label_de": "Eher hohes Risiko"
             },
             {
               "value": 5,
+              "label": "[de] Sehr hohes Risiko",
               "label_de": "Sehr hohes Risiko"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -1988,31 +2350,38 @@
         },
         {
           "item": "B10_5",
+          "text": "[de] 65 Jahre und älter",
           "text_de": "65 Jahre und älter",
           "concept": "B10_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Kein Risiko",
               "label_de": "Kein Risiko"
             },
             {
               "value": 2,
+              "label": "[de] Eher geringes Risiko",
               "label_de": "Eher geringes Risiko"
             },
             {
               "value": 3,
+              "label": "[de] Mittleres Risiko",
               "label_de": "Mittleres Risiko"
             },
             {
               "value": 4,
+              "label": "[de] Eher hohes Risiko",
               "label_de": "Eher hohes Risiko"
             },
             {
               "value": 5,
+              "label": "[de] Sehr hohes Risiko",
               "label_de": "Sehr hohes Risiko"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2027,11 +2396,13 @@
     "Q019": {
       "question": "Q019",
       "name": "Q019",
-      "label": "",
+      "label": "[de] Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",
       "label_de": "Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",
       "items": [
         {
+          "text": "[de] Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",
           "text_de": "Die Meinung vieler Teilnehmer aus diversen Befragungen ist, dass die Armut im Rentenalter am höchsten ist. Woran liegt das Ihrer Meinung nach?",
+          "instruction": "[de] Bitte geben Sie für jeden der im Folgenden aufgeführten möglichen Gründe an, inwiefern Sie diesem zustimmen.",
           "instruction_de": "Bitte geben Sie für jeden der im Folgenden aufgeführten möglichen Gründe an, inwiefern Sie diesem zustimmen.",
           "sn": 0,
           "item": "root",
@@ -2039,31 +2410,38 @@
         },
         {
           "item": "B11_1",
+          "text": "[de] Weil die öffentliche Berichterstattung über Altersarmut das so erscheinen lässt.",
           "text_de": "Weil die öffentliche Berichterstattung über Altersarmut das so erscheinen lässt.",
           "concept": "B11_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2072,31 +2450,38 @@
         },
         {
           "item": "B11_2",
+          "text": "[de] Weil dieses Lebensalter für viele Menschen noch weit weg ist und daher große Unsicherheit besteht.",
           "text_de": "Weil dieses Lebensalter für viele Menschen noch weit weg ist und daher große Unsicherheit besteht.",
           "concept": "B11_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2105,31 +2490,38 @@
         },
         {
           "item": "B11_3",
+          "text": "[de] Weil das Schicksal von Armut im Alter als „größer“ verstanden wird, da die Betroffenen vielfach ihr gesamtes Leben hart gearbeitet haben.",
           "text_de": "Weil das Schicksal von Armut im Alter als „größer“ verstanden wird, da die Betroffenen vielfach ihr gesamtes Leben hart gearbeitet haben.",
           "concept": "B11_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2138,31 +2530,38 @@
         },
         {
           "item": "B11_4",
+          "text": "[de] Weil für alte Menschen Armut mutmaßlich dauerhaft sein wird, da kaum mehr Veränderungsmöglichkeiten bestehen.",
           "text_de": "Weil für alte Menschen Armut mutmaßlich dauerhaft sein wird, da kaum mehr Veränderungsmöglichkeiten bestehen.",
           "concept": "B11_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2171,31 +2570,38 @@
         },
         {
           "item": "B11_5",
+          "text": "[de] Weil die amtlichen Statistiken nicht das wahre Bild wiedergeben.",
           "text_de": "Weil die amtlichen Statistiken nicht das wahre Bild wiedergeben.",
           "concept": "B11_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2210,10 +2616,11 @@
     "B003": {
       "question": "B003",
       "name": "B003",
-      "label": "",
+      "label": "[de] C. Fragen zum Reichtum in Deutschland",
       "label_de": "C. Fragen zum Reichtum in Deutschland",
       "items": [
         {
+          "text": "[de] C. Fragen zum Reichtum in Deutschland",
           "text_de": "C. Fragen zum Reichtum in Deutschland",
           "sn": 0,
           "item": "root",
@@ -2227,10 +2634,11 @@
     "Q020": {
       "question": "Q020",
       "name": "Q020",
-      "label": "",
+      "label": "[de] Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.",
       "label_de": "Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.",
       "items": [
         {
+          "text": "[de] Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.",
           "text_de": "Sie haben soeben einige Fragen zum Thema „Armut“ beantwortet. Nun möchten wir uns dem Reichtum widmen.",
           "sn": 0,
           "item": "root",
@@ -2244,11 +2652,13 @@
     "Q021": {
       "question": "Q021",
       "name": "Q021",
-      "label": "",
+      "label": "[de] Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?",
       "label_de": "Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?",
       "items": [
         {
+          "text": "[de] Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?",
           "text_de": "Ab welchem persönlichen Nettomonatseinkommen ist eine Person in Deutschland Ihrer Meinung nach reich?",
+          "instruction": "[de] Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Kindergeld, Unterhalt zählen dazu.",
           "instruction_de": "Netto-Betrag, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Kindergeld, Unterhalt zählen dazu.",
           "sn": 0,
           "item": "root",
@@ -2256,6 +2666,7 @@
         },
         {
           "item": "C1",
+          "text": "[de] Euro im Monat",
           "text_de": "Euro im Monat",
           "concept": "C1",
           "sn": 1,
@@ -2267,6 +2678,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2281,11 +2693,13 @@
     "Q022": {
       "question": "Q022",
       "name": "Q022",
-      "label": "",
+      "label": "[de] Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?",
       "label_de": "Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?",
       "items": [
         {
+          "text": "[de] Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?",
           "text_de": "Ab welchem persönlichen Nettovermögen ist eine Person in Deutschland Ihrer Meinung nach reich?",
+          "instruction": "[de] Netto-Betrag, also nach Abzug von Schulden. Wir meinen hierbei sowohl Geld- als auch Sachvermögen einschließlich des selbstgenutzten und vermieteten Wohneigentums.",
           "instruction_de": "Netto-Betrag, also nach Abzug von Schulden. Wir meinen hierbei sowohl Geld- als auch Sachvermögen einschließlich des selbstgenutzten und vermieteten Wohneigentums.",
           "sn": 0,
           "item": "root",
@@ -2293,6 +2707,7 @@
         },
         {
           "item": "C2",
+          "text": "[de] Euro (ca.)",
           "text_de": "Euro (ca.)",
           "concept": "C2",
           "sn": 1,
@@ -2304,6 +2719,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2318,11 +2734,13 @@
     "Q023": {
       "question": "Q023",
       "name": "Q023",
-      "label": "",
+      "label": "[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",
       "label_de": "Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",
       "items": [
         {
+          "text": "[de] Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",
           "text_de": "Wie hoch ist Ihrer Meinung nach der Anteil der Menschen in Deutschland, die Sie wegen eines hohen persönlichen Nettoeinkommens oder Nettovermögens als reich bezeichnen würden?",
+          "instruction": "[de] 0% bedeutet, keine Person in Deutschland ist reich aufgrund eines hohen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind reich aufgrund eines hohen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",
           "instruction_de": "0% bedeutet, keine Person in Deutschland ist reich aufgrund eines hohen persönlichen Nettoeinkommens. 100% bedeutet, alle Personen in Deutschland sind reich aufgrund eines hohen persönlichen Nettoeinkommens. Mit den Prozentangaben dazwischen können Sie Ihre Einschätzung abstufen.",
           "sn": 0,
           "item": "root",
@@ -2330,6 +2748,7 @@
         },
         {
           "item": "C3",
+          "text": "[de] Prozent der Menschen in Deutschland",
           "text_de": "Prozent der Menschen in Deutschland",
           "concept": "C3",
           "sn": 1,
@@ -2341,6 +2760,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2355,40 +2775,48 @@
     "Q024": {
       "question": "Q024",
       "name": "Q024",
-      "label": "",
+      "label": "[de] Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
       "label_de": "Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
       "items": [
         {
           "item": "C4",
+          "text": "[de] Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
           "text_de": "Was würden Sie sagen, wie hat sich der Anteil reicher Menschen in Deutschland in den vergangenen 5 Jahren entwickelt?",
           "concept": "C4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Hat stark zugenommen",
               "label_de": "Hat stark zugenommen"
             },
             {
               "value": 2,
+              "label": "[de] Hat etwas zugenommen",
               "label_de": "Hat etwas zugenommen"
             },
             {
               "value": 3,
+              "label": "[de] Ist gleich geblieben",
               "label_de": "Ist gleich geblieben"
             },
             {
               "value": 4,
+              "label": "[de] Hat etwas abgenommen",
               "label_de": "Hat etwas abgenommen"
             },
             {
               "value": 5,
+              "label": "[de] Hat stark abgenommen",
               "label_de": "Hat stark abgenommen"
             },
             {
               "value": -11,
+              "label": "[de] Weiß nicht",
               "label_de": "Weiß nicht"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2403,40 +2831,48 @@
     "Q025": {
       "question": "Q025",
       "name": "Q025",
-      "label": "",
+      "label": "[de] Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
       "label_de": "Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
       "items": [
         {
           "item": "C5",
+          "text": "[de] Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
           "text_de": "Und wie wird sich der Anteil reicher Menschen in Deutschland in den kommenden 5 Jahren entwickeln?",
           "concept": "C5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Wird stark zunehmen",
               "label_de": "Wird stark zunehmen"
             },
             {
               "value": 2,
+              "label": "[de] Wird etwas zunehmen",
               "label_de": "Wird etwas zunehmen"
             },
             {
               "value": 3,
+              "label": "[de] Wird gleich bleiben",
               "label_de": "Wird gleich bleiben"
             },
             {
               "value": 4,
+              "label": "[de] Wird etwas abnehmen",
               "label_de": "Wird etwas abnehmen"
             },
             {
               "value": 5,
+              "label": "[de] Wird stark abnehmen",
               "label_de": "Wird stark abnehmen"
             },
             {
               "value": -11,
+              "label": "[de] Weiß nicht",
               "label_de": "Weiß nicht"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2451,10 +2887,11 @@
     "Q026": {
       "question": "Q026",
       "name": "Q026",
-      "label": "",
+      "label": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
       "label_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
       "items": [
         {
+          "text": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
           "text_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
           "sn": 0,
           "item": "root",
@@ -2462,31 +2899,38 @@
         },
         {
           "item": "C6_1",
+          "text": "[de] Begabungen",
           "text_de": "Begabungen",
           "concept": "C6_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2495,31 +2939,38 @@
         },
         {
           "item": "C6_2",
+          "text": "[de] Gründergeist",
           "text_de": "Gründergeist",
           "concept": "C6_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2528,31 +2979,38 @@
         },
         {
           "item": "C6_3",
+          "text": "[de] Glück",
           "text_de": "Glück",
           "concept": "C6_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2561,31 +3019,38 @@
         },
         {
           "item": "C6_4",
+          "text": "[de] Bereitschaft, rücksichtslos zu handeln",
           "text_de": "Bereitschaft, rücksichtslos zu handeln",
           "concept": "C6_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2594,31 +3059,38 @@
         },
         {
           "item": "C6_5",
+          "text": "[de] Hohe Risikobereitschaft",
           "text_de": "Hohe Risikobereitschaft",
           "concept": "C6_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2627,31 +3099,38 @@
         },
         {
           "item": "C6_6",
+          "text": "[de] Harte Arbeit",
           "text_de": "Harte Arbeit",
           "concept": "C6_6",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2660,31 +3139,38 @@
         },
         {
           "item": "C6_7",
+          "text": "[de] Die richtigen Leute kennen",
           "text_de": "Die richtigen Leute kennen",
           "concept": "C6_7",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2693,31 +3179,38 @@
         },
         {
           "item": "C6_8",
+          "text": "[de] Gute familiäre Ausgangsbedingungen",
           "text_de": "Gute familiäre Ausgangsbedingungen",
           "concept": "C6_8",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2726,31 +3219,38 @@
         },
         {
           "item": "C6_9",
+          "text": "[de] Das Wirtschaftssystem, das Kapitaleigner und Top-Manager begünstigt",
           "text_de": "Das Wirtschaftssystem, das Kapitaleigner und Top-Manager begünstigt",
           "concept": "C6_9",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2759,31 +3259,38 @@
         },
         {
           "item": "C6_10",
+          "text": "[de] Gutes Gespür für Geld",
           "text_de": "Gutes Gespür für Geld",
           "concept": "C6_10",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2792,31 +3299,38 @@
         },
         {
           "item": "C6_11",
+          "text": "[de] Ausgezeichnete Ausbildung",
           "text_de": "Ausgezeichnete Ausbildung",
           "concept": "C6_11",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2825,31 +3339,38 @@
         },
         {
           "item": "C6_12",
+          "text": "[de] Partnerwahl",
           "text_de": "Partnerwahl",
           "concept": "C6_12",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": 2,
+              "label": "[de] Selten",
               "label_de": "Selten"
             },
             {
               "value": 3,
+              "label": "[de] Manchmal",
               "label_de": "Manchmal"
             },
             {
               "value": 4,
+              "label": "[de] Oft",
               "label_de": "Oft"
             },
             {
               "value": 5,
+              "label": "[de] Immer",
               "label_de": "Immer"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2864,10 +3385,11 @@
     "Q027": {
       "question": "Q027",
       "name": "Q027",
-      "label": "",
+      "label": "[de] Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?",
       "label_de": "Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?",
       "items": [
         {
+          "text": "[de] Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?",
           "text_de": "Inwieweit stimmen Sie folgenden Aussagen zum Reichtum zu?",
           "sn": 0,
           "item": "root",
@@ -2875,31 +3397,38 @@
         },
         {
           "item": "C7_1",
+          "text": "[de] In Deutschland hat jeder die Möglichkeit, reich zu werden.",
           "text_de": "In Deutschland hat jeder die Möglichkeit, reich zu werden.",
           "concept": "C7_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2908,31 +3437,38 @@
         },
         {
           "item": "C7_2",
+          "text": "[de] In Deutschland können nur diejenigen reich werden, die selbst schon reiche Eltern haben.",
           "text_de": "In Deutschland können nur diejenigen reich werden, die selbst schon reiche Eltern haben.",
           "concept": "C7_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2941,31 +3477,38 @@
         },
         {
           "item": "C7_3",
+          "text": "[de] Die Steuern für Reiche sind viel zu niedrig.",
           "text_de": "Die Steuern für Reiche sind viel zu niedrig.",
           "concept": "C7_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -2974,31 +3517,38 @@
         },
         {
           "item": "C7_4",
+          "text": "[de] Es ist gerecht, dass Eltern ihr Vermögen an ihre Kinder weitergeben.",
           "text_de": "Es ist gerecht, dass Eltern ihr Vermögen an ihre Kinder weitergeben.",
           "concept": "C7_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Stimme überhaupt nicht zu",
               "label_de": "Stimme überhaupt nicht zu"
             },
             {
               "value": 2,
+              "label": "[de] Stimme eher nicht zu",
               "label_de": "Stimme eher nicht zu"
             },
             {
               "value": 3,
+              "label": "[de] Teils/teils",
               "label_de": "Teils/teils"
             },
             {
               "value": 4,
+              "label": "[de] Stimme eher zu",
               "label_de": "Stimme eher zu"
             },
             {
               "value": 5,
+              "label": "[de] Stimme voll und ganz zu",
               "label_de": "Stimme voll und ganz zu"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3013,10 +3563,11 @@
     "B004": {
       "question": "B004",
       "name": "B004",
-      "label": "",
+      "label": "[de] D. Gesellschaftlich notwendige Dienstleistungen",
       "label_de": "D. Gesellschaftlich notwendige Dienstleistungen",
       "items": [
         {
+          "text": "[de] D. Gesellschaftlich notwendige Dienstleistungen",
           "text_de": "D. Gesellschaftlich notwendige Dienstleistungen",
           "sn": 0,
           "item": "root",
@@ -3030,10 +3581,11 @@
     "Q028": {
       "question": "Q028",
       "name": "Q028",
-      "label": "",
+      "label": "[de] Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",
       "label_de": "Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",
       "items": [
         {
+          "text": "[de] Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",
           "text_de": "Die Lebensqualität und der Lebensstandard hängen nicht nur vom eigenen Einkommen ab, sondern auch davon, welche Einrichtungen und Infrastruktur in der näheren und weiteren Wohnumgebung vorhanden sind.",
           "sn": 0,
           "item": "root",
@@ -3047,10 +3599,11 @@
     "Q029": {
       "question": "Q029",
       "name": "Q029",
-      "label": "",
+      "label": "[de] Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?",
       "label_de": "Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?",
       "items": [
         {
+          "text": "[de] Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?",
           "text_de": "Wie lange brauchen Sie oder das betreffende Haushaltsmitglied mit Ihrem / seinem bevorzugten Fortbewegungsmittel zu den folgenden Einrichtungen?",
           "sn": 0,
           "item": "root",
@@ -3058,6 +3611,7 @@
         },
         {
           "item": "D1_1",
+          "text": "[de] Haltestelle für öffentliche Verkehrsmittel: Dauer in Minuten",
           "text_de": "Haltestelle für öffentliche Verkehrsmittel: Dauer in Minuten",
           "concept": "D1_1",
           "sn": 1,
@@ -3065,19 +3619,23 @@
         },
         {
           "item": "D1_2",
+          "text": "[de] Haltestelle für öffentliche Verkehrsmittel: nicht benötigt/vorhanden",
           "text_de": "Haltestelle für öffentliche Verkehrsmittel: nicht benötigt/vorhanden",
           "concept": "D1_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3086,6 +3644,7 @@
         },
         {
           "item": "D2_1",
+          "text": "[de] Einkaufsmöglichkeit für den täglichen Bedarf: Dauer in Minuten",
           "text_de": "Einkaufsmöglichkeit für den täglichen Bedarf: Dauer in Minuten",
           "concept": "D2_1",
           "sn": 3,
@@ -3093,19 +3652,23 @@
         },
         {
           "item": "D2_2",
+          "text": "[de] Einkaufsmöglichkeit für den täglichen Bedarf: nicht benötigt/vorhanden",
           "text_de": "Einkaufsmöglichkeit für den täglichen Bedarf: nicht benötigt/vorhanden",
           "concept": "D2_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3114,6 +3677,7 @@
         },
         {
           "item": "D3_1",
+          "text": "[de] Ärzte, Therapieeinrichtungen: Dauer in Minuten",
           "text_de": "Ärzte, Therapieeinrichtungen: Dauer in Minuten",
           "concept": "D3_1",
           "sn": 5,
@@ -3121,19 +3685,23 @@
         },
         {
           "item": "D3_2",
+          "text": "[de] Ärzte, Therapieeinrichtungen: nicht benötigt/vorhanden",
           "text_de": "Ärzte, Therapieeinrichtungen: nicht benötigt/vorhanden",
           "concept": "D3_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3142,6 +3710,7 @@
         },
         {
           "item": "D4_1",
+          "text": "[de] Kindertagesstätte, Kindergarten: Dauer in Minuten",
           "text_de": "Kindertagesstätte, Kindergarten: Dauer in Minuten",
           "concept": "D4_1",
           "sn": 7,
@@ -3149,19 +3718,23 @@
         },
         {
           "item": "D4_2",
+          "text": "[de] Kindertagesstätte, Kindergarten: nicht benötigt/vorhanden",
           "text_de": "Kindertagesstätte, Kindergarten: nicht benötigt/vorhanden",
           "concept": "D4_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3170,6 +3743,7 @@
         },
         {
           "item": "D5_1",
+          "text": "[de] Kinderspielplatz: Dauer in Minuten",
           "text_de": "Kinderspielplatz: Dauer in Minuten",
           "concept": "D5_1",
           "sn": 9,
@@ -3177,19 +3751,23 @@
         },
         {
           "item": "D5_2",
+          "text": "[de] Kinderspielplatz: nicht benötigt/vorhanden",
           "text_de": "Kinderspielplatz: nicht benötigt/vorhanden",
           "concept": "D5_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3198,6 +3776,7 @@
         },
         {
           "item": "D6_1",
+          "text": "[de] Grundschule: Dauer in Minuten",
           "text_de": "Grundschule: Dauer in Minuten",
           "concept": "D6_1",
           "sn": 11,
@@ -3205,19 +3784,23 @@
         },
         {
           "item": "D6_2",
+          "text": "[de] Grundschule: nicht benötigt/vorhanden",
           "text_de": "Grundschule: nicht benötigt/vorhanden",
           "concept": "D6_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3226,6 +3809,7 @@
         },
         {
           "item": "D7_1",
+          "text": "[de] Weiterführende Schule: Dauer in Minuten",
           "text_de": "Weiterführende Schule: Dauer in Minuten",
           "concept": "D7_1",
           "sn": 13,
@@ -3233,19 +3817,23 @@
         },
         {
           "item": "D7_2",
+          "text": "[de] Weiterführende Schule: nicht benötigt/vorhanden",
           "text_de": "Weiterführende Schule: nicht benötigt/vorhanden",
           "concept": "D7_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3254,6 +3842,7 @@
         },
         {
           "item": "D8_1",
+          "text": "[de] Jugendtreff, Jugendclub o.ä.: Dauer in Minuten",
           "text_de": "Jugendtreff, Jugendclub o.ä.: Dauer in Minuten",
           "concept": "D8_1",
           "sn": 15,
@@ -3261,19 +3850,23 @@
         },
         {
           "item": "D8_2",
+          "text": "[de] Jugendtreff, Jugendclub o.ä.: nicht benötigt/vorhanden",
           "text_de": "Jugendtreff, Jugendclub o.ä.: nicht benötigt/vorhanden",
           "concept": "D8_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3282,6 +3875,7 @@
         },
         {
           "item": "D9_1",
+          "text": "[de] Eltern-Kind-Treff: Dauer in Minuten",
           "text_de": "Eltern-Kind-Treff: Dauer in Minuten",
           "concept": "D9_1",
           "sn": 17,
@@ -3289,19 +3883,23 @@
         },
         {
           "item": "D9_2",
+          "text": "[de] Eltern-Kind-Treff: nicht benötigt/vorhanden",
           "text_de": "Eltern-Kind-Treff: nicht benötigt/vorhanden",
           "concept": "D9_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3310,6 +3908,7 @@
         },
         {
           "item": "D10_1",
+          "text": "[de] Einrichtung/Tagesstätte für ältere Menschen: Dauer in Minuten",
           "text_de": "Einrichtung/Tagesstätte für ältere Menschen: Dauer in Minuten",
           "concept": "D10_1",
           "sn": 19,
@@ -3317,19 +3916,23 @@
         },
         {
           "item": "D10_2",
+          "text": "[de] Einrichtung/Tagesstätte für ältere Menschen: nicht benötigt/vorhanden",
           "text_de": "Einrichtung/Tagesstätte für ältere Menschen: nicht benötigt/vorhanden",
           "concept": "D10_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3338,6 +3941,7 @@
         },
         {
           "item": "D11_1",
+          "text": "[de] Gaststätte/Kneipe: Dauer in Minuten",
           "text_de": "Gaststätte/Kneipe: Dauer in Minuten",
           "concept": "D11_1",
           "sn": 21,
@@ -3345,19 +3949,23 @@
         },
         {
           "item": "D11_2",
+          "text": "[de] Gaststätte/Kneipe: nicht benötigt/vorhanden",
           "text_de": "Gaststätte/Kneipe: nicht benötigt/vorhanden",
           "concept": "D11_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3366,6 +3974,7 @@
         },
         {
           "item": "D12_1",
+          "text": "[de] Park- oder Grünanlagen, Wald, Feld oder Wiese: Dauer in Minuten",
           "text_de": "Park- oder Grünanlagen, Wald, Feld oder Wiese: Dauer in Minuten",
           "concept": "D12_1",
           "sn": 23,
@@ -3373,19 +3982,23 @@
         },
         {
           "item": "D12_2",
+          "text": "[de] Park- oder Grünanlagen, Wald, Feld oder Wiese: nicht benötigt/vorhanden",
           "text_de": "Park- oder Grünanlagen, Wald, Feld oder Wiese: nicht benötigt/vorhanden",
           "concept": "D12_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3394,6 +4007,7 @@
         },
         {
           "item": "D13_1",
+          "text": "[de] Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): Dauer in Minuten",
           "text_de": "Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): Dauer in Minuten",
           "concept": "D13_1",
           "sn": 25,
@@ -3401,19 +4015,23 @@
         },
         {
           "item": "D13_2",
+          "text": "[de] Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): nicht benötigt/vorhanden",
           "text_de": "Kulturelle Einrichtung/ Veranstaltungen (Kino, Theater, etc.): nicht benötigt/vorhanden",
           "concept": "D13_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3422,6 +4040,7 @@
         },
         {
           "item": "D14_1",
+          "text": "[de] Schwimmbad und Sportanlagen: Dauer in Minuten",
           "text_de": "Schwimmbad und Sportanlagen: Dauer in Minuten",
           "concept": "D14_1",
           "sn": 27,
@@ -3429,19 +4048,23 @@
         },
         {
           "item": "D14_2",
+          "text": "[de] Schwimmbad und Sportanlagen: nicht benötigt/vorhanden",
           "text_de": "Schwimmbad und Sportanlagen: nicht benötigt/vorhanden",
           "concept": "D14_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3450,6 +4073,7 @@
         },
         {
           "item": "D15_1",
+          "text": "[de] Bürgertreff, Stadtteilbüro: Dauer in Minuten",
           "text_de": "Bürgertreff, Stadtteilbüro: Dauer in Minuten",
           "concept": "D15_1",
           "sn": 29,
@@ -3457,19 +4081,23 @@
         },
         {
           "item": "D15_2",
+          "text": "[de] Bürgertreff, Stadtteilbüro: nicht benötigt/vorhanden",
           "text_de": "Bürgertreff, Stadtteilbüro: nicht benötigt/vorhanden",
           "concept": "D15_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Nicht benötigt",
               "label_de": "Nicht benötigt"
             },
             {
               "value": 2,
+              "label": "[de] Nicht vorhanden",
               "label_de": "Nicht vorhanden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3484,11 +4112,13 @@
     "Q30": {
       "question": "Q30",
       "name": "Q30",
-      "label": "",
+      "label": "[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
       "label_de": "Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
       "items": [
         {
+          "text": "[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
           "text_de": "Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
+          "instruction": "[de] Mehrfachantworten möglich!",
           "instruction_de": "Mehrfachantworten möglich!",
           "sn": 0,
           "item": "root",
@@ -3496,15 +4126,18 @@
         },
         {
           "item": "D16_1",
+          "text": "[de] Bürgernahes Verwaltungs- und Dienstleistungszentrum",
           "text_de": "Bürgernahes Verwaltungs- und Dienstleistungszentrum",
           "concept": "D16_1",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3513,15 +4146,18 @@
         },
         {
           "item": "D16_2",
+          "text": "[de] Einkaufsmöglichkeiten für den alltäglichen Bedarf",
           "text_de": "Einkaufsmöglichkeiten für den alltäglichen Bedarf",
           "concept": "D16_2",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3530,15 +4166,18 @@
         },
         {
           "item": "D16_3",
+          "text": "[de] Einkaufsmöglichkeiten für langlebige Konsumgüter (Kleidung, Technik, Hobby, Wohnungseinrichtung)",
           "text_de": "Einkaufsmöglichkeiten für langlebige Konsumgüter (Kleidung, Technik, Hobby, Wohnungseinrichtung)",
           "concept": "D16_3",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3547,15 +4186,18 @@
         },
         {
           "item": "D16_4",
+          "text": "[de] Schneller Internetanschluss",
           "text_de": "Schneller Internetanschluss",
           "concept": "D16_4",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3564,15 +4206,18 @@
         },
         {
           "item": "D16_5",
+          "text": "[de] Touristisches bzw. allgemeines Freizeitangebot einschließlich Gastronomie",
           "text_de": "Touristisches bzw. allgemeines Freizeitangebot einschließlich Gastronomie",
           "concept": "D16_5",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3581,15 +4226,18 @@
         },
         {
           "item": "D16_6",
+          "text": "[de] Kindergarten, Kindertagesstätte, Kinderhort, Spielplatz",
           "text_de": "Kindergarten, Kindertagesstätte, Kinderhort, Spielplatz",
           "concept": "D16_6",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3598,15 +4246,18 @@
         },
         {
           "item": "D16_7",
+          "text": "[de] Schulen",
           "text_de": "Schulen",
           "concept": "D16_7",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3615,15 +4266,18 @@
         },
         {
           "item": "D16_8",
+          "text": "[de] Angebot an Ausbildungsplätzen, Lehrstellen",
           "text_de": "Angebot an Ausbildungsplätzen, Lehrstellen",
           "concept": "D16_8",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3632,15 +4286,18 @@
         },
         {
           "item": "D16_9",
+          "text": "[de] Freizeitmöglichkeiten für Jugendliche einschließlich Sportangebote",
           "text_de": "Freizeitmöglichkeiten für Jugendliche einschließlich Sportangebote",
           "concept": "D16_9",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3649,15 +4306,18 @@
         },
         {
           "item": "D16_10",
+          "text": "[de] Altersübergreifende Treffpunkte",
           "text_de": "Altersübergreifende Treffpunkte",
           "concept": "D16_10",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3666,15 +4326,18 @@
         },
         {
           "item": "D16_11",
+          "text": "[de] Angebot an Arbeits- und Verdienstmöglichkeiten",
           "text_de": "Angebot an Arbeits- und Verdienstmöglichkeiten",
           "concept": "D16_11",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3683,15 +4346,18 @@
         },
         {
           "item": "D16nd",
+          "text": "[de] Nichts davon",
           "text_de": "Nichts davon",
           "concept": "D16nd",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3700,15 +4366,18 @@
         },
         {
           "item": "D16ka",
+          "text": "[de] Keine Angabe",
           "text_de": "Keine Angabe",
           "concept": "D16ka",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3723,11 +4392,13 @@
     "Q052": {
       "question": "Q052",
       "name": "Q052",
-      "label": "",
+      "label": "[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
       "label_de": "Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
       "items": [
         {
+          "text": "[de] Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
           "text_de": "Wenn Sie an das Versorgungsangebot in Ihrem Wohnumfeld denken: Worin sollte investiert werden?",
+          "instruction": "[de] Mehrfachantworten möglich!",
           "instruction_de": "Mehrfachantworten möglich!",
           "sn": 0,
           "item": "root",
@@ -3735,15 +4406,18 @@
         },
         {
           "item": "D17_1",
+          "text": "[de] Versorgung mit Ärzten, Krankenhäusern und therapeutischen Einrichtungen",
           "text_de": "Versorgung mit Ärzten, Krankenhäusern und therapeutischen Einrichtungen",
           "concept": "D17_1",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3752,15 +4426,18 @@
         },
         {
           "item": "D17_2",
+          "text": "[de] Einsatzbereitschaft des Notarztes",
           "text_de": "Einsatzbereitschaft des Notarztes",
           "concept": "D17_2",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3769,15 +4446,18 @@
         },
         {
           "item": "D17_3",
+          "text": "[de] Betreuungseinrichtungen, Pflegeangebote für ältere Menschen",
           "text_de": "Betreuungseinrichtungen, Pflegeangebote für ältere Menschen",
           "concept": "D17_3",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3786,15 +4466,18 @@
         },
         {
           "item": "D17_4",
+          "text": "[de] Verkehrsanbindung (Autobahnanschluss, Straßennetz)",
           "text_de": "Verkehrsanbindung (Autobahnanschluss, Straßennetz)",
           "concept": "D17_4",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3803,15 +4486,18 @@
         },
         {
           "item": "D17_5",
+          "text": "[de] Öffentliche Verkehrsanbindung (Bahnhof, Busnetz)",
           "text_de": "Öffentliche Verkehrsanbindung (Bahnhof, Busnetz)",
           "concept": "D17_5",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3820,15 +4506,18 @@
         },
         {
           "item": "D17_6",
+          "text": "[de] Sicherheit und Schutz vor Kriminalität",
           "text_de": "Sicherheit und Schutz vor Kriminalität",
           "concept": "D17_6",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3837,15 +4526,18 @@
         },
         {
           "item": "D17_7",
+          "text": "[de] Einsatzbereitschaft der Feuerwehr",
           "text_de": "Einsatzbereitschaft der Feuerwehr",
           "concept": "D17_7",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3854,15 +4546,18 @@
         },
         {
           "item": "D17_8",
+          "text": "[de] Versorgung mit Wohnungen",
           "text_de": "Versorgung mit Wohnungen",
           "concept": "D17_8",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3871,15 +4566,18 @@
         },
         {
           "item": "D17nd",
+          "text": "[de] Nichts davon",
           "text_de": "Nichts davon",
           "concept": "D17nd",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3888,15 +4586,18 @@
         },
         {
           "item": "D17ka",
+          "text": "[de] Keine Angabe",
           "text_de": "Keine Angabe",
           "concept": "D17ka",
           "answers": [
             {
               "value": 0,
+              "label": "[de] nicht genannt",
               "label_de": "nicht genannt"
             },
             {
               "value": 1,
+              "label": "[de] genannt",
               "label_de": "genannt"
             }
           ],
@@ -3911,60 +4612,73 @@
     "Q031": {
       "question": "Q031",
       "name": "Q031",
-      "label": "",
+      "label": "[de] Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?",
       "label_de": "Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?",
       "items": [
         {
           "item": "D18",
+          "text": "[de] Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?",
           "text_de": "Einmal ganz allgemein gefragt: Wie zufrieden sind Sie mit Ihrem Wohnumfeld?",
           "concept": "D18",
           "answers": [
             {
               "value": 0,
+              "label": "[de] 0 ganz und gar unzufrieden",
               "label_de": "0 ganz und gar unzufrieden"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] 5",
               "label_de": "5"
             },
             {
               "value": 6,
+              "label": "[de] 6",
               "label_de": "6"
             },
             {
               "value": 7,
+              "label": "[de] 7",
               "label_de": "7"
             },
             {
               "value": 8,
+              "label": "[de] 8",
               "label_de": "8"
             },
             {
               "value": 9,
+              "label": "[de] 9",
               "label_de": "9"
             },
             {
               "value": 10,
+              "label": "[de] 10 ganz und gar zufrieden",
               "label_de": "10 ganz und gar zufrieden"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -3979,10 +4693,11 @@
     "Q032": {
       "question": "Q032",
       "name": "Q032",
-      "label": "",
+      "label": "[de] Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",
       "label_de": "Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",
       "items": [
         {
+          "text": "[de] Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",
           "text_de": "Welche der folgenden Tätigkeiten üben Sie persönlich aus? Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: Jede Woche, jeden Monat, seltener oder nie?",
           "sn": 0,
           "item": "root",
@@ -3990,27 +4705,33 @@
         },
         {
           "item": "D19_1",
+          "text": "[de] Ich pflege Kontakte zu Nachbarn",
           "text_de": "Ich pflege Kontakte zu Nachbarn",
           "concept": "D19_1",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Jede Woche",
               "label_de": "Jede Woche"
             },
             {
               "value": 2,
+              "label": "[de] Jeden Monat",
               "label_de": "Jeden Monat"
             },
             {
               "value": 3,
+              "label": "[de] Seltener",
               "label_de": "Seltener"
             },
             {
               "value": 4,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4019,27 +4740,33 @@
         },
         {
           "item": "D19_2",
+          "text": "[de] Ich bin aktiv in einem Verein, einer Initiative, einer Partei oder der örtlichen Kirchengemeinde",
           "text_de": "Ich bin aktiv in einem Verein, einer Initiative, einer Partei oder der örtlichen Kirchengemeinde",
           "concept": "D19_2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Jede Woche",
               "label_de": "Jede Woche"
             },
             {
               "value": 2,
+              "label": "[de] Jeden Monat",
               "label_de": "Jeden Monat"
             },
             {
               "value": 3,
+              "label": "[de] Seltener",
               "label_de": "Seltener"
             },
             {
               "value": 4,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4048,27 +4775,33 @@
         },
         {
           "item": "D19_3",
+          "text": "[de] Ich gehe in Wohnungsnähe spazieren",
           "text_de": "Ich gehe in Wohnungsnähe spazieren",
           "concept": "D19_3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Jede Woche",
               "label_de": "Jede Woche"
             },
             {
               "value": 2,
+              "label": "[de] Jeden Monat",
               "label_de": "Jeden Monat"
             },
             {
               "value": 3,
+              "label": "[de] Seltener",
               "label_de": "Seltener"
             },
             {
               "value": 4,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4077,27 +4810,33 @@
         },
         {
           "item": "D19_4",
+          "text": "[de] Ich sorge für ein gutes Erscheinungsbild meiner Wohnung/meines Hauses",
           "text_de": "Ich sorge für ein gutes Erscheinungsbild meiner Wohnung/meines Hauses",
           "concept": "D19_4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Jede Woche",
               "label_de": "Jede Woche"
             },
             {
               "value": 2,
+              "label": "[de] Jeden Monat",
               "label_de": "Jeden Monat"
             },
             {
               "value": 3,
+              "label": "[de] Seltener",
               "label_de": "Seltener"
             },
             {
               "value": 4,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4106,27 +4845,33 @@
         },
         {
           "item": "D19_5",
+          "text": "[de] Ich achte besonders darauf, ob die Haltestellen oder Parks in meiner Wohnumgebung sauber sind und trage dazu auch bei",
           "text_de": "Ich achte besonders darauf, ob die Haltestellen oder Parks in meiner Wohnumgebung sauber sind und trage dazu auch bei",
           "concept": "D19_5",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Jede Woche",
               "label_de": "Jede Woche"
             },
             {
               "value": 2,
+              "label": "[de] Jeden Monat",
               "label_de": "Jeden Monat"
             },
             {
               "value": 3,
+              "label": "[de] Seltener",
               "label_de": "Seltener"
             },
             {
               "value": 4,
+              "label": "[de] Nie",
               "label_de": "Nie"
             },
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4141,10 +4886,11 @@
     "B005": {
       "question": "B005",
       "name": "B005",
-      "label": "",
+      "label": "[de] E. Bewertungen der Einkommensverteilung",
       "label_de": "E. Bewertungen der Einkommensverteilung",
       "items": [
         {
+          "text": "[de] E. Bewertungen der Einkommensverteilung",
           "text_de": "E. Bewertungen der Einkommensverteilung",
           "sn": 0,
           "item": "root",
@@ -4158,60 +4904,73 @@
     "Q033": {
       "question": "Q033",
       "name": "Q033",
-      "label": "",
+      "label": "[de] Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
       "label_de": "Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
       "items": [
         {
           "item": "E1_1",
+          "text": "[de] Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
           "text_de": "Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
           "concept": "E1_1",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4226,60 +4985,73 @@
     "Q050": {
       "question": "Q050",
       "name": "Q050",
-      "label": "",
+      "label": "[de] Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
       "label_de": "Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
       "items": [
         {
           "item": "E1_2",
+          "text": "[de] Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
           "text_de": "Wenn Sie an Ihren gegenwärtigen Nettoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",
           "concept": "E1_2",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4294,11 +5066,12 @@
     "Q034": {
       "question": "Q034",
       "name": "Q034",
-      "label": "",
+      "label": "[de] Dummy Reihenfolge Bewertung Einkommensverteilung",
       "label_de": "Dummy Reihenfolge Bewertung Einkommensverteilung",
       "items": [
         {
           "item": "E2to7pos",
+          "text": "[de] Dummy Reihenfolge Bewertung Einkommensverteilung",
           "text_de": "Dummy Reihenfolge Bewertung Einkommensverteilung",
           "concept": "E2to7pos",
           "sn": 0,
@@ -4312,60 +5085,73 @@
     "Q049": {
       "question": "Q049",
       "name": "Q049",
-      "label": "",
+      "label": "[de] Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "label_de": "Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "items": [
         {
           "item": "E7",
+          "text": "[de] Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "text_de": "Wenn Sie einmal daran denken, was andere hier in Deutschland vor Steuern und Abgaben verdienen: Wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit sehr hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Geschäftsführer, Bankdirektoren oder Unternehmensberater, und die durchschnittlich 11.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "concept": "E7",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4380,60 +5166,73 @@
     "Q035": {
       "question": "Q035",
       "name": "Q035",
-      "label": "",
+      "label": "[de] Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "label_de": "Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "items": [
         {
           "item": "E2",
+          "text": "[de] Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "text_de": "Und wie gerecht ist das Brutto-Einkommen derjenigen, die in Berufen mit hohen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Ärzte, Ingenieure oder Universitätsprofessoren, und die durchschnittlich 6.200 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "concept": "E2",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4448,60 +5247,73 @@
     "Q036": {
       "question": "Q036",
       "name": "Q036",
-      "label": "",
+      "label": "[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "label_de": "Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "items": [
         {
           "item": "E3",
+          "text": "[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "text_de": "Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit mittleren Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Krankenschwestern bzw. Krankenpfleger, Buchhalter oder Elektriker, und die durchschnittlich 2.700 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "concept": "E3",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4516,60 +5328,73 @@
     "Q037": {
       "question": "Q037",
       "name": "Q037",
-      "label": "",
+      "label": "[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "label_de": "Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
       "items": [
         {
           "item": "E4",
+          "text": "[de] Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "text_de": "Und wie gerecht ist aus Ihrer Sicht das Brutto-Einkommen derjenigen, die in Deutschland in Berufen mit niedrigen Einkommen vollzeitbeschäftigt sind, wie zum Beispiel Reinigungskräfte, Friseure oder Paketboten, und die durchschnittlich 1.350 Euro im Monat verdienen? Würden Sie sagen, dass diese Einkommen gerecht, ungerechterweise zu niedrig, oder ungerechterweise zu hoch sind?",
           "concept": "E4",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4584,60 +5409,73 @@
     "Q038": {
       "question": "Q038",
       "name": "Q038",
-      "label": "",
+      "label": "[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …",
       "label_de": "Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …",
       "items": [
         {
           "item": "E5",
+          "text": "[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …",
           "text_de": "Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu reichen Menschen …",
           "concept": "E5",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4652,60 +5490,73 @@
     "Q039": {
       "question": "Q039",
       "name": "Q039",
-      "label": "",
+      "label": "[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …",
       "label_de": "Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …",
       "items": [
         {
           "item": "E6",
+          "text": "[de] Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …",
           "text_de": "Meine eigene Belastung durch Steuern und Sozialabgaben finde ich im Vergleich zu armen Menschen …",
           "concept": "E6",
           "answers": [
             {
               "value": -5,
+              "label": "[de] -5 Ungerechterweise zu niedrig",
               "label_de": "-5 Ungerechterweise zu niedrig"
             },
             {
               "value": -4,
+              "label": "[de] -4",
               "label_de": "-4"
             },
             {
               "value": -3,
+              "label": "[de] -3",
               "label_de": "-3"
             },
             {
               "value": -2,
+              "label": "[de] -2",
               "label_de": "-2"
             },
             {
               "value": -1,
+              "label": "[de] -1",
               "label_de": "-1"
             },
             {
               "value": 0,
+              "label": "[de] 0 Gerecht",
               "label_de": "0 Gerecht"
             },
             {
               "value": 1,
+              "label": "[de] 1",
               "label_de": "1"
             },
             {
               "value": 2,
+              "label": "[de] 2",
               "label_de": "2"
             },
             {
               "value": 3,
+              "label": "[de] 3",
               "label_de": "3"
             },
             {
               "value": 4,
+              "label": "[de] 4",
               "label_de": "4"
             },
             {
               "value": 5,
+              "label": "[de] +5 Ungerechterweise zu hoch",
               "label_de": "+5 Ungerechterweise zu hoch"
             },
             {
               "value": 999,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4720,10 +5571,11 @@
     "B006": {
       "question": "B006",
       "name": "B006",
-      "label": "",
+      "label": "[de] F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",
       "label_de": "F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",
       "items": [
         {
+          "text": "[de] F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",
           "text_de": "F. Spende, Erfassung Teilnahmebereitschaft Nachbefragung und Verabschiedung",
           "sn": 0,
           "item": "root",
@@ -4737,10 +5589,11 @@
     "Q041": {
       "question": "Q041",
       "name": "Q041",
-      "label": "",
+      "label": "[de] Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",
       "label_de": "Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",
       "items": [
         {
+          "text": "[de] Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",
           "text_de": "Wir sind nun fast am Ende der Befragung angelangt. Wenn Sie Anmerkungen oder Kommentare zum Fragebogen haben, können Sie diese hier notieren. Falls nicht, klicken Sie bitte auf „Keine Angabe“.",
           "sn": 0,
           "item": "root",
@@ -4758,6 +5611,7 @@
           "answers": [
             {
               "value": -1,
+              "label": "[de] Keine Angabe",
               "label_de": "Keine Angabe"
             }
           ],
@@ -4772,10 +5626,11 @@
     "Q047": {
       "question": "Q047",
       "name": "Q047",
-      "label": "",
+      "label": "[de] Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.\n\nEs ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).",
       "label_de": "Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.\n\nEs ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).",
       "items": [
         {
+          "text": "[de] Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.\n\nEs ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).",
           "text_de": "Sie haben uns ja im Rahmen dieser Online-Befragung einige Informationen mitgeteilt. Diese Informationen würden wir gerne mit Ihren Angaben aus der Innovationserhebung verknüpfen. Dies würde für unsere Auswertungen einen großen Mehrwert liefern. Die Europäische Datenschutzgrundverordnung (DSGVO) stellt hohe Anforderungen an Transparenz und das Erfordernis der informierten Einwilligung der Betroffenen; wir möchten Sie daher um Ihr Einverständnis mit der beschriebenen Datenverknüpfung bitten.\n\nEs ist absolut sichergestellt, dass alle datenschutzrechtlichen Bestimmungen strengstens eingehalten werden. Ihr Einverständnis dazu ist selbstverständlich freiwillig. Sie können Ihre Einwilligung auch jederzeit widerrufen, bitte wenden Sie sich dazu an Elisabeth Baier (elisabeth.baier@kantarpublic.com).",
           "sn": 0,
           "item": "root",
@@ -4783,15 +5638,18 @@
         },
         {
           "item": "F2",
+          "text": "[de] Sind Sie mit dem Zusammenspielen Ihrer Angaben aus beiden Studien einverstanden?",
           "text_de": "Sind Sie mit dem Zusammenspielen Ihrer Angaben aus beiden Studien einverstanden?",
           "concept": "F2",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Ja, ich bin einverstanden",
               "label_de": "Ja, ich bin einverstanden"
             },
             {
               "value": 2,
+              "label": "[de] Nein, ich bin nicht einverstanden",
               "label_de": "Nein, ich bin nicht einverstanden"
             }
           ],
@@ -4806,10 +5664,11 @@
     "Q042": {
       "question": "Q042",
       "name": "Q042",
-      "label": "",
+      "label": "[de] Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. \n\nFür ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.",
       "label_de": "Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. \n\nFür ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.",
       "items": [
         {
+          "text": "[de] Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. \n\nFür ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.",
           "text_de": "Und zuletzt noch eine ganz andere Frage: Das Bundesministerium für Arbeit und Soziales, das diese Befragung in Auftrag gegeben hat, möchte noch zusätzliche persönliche Interviews über Meinungen zu Armut und Reichtum durchführen. Dabei soll ausführlicher darüber gesprochen werden, was es für Gründe für Armut gibt und was man selbst tun kann, um Armut zu vermeiden oder auch wohlhabend bzw. reich zu werden. Interessant ist für das Bundesministerium für Arbeit und Soziales auch, welche Rolle der Regierung bei alldem zukommt. \n\nFür ein Interview sind in etwa 1,5 Stunden vorgesehen. Jedes Gespräch wird von einem Wissenschaftler/einer Wissenschaftlerin persönlich durchgeführt. Als Aufwandsentschädigung für die Teilnahme sind 50 Euro vorgesehen. Selbstverständlich werden auch die persönlich geführten Gespräche streng nach der geltenden Datenschutzgesetzgebung behandelt und es wird Ihnen ein Informationsblatt zum Datenschutz ausgehändigt.",
           "sn": 0,
           "item": "root",
@@ -4817,15 +5676,18 @@
         },
         {
           "item": "F3",
+          "text": "[de] Hätten Sie Interesse, an einem zusätzlichen Interview über Armut und Reichtum teilzunehmen? In diesem Fall wird Kantar Sie gesondert schriftlich in Verbindung mit weiteren Informationen dazu kontaktieren. Ihre konkrete Einwilligung zur Teilnahme geben Sie erst dann schriftlich ab.",
           "text_de": "Hätten Sie Interesse, an einem zusätzlichen Interview über Armut und Reichtum teilzunehmen? In diesem Fall wird Kantar Sie gesondert schriftlich in Verbindung mit weiteren Informationen dazu kontaktieren. Ihre konkrete Einwilligung zur Teilnahme geben Sie erst dann schriftlich ab.",
           "concept": "F3",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Ja, ich bin an einer Teilnahme an den zusätzlichen Interviews interessiert und Kantar darf mir weitere Informationen dazu schicken.",
               "label_de": "Ja, ich bin an einer Teilnahme an den zusätzlichen Interviews interessiert und Kantar darf mir weitere Informationen dazu schicken."
             },
             {
               "value": 2,
+              "label": "[de] Nein, ich bin nicht interessiert.",
               "label_de": "Nein, ich bin nicht interessiert."
             }
           ],
@@ -4840,24 +5702,28 @@
     "Q048": {
       "question": "Q048",
       "name": "Q048",
-      "label": "",
+      "label": "[de] Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",
       "label_de": "Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",
       "items": [
         {
           "item": "F4",
+          "text": "[de] Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",
           "text_de": "Unabhängig, ob Sie sich bereit erklärt haben, an den persönlichen Befragungen teilzunehmen: Wir bedanken uns vielmals für Ihre Teilnahme an dieser Online-Umfrage! Als Dankeschön für Ihre Teilnahme würden wir Ihnen gerne, zusammen mit einem Dankesschreiben, 5 Euro in bar zusenden. Falls Sie diesen Betrag lieber an UNICEF spenden möchten, geben Sie dies bitte hier entsprechend an.",
           "concept": "F4",
           "answers": [
             {
               "value": 1,
+              "label": "[de] Bitte senden Sie mir 5 Euro zu.",
               "label_de": "Bitte senden Sie mir 5 Euro zu."
             },
             {
               "value": 2,
+              "label": "[de] Bitte spenden Sie 5 Euro an UNICEF.",
               "label_de": "Bitte spenden Sie 5 Euro an UNICEF."
             },
             {
               "value": 3,
+              "label": "[de] Ich möchte keine 5 Euro erhalten und auch nicht an UNICEF spenden.",
               "label_de": "Ich möchte keine 5 Euro erhalten und auch nicht an UNICEF spenden."
             }
           ],
@@ -4872,10 +5738,11 @@
     "Q044": {
       "question": "Q044",
       "name": "Q044",
-      "label": "",
+      "label": "[de] Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.",
       "label_de": "Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.",
       "items": [
         {
+          "text": "[de] Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.",
           "text_de": "Sie sind jetzt am Ende der Befragung angelangt und können das Fenster jetzt schließen.",
           "sn": 0,
           "item": "root",
