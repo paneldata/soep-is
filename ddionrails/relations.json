@@ -59,10 +59,33 @@
         ],
         "relations_from": [
             {
+                "file": "attachments.csv",
+                "fields": [
+                    "study",
+                    "dataset"
+                ]
+            },
+            {
                 "file": "variables.csv",
                 "fields": [
                     "study",
                     "dataset"
+                ]
+            }
+        ]
+    },
+    {
+        "file": "instruments.csv",
+        "fields": [
+            "study",
+            "name"
+        ],
+        "relations_from": [
+            {
+                "file": "attachments.csv",
+                "fields": [
+                    "study",
+                    "instrument"
                 ]
             }
         ]
@@ -83,6 +106,24 @@
                 "file": "instruments.csv",
                 "fields": [
                     "period"
+                ]
+            }
+        ]
+    },
+    {
+        "file": "questions.csv",
+        "fields": [
+            "study",
+            "instrument",
+            "name"
+        ],
+        "relations_from": [
+            {
+                "file": "attachments.csv",
+                "fields": [
+                    "study",
+                    "instrument",
+                    "question"
                 ]
             }
         ]
@@ -117,6 +158,24 @@
                 "fields": [
                     "study",
                     "topic"
+                ]
+            }
+        ]
+    },
+    {
+        "file": "variables.csv",
+        "fields": [
+            "study",
+            "dataset",
+            "name"
+        ],
+        "relations_from": [
+            {
+                "file": "attachments.csv",
+                "fields": [
+                    "study",
+                    "dataset",
+                    "variable"
                 ]
             }
         ]
