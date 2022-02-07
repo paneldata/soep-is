@@ -10,10 +10,15 @@ soep-is,hgen,Household-related Status and Generated Variables,,,,h,gen,0
 soep-is,hhrf,Weighting and staying probabilities,,,,h,survey,0
 soep-is,ibip_parent,Bonn Intervention Panel (parents),,,,p,org/net,0
 soep-is,ibip_pupil,Bonn Intervention Panel (children),,,,p,org/net,0
+soep-is,idrm,Person-related Data from Innovative DRM Module,,,,p,org/net,0
+soep-is,idrm_esm,Person-related Data from Innovative DRM/ESM Module,,,,p,org/net,0
+soep-is,iesm,Person-related Data from Innovative IESM Module,,,,p,org/net,0
 soep-is,ilanguage,Innovative Language Modules,,,,p,org/net,0
+soep-is,ilottery,Innovative Lottery Experiment,,,,p,org/net,0
 soep-is,inno,Variables from the Innovation Modules,,,,p,org/net,0
 soep-is,inno_h,Variables from the Innovation Modules on Household Level,,,,h,org/net,0
 soep-is,intv,Information on Interviewers,,,,p,org/net,0
+soep-is,irisk,Person-related Data from Innovative RISK Module,,,,p,org/net,0
 soep-is,kid,Pooled Dataset on Children,,,,p,track,0
 soep-is,p,Variables from the Individual Question Module,,,,p,org/net,0
 soep-is,pbrutto,Person-related Gross File,,,,p,org/gross,0
