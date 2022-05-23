@@ -14,12 +14,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 863068.0,
-      "Median": 948586.0,
-      "Mean": 2201502.4489954696,
-      "3rd Qu.": 4102300.0,
+      "1st Qu.": 865931.0,
+      "Median": 959235.0,
+      "Mean": 2296487.2373525132,
+      "3rd Qu.": 4113334.0,
       "Max.": 4905976.0,
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -38,12 +38,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 864110.0,
-      "Median": 941867.0,
-      "Mean": 2176517.9686133545,
-      "3rd Qu.": 4101605.0,
+      "1st Qu.": 868051.0,
+      "Median": 952613.0,
+      "Mean": 2267935.3939622506,
+      "3rd Qu.": 4112976.0,
       "Max.": 4905976.0,
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -62,12 +62,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8634303.0,
-      "Median": 9472601.5,
-      "Mean": 21950900.041392554,
-      "3rd Qu.": 41022801.0,
+      "1st Qu.": 8663501.0,
+      "Median": 9577101.5,
+      "Mean": 22887857.416563403,
+      "3rd Qu.": 41133104.0,
       "Max.": 49059705.0,
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -116,10 +116,10 @@
       "Min.": 1998.0,
       "1st Qu.": 2012.0,
       "Median": 2015.0,
-      "Mean": 2013.6144278117,
-      "3rd Qu.": 2017.0,
-      "Max.": 2019.0,
-      "valid": 101540,
+      "Mean": 2014.177837041826,
+      "3rd Qu.": 2018.0,
+      "Max.": 2020.0,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -158,7 +158,7 @@
         0,
         0,
         0,
-        543
+        760
       ]
     },
     "scale": "number",
@@ -167,12 +167,12 @@
     "statistics": {
       "Min.": 1907.0,
       "1st Qu.": 1953.0,
-      "Median": 1969.0,
-      "Mean": 1971.584027248334,
+      "Median": 1970.0,
+      "Mean": 1971.9800462904363,
       "3rd Qu.": 1992.0,
       "Max.": 2020.0,
-      "valid": 100997,
-      "invalid": 543
+      "valid": 110606,
+      "invalid": 760
     }
   },
   {
@@ -226,17 +226,17 @@
         0,
         0,
         0,
-        95,
-        49429,
-        52016
+        147,
+        54149,
+        57070
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht",
     "study": "soep-is",
     "statistics": {
-      "valid": 101445,
-      "invalid": 95
+      "valid": 111219,
+      "invalid": 147
     }
   },
   {
@@ -990,92 +990,92 @@
         0,
         0,
         0,
-        876,
-        94343,
-        1589,
+        1534,
+        103023,
+        1702,
         8,
-        276,
-        536,
-        103,
-        263,
-        104,
+        293,
+        567,
+        110,
+        283,
+        113,
         0,
-        4,
-        132,
+        5,
+        141,
         11,
         8,
-        18,
-        79,
-        48,
+        19,
+        86,
+        53,
         10,
-        74,
-        508,
-        9,
-        18,
-        9,
-        62,
-        0,
-        88,
-        50,
-        60,
-        17,
-        263,
-        0,
-        0,
-        0,
-        0,
-        0,
-        22,
+        81,
+        562,
         10,
-        35,
+        20,
+        10,
+        66,
+        1,
+        91,
+        51,
+        70,
+        18,
+        289,
+        0,
+        0,
+        0,
+        0,
+        0,
+        26,
+        11,
+        39,
         7,
-        27,
-        47,
-        62,
+        30,
+        57,
+        66,
         0,
         0,
         3,
         11,
-        25,
+        27,
         15,
         0,
-        27,
+        30,
         0,
-        17,
-        40,
+        19,
+        42,
         0,
         0,
         0,
-        34,
-        61,
-        10,
+        41,
+        63,
+        11,
         0,
         1,
         6,
-        82,
+        87,
         0,
-        33,
-        20,
-        0,
-        0,
-        8,
+        37,
+        22,
         0,
         0,
-        24,
-        27,
+        9,
+        0,
+        0,
+        25,
+        28,
         31,
         14,
-        76,
+        81,
         2,
         0,
-        24,
+        25,
         0,
-        56,
+        59,
         3,
-        29,
+        31,
         3,
         0,
-        0,
+        2,
         8,
         0,
         0,
@@ -1084,18 +1084,18 @@
         4,
         0,
         0,
-        21,
+        22,
         2,
         0,
         0,
         0,
         5,
-        25,
+        26,
         0,
         0,
         0,
         0,
-        7,
+        8,
         0,
         3,
         0,
@@ -1103,37 +1103,37 @@
         0,
         0,
         0,
-        24,
-        55,
-        158,
-        127,
-        48,
-        67,
-        16,
-        13,
+        25,
+        62,
+        171,
+        132,
+        53,
+        72,
+        17,
+        14,
         0,
         0,
         0,
         0,
         0,
         0,
-        31,
+        34,
         0,
-        32,
+        37,
         0,
         0,
-        0,
+        1,
         0,
         0,
         0,
         10,
-        128,
+        129,
         10,
         0,
-        44,
-        9,
+        49,
+        11,
         0,
-        51,
+        58,
         0,
         2,
         3,
@@ -1141,6 +1141,7 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         0,
@@ -1148,14 +1149,13 @@
         0,
         0,
         0,
+        19,
         0,
-        18,
         0,
-        0,
-        129,
-        11,
-        0,
+        138,
         13,
+        0,
+        15,
         0,
         0,
         0,
@@ -1167,15 +1167,15 @@
         4,
         0,
         0,
-        4
+        9
       ]
     },
     "scale": "cat",
     "label_de": "Staatsangehörigkeit",
     "study": "soep-is",
     "statistics": {
-      "valid": 100664,
-      "invalid": 876
+      "valid": 109832,
+      "invalid": 1534
     }
   },
   {
@@ -1928,128 +1928,128 @@
         63556,
         0,
         0,
-        37762,
+        47510,
         0,
-        23,
-        58,
+        36,
+        80,
         0,
-        4,
+        8,
         10,
-        4,
-        4,
-        16,
+        5,
+        5,
+        21,
         0,
         0,
-        19,
+        24,
         1,
+        5,
+        2,
+        10,
+        2,
+        0,
+        0,
+        25,
+        0,
+        6,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        14,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
         4,
         2,
-        9,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        4,
         2,
         0,
         0,
-        18,
+        0,
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         5,
         0,
-        1,
         0,
         0,
         0,
         0,
-        1,
-        12,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        4,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        2,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        4,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        4,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        0,
+        5,
         0,
         0,
         0,
         2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        4,
         0,
         0,
         0,
@@ -2113,8 +2113,8 @@
     "label_de": "2. Staatsangehörigkeit",
     "study": "soep-is",
     "statistics": {
-      "valid": 222,
-      "invalid": 101318
+      "valid": 300,
+      "invalid": 111066
     }
   },
   {
@@ -2177,17 +2177,17 @@
         0,
         0,
         0,
-        81332,
-        3829,
-        15333,
-        1046
+        88881,
+        4366,
+        17005,
+        1114
       ]
     },
     "scale": "cat",
     "label_de": "Stichprobenstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -2271,22 +2271,22 @@
         0,
         11,
         1,
-        61375,
-        1580,
-        937,
-        12429,
-        15871,
-        3952,
-        4697,
-        341,
-        346
+        66880,
+        1681,
+        1022,
+        13884,
+        17213,
+        4237,
+        5418,
+        377,
+        642
       ]
     },
     "scale": "cat",
     "label_de": "Befragungsstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 101528,
+      "valid": 111354,
       "invalid": 12
     }
   },
@@ -2324,7 +2324,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ],
       "labels": [
         "[-6] Questionnaire version with modified filtering",
@@ -2355,7 +2356,8 @@
         "[2016] Survey Year 2016",
         "[2017] Survey Year 2017",
         "[2018] Survey Year 2018",
-        "[2019] Survey Year 2019"
+        "[2019] Survey Year 2019",
+        "[2020] Survey Year 2020"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -2386,7 +2388,8 @@
         "[2016] Erhebungsjahr 2016",
         "[2017] Erhebungsjahr 2017",
         "[2018] Erhebungsjahr 2018",
-        "[2019] Erhebungsjahr 2019"
+        "[2019] Erhebungsjahr 2019",
+        "[2020] Erhebungsjahr 2020"
       ],
       "missings": [
         true,
@@ -2417,6 +2420,7 @@
         false,
         false,
         false,
+        false,
         false
       ],
       "frequencies": [
@@ -2424,39 +2428,40 @@
         0,
         0,
         0,
-        19692,
+        21633,
         0,
-        7637,
+        8746,
         771,
         774,
         774,
-        808,
+        809,
         812,
         832,
         830,
         842,
-        867,
+        869,
         838,
-        847,
-        4252,
-        3402,
-        3332,
-        4616,
-        6439,
-        8211,
-        7015,
-        8943,
-        7442,
-        6581,
-        4983
+        849,
+        4259,
+        3411,
+        3340,
+        4627,
+        6456,
+        8240,
+        7058,
+        9024,
+        7538,
+        6886,
+        5809,
+        5339
       ]
     },
     "scale": "cat",
     "label_de": "Letztes Interview in Welle",
     "study": "soep-is",
     "statistics": {
-      "valid": 81848,
-      "invalid": 19692
+      "valid": 89733,
+      "invalid": 21633
     }
   },
   {
@@ -2517,7 +2522,7 @@
         0,
         0,
         0,
-        100988,
+        110814,
         0,
         0,
         199,
@@ -2530,7 +2535,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 552,
-      "invalid": 100988
+      "invalid": 110814
     }
   },
   {
@@ -2566,7 +2571,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ],
       "labels": [
         "[-6] Questionnaire version with modified filtering",
@@ -2596,7 +2602,8 @@
         "[2016] Survey Year 2016",
         "[2017] Survey Year 2017",
         "[2018] Survey Year 2018",
-        "[2019] Survey Year 2019"
+        "[2019] Survey Year 2019",
+        "[2020] Survey Year 2020"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -2626,7 +2633,8 @@
         "[2016] Erhebungsjahr 2016",
         "[2017] Erhebungsjahr 2017",
         "[2018] Erhebungsjahr 2018",
-        "[2019] Erhebungsjahr 2019"
+        "[2019] Erhebungsjahr 2019",
+        "[2020] Erhebungsjahr 2020"
       ],
       "missings": [
         true,
@@ -2635,6 +2643,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -2665,35 +2674,36 @@
         0,
         0,
         0,
-        15879,
-        391,
-        174,
-        363,
-        203,
-        366,
-        267,
-        182,
-        196,
-        236,
-        97,
-        21953,
-        1993,
-        542,
-        13979,
-        13792,
-        20458,
-        919,
-        8426,
-        657,
-        328,
-        139
+        16151,
+        397,
+        177,
+        372,
+        207,
+        375,
+        277,
+        188,
+        202,
+        249,
+        100,
+        22938,
+        2100,
+        574,
+        15023,
+        14932,
+        23027,
+        1042,
+        9724,
+        821,
+        472,
+        278,
+        1740
       ]
     },
     "scale": "cat",
     "label_de": "Zugangswelle zum Panel",
     "study": "soep-is",
     "statistics": {
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -2917,26 +2927,26 @@
         0,
         0,
         0,
-        82648,
-        16,
-        102,
+        90510,
+        17,
+        106,
         30,
-        29,
-        43,
-        41,
-        421,
-        613,
-        12,
-        533,
-        801,
+        30,
         45,
-        95,
+        42,
+        466,
+        704,
+        12,
+        579,
+        855,
+        48,
+        108,
         45,
         0,
         54,
         16,
         0,
-        1090,
+        1155,
         0,
         0,
         0,
@@ -2945,13 +2955,13 @@
         0,
         0,
         0,
-        14685,
+        16312,
         19,
-        161,
+        171,
         4,
         16,
         0,
-        20,
+        21,
         0,
         0,
         0,
@@ -2967,7 +2977,7 @@
     "label_de": "Zugehörigkeit zum HH",
     "study": "soep-is",
     "statistics": {
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -3049,25 +3059,25 @@
         0,
         0,
         0,
-        24969,
+        27652,
         0,
-        18671,
+        20017,
         0,
         119,
         99,
-        0,
-        455,
-        205,
-        57004,
-        18
+        1313,
+        469,
+        239,
+        60313,
+        1145
       ]
     },
     "scale": "cat",
     "label_de": "Bearbeitungsform",
     "study": "soep-is",
     "statistics": {
-      "valid": 76571,
-      "invalid": 24969
+      "valid": 83714,
+      "invalid": 27652
     }
   },
   {
@@ -3144,24 +3154,24 @@
         0,
         0,
         0,
-        24969,
+        27652,
         0,
-        62290,
-        1667,
-        3706,
-        8123,
-        102,
-        358,
+        67629,
+        1943,
+        4577,
+        8727,
+        107,
+        392,
         112,
-        213
+        227
       ]
     },
     "scale": "cat",
     "label_de": "Bearbeitungsergebnis 1-Steller",
     "study": "soep-is",
     "statistics": {
-      "valid": 76571,
-      "invalid": 24969
+      "valid": 83714,
+      "invalid": 27652
     }
   },
   {
@@ -3310,33 +3320,33 @@
         0,
         0,
         0,
-        24969,
+        27652,
         0,
-        62077,
+        67414,
         0,
         84,
         21,
-        108,
-        1018,
+        110,
+        1223,
         3,
         22,
         2,
-        157,
-        462,
+        190,
+        500,
         3,
         0,
-        1788,
+        2026,
         2,
-        1678,
-        238,
-        7787,
+        1889,
+        660,
+        8373,
         2,
-        225,
-        109,
-        102,
-        358,
+        237,
+        115,
+        107,
+        392,
         112,
-        213,
+        227,
         0
       ]
     },
@@ -3344,8 +3354,8 @@
     "label_de": "Bearbeitungsergebnis 2-Steller",
     "study": "soep-is",
     "statistics": {
-      "valid": 76571,
-      "invalid": 24969
+      "valid": 83714,
+      "invalid": 27652
     }
   },
   {
@@ -3382,7 +3392,7 @@
         0,
         0,
         0,
-        25248,
+        35074,
         72
       ]
     },
@@ -3397,7 +3407,7 @@
       "3rd Qu.": 407484501.25,
       "Max.": 490597604.0,
       "valid": 76220,
-      "invalid": 25320
+      "invalid": 35146
     }
   },
   {
@@ -3618,7 +3628,7 @@
         0,
         0,
         0,
-        25320,
+        35146,
         0,
         59322,
         13,
@@ -3671,7 +3681,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 76220,
-      "invalid": 25320
+      "invalid": 35146
     }
   },
   {
@@ -3756,7 +3766,7 @@
         0,
         0,
         0,
-        42204,
+        52030,
         0,
         1573,
         11179,
@@ -3775,7 +3785,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 59336,
-      "invalid": 42204
+      "invalid": 52030
     }
   },
   {
@@ -3928,7 +3938,7 @@
         0,
         0,
         0,
-        43777,
+        53603,
         0,
         51370,
         0,
@@ -3964,7 +3974,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 57763,
-      "invalid": 43777
+      "invalid": 53603
     }
   },
   {
@@ -4041,24 +4051,24 @@
         0,
         0,
         0,
-        100434,
+        110192,
         0,
-        759,
-        210,
+        812,
+        212,
+        2,
+        5,
         0,
-        4,
         0,
-        0,
-        90,
-        43
+        98,
+        45
       ]
     },
     "scale": "cat",
     "label_de": "Adressermittlung",
     "study": "soep-is",
     "statistics": {
-      "valid": 1106,
-      "invalid": 100434
+      "valid": 1174,
+      "invalid": 110192
     }
   },
   {
@@ -4076,7 +4086,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "labels": [
         "[-6] Questionnaire version with modified filtering",
@@ -4088,7 +4100,9 @@
         "[1] Interviewer",
         "[2] Mail",
         "[3] Resident Registrar",
-        "[4] Target Person"
+        "[4] Target Person",
+        "[5] Customer",
+        "[6] Mail  AdressResearch"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -4100,7 +4114,9 @@
         "[1] Interviewer",
         "[2] Post",
         "[3] EWA",
-        "[4] Befragungsperson"
+        "[4] Befragungsperson",
+        "[5] Kunde",
+        "[6] Post  AdressResearch"
       ],
       "missings": [
         true,
@@ -4112,6 +4128,8 @@
         false,
         false,
         false,
+        false,
+        false,
         false
       ],
       "frequencies": [
@@ -4119,20 +4137,22 @@
         0,
         0,
         48,
-        100386,
+        110144,
         0,
-        958,
-        23,
+        1006,
+        25,
         123,
-        2
+        2,
+        0,
+        18
       ]
     },
     "scale": "cat",
     "label_de": "Info-Quelle für Adressermittlung",
     "study": "soep-is",
     "statistics": {
-      "valid": 1106,
-      "invalid": 100434
+      "valid": 1174,
+      "invalid": 110192
     }
   },
   {
@@ -4169,7 +4189,7 @@
         0,
         0,
         0,
-        99771,
+        109432,
         25
       ]
     },
@@ -4180,11 +4200,11 @@
       "Min.": 1.0,
       "1st Qu.": 4.0,
       "Median": 7.0,
-      "Mean": 6.62901376146789,
+      "Mean": 6.6443163960188585,
       "3rd Qu.": 9.0,
       "Max.": 12.0,
-      "valid": 1744,
-      "invalid": 99796
+      "valid": 1909,
+      "invalid": 109457
     }
   },
   {
@@ -4221,7 +4241,7 @@
         0,
         0,
         0,
-        99682,
+        109339,
         3
       ]
     },
@@ -4232,11 +4252,11 @@
       "Min.": 1990.0,
       "1st Qu.": 2012.0,
       "Median": 2015.0,
-      "Mean": 2013.6760107816713,
-      "3rd Qu.": 2017.0,
+      "Mean": 2014.1847826086957,
+      "3rd Qu.": 2018.0,
       "Max.": 2020.0,
-      "valid": 1855,
-      "invalid": 99685
+      "valid": 2024,
+      "invalid": 109342
     }
   },
   {
@@ -4273,7 +4293,7 @@
         0,
         0,
         0,
-        98943,
+        108608,
         68
       ]
     },
@@ -4284,11 +4304,11 @@
       "Min.": 1.0,
       "1st Qu.": 4.0,
       "Median": 7.0,
-      "Mean": 6.644128113879003,
+      "Mean": 6.632342007434945,
       "3rd Qu.": 9.0,
       "Max.": 12.0,
-      "valid": 2529,
-      "invalid": 99011
+      "valid": 2690,
+      "invalid": 108676
     }
   },
   {
@@ -4325,7 +4345,7 @@
         0,
         0,
         0,
-        98820,
+        108481,
         6
       ]
     },
@@ -4336,11 +4356,11 @@
       "Min.": 1965.0,
       "1st Qu.": 2010.0,
       "Median": 2014.0,
-      "Mean": 2012.523949889462,
+      "Mean": 2012.9399096908649,
       "3rd Qu.": 2017.0,
       "Max.": 2020.0,
-      "valid": 2714,
-      "invalid": 98826
+      "valid": 2879,
+      "invalid": 108487
     }
   },
   {
@@ -4377,7 +4397,7 @@
         0,
         0,
         0,
-        101340,
+        111163,
         21
       ]
     },
@@ -4388,11 +4408,11 @@
       "Min.": 1.0,
       "1st Qu.": 6.0,
       "Median": 8.0,
-      "Mean": 7.385474860335195,
-      "3rd Qu.": 9.5,
+      "Mean": 7.384615384615385,
+      "3rd Qu.": 10.0,
       "Max.": 12.0,
-      "valid": 179,
-      "invalid": 101361
+      "valid": 182,
+      "invalid": 111184
     }
   },
   {
@@ -4429,7 +4449,7 @@
         0,
         0,
         0,
-        101321,
+        111144,
         3
       ]
     },
@@ -4440,11 +4460,11 @@
       "Min.": 1999.0,
       "1st Qu.": 2010.0,
       "Median": 2013.0,
-      "Mean": 2012.3101851851852,
+      "Mean": 2012.4109589041095,
       "3rd Qu.": 2017.0,
       "Max.": 2020.0,
-      "valid": 216,
-      "invalid": 101324
+      "valid": 219,
+      "invalid": 111147
     }
   },
   {
@@ -4529,7 +4549,7 @@
         0,
         0,
         0,
-        86107,
+        95933,
         0,
         1117,
         3192,
@@ -4548,7 +4568,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 15433,
-      "invalid": 86107
+      "invalid": 95933
     }
   },
   {
@@ -4570,7 +4590,8 @@
         25,
         26,
         28,
-        32
+        32,
+        38
       ],
       "labels": [
         "[-6] Questionnaire version with modified filtering",
@@ -4586,7 +4607,8 @@
         "[25] S2 Supplementary 2013",
         "[26] S3 Supplementary 2014",
         "[28] Bonn Intervention Panel 2014",
-        "[32] S4 Supplementary 2016"
+        "[32] S4 Supplementary 2016",
+        "[38] S5 Supplementary 2020 ESS"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -4602,7 +4624,8 @@
         "[25] Innovationssample 2013 Aufstockung",
         "[26] Innovationssample 2014 Aufstockung",
         "[28] Bonn Intervention Panel 2014",
-        "[32] Innovationssample 2016 Aufstockung"
+        "[32] Innovationssample 2016 Aufstockung",
+        "[38] Innovationssample 2020 Aufstockung ESS"
       ],
       "missings": [
         true,
@@ -4611,6 +4634,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -4627,21 +4651,22 @@
         0,
         0,
         0,
-        9986,
-        9313,
-        25037,
-        14658,
-        13919,
-        8849,
-        11828,
-        7950
+        10214,
+        9527,
+        26302,
+        15880,
+        15178,
+        9798,
+        13624,
+        9218,
+        1625
       ]
     },
     "scale": "cat",
     "label_de": "Stichprobenart",
     "study": "soep-is",
     "statistics": {
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -4703,7 +4728,7 @@
         0,
         0,
         0,
-        100940,
+        110766,
         0,
         444,
         133,
@@ -4716,7 +4741,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 600,
-      "invalid": 100940
+      "invalid": 110766
     }
   },
   {
@@ -4777,7 +4802,7 @@
         0,
         0,
         0,
-        97327,
+        107153,
         355,
         2982,
         634,
@@ -4790,7 +4815,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3858,
-      "invalid": 97682
+      "invalid": 107508
     }
   },
   {
@@ -4859,7 +4884,7 @@
         0,
         0,
         0,
-        93581,
+        103407,
         4247,
         1805,
         285,
@@ -4874,7 +4899,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3712,
-      "invalid": 97828
+      "invalid": 107654
     }
   },
   {
@@ -4931,7 +4956,7 @@
         0,
         0,
         0,
-        101448,
+        111274,
         0,
         67,
         3,
@@ -4943,7 +4968,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 92,
-      "invalid": 101448
+      "invalid": 111274
     }
   },
   {
@@ -5032,27 +5057,27 @@
         0,
         0,
         0,
-        37750,
+        39692,
         0,
         0,
-        6041,
-        393,
+        6059,
+        833,
         0,
-        2488,
-        49224,
-        298,
+        2643,
+        55034,
+        341,
         0,
-        3142,
+        3621,
         0,
-        2204
+        3143
       ]
     },
     "scale": "cat",
     "label_de": "Biographie",
     "study": "soep-is",
     "statistics": {
-      "valid": 63790,
-      "invalid": 37750
+      "valid": 71674,
+      "invalid": 39692
     }
   },
   {
@@ -5113,7 +5138,7 @@
         0,
         0,
         0,
-        99227,
+        109053,
         0,
         691,
         891,
@@ -5126,7 +5151,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2313,
-      "invalid": 99227
+      "invalid": 109053
     }
   },
   {
@@ -5313,48 +5338,48 @@
         0,
         0,
         0,
-        44967,
-        22432,
-        184,
-        4080,
+        49290,
+        24533,
+        187,
+        4499,
         5418,
-        22381,
-        507,
-        42,
-        122,
-        224,
-        2,
-        92,
-        88,
-        390,
+        25063,
+        553,
+        47,
+        135,
+        245,
         3,
+        99,
+        88,
+        491,
+        6,
         0,
         4,
-        84,
-        5,
+        95,
+        11,
         36,
-        138,
-        2,
+        178,
+        5,
         6,
         0,
         0,
-        15,
-        8,
+        17,
+        11,
         8,
         2,
-        13,
+        20,
         5,
-        10,
+        13,
         57,
-        211,
-        4
+        228,
+        13
       ]
     },
     "scale": "cat",
     "label_de": "Stellung zum HV, Bezugsperson",
     "study": "soep-is",
     "statistics": {
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
     }
   },
@@ -5460,7 +5485,7 @@
         0,
         0,
         0,
-        81524,
+        91350,
         0,
         8833,
         4862,
@@ -5484,7 +5509,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 20016,
-      "invalid": 81524
+      "invalid": 91350
     }
   },
   {
@@ -5533,17 +5558,76 @@
         0,
         0,
         0,
-        98259,
+        107583,
         0,
-        3281
+        3783
       ]
     },
     "scale": "cat",
     "label_de": "Ankerkind (Bonn Intervention Panel)",
     "study": "soep-is",
     "statistics": {
-      "valid": 3281,
-      "invalid": 98259
+      "valid": 3783,
+      "invalid": 107583
+    }
+  },
+  {
+    "name": "panker",
+    "dataset": "pbrutto",
+    "label": "Anchor Person First Wave (ESS)",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1
+      ],
+      "labels": [
+        "[-6] Questionnaire version with modified filtering",
+        "[-5] Not contained in questionnaire",
+        "[-4] Inadmissible multiple answer",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Anchor Person First Wave (ESS)"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ankerperson der ersten Welle (ESS)"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        110687,
+        0,
+        679
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ankerperson der ersten Welle (ESS)",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 679,
+      "invalid": 110687
     }
   },
   {
@@ -5608,7 +5692,7 @@
         0,
         0,
         0,
-        99892,
+        109718,
         0,
         519,
         49,
@@ -5622,7 +5706,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1648,
-      "invalid": 99892
+      "invalid": 109718
     }
   },
   {
@@ -5687,7 +5771,7 @@
         0,
         0,
         0,
-        94919,
+        104745,
         0,
         830,
         590,
@@ -5701,7 +5785,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6621,
-      "invalid": 94919
+      "invalid": 104745
     }
   },
   {
@@ -5762,20 +5846,20 @@
         0,
         0,
         0,
-        98870,
+        108194,
         0,
-        2472,
-        23,
-        24,
-        151
+        2935,
+        30,
+        38,
+        169
       ]
     },
     "scale": "cat",
     "label_de": "Bearbeitungsergebnis Ankerkind BIP-Instrumente",
     "study": "soep-is",
     "statistics": {
-      "valid": 2670,
-      "invalid": 98870
+      "valid": 3172,
+      "invalid": 108194
     }
   },
   {
@@ -5844,22 +5928,22 @@
         0,
         0,
         0,
-        83812,
+        89434,
         0,
-        1634,
-        15104,
-        471,
-        471,
+        2021,
+        18526,
+        600,
+        599,
         24,
-        24
+        162
       ]
     },
     "scale": "cat",
     "label_de": "Übereinstimmung vom Nachnamen bei Ehepaaren",
     "study": "soep-is",
     "statistics": {
-      "valid": 17728,
-      "invalid": 83812
+      "valid": 21932,
+      "invalid": 89434
     }
   },
   {
@@ -5908,7 +5992,7 @@
         0,
         0,
         0,
-        100546,
+        110372,
         0,
         994
       ]
@@ -5918,7 +6002,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 994,
-      "invalid": 100546
+      "invalid": 110372
     }
   },
   {
@@ -5967,17 +6051,17 @@
         0,
         0,
         0,
-        101424,
+        111228,
         0,
-        116
+        138
       ]
     },
     "scale": "cat",
     "label_de": "Änderung bei pvor zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 116,
-      "invalid": 101424
+      "valid": 138,
+      "invalid": 111228
     }
   },
   {
@@ -6026,17 +6110,17 @@
         0,
         0,
         0,
-        101440,
+        111243,
         0,
-        100
+        123
       ]
     },
     "scale": "cat",
     "label_de": "Änderung bei geburt zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 100,
-      "invalid": 101440
+      "valid": 123,
+      "invalid": 111243
     }
   },
   {
@@ -6085,17 +6169,17 @@
         0,
         0,
         0,
-        101523,
+        111330,
         0,
-        17
+        36
       ]
     },
     "scale": "cat",
     "label_de": "Änderung bei sex zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 17,
-      "invalid": 101523
+      "valid": 36,
+      "invalid": 111330
     }
   },
   {
@@ -6144,17 +6228,17 @@
         0,
         0,
         0,
-        101325,
+        111120,
         0,
-        215
+        246
       ]
     },
     "scale": "cat",
     "label_de": "Änderung bei pnat zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 215,
-      "invalid": 101325
+      "valid": 246,
+      "invalid": 111120
     }
   },
   {
@@ -6203,7 +6287,7 @@
         0,
         0,
         0,
-        101523,
+        111349,
         0,
         17
       ]
@@ -6213,7 +6297,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 17,
-      "invalid": 101523
+      "invalid": 111349
     }
   },
   {
@@ -6233,53 +6317,17 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 2.0297813669489857,
+      "Mean": 2.0338254045220263,
       "3rd Qu.": 3.0,
       "Max.": 10.0,
-      "valid": 101540,
+      "valid": 111366,
       "invalid": 0
-    }
-  },
-  {
-    "name": "pgebt",
-    "dataset": "pbrutto",
-    "label": "Day of Birth ",
-    "categories": {
-      "values": [
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-2] Does not apply",
-        "[-1] No answer"
-      ],
-      "missings": [
-        true,
-        true
-      ],
-      "frequencies": [
-        92461,
-        1409
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtstag",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 8.0,
-      "Median": 16.0,
-      "Mean": 15.575488917861799,
-      "3rd Qu.": 23.0,
-      "Max.": 31.0,
-      "valid": 7670,
-      "invalid": 93870
     }
   },
   {
     "name": "pgebm",
     "dataset": "pbrutto",
-    "label": "Month Of Birth ",
+    "label": "Month Of Birth",
     "categories": {
       "values": [
         -2,
@@ -6347,33 +6395,33 @@
       ],
       "frequencies": [
         92461,
-        879,
-        663,
-        644,
-        719,
-        681,
-        734,
-        657,
-        737,
-        712,
-        684,
-        716,
-        615,
-        638
+        1645,
+        1428,
+        1344,
+        1513,
+        1445,
+        1544,
+        1382,
+        1542,
+        1496,
+        1437,
+        1476,
+        1303,
+        1350
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat",
     "study": "soep-is",
     "statistics": {
-      "valid": 8200,
-      "invalid": 93340
+      "valid": 17260,
+      "invalid": 94106
     }
   },
   {
     "name": "reclin_iab_erg",
     "dataset": "pbrutto",
-    "label": "Result Record Linkage IAB ",
+    "label": "Result Record Linkage IAB",
     "categories": {
       "values": [
         -2,
@@ -6400,24 +6448,24 @@
         false
       ],
       "frequencies": [
-        96175,
-        2641,
+        105546,
+        3066,
         164,
-        2560
+        2590
       ]
     },
     "scale": "cat",
     "label_de": "Ergebnis Record Linkage IAB",
     "study": "soep-is",
     "statistics": {
-      "valid": 5365,
-      "invalid": 96175
+      "valid": 5820,
+      "invalid": 105546
     }
   },
   {
     "name": "reclin_drv_erg",
     "dataset": "pbrutto",
-    "label": "Result Record Linkage DRV  ",
+    "label": "Result Record Linkage DRV",
     "categories": {
       "values": [
         -5,
@@ -6449,7 +6497,7 @@
       ],
       "frequencies": [
         0,
-        96299,
+        106125,
         2573,
         140,
         2528
@@ -6460,13 +6508,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5241,
-      "invalid": 96299
+      "invalid": 106125
     }
   },
   {
     "name": "ev_gene_erg",
     "dataset": "pbrutto",
-    "label": "Consent Genes ",
+    "label": "Consent Genes",
     "categories": {
       "values": [
         -2,
@@ -6493,7 +6541,7 @@
         false
       ],
       "frequencies": [
-        95293,
+        105119,
         2737,
         167,
         3343
@@ -6504,13 +6552,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6247,
-      "invalid": 95293
+      "invalid": 105119
     }
   },
   {
     "name": "reclin_iab_form",
     "dataset": "pbrutto",
-    "label": "Form Record Linkage IAB ",
+    "label": "Form Record Linkage IAB",
     "categories": {
       "values": [
         -2,
@@ -6533,17 +6581,17 @@
         false
       ],
       "frequencies": [
-        101522,
-        17,
-        1
+        110923,
+        381,
+        62
       ]
     },
     "scale": "cat",
     "label_de": "Form Record Linkage IAB",
     "study": "soep-is",
     "statistics": {
-      "valid": 18,
-      "invalid": 101522
+      "valid": 443,
+      "invalid": 110923
     }
   },
   {
@@ -6694,31 +6742,31 @@
         0,
         92461,
         0,
-        4981,
+        10318,
         0,
         0,
-        2,
-        667,
-        763,
-        43,
-        101,
-        52,
-        26,
-        8,
-        52,
-        51,
-        5,
-        376,
-        1,
-        0,
-        0,
-        2,
-        12,
-        0,
-        31,
-        16,
+        4,
+        1195,
+        1435,
+        81,
+        265,
+        86,
+        59,
         20,
-        1870,
+        93,
+        109,
+        11,
+        818,
+        7,
+        0,
+        0,
+        2,
+        435,
+        0,
+        122,
+        16,
+        32,
+        3797,
         0
       ]
     },
@@ -6726,7 +6774,7 @@
     "label_de": "AAPOR Klassifizierung Person",
     "study": "soep-is",
     "statistics": {
-      "valid": 9079,
+      "valid": 18905,
       "invalid": 92461
     }
   }

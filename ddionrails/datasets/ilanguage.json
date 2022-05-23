@@ -42,12 +42,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 890979.0,
-      "Median": 964760.0,
-      "Mean": 2182632.0839689695,
-      "3rd Qu.": 4044016.0,
+      "1st Qu.": 891576.0,
+      "Median": 965626.0,
+      "Mean": 2201453.5412690104,
+      "3rd Qu.": 4045110.0,
       "Max.": 4173037.0,
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -94,12 +94,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 895512.0,
-      "Median": 960888.0,
-      "Mean": 2134786.6528776977,
-      "3rd Qu.": 4042650.0,
+      "1st Qu.": 896233.0,
+      "Median": 961795.0,
+      "Mean": 2152489.3986920253,
+      "3rd Qu.": 4043834.0,
       "Max.": 4173037.0,
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -146,12 +146,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8921101.0,
-      "Median": 9641001.0,
-      "Mean": 21718705.85269134,
-      "3rd Qu.": 40439701.0,
+      "1st Qu.": 8929101.0,
+      "Median": 9646002.0,
+      "Mean": 21904595.586661916,
+      "3rd Qu.": 40449902.0,
       "Max.": 41730303.0,
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -200,10 +200,10 @@
       "Min.": 2012.0,
       "1st Qu.": 2016.0,
       "Median": 2016.0,
-      "Mean": 2015.316473086591,
+      "Mean": 2015.3527026331149,
       "3rd Qu.": 2016.0,
-      "Max.": 2017.0,
-      "valid": 230740,
+      "Max.": 2019.0,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -259,7 +259,7 @@
         0,
         0,
         0,
-        179440,
+        181732,
         51300
       ]
     },
@@ -267,7 +267,7 @@
     "label_de": "Innovatives Modul: Fremdsprachen",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -410,7 +410,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         0,
@@ -447,7 +447,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 51300,
-      "invalid": 179440
+      "invalid": 181732
     }
   },
   {
@@ -593,37 +593,37 @@
       ],
       "frequencies": [
         0,
-        178396,
+        180688,
         0,
         0,
         0,
         0,
-        2094,
-        2110,
-        2094,
-        2087,
-        2094,
-        2095,
-        2093,
         2100,
-        2096,
-        2089,
-        2096,
-        2092,
-        2084,
+        2095,
+        2104,
+        2100,
+        2095,
         2103,
-        2096,
-        2096,
-        2090,
-        2084,
-        2087,
-        2105,
-        2095,
-        2094,
-        2095,
         2092,
+        2096,
+        2084,
+        2100,
+        2095,
+        2089,
+        2092,
+        2086,
+        2104,
+        2083,
+        2088,
+        2095,
+        2101,
+        2092,
+        2097,
+        2087,
+        2085,
+        2091,
         0,
-        2083
+        2090
       ]
     },
     "scale": "cat",
@@ -631,7 +631,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 52344,
-      "invalid": 178396
+      "invalid": 180688
     }
   },
   {
@@ -677,7 +677,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         48275,
@@ -690,7 +690,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3025,
-      "invalid": 227715
+      "invalid": 230007
     }
   },
   {
@@ -752,7 +752,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         48758,
@@ -769,7 +769,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2538,
-      "invalid": 228202
+      "invalid": 230494
     }
   },
   {
@@ -815,7 +815,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         49342,
@@ -828,7 +828,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1958,
-      "invalid": 228782
+      "invalid": 231074
     }
   },
   {
@@ -874,7 +874,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         49813,
@@ -887,7 +887,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1487,
-      "invalid": 229253
+      "invalid": 231545
     }
   },
   {
@@ -933,7 +933,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         50381,
@@ -946,7 +946,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 919,
-      "invalid": 229821
+      "invalid": 232113
     }
   },
   {
@@ -992,7 +992,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         50678,
@@ -1005,7 +1005,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 622,
-      "invalid": 230118
+      "invalid": 232410
     }
   },
   {
@@ -1051,7 +1051,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         50855,
@@ -1064,7 +1064,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 445,
-      "invalid": 230295
+      "invalid": 232587
     }
   },
   {
@@ -1110,7 +1110,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         51255,
@@ -1123,7 +1123,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 45,
-      "invalid": 230695
+      "invalid": 232987
     }
   },
   {
@@ -1185,7 +1185,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         48758,
@@ -1202,7 +1202,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2542,
-      "invalid": 228198
+      "invalid": 230490
     }
   },
   {
@@ -1264,7 +1264,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         48758,
@@ -1281,7 +1281,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2540,
-      "invalid": 228200
+      "invalid": 230492
     }
   },
   {
@@ -1343,7 +1343,7 @@
       ],
       "frequencies": [
         0,
-        179440,
+        181732,
         0,
         0,
         48758,
@@ -1360,7 +1360,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2327,
-      "invalid": 228413
+      "invalid": 230705
     }
   },
   {
@@ -1415,7 +1415,7 @@
         0,
         0,
         0,
-        229696,
+        231988,
         1044
       ]
     },
@@ -1423,7 +1423,7 @@
     "label_de": "Innovatives Modul: Fremdsprache im Beruf",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -1474,7 +1474,7 @@
       ],
       "frequencies": [
         0,
-        229696,
+        231988,
         0,
         0,
         0,
@@ -1488,7 +1488,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1044,
-      "invalid": 229696
+      "invalid": 231988
     }
   },
   {
@@ -1501,7 +1501,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a30",
+    "scale": "|S30",
     "label_de": "Am häufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
@@ -1516,7 +1516,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a15",
+    "scale": "|S15",
     "label_de": "Am zweithäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
@@ -1531,7 +1531,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a15",
+    "scale": "|S15",
     "label_de": "Am dritthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
@@ -1546,7 +1546,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a12",
+    "scale": "|S12",
     "label_de": "Am vierthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
@@ -1561,7 +1561,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a12",
+    "scale": "|S12",
     "label_de": "Am fünfthäufigsten verwendete Sprache",
     "study": "soep-is",
     "statistics": {}
@@ -1597,7 +1597,7 @@
       ],
       "frequencies": [
         0,
-        229696,
+        231988,
         0,
         0,
         1039,
@@ -1615,7 +1615,7 @@
       "3rd Qu.": 0.0,
       "Max.": 0.0,
       "valid": 0,
-      "invalid": 230740
+      "invalid": 233032
     }
   },
   {
@@ -1669,7 +1669,7 @@
       ],
       "frequencies": [
         0,
-        229696,
+        231988,
         0,
         0,
         0,
@@ -1684,7 +1684,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1044,
-      "invalid": 229696
+      "invalid": 231988
     }
   },
   {
@@ -1738,7 +1738,7 @@
       ],
       "frequencies": [
         0,
-        229696,
+        231988,
         0,
         0,
         0,
@@ -1753,7 +1753,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1040,
-      "invalid": 229700
+      "invalid": 231992
     }
   },
   {
@@ -1808,7 +1808,7 @@
         0,
         0,
         0,
-        104515,
+        106807,
         126225
       ]
     },
@@ -1816,7 +1816,7 @@
     "label_de": "Innovatives Modul: Sprachkenntnisse",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -2079,7 +2079,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         0,
@@ -2146,7 +2146,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 126225,
-      "invalid": 104515
+      "invalid": 106807
     }
   },
   {
@@ -2192,7 +2192,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123842,
@@ -2205,7 +2205,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2375,
-      "invalid": 228365
+      "invalid": 230657
     }
   },
   {
@@ -2251,7 +2251,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         122771,
@@ -2264,7 +2264,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3448,
-      "invalid": 227292
+      "invalid": 229584
     }
   },
   {
@@ -2322,7 +2322,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         10615,
@@ -2338,7 +2338,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 115390,
-      "invalid": 115350
+      "invalid": 117642
     }
   },
   {
@@ -2396,7 +2396,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         116160,
@@ -2412,7 +2412,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 10065,
-      "invalid": 220675
+      "invalid": 222967
     }
   },
   {
@@ -2478,7 +2478,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123374,
@@ -2496,7 +2496,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2832,
-      "invalid": 227908
+      "invalid": 230200
     }
   },
   {
@@ -2530,7 +2530,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123374,
@@ -2548,7 +2548,7 @@
       "3rd Qu.": 15.0,
       "Max.": 75.0,
       "valid": 2837,
-      "invalid": 227903
+      "invalid": 230195
     }
   },
   {
@@ -2594,7 +2594,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         124372,
@@ -2607,7 +2607,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1853,
-      "invalid": 228887
+      "invalid": 231179
     }
   },
   {
@@ -2653,7 +2653,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         125936,
@@ -2666,7 +2666,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 289,
-      "invalid": 230451
+      "invalid": 232743
     }
   },
   {
@@ -2712,7 +2712,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126160,
@@ -2725,7 +2725,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 65,
-      "invalid": 230675
+      "invalid": 232967
     }
   },
   {
@@ -2771,7 +2771,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126147,
@@ -2784,7 +2784,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 78,
-      "invalid": 230662
+      "invalid": 232954
     }
   },
   {
@@ -2830,7 +2830,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         125980,
@@ -2843,7 +2843,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 245,
-      "invalid": 230495
+      "invalid": 232787
     }
   },
   {
@@ -2889,7 +2889,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126126,
@@ -2902,7 +2902,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 99,
-      "invalid": 230641
+      "invalid": 232933
     }
   },
   {
@@ -2948,7 +2948,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126021,
@@ -2961,7 +2961,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 204,
-      "invalid": 230536
+      "invalid": 232828
     }
   },
   {
@@ -3007,7 +3007,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126098,
@@ -3020,7 +3020,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 127,
-      "invalid": 230613
+      "invalid": 232905
     }
   },
   {
@@ -3066,7 +3066,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126064,
@@ -3079,7 +3079,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 161,
-      "invalid": 230579
+      "invalid": 232871
     }
   },
   {
@@ -3125,7 +3125,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         126225,
@@ -3138,7 +3138,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 230740
+      "invalid": 233032
     }
   },
   {
@@ -3204,7 +3204,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123374,
@@ -3222,7 +3222,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2704,
-      "invalid": 228036
+      "invalid": 230328
     }
   },
   {
@@ -3268,7 +3268,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123901,
@@ -3281,7 +3281,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2316,
-      "invalid": 228424
+      "invalid": 230716
     }
   },
   {
@@ -3327,7 +3327,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123661,
@@ -3340,7 +3340,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2479,
-      "invalid": 228261
+      "invalid": 230553
     }
   },
   {
@@ -3398,7 +3398,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         7810,
@@ -3414,7 +3414,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 117920,
-      "invalid": 112820
+      "invalid": 115112
     }
   },
   {
@@ -3460,7 +3460,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123892,
@@ -3473,7 +3473,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2321,
-      "invalid": 228419
+      "invalid": 230711
     }
   },
   {
@@ -3519,7 +3519,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123662,
@@ -3532,7 +3532,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2521,
-      "invalid": 228219
+      "invalid": 230511
     }
   },
   {
@@ -3590,7 +3590,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         6765,
@@ -3606,7 +3606,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119130,
-      "invalid": 111610
+      "invalid": 113902
     }
   },
   {
@@ -4408,7 +4408,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         1540,
@@ -4610,7 +4610,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 77660,
-      "invalid": 153080
+      "invalid": 155372
     }
   },
   {
@@ -5412,7 +5412,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         48565,
@@ -5614,7 +5614,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 12815,
-      "invalid": 217925
+      "invalid": 220217
     }
   },
   {
@@ -6416,7 +6416,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         112970,
@@ -6618,7 +6618,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2640,
-      "invalid": 228100
+      "invalid": 230392
     }
   },
   {
@@ -7420,7 +7420,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         123255,
@@ -7622,7 +7622,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 935,
-      "invalid": 229805
+      "invalid": 232097
     }
   },
   {
@@ -8424,7 +8424,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         125235,
@@ -8626,7 +8626,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 330,
-      "invalid": 230410
+      "invalid": 232702
     }
   },
   {
@@ -9428,7 +9428,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         125895,
@@ -9630,7 +9630,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 230740
+      "invalid": 233032
     }
   },
   {
@@ -9688,7 +9688,7 @@
       ],
       "frequencies": [
         0,
-        104515,
+        106807,
         0,
         0,
         69245,
@@ -9704,7 +9704,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 55990,
-      "invalid": 174750
+      "invalid": 177042
     }
   },
   {
@@ -9759,7 +9759,7 @@
         0,
         0,
         0,
-        180008,
+        182300,
         50732
       ]
     },
@@ -9767,7 +9767,7 @@
     "label_de": "Innovatives Modul: Sprache und Identität",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -9818,7 +9818,7 @@
       ],
       "frequencies": [
         0,
-        180008,
+        182300,
         0,
         0,
         39429,
@@ -9832,7 +9832,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 11295,
-      "invalid": 219445
+      "invalid": 221737
     }
   },
   {
@@ -9882,7 +9882,7 @@
       ],
       "frequencies": [
         0,
-        181564,
+        183856,
         0,
         0,
         9756,
@@ -9896,7 +9896,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39420,
-      "invalid": 191320
+      "invalid": 193612
     }
   },
   {
@@ -9958,7 +9958,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         796,
@@ -9975,7 +9975,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 759,
-      "invalid": 229981
+      "invalid": 232273
     }
   },
   {
@@ -10033,7 +10033,7 @@
       ],
       "frequencies": [
         0,
-        181564,
+        183856,
         0,
         0,
         44217,
@@ -10049,7 +10049,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4959,
-      "invalid": 225781
+      "invalid": 228073
     }
   },
   {
@@ -10103,7 +10103,7 @@
       ],
       "frequencies": [
         0,
-        180008,
+        182300,
         0,
         0,
         9756,
@@ -10118,7 +10118,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 40670,
-      "invalid": 190070
+      "invalid": 192362
     }
   },
   {
@@ -10172,7 +10172,7 @@
       ],
       "frequencies": [
         0,
-        180008,
+        182300,
         0,
         0,
         9756,
@@ -10187,7 +10187,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39910,
-      "invalid": 190830
+      "invalid": 193122
     }
   },
   {
@@ -10249,7 +10249,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         755,
@@ -10266,7 +10266,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 787,
-      "invalid": 229953
+      "invalid": 232245
     }
   },
   {
@@ -10328,7 +10328,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         791,
@@ -10345,7 +10345,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 746,
-      "invalid": 229994
+      "invalid": 232286
     }
   },
   {
@@ -10403,7 +10403,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         796,
@@ -10419,7 +10419,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 758,
-      "invalid": 229982
+      "invalid": 232274
     }
   },
   {
@@ -10477,7 +10477,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         796,
@@ -10493,7 +10493,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 746,
-      "invalid": 229994
+      "invalid": 232286
     }
   },
   {
@@ -10547,7 +10547,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         1162,
@@ -10562,7 +10562,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 391,
-      "invalid": 230349
+      "invalid": 232641
     }
   },
   {
@@ -10616,7 +10616,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         796,
@@ -10631,7 +10631,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 760,
-      "invalid": 229980
+      "invalid": 232272
     }
   },
   {
@@ -10689,7 +10689,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         755,
@@ -10705,7 +10705,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 784,
-      "invalid": 229956
+      "invalid": 232248
     }
   },
   {
@@ -10763,7 +10763,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         791,
@@ -10779,7 +10779,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 737,
-      "invalid": 230003
+      "invalid": 232295
     }
   },
   {
@@ -10808,7 +10808,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -10845,7 +10845,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -10863,7 +10863,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1536,
-      "invalid": 229204
+      "invalid": 231496
     }
   },
   {
@@ -10925,7 +10925,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -10942,7 +10942,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1510,
-      "invalid": 229230
+      "invalid": 231522
     }
   },
   {
@@ -11004,7 +11004,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         796,
@@ -11021,7 +11021,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 730,
-      "invalid": 230010
+      "invalid": 232302
     }
   },
   {
@@ -11087,7 +11087,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -11105,7 +11105,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1525,
-      "invalid": 229215
+      "invalid": 231507
     }
   },
   {
@@ -11171,7 +11171,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -11189,7 +11189,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1497,
-      "invalid": 229243
+      "invalid": 231535
     }
   },
   {
@@ -11259,7 +11259,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -11278,7 +11278,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1555,
-      "invalid": 229185
+      "invalid": 231477
     }
   },
   {
@@ -11307,7 +11307,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -11344,7 +11344,7 @@
       ],
       "frequencies": [
         0,
-        180008,
+        182300,
         0,
         0,
         42453,
@@ -11362,13 +11362,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8201,
-      "invalid": 222539
+      "invalid": 224831
     }
   },
   {
     "name": "si14b",
     "dataset": "ilanguage",
-    "label": "Interviewer rating of interviewees eloquence ",
+    "label": "Interviewer rating of interviewees eloquence",
     "categories": {
       "values": [
         -6,
@@ -11428,7 +11428,7 @@
       ],
       "frequencies": [
         0,
-        181564,
+        183856,
         0,
         0,
         42453,
@@ -11446,7 +11446,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6714,
-      "invalid": 224026
+      "invalid": 226318
     }
   },
   {
@@ -11475,7 +11475,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -11512,7 +11512,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -11530,7 +11530,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1547,
-      "invalid": 229193
+      "invalid": 231485
     }
   },
   {
@@ -11559,7 +11559,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -11596,7 +11596,7 @@
       ],
       "frequencies": [
         0,
-        181564,
+        183856,
         0,
         0,
         42453,
@@ -11614,7 +11614,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6678,
-      "invalid": 224062
+      "invalid": 226354
     }
   },
   {
@@ -11643,7 +11643,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -11680,7 +11680,7 @@
       ],
       "frequencies": [
         0,
-        181564,
+        183856,
         0,
         0,
         42453,
@@ -11698,7 +11698,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6705,
-      "invalid": 224035
+      "invalid": 226327
     }
   },
   {
@@ -11727,7 +11727,7 @@
         "[-3] answer improbable",
         "[-2] does not apply",
         "[-1] no answer",
-        "[1] No regional dialect at all (like the newsreader of the public television news \"Tagesschau\")",
+        "[1] No regional dialect at all (like the newsreader of the public television news \\\"Tagesschau\\\")",
         "[2] Slight regional dialect",
         "[3] Medium regional dialect",
         "[4] Rather strong regional dialect",
@@ -11764,7 +11764,7 @@
       ],
       "frequencies": [
         0,
-        229184,
+        231476,
         0,
         0,
         0,
@@ -11782,7 +11782,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1510,
-      "invalid": 229230
+      "invalid": 231522
     }
   },
   {
@@ -11832,7 +11832,7 @@
         0,
         0,
         0,
-        180125,
+        182417,
         50615
       ]
     },
@@ -11840,7 +11840,7 @@
     "label_de": "Innovatives Modul: Multilingualism, language attitudes, socioeconomic reflection",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -11886,7 +11886,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         9756,
@@ -11900,7 +11900,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39420,
-      "invalid": 191320
+      "invalid": 193612
     }
   },
   {
@@ -11957,7 +11957,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         31887,
@@ -11974,7 +11974,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 17217,
-      "invalid": 213523
+      "invalid": 215815
     }
   },
   {
@@ -12031,7 +12031,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         9756,
@@ -12048,7 +12048,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39123,
-      "invalid": 191617
+      "invalid": 193909
     }
   },
   {
@@ -12105,7 +12105,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12122,7 +12122,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19296,
-      "invalid": 211444
+      "invalid": 213736
     }
   },
   {
@@ -12179,7 +12179,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12196,7 +12196,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19656,
-      "invalid": 211084
+      "invalid": 213376
     }
   },
   {
@@ -12253,7 +12253,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12270,7 +12270,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19728,
-      "invalid": 211012
+      "invalid": 213304
     }
   },
   {
@@ -12327,7 +12327,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12344,7 +12344,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19386,
-      "invalid": 211354
+      "invalid": 213646
     }
   },
   {
@@ -12401,7 +12401,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12418,7 +12418,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19431,
-      "invalid": 211309
+      "invalid": 213601
     }
   },
   {
@@ -12475,7 +12475,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12492,7 +12492,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19485,
-      "invalid": 211255
+      "invalid": 213547
     }
   },
   {
@@ -12549,7 +12549,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12566,7 +12566,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 18972,
-      "invalid": 211768
+      "invalid": 214060
     }
   },
   {
@@ -12623,7 +12623,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12640,7 +12640,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19269,
-      "invalid": 211471
+      "invalid": 213763
     }
   },
   {
@@ -12697,7 +12697,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12714,7 +12714,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19422,
-      "invalid": 211318
+      "invalid": 213610
     }
   },
   {
@@ -12771,7 +12771,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12788,7 +12788,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19413,
-      "invalid": 211327
+      "invalid": 213619
     }
   },
   {
@@ -12845,7 +12845,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29133,
@@ -12862,7 +12862,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19521,
-      "invalid": 211219
+      "invalid": 213511
     }
   },
   {
@@ -12919,7 +12919,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         40347,
@@ -12936,7 +12936,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8748,
-      "invalid": 221992
+      "invalid": 224284
     }
   },
   {
@@ -13009,7 +13009,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         0,
@@ -13030,7 +13030,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 49176,
-      "invalid": 181564
+      "invalid": 183856
     }
   },
   {
@@ -13087,7 +13087,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         29799,
@@ -13104,7 +13104,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 18764,
-      "invalid": 211976
+      "invalid": 214268
     }
   },
   {
@@ -13145,7 +13145,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48727,
@@ -13158,7 +13158,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 449,
-      "invalid": 230291
+      "invalid": 232583
     }
   },
   {
@@ -13199,7 +13199,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48744,
@@ -13212,7 +13212,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 423,
-      "invalid": 230317
+      "invalid": 232609
     }
   },
   {
@@ -13269,7 +13269,7 @@
         false
       ],
       "frequencies": [
-        181600,
+        183892,
         0,
         0,
         9756,
@@ -13286,7 +13286,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39348,
-      "invalid": 191392
+      "invalid": 193684
     }
   },
   {
@@ -13343,7 +13343,7 @@
         false
       ],
       "frequencies": [
-        181573,
+        183865,
         0,
         0,
         45531,
@@ -13360,7 +13360,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3627,
-      "invalid": 227113
+      "invalid": 229405
     }
   },
   {
@@ -13405,7 +13405,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         0,
@@ -13419,7 +13419,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 48978,
-      "invalid": 181762
+      "invalid": 184054
     }
   },
   {
@@ -13464,7 +13464,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         13914,
@@ -13478,7 +13478,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 34857,
-      "invalid": 195883
+      "invalid": 198175
     }
   },
   {
@@ -13523,7 +13523,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         28125,
@@ -13537,7 +13537,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 21051,
-      "invalid": 209689
+      "invalid": 211981
     }
   },
   {
@@ -13582,7 +13582,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         28260,
@@ -13596,7 +13596,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 20916,
-      "invalid": 209824
+      "invalid": 212116
     }
   },
   {
@@ -13637,7 +13637,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         31761,
@@ -13650,7 +13650,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 17415,
-      "invalid": 213325
+      "invalid": 215617
     }
   },
   {
@@ -13691,7 +13691,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         40644,
@@ -13704,7 +13704,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8532,
-      "invalid": 222208
+      "invalid": 224500
     }
   },
   {
@@ -13745,7 +13745,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         39573,
@@ -13758,7 +13758,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9603,
-      "invalid": 221137
+      "invalid": 223429
     }
   },
   {
@@ -13799,7 +13799,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         46620,
@@ -13812,7 +13812,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2556,
-      "invalid": 228184
+      "invalid": 230476
     }
   },
   {
@@ -13853,7 +13853,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47754,
@@ -13866,7 +13866,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1422,
-      "invalid": 229318
+      "invalid": 231610
     }
   },
   {
@@ -13907,7 +13907,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48492,
@@ -13920,7 +13920,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 594,
-      "invalid": 230146
+      "invalid": 232438
     }
   },
   {
@@ -13961,7 +13961,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         44832,
@@ -13974,7 +13974,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4344,
-      "invalid": 226396
+      "invalid": 228688
     }
   },
   {
@@ -14015,7 +14015,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48069,
@@ -14028,7 +14028,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1062,
-      "invalid": 229678
+      "invalid": 231970
     }
   },
   {
@@ -14069,7 +14069,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         43311,
@@ -14082,7 +14082,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5865,
-      "invalid": 224875
+      "invalid": 227167
     }
   },
   {
@@ -14123,7 +14123,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         38709,
@@ -14136,7 +14136,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3564,
-      "invalid": 227176
+      "invalid": 229468
     }
   },
   {
@@ -14177,7 +14177,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         43767,
@@ -14190,7 +14190,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5409,
-      "invalid": 225331
+      "invalid": 227623
     }
   },
   {
@@ -14231,7 +14231,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         41841,
@@ -14244,7 +14244,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 7335,
-      "invalid": 223405
+      "invalid": 225697
     }
   },
   {
@@ -14285,7 +14285,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         46809,
@@ -14298,7 +14298,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2367,
-      "invalid": 228373
+      "invalid": 230665
     }
   },
   {
@@ -14339,7 +14339,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47088,
@@ -14352,7 +14352,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2088,
-      "invalid": 228652
+      "invalid": 230944
     }
   },
   {
@@ -14393,7 +14393,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48375,
@@ -14406,7 +14406,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 801,
-      "invalid": 229939
+      "invalid": 232231
     }
   },
   {
@@ -14447,7 +14447,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48105,
@@ -14460,7 +14460,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1071,
-      "invalid": 229669
+      "invalid": 231961
     }
   },
   {
@@ -14501,7 +14501,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         45477,
@@ -14514,7 +14514,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3699,
-      "invalid": 227041
+      "invalid": 229333
     }
   },
   {
@@ -14555,7 +14555,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47619,
@@ -14568,7 +14568,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1557,
-      "invalid": 229183
+      "invalid": 231475
     }
   },
   {
@@ -14609,7 +14609,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         42858,
@@ -14622,7 +14622,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6318,
-      "invalid": 224422
+      "invalid": 226714
     }
   },
   {
@@ -14663,7 +14663,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         39780,
@@ -14676,7 +14676,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9396,
-      "invalid": 221344
+      "invalid": 223636
     }
   },
   {
@@ -14717,7 +14717,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         46683,
@@ -14730,7 +14730,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2493,
-      "invalid": 228247
+      "invalid": 230539
     }
   },
   {
@@ -14771,7 +14771,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48582,
@@ -14784,7 +14784,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 594,
-      "invalid": 230146
+      "invalid": 232438
     }
   },
   {
@@ -14825,7 +14825,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         45468,
@@ -14838,7 +14838,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3708,
-      "invalid": 227032
+      "invalid": 229324
     }
   },
   {
@@ -14879,7 +14879,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47079,
@@ -14892,7 +14892,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2097,
-      "invalid": 228643
+      "invalid": 230935
     }
   },
   {
@@ -14933,7 +14933,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47313,
@@ -14946,7 +14946,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1863,
-      "invalid": 228877
+      "invalid": 231169
     }
   },
   {
@@ -14987,7 +14987,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         47385,
@@ -15000,7 +15000,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1791,
-      "invalid": 228949
+      "invalid": 231241
     }
   },
   {
@@ -15041,7 +15041,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         48897,
@@ -15054,7 +15054,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 279,
-      "invalid": 230461
+      "invalid": 232753
     }
   },
   {
@@ -15099,7 +15099,7 @@
         false
       ],
       "frequencies": [
-        181564,
+        183856,
         0,
         0,
         42453,
@@ -15113,7 +15113,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6723,
-      "invalid": 224017
+      "invalid": 226309
     }
   },
   {
@@ -15163,7 +15163,7 @@
         0,
         0,
         0,
-        229301,
+        231593,
         1439
       ]
     },
@@ -15171,7 +15171,7 @@
     "label_de": "Innovatives Modul: Online-Zusatzbefragung Sprache",
     "study": "soep-is",
     "statistics": {
-      "valid": 230740,
+      "valid": 233032,
       "invalid": 0
     }
   },
@@ -15225,7 +15225,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15241,7 +15241,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15286,7 +15286,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15300,7 +15300,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15349,7 +15349,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15364,7 +15364,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15409,7 +15409,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15423,7 +15423,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15468,7 +15468,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15482,7 +15482,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15527,7 +15527,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15541,7 +15541,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15586,7 +15586,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15600,7 +15600,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15645,7 +15645,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15659,7 +15659,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15704,7 +15704,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15718,7 +15718,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -15731,7 +15731,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Startdatum und Uhrzeit",
     "study": "soep-is",
     "statistics": {}
@@ -15746,7 +15746,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Enddatum und Uhrzeit",
     "study": "soep-is",
     "statistics": {}
@@ -15778,7 +15778,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -15796,7 +15796,7 @@
       "3rd Qu.": 1415.25,
       "Max.": 6889870.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -15826,7 +15826,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -15844,7 +15844,7 @@
       "3rd Qu.": 13735560814.25,
       "Max.": 13742082778.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -15874,7 +15874,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -15892,7 +15892,7 @@
       "3rd Qu.": 13735561039.25,
       "Max.": 13742082791.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -15949,7 +15949,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -15966,7 +15966,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1435,
-      "invalid": 229305
+      "invalid": 231597
     }
   },
   {
@@ -15996,7 +15996,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -16014,7 +16014,7 @@
       "3rd Qu.": 13735561052.75,
       "Max.": 13742082805.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -16071,7 +16071,7 @@
         false
       ],
       "frequencies": [
-        230021,
+        232313,
         0,
         0,
         0,
@@ -16088,7 +16088,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 717,
-      "invalid": 230023
+      "invalid": 232315
     }
   },
   {
@@ -16145,7 +16145,7 @@
         false
       ],
       "frequencies": [
-        230020,
+        232312,
         0,
         0,
         0,
@@ -16162,7 +16162,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 717,
-      "invalid": 230023
+      "invalid": 232315
     }
   },
   {
@@ -16207,7 +16207,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -16221,7 +16221,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1165,
-      "invalid": 229575
+      "invalid": 231867
     }
   },
   {
@@ -16251,7 +16251,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -16269,7 +16269,7 @@
       "3rd Qu.": 13735561074.75,
       "Max.": 13742082824.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -16326,7 +16326,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16343,7 +16343,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 478,
-      "invalid": 230262
+      "invalid": 232554
     }
   },
   {
@@ -16400,7 +16400,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16417,7 +16417,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 473,
-      "invalid": 230267
+      "invalid": 232559
     }
   },
   {
@@ -16474,7 +16474,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16491,7 +16491,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 435,
-      "invalid": 230305
+      "invalid": 232597
     }
   },
   {
@@ -16548,7 +16548,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16565,7 +16565,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 484,
-      "invalid": 230256
+      "invalid": 232548
     }
   },
   {
@@ -16622,7 +16622,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16639,7 +16639,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 482,
-      "invalid": 230258
+      "invalid": 232550
     }
   },
   {
@@ -16696,7 +16696,7 @@
         false
       ],
       "frequencies": [
-        230248,
+        232540,
         0,
         0,
         0,
@@ -16713,7 +16713,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 444,
-      "invalid": 230296
+      "invalid": 232588
     }
   },
   {
@@ -16770,7 +16770,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -16787,7 +16787,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 471,
-      "invalid": 230269
+      "invalid": 232561
     }
   },
   {
@@ -16844,7 +16844,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -16861,7 +16861,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 472,
-      "invalid": 230268
+      "invalid": 232560
     }
   },
   {
@@ -16918,7 +16918,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -16935,7 +16935,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 360,
-      "invalid": 230380
+      "invalid": 232672
     }
   },
   {
@@ -16992,7 +16992,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -17009,7 +17009,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 478,
-      "invalid": 230262
+      "invalid": 232554
     }
   },
   {
@@ -17066,7 +17066,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -17083,7 +17083,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 466,
-      "invalid": 230274
+      "invalid": 232566
     }
   },
   {
@@ -17140,7 +17140,7 @@
         false
       ],
       "frequencies": [
-        230252,
+        232544,
         0,
         0,
         0,
@@ -17157,7 +17157,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 405,
-      "invalid": 230335
+      "invalid": 232627
     }
   },
   {
@@ -17214,7 +17214,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17231,7 +17231,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 429,
-      "invalid": 230311
+      "invalid": 232603
     }
   },
   {
@@ -17288,7 +17288,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17305,7 +17305,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 431,
-      "invalid": 230309
+      "invalid": 232601
     }
   },
   {
@@ -17362,7 +17362,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17379,7 +17379,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 369,
-      "invalid": 230371
+      "invalid": 232663
     }
   },
   {
@@ -17436,7 +17436,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17453,7 +17453,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 440,
-      "invalid": 230300
+      "invalid": 232592
     }
   },
   {
@@ -17510,7 +17510,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17527,7 +17527,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 434,
-      "invalid": 230306
+      "invalid": 232598
     }
   },
   {
@@ -17584,7 +17584,7 @@
         false
       ],
       "frequencies": [
-        230281,
+        232573,
         0,
         0,
         0,
@@ -17601,7 +17601,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 379,
-      "invalid": 230361
+      "invalid": 232653
     }
   },
   {
@@ -17658,7 +17658,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -17675,7 +17675,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1426,
-      "invalid": 229314
+      "invalid": 231606
     }
   },
   {
@@ -17732,7 +17732,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -17749,7 +17749,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1400,
-      "invalid": 229340
+      "invalid": 231632
     }
   },
   {
@@ -17806,7 +17806,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -17823,7 +17823,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1417,
-      "invalid": 229323
+      "invalid": 231615
     }
   },
   {
@@ -17880,7 +17880,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -17897,7 +17897,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1425,
-      "invalid": 229315
+      "invalid": 231607
     }
   },
   {
@@ -17954,7 +17954,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -17971,7 +17971,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1432,
-      "invalid": 229308
+      "invalid": 231600
     }
   },
   {
@@ -18028,7 +18028,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -18045,7 +18045,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1403,
-      "invalid": 229337
+      "invalid": 231629
     }
   },
   {
@@ -18075,7 +18075,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -18093,7 +18093,7 @@
       "3rd Qu.": 13735561189.5,
       "Max.": 13742082916.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -18123,7 +18123,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -18141,7 +18141,7 @@
       "3rd Qu.": 37.0,
       "Max.": 95.0,
       "valid": 1410,
-      "invalid": 229330
+      "invalid": 231622
     }
   },
   {
@@ -18186,7 +18186,7 @@
         false
       ],
       "frequencies": [
-        230037,
+        232329,
         0,
         0,
         0,
@@ -18200,7 +18200,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 674,
-      "invalid": 230066
+      "invalid": 232358
     }
   },
   {
@@ -18245,7 +18245,7 @@
         false
       ],
       "frequencies": [
-        230004,
+        232296,
         0,
         0,
         0,
@@ -18259,7 +18259,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 675,
-      "invalid": 230065
+      "invalid": 232357
     }
   },
   {
@@ -18300,7 +18300,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1380,
@@ -18313,7 +18313,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 59,
-      "invalid": 230681
+      "invalid": 232973
     }
   },
   {
@@ -18354,7 +18354,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1225,
@@ -18367,7 +18367,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 230526
+      "invalid": 232818
     }
   },
   {
@@ -18408,7 +18408,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         138,
@@ -18421,7 +18421,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1301,
-      "invalid": 229439
+      "invalid": 231731
     }
   },
   {
@@ -18462,7 +18462,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         538,
@@ -18475,7 +18475,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 901,
-      "invalid": 229839
+      "invalid": 232131
     }
   },
   {
@@ -18516,7 +18516,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1146,
@@ -18529,7 +18529,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 293,
-      "invalid": 230447
+      "invalid": 232739
     }
   },
   {
@@ -18570,7 +18570,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1403,
@@ -18583,7 +18583,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 36,
-      "invalid": 230704
+      "invalid": 232996
     }
   },
   {
@@ -18624,7 +18624,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1264,
@@ -18637,7 +18637,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 175,
-      "invalid": 230565
+      "invalid": 232857
     }
   },
   {
@@ -18678,7 +18678,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1376,
@@ -18691,7 +18691,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 63,
-      "invalid": 230677
+      "invalid": 232969
     }
   },
   {
@@ -18732,7 +18732,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1137,
@@ -18745,7 +18745,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 302,
-      "invalid": 230438
+      "invalid": 232730
     }
   },
   {
@@ -18786,7 +18786,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         561,
@@ -18799,7 +18799,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 878,
-      "invalid": 229862
+      "invalid": 232154
     }
   },
   {
@@ -18840,7 +18840,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1351,
@@ -18853,7 +18853,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 88,
-      "invalid": 230652
+      "invalid": 232944
     }
   },
   {
@@ -18883,7 +18883,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -18901,7 +18901,7 @@
       "3rd Qu.": 13735561281.75,
       "Max.": 13742082989.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -18958,7 +18958,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -18975,7 +18975,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1418,
-      "invalid": 229322
+      "invalid": 231614
     }
   },
   {
@@ -19032,7 +19032,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -19049,7 +19049,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1415,
-      "invalid": 229325
+      "invalid": 231617
     }
   },
   {
@@ -19106,7 +19106,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -19123,7 +19123,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1425,
-      "invalid": 229315
+      "invalid": 231607
     }
   },
   {
@@ -19180,7 +19180,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -19197,7 +19197,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1427,
-      "invalid": 229313
+      "invalid": 231605
     }
   },
   {
@@ -19227,7 +19227,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -19245,7 +19245,7 @@
       "3rd Qu.": 13735561335.25,
       "Max.": 13742083016.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -19290,7 +19290,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -19304,7 +19304,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1357,
-      "invalid": 229383
+      "invalid": 231675
     }
   },
   {
@@ -19361,7 +19361,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19378,7 +19378,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 678,
-      "invalid": 230062
+      "invalid": 232354
     }
   },
   {
@@ -19435,7 +19435,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19452,7 +19452,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 639,
-      "invalid": 230101
+      "invalid": 232393
     }
   },
   {
@@ -19482,7 +19482,7 @@
         true
       ],
       "frequencies": [
-        230097,
+        232389,
         0,
         0,
         0,
@@ -19500,7 +19500,7 @@
       "3rd Qu.": 13735569917.5,
       "Max.": 13741981896.0,
       "valid": 643,
-      "invalid": 230097
+      "invalid": 232389
     }
   },
   {
@@ -19545,7 +19545,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19559,7 +19559,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19604,7 +19604,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19618,7 +19618,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19663,7 +19663,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19677,7 +19677,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19722,7 +19722,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19736,7 +19736,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19781,7 +19781,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19795,7 +19795,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19840,7 +19840,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19854,7 +19854,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19899,7 +19899,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19913,7 +19913,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -19958,7 +19958,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -19972,7 +19972,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 230061
+      "invalid": 232353
     }
   },
   {
@@ -20002,7 +20002,7 @@
         true
       ],
       "frequencies": [
-        230097,
+        232389,
         0,
         0,
         0,
@@ -20020,7 +20020,7 @@
       "3rd Qu.": 13735569941.0,
       "Max.": 13741981917.0,
       "valid": 643,
-      "invalid": 230097
+      "invalid": 232389
     }
   },
   {
@@ -20077,7 +20077,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -20094,7 +20094,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 675,
-      "invalid": 230065
+      "invalid": 232357
     }
   },
   {
@@ -20151,7 +20151,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -20168,7 +20168,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 677,
-      "invalid": 230063
+      "invalid": 232355
     }
   },
   {
@@ -20225,7 +20225,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -20242,7 +20242,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 678,
-      "invalid": 230062
+      "invalid": 232354
     }
   },
   {
@@ -20299,7 +20299,7 @@
         false
       ],
       "frequencies": [
-        230061,
+        232353,
         0,
         0,
         0,
@@ -20316,7 +20316,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 678,
-      "invalid": 230062
+      "invalid": 232354
     }
   },
   {
@@ -20346,7 +20346,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -20364,7 +20364,7 @@
       "3rd Qu.": 13735561372.25,
       "Max.": 13742083021.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -20421,7 +20421,7 @@
         false
       ],
       "frequencies": [
-        230017,
+        232309,
         0,
         0,
         0,
@@ -20438,7 +20438,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 711,
-      "invalid": 230029
+      "invalid": 232321
     }
   },
   {
@@ -20495,7 +20495,7 @@
         false
       ],
       "frequencies": [
-        230024,
+        232316,
         0,
         0,
         0,
@@ -20512,7 +20512,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 710,
-      "invalid": 230030
+      "invalid": 232322
     }
   },
   {
@@ -20569,7 +20569,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -20586,7 +20586,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1437,
-      "invalid": 229303
+      "invalid": 231595
     }
   },
   {
@@ -20631,7 +20631,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -20645,7 +20645,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1408,
-      "invalid": 229332
+      "invalid": 231624
     }
   },
   {
@@ -20702,7 +20702,7 @@
         false
       ],
       "frequencies": [
-        229474,
+        231766,
         0,
         0,
         0,
@@ -20719,7 +20719,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1263,
-      "invalid": 229477
+      "invalid": 231769
     }
   },
   {
@@ -20749,7 +20749,7 @@
         true
       ],
       "frequencies": [
-        229530,
+        231822,
         0,
         0,
         0,
@@ -20767,7 +20767,7 @@
       "3rd Qu.": 13735563838.0,
       "Max.": 13741982004.0,
       "valid": 1210,
-      "invalid": 229530
+      "invalid": 231822
     }
   },
   {
@@ -20808,7 +20808,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1354,
@@ -20821,7 +20821,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 85,
-      "invalid": 230655
+      "invalid": 232947
     }
   },
   {
@@ -20862,7 +20862,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1400,
@@ -20875,7 +20875,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 39,
-      "invalid": 230701
+      "invalid": 232993
     }
   },
   {
@@ -20916,7 +20916,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         811,
@@ -20929,7 +20929,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 628,
-      "invalid": 230112
+      "invalid": 232404
     }
   },
   {
@@ -20970,7 +20970,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1246,
@@ -20983,7 +20983,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 193,
-      "invalid": 230547
+      "invalid": 232839
     }
   },
   {
@@ -21024,7 +21024,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1386,
@@ -21037,7 +21037,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 53,
-      "invalid": 230687
+      "invalid": 232979
     }
   },
   {
@@ -21067,7 +21067,7 @@
         true
       ],
       "frequencies": [
-        229530,
+        231822,
         0,
         0,
         0,
@@ -21085,7 +21085,7 @@
       "3rd Qu.": 13735563905.75,
       "Max.": 13741982080.0,
       "valid": 1210,
-      "invalid": 229530
+      "invalid": 231822
     }
   },
   {
@@ -21126,7 +21126,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1377,
@@ -21139,7 +21139,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 62,
-      "invalid": 230678
+      "invalid": 232970
     }
   },
   {
@@ -21180,7 +21180,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1349,
@@ -21193,7 +21193,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 90,
-      "invalid": 230650
+      "invalid": 232942
     }
   },
   {
@@ -21234,7 +21234,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1218,
@@ -21247,7 +21247,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 221,
-      "invalid": 230519
+      "invalid": 232811
     }
   },
   {
@@ -21288,7 +21288,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1266,
@@ -21301,7 +21301,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 173,
-      "invalid": 230567
+      "invalid": 232859
     }
   },
   {
@@ -21342,7 +21342,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1151,
@@ -21355,7 +21355,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 288,
-      "invalid": 230452
+      "invalid": 232744
     }
   },
   {
@@ -21396,7 +21396,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1377,
@@ -21409,7 +21409,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 62,
-      "invalid": 230678
+      "invalid": 232970
     }
   },
   {
@@ -21450,7 +21450,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1196,
@@ -21463,7 +21463,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 243,
-      "invalid": 230497
+      "invalid": 232789
     }
   },
   {
@@ -21493,7 +21493,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -21511,7 +21511,7 @@
       "3rd Qu.": 13735561606.0,
       "Max.": 13742083042.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -21556,7 +21556,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -21570,7 +21570,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1296,
-      "invalid": 229444
+      "invalid": 231736
     }
   },
   {
@@ -21611,7 +21611,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1397,
@@ -21624,7 +21624,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 42,
-      "invalid": 230698
+      "invalid": 232990
     }
   },
   {
@@ -21665,7 +21665,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1300,
@@ -21678,7 +21678,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 139,
-      "invalid": 230601
+      "invalid": 232893
     }
   },
   {
@@ -21719,7 +21719,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1176,
@@ -21732,7 +21732,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 263,
-      "invalid": 230477
+      "invalid": 232769
     }
   },
   {
@@ -21773,7 +21773,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1273,
@@ -21786,7 +21786,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 166,
-      "invalid": 230574
+      "invalid": 232866
     }
   },
   {
@@ -21827,7 +21827,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1380,
@@ -21840,7 +21840,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 59,
-      "invalid": 230681
+      "invalid": 232973
     }
   },
   {
@@ -21881,7 +21881,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         881,
@@ -21894,7 +21894,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 558,
-      "invalid": 230182
+      "invalid": 232474
     }
   },
   {
@@ -21935,7 +21935,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1313,
@@ -21948,7 +21948,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 126,
-      "invalid": 230614
+      "invalid": 232906
     }
   },
   {
@@ -21989,7 +21989,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         1309,
@@ -22002,7 +22002,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 130,
-      "invalid": 230610
+      "invalid": 232902
     }
   },
   {
@@ -22032,7 +22032,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -22050,7 +22050,7 @@
       "3rd Qu.": 13735561618.0,
       "Max.": 13742083113.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -22095,7 +22095,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22109,7 +22109,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1383,
-      "invalid": 229357
+      "invalid": 231649
     }
   },
   {
@@ -22166,7 +22166,7 @@
         false
       ],
       "frequencies": [
-        230337,
+        232629,
         0,
         0,
         0,
@@ -22183,7 +22183,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 394,
-      "invalid": 230346
+      "invalid": 232638
     }
   },
   {
@@ -22213,7 +22213,7 @@
         true
       ],
       "frequencies": [
-        230401,
+        232693,
         0,
         0,
         0,
@@ -22231,7 +22231,7 @@
       "3rd Qu.": 13735592573.0,
       "Max.": 13741982141.0,
       "valid": 339,
-      "invalid": 230401
+      "invalid": 232693
     }
   },
   {
@@ -22288,7 +22288,7 @@
         false
       ],
       "frequencies": [
-        230380,
+        232672,
         0,
         0,
         0,
@@ -22305,7 +22305,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 349,
-      "invalid": 230391
+      "invalid": 232683
     }
   },
   {
@@ -22335,7 +22335,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -22353,7 +22353,7 @@
       "3rd Qu.": 13735561650.25,
       "Max.": 13742083118.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -22426,7 +22426,7 @@
         false
       ],
       "frequencies": [
-        230023,
+        232315,
         0,
         0,
         0,
@@ -22447,7 +22447,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 682,
-      "invalid": 230058
+      "invalid": 232350
     }
   },
   {
@@ -22520,7 +22520,7 @@
         false
       ],
       "frequencies": [
-        230018,
+        232310,
         0,
         0,
         0,
@@ -22541,7 +22541,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 705,
-      "invalid": 230035
+      "invalid": 232327
     }
   },
   {
@@ -22571,7 +22571,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -22589,7 +22589,7 @@
       "3rd Qu.": 13735561718.75,
       "Max.": 13742083166.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -22646,7 +22646,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22663,7 +22663,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -22720,7 +22720,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22737,7 +22737,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -22794,7 +22794,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22811,7 +22811,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1431,
-      "invalid": 229309
+      "invalid": 231601
     }
   },
   {
@@ -22868,7 +22868,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22885,7 +22885,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1430,
-      "invalid": 229310
+      "invalid": 231602
     }
   },
   {
@@ -22942,7 +22942,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -22959,7 +22959,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1438,
-      "invalid": 229302
+      "invalid": 231594
     }
   },
   {
@@ -23016,7 +23016,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -23033,7 +23033,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -23090,7 +23090,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -23107,7 +23107,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1437,
-      "invalid": 229303
+      "invalid": 231595
     }
   },
   {
@@ -23137,7 +23137,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -23155,13 +23155,13 @@
       "3rd Qu.": 13735561747.75,
       "Max.": 13742083187.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
     "name": "onlang32",
     "dataset": "ilanguage",
-    "label": "Audio: male or female voice ",
+    "label": "Audio: male or female voice",
     "categories": {
       "values": [
         -5,
@@ -23200,7 +23200,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23214,7 +23214,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 674,
-      "invalid": 230066
+      "invalid": 232358
     }
   },
   {
@@ -23271,7 +23271,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23288,7 +23288,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 668,
-      "invalid": 230072
+      "invalid": 232364
     }
   },
   {
@@ -23345,7 +23345,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23362,7 +23362,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 669,
-      "invalid": 230071
+      "invalid": 232363
     }
   },
   {
@@ -23419,7 +23419,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23436,7 +23436,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 671,
-      "invalid": 230069
+      "invalid": 232361
     }
   },
   {
@@ -23493,7 +23493,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23510,7 +23510,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 672,
-      "invalid": 230068
+      "invalid": 232360
     }
   },
   {
@@ -23567,7 +23567,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23584,7 +23584,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 672,
-      "invalid": 230068
+      "invalid": 232360
     }
   },
   {
@@ -23641,7 +23641,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23658,7 +23658,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 666,
-      "invalid": 230074
+      "invalid": 232366
     }
   },
   {
@@ -23715,7 +23715,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23732,7 +23732,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 673,
-      "invalid": 230067
+      "invalid": 232359
     }
   },
   {
@@ -23789,7 +23789,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23806,7 +23806,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 673,
-      "invalid": 230067
+      "invalid": 232359
     }
   },
   {
@@ -23863,7 +23863,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23880,7 +23880,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 672,
-      "invalid": 230068
+      "invalid": 232360
     }
   },
   {
@@ -23937,7 +23937,7 @@
         false
       ],
       "frequencies": [
-        230066,
+        232358,
         0,
         0,
         0,
@@ -23954,7 +23954,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 654,
-      "invalid": 230086
+      "invalid": 232378
     }
   },
   {
@@ -24011,7 +24011,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24028,7 +24028,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 759,
-      "invalid": 229981
+      "invalid": 232273
     }
   },
   {
@@ -24085,7 +24085,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24102,7 +24102,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 759,
-      "invalid": 229981
+      "invalid": 232273
     }
   },
   {
@@ -24159,7 +24159,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24176,7 +24176,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 756,
-      "invalid": 229984
+      "invalid": 232276
     }
   },
   {
@@ -24233,7 +24233,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24250,7 +24250,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 760,
-      "invalid": 229980
+      "invalid": 232272
     }
   },
   {
@@ -24307,7 +24307,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24324,7 +24324,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 761,
-      "invalid": 229979
+      "invalid": 232271
     }
   },
   {
@@ -24381,7 +24381,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24398,7 +24398,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 757,
-      "invalid": 229983
+      "invalid": 232275
     }
   },
   {
@@ -24455,7 +24455,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24472,7 +24472,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 760,
-      "invalid": 229980
+      "invalid": 232272
     }
   },
   {
@@ -24529,7 +24529,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24546,7 +24546,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 762,
-      "invalid": 229978
+      "invalid": 232270
     }
   },
   {
@@ -24603,7 +24603,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24620,7 +24620,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 759,
-      "invalid": 229981
+      "invalid": 232273
     }
   },
   {
@@ -24677,7 +24677,7 @@
         false
       ],
       "frequencies": [
-        229975,
+        232267,
         0,
         0,
         0,
@@ -24694,7 +24694,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 760,
-      "invalid": 229980
+      "invalid": 232272
     }
   },
   {
@@ -24724,7 +24724,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24742,7 +24742,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -24772,7 +24772,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24790,7 +24790,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -24820,7 +24820,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24838,7 +24838,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -24868,7 +24868,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24886,7 +24886,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -24916,7 +24916,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24934,7 +24934,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -24964,7 +24964,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -24982,7 +24982,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25012,7 +25012,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25030,7 +25030,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25060,7 +25060,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25078,7 +25078,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25108,7 +25108,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25126,7 +25126,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25156,7 +25156,7 @@
         true
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25174,7 +25174,7 @@
       "3rd Qu.": 8.0,
       "Max.": 10.0,
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25204,7 +25204,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -25222,7 +25222,7 @@
       "3rd Qu.": 13735562229.5,
       "Max.": 13742083335.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -25279,7 +25279,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25296,7 +25296,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25326,7 +25326,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -25344,7 +25344,7 @@
       "3rd Qu.": 13735562246.0,
       "Max.": 13742083340.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
     }
   },
   {
@@ -25393,7 +25393,7 @@
         false
       ],
       "frequencies": [
-        229301,
+        231593,
         0,
         0,
         0,
@@ -25408,7 +25408,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1439,
-      "invalid": 229301
+      "invalid": 231593
     }
   },
   {
@@ -25438,7 +25438,7 @@
         true
       ],
       "frequencies": [
-        229358,
+        231650,
         0,
         0,
         0,
@@ -25456,7 +25456,877 @@
       "3rd Qu.": 13735562289.25,
       "Max.": 13742083419.0,
       "valid": 1382,
-      "invalid": 229358
+      "invalid": 231650
+    }
+  },
+  {
+    "name": "isp2019_12A_1_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: pass on job-related information to collea",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2285,
+        0,
+        4,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Berufsbezogene Informationen an Kollegen we",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7,
+      "invalid": 233025
+    }
+  },
+  {
+    "name": "isp2019_12A_2_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: Instructing or training people",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2289,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Personen anleiten bzw. ausbilden",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 3,
+      "invalid": 233029
+    }
+  },
+  {
+    "name": "isp2019_12A_3_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: Speeches or presentations in front of fiv",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2284,
+        0,
+        7,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Reden oder Präsentationen vor fünf oder meh",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 8,
+      "invalid": 233024
+    }
+  },
+  {
+    "name": "isp2019_12A_4_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in different situations: sales talks for products or services",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2288,
+        0,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Verkaufsgespräche für Produkte oder Dienstl",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4,
+      "invalid": 233028
+    }
+  },
+  {
+    "name": "isp2019_12A_5_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: advising external people, e.g. suppliers",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2285,
+        0,
+        5,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Externe Personen beraten, z.B. Lieferanten,",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 7,
+      "invalid": 233025
+    }
+  },
+  {
+    "name": "isp2019_12A_6_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: Advise people from your company",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2286,
+        0,
+        3,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Personen aus Ihrer Firma beraten",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 233026
+    }
+  },
+  {
+    "name": "isp2019_12A_7_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: convince or influence external people",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2286,
+        0,
+        4,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Externe Personen überzeugen bzw. beeinfluss",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 6,
+      "invalid": 233026
+    }
+  },
+  {
+    "name": "isp2019_12A_8_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: negotiations with external persons",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Sprachverhalten versch. Situationen: Verhandlungen mit externen Personen, z.B. L",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2.0,
+      "1st Qu.": 2.0,
+      "Median": 2.0,
+      "Mean": 2.25,
+      "3rd Qu.": 2.25,
+      "Max.": 3.0,
+      "valid": 4,
+      "invalid": 233028
+    }
+  },
+  {
+    "name": "isp2019_12A_9_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: negotiations with people from your compan",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2287,
+        0,
+        4,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Verhandlungen mit Personen aus Ihrer Firma",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 5,
+      "invalid": 233027
+    }
+  },
+  {
+    "name": "isp2019_12A_10_enc",
+    "dataset": "ilanguage",
+    "label": "Speech behavior in various situations: Talking to people who grew up in another ",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-5] not included in this version of the questionnaire",
+        "[-4] inadmissible multiple answer",
+        "[-3] answer improbable",
+        "[-2] does not apply",
+        "[-1] no answer",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "labels_de": [
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1]",
+        "[2]",
+        "[3]",
+        "[4]",
+        "[5] ",
+        "[6]",
+        "[7]",
+        "[8]",
+        "[9]"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        230740,
+        0,
+        0,
+        0,
+        2277,
+        0,
+        1,
+        11,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sprachverhalten versch. Situationen: Mit Personen sprechen, die in einer anderen",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 15,
+      "invalid": 233017
     }
   }
 ]

@@ -14,12 +14,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 874418.0,
-      "Median": 977624.0,
-      "Mean": 2403208.043565542,
-      "3rd Qu.": 4107656.0,
+      "1st Qu.": 876623.0,
+      "Median": 4003085.0,
+      "Mean": 2464395.759121594,
+      "3rd Qu.": 4113539.5,
       "Max.": 4905976.0,
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -38,12 +38,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 877077.0,
-      "Median": 973323.0,
-      "Mean": 2371635.0024300907,
-      "3rd Qu.": 4106984.0,
+      "1st Qu.": 879614.0,
+      "Median": 979155.0,
+      "Mean": 2428326.80544937,
+      "3rd Qu.": 4113026.0,
       "Max.": 4905976.0,
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -91,11 +91,11 @@
     "statistics": {
       "Min.": 1998.0,
       "1st Qu.": 2012.0,
-      "Median": 2014.0,
-      "Mean": 2013.693121786293,
-      "3rd Qu.": 2016.0,
-      "Max.": 2019.0,
-      "valid": 56788,
+      "Median": 2015.0,
+      "Mean": 2014.1739731598211,
+      "3rd Qu.": 2017.0,
+      "Max.": 2020.0,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -118,7 +118,8 @@
         25,
         26,
         28,
-        32
+        32,
+        38
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filtering",
@@ -134,7 +135,8 @@
         "[25] Supplementary Sample 2013",
         "[26] Supplementary Sample 2014",
         "[28] Bonn Intervention Panel 2014",
-        "[32] Supplementary Sample 2016"
+        "[32] Supplementary Sample 2016",
+        "[38] Supplementary Sample 2020 ESS"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -150,7 +152,8 @@
         "[25] Innovationssample 2013 Aufstockung",
         "[26] Innovationssample 2014 Aufstockung",
         "[28] Bonn Intervention Panel 2014",
-        "[32] Innovationssample 2016 Aufstockung"
+        "[32] Innovationssample 2016 Aufstockung",
+        "[38] Innovationssample 2020 Aufstockung ESS"
       ],
       "missings": [
         true,
@@ -159,6 +162,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -175,21 +179,22 @@
         0,
         0,
         0,
-        4557,
-        4269,
-        11584,
-        8614,
-        10004,
-        7281,
-        3209,
-        7270
+        4671,
+        4375,
+        12216,
+        9177,
+        10626,
+        7783,
+        3699,
+        7887,
+        1041
       ]
     },
     "scale": "cat",
     "label_de": "Stichprobenkennzeichen",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -243,18 +248,18 @@
         0,
         0,
         0,
-        60,
+        64,
         0,
-        46577,
-        10151
+        50294,
+        11117
       ]
     },
     "scale": "cat",
     "label_de": "Aktuelle Stichprobenregion",
     "study": "soep-is",
     "statistics": {
-      "valid": 56728,
-      "invalid": 60
+      "valid": 61411,
+      "invalid": 64
     }
   },
   {
@@ -321,18 +326,18 @@
         0,
         0,
         0,
-        34646,
-        2585,
-        212,
-        224,
-        19121
+        38018,
+        2774,
+        231,
+        233,
+        20219
       ]
     },
     "scale": "cat",
     "label_de": "Haushaltstyp",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -370,7 +375,7 @@
         0,
         0,
         0,
-        4054,
+        8741,
         0
       ]
     },
@@ -385,7 +390,7 @@
       "3rd Qu.": 3.0,
       "Max.": 17.0,
       "valid": 52734,
-      "invalid": 4054
+      "invalid": 8741
     }
   },
   {
@@ -436,14 +441,14 @@
         0,
         0,
         0,
-        138
+        162
       ]
     },
     "scale": "cat",
     "label_de": "Tag letzter HH-Kontakt",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -543,26 +548,26 @@
         0,
         5,
         0,
-        139,
-        5884,
-        6552,
+        163,
+        6113,
+        6695,
         3917,
-        956,
-        571,
-        701,
-        1383,
-        938,
-        9845,
-        14026,
-        8157,
-        3714
+        1358,
+        761,
+        709,
+        1500,
+        1155,
+        10640,
+        15614,
+        8887,
+        3958
       ]
     },
     "scale": "cat",
     "label_de": "Monat letzter HH-Kontakt",
     "study": "soep-is",
     "statistics": {
-      "valid": 56783,
+      "valid": 61470,
       "invalid": 5
     }
   },
@@ -672,32 +677,32 @@
         0,
         0,
         0,
-        72,
+        85,
         0,
-        1945,
-        1095,
-        5798,
-        482,
-        14489,
-        3741,
-        2380,
-        6147,
-        8347,
-        642,
-        2398,
-        1636,
-        1304,
-        2941,
-        1774,
-        1597
+        2088,
+        1174,
+        6259,
+        527,
+        15768,
+        4032,
+        2578,
+        6580,
+        9002,
+        682,
+        2575,
+        1791,
+        1432,
+        3240,
+        1929,
+        1733
       ]
     },
     "scale": "cat",
     "label_de": "Bundesland",
     "study": "soep-is",
     "statistics": {
-      "valid": 56716,
-      "invalid": 72
+      "valid": 61390,
+      "invalid": 85
     }
   },
   {
@@ -774,15 +779,15 @@
         0,
         0,
         0,
-        53848,
+        58267,
         0,
-        2456,
+        2686,
+        49,
+        107,
+        78,
+        65,
+        174,
         46,
-        97,
-        76,
-        61,
-        157,
-        44,
         3
       ]
     },
@@ -790,8 +795,8 @@
     "label_de": "Adressenermittlung Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 2940,
-      "invalid": 53848
+      "valid": 3208,
+      "invalid": 58267
     }
   },
   {
@@ -809,7 +814,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filtering",
@@ -821,7 +828,9 @@
         "[1] Interviewer",
         "[2] Mail",
         "[3] Resident Registrar",
-        "[4] Target Person"
+        "[4] Target Person",
+        "[5] Customer",
+        "[6] Post  AdressResearch"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -833,7 +842,9 @@
         "[1] Interviewer",
         "[2] Post",
         "[3] Einwohnermeldeamt",
-        "[4] Zielperson"
+        "[4] Zielperson",
+        "[5] Kunde",
+        "[6] Post - AdressResearch"
       ],
       "missings": [
         true,
@@ -845,6 +856,8 @@
         false,
         false,
         false,
+        false,
+        false,
         false
       ],
       "frequencies": [
@@ -852,20 +865,22 @@
         0,
         0,
         0,
-        53848,
+        58267,
         0,
-        1055,
-        617,
+        1143,
+        683,
         1163,
-        105
+        151,
+        0,
+        68
       ]
     },
     "scale": "cat",
     "label_de": "Informationsquelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 2940,
-      "invalid": 53848
+      "valid": 3208,
+      "invalid": 58267
     }
   },
   {
@@ -932,10 +947,10 @@
         0,
         0,
         0,
-        557,
-        53165,
-        2800,
-        252,
+        1278,
+        57063,
+        2866,
+        254,
         14
       ]
     },
@@ -943,7 +958,7 @@
     "label_de": "Zahl der eingesetzten Interviewer",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -1031,23 +1046,23 @@
         0,
         0,
         0,
-        557,
-        8133,
-        15787,
-        10864,
-        6983,
-        4500,
-        2746,
-        1960,
-        1407,
-        3851
+        1278,
+        8485,
+        16915,
+        11763,
+        7498,
+        4851,
+        2968,
+        2110,
+        1511,
+        3925
       ]
     },
     "scale": "cat",
     "label_de": "Interviewerkontakte",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -1109,11 +1124,11 @@
         0,
         0,
         0,
-        55866,
+        59599,
         0,
-        779,
-        9,
-        112,
+        843,
+        187,
+        824,
         22
       ]
     },
@@ -1121,8 +1136,8 @@
     "label_de": "Telefonkontakte 1, Bearbeitung",
     "study": "soep-is",
     "statistics": {
-      "valid": 922,
-      "invalid": 55866
+      "valid": 1876,
+      "invalid": 59599
     }
   },
   {
@@ -1179,7 +1194,7 @@
         0,
         0,
         0,
-        55978,
+        60665,
         0,
         778,
         1,
@@ -1191,7 +1206,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 810,
-      "invalid": 55978
+      "invalid": 60665
     }
   },
   {
@@ -1244,18 +1259,18 @@
         0,
         0,
         0,
-        56376,
+        60011,
         0,
-        77,
-        335
+        298,
+        1166
       ]
     },
     "scale": "cat",
     "label_de": "Schriftliche Kontakte",
     "study": "soep-is",
     "statistics": {
-      "valid": 412,
-      "invalid": 56376
+      "valid": 1464,
+      "invalid": 60011
     }
   },
   {
@@ -1336,7 +1351,7 @@
         0,
         0,
         0,
-        4054,
+        8741,
         0,
         21003,
         0,
@@ -1354,7 +1369,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 52734,
-      "invalid": 4054
+      "invalid": 8741
     }
   },
   {
@@ -1439,7 +1454,7 @@
         0,
         0,
         0,
-        4054,
+        8741,
         0,
         3503,
         30447,
@@ -1458,7 +1473,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 52734,
-      "invalid": 4054
+      "invalid": 8741
     }
   },
   {
@@ -1545,23 +1560,23 @@
         0,
         0,
         0,
-        20097,
+        20864,
         0,
         66,
         69,
+        955,
+        409,
         0,
-        398,
-        0,
-        138,
-        36011,
-        9
+        162,
+        38245,
+        705
       ]
     },
     "scale": "cat",
     "label_de": "Schlusscode Bearbeitungsform",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -1749,48 +1764,48 @@
         0,
         0,
         0,
-        4025,
+        4747,
         2,
-        19,
-        32061,
+        21,
+        34619,
         5,
-        77,
-        2669,
+        103,
+        3090,
         0,
         0,
         7,
         0,
-        179,
-        1849,
+        212,
+        2138,
         1,
         20,
         0,
         2,
-        1266,
-        223,
-        11735,
+        1403,
+        231,
+        12123,
         308,
         23,
-        871,
-        232,
-        61,
-        157,
-        44,
+        933,
+        236,
+        65,
+        174,
+        46,
         0,
         0,
         0,
         59,
         27,
         0,
-        170,
-        696
+        182,
+        698
       ]
     },
     "scale": "cat",
     "label_de": "Schlusscode Bearbeitungsergebnis",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -1854,17 +1869,17 @@
         0,
         0,
         0,
-        138,
-        56438,
-        210,
-        2
+        162,
+        60746,
+        555,
+        12
       ]
     },
     "scale": "cat",
     "label_de": "Bearbeitungsstufen Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -1984,23 +1999,23 @@
         0,
         0,
         0,
-        35565,
+        38894,
         65,
         221,
         9,
-        1710,
+        1946,
         3,
         77,
         5,
         4,
-        8,
+        12,
         0,
-        126,
-        2,
+        144,
+        4,
         42,
         0,
         51,
-        18899,
+        19997,
         1
       ]
     },
@@ -2008,7 +2023,7 @@
     "label_de": "Startbearbeitungsform",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -2060,14 +2075,14 @@
         0,
         0,
         0,
-        12017
+        12398
       ]
     },
     "scale": "cat",
     "label_de": "Zahl der Personen im Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -2149,8 +2164,8 @@
         0,
         0,
         0,
-        3209,
-        7863,
+        3699,
+        12060,
         1175,
         14811,
         6276,
@@ -2167,7 +2182,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 45716,
-      "invalid": 11072
+      "invalid": 15759
     }
   },
   {
@@ -2253,8 +2268,8 @@
         0,
         0,
         0,
-        8989,
-        47570,
+        13186,
+        48060,
         28,
         11,
         7,
@@ -2270,8 +2285,8 @@
     "label_de": "Wohnumfeld 2 - Privat-,Anstaltshaushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 47799,
-      "invalid": 8989
+      "valid": 48289,
+      "invalid": 13186
     }
   },
   {
@@ -2344,8 +2359,8 @@
         0,
         0,
         0,
-        11823,
-        8643,
+        12876,
+        12277,
         17122,
         11226,
         7600,
@@ -2360,7 +2375,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 36322,
-      "invalid": 20466
+      "invalid": 25153
     }
   },
   {
@@ -2408,11 +2423,90 @@
       "Min.": 1998.0,
       "1st Qu.": 2009.0,
       "Median": 2013.0,
-      "Mean": 2011.2764158468492,
+      "Mean": 2011.592631992406,
       "3rd Qu.": 2014.0,
-      "Max.": 2019.0,
-      "valid": 56415,
+      "Max.": 2020.0,
+      "valid": 61102,
       "invalid": 373
+    }
+  },
+  {
+    "name": "heim",
+    "dataset": "hbrutto",
+    "label": "Institutional Accommodation",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Old-Age/Nursing Home",
+        "[2] Student Dormitory",
+        "[3] Refugee Housing",
+        "[4] Prison",
+        "[5] Other"
+      ],
+      "labels_de": [
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] nicht im Fragebogen enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Seniorenheim/Pflegeheim",
+        "[2] Studentenwohnheim",
+        "[3] Flüchtlingsunterkünfte",
+        "[4] Haftanstalt",
+        "[5] Sonstiges"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        56788,
+        0,
+        0,
+        4676,
+        0,
+        8,
+        3,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Anstaltsunterkunft",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 11,
+      "invalid": 61464
     }
   },
   {
@@ -2461,17 +2555,17 @@
         0,
         0,
         0,
-        11841,
+        12190,
         0,
-        44947
+        49285
       ]
     },
     "scale": "cat",
     "label_de": "Telefon",
     "study": "soep-is",
     "statistics": {
-      "valid": 44947,
-      "invalid": 11841
+      "valid": 49285,
+      "invalid": 12190
     }
   },
   {
@@ -2524,18 +2618,18 @@
         0,
         0,
         0,
-        8331,
+        8833,
         0,
-        32417,
-        16040
+        35087,
+        17555
       ]
     },
     "scale": "cat",
     "label_de": "Städtischer / Ländlicher Raum nach Kreistyp des BBSR (Gebietsstand 31.12.2017)",
     "study": "soep-is",
     "statistics": {
-      "valid": 48457,
-      "invalid": 8331
+      "valid": 52642,
+      "invalid": 8833
     }
   },
   {
@@ -2581,12 +2675,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1001012.0,
-      "1st Qu.": 1002316.0,
-      "Median": 1003636.0,
-      "Mean": 1003602.9750651546,
-      "3rd Qu.": 1004938.0,
+      "1st Qu.": 1002355.0,
+      "Median": 1003670.0,
+      "Mean": 1003644.104888166,
+      "3rd Qu.": 1004970.0,
       "Max.": 1008823.0,
-      "valid": 56788,
+      "valid": 61475,
       "invalid": 0
     }
   },
@@ -2621,7 +2715,7 @@
       ],
       "frequencies": [
         0,
-        0,
+        4687,
         0,
         0,
         4861,
@@ -2632,14 +2726,14 @@
     "label_de": "Nr des zuerst eingesetzten Interviewers",
     "study": "soep-is",
     "statistics": {
-      "Min.": 311294.0,
-      "1st Qu.": 1002239.0,
-      "Median": 1003554.0,
-      "Mean": 998155.2969360834,
-      "3rd Qu.": 1004895.0,
+      "Min.": 1001012.0,
+      "1st Qu.": 1002316.0,
+      "Median": 1003619.0,
+      "Mean": 1003578.8104646908,
+      "3rd Qu.": 1004898.0,
       "Max.": 1008823.0,
       "valid": 51927,
-      "invalid": 4861
+      "invalid": 9548
     }
   },
   {
@@ -2688,17 +2782,17 @@
         0,
         0,
         0,
-        42904,
+        45107,
         0,
-        13884
+        16368
       ]
     },
     "scale": "cat",
     "label_de": "Haushalt mit E-Mail-Anschluss",
     "study": "soep-is",
     "statistics": {
-      "valid": 13884,
-      "invalid": 42904
+      "valid": 16368,
+      "invalid": 45107
     }
   },
   {
@@ -2755,10 +2849,10 @@
         0,
         0,
         0,
-        48554,
+        53129,
         0,
-        4330,
-        3614,
+        4397,
+        3659,
         290
       ]
     },
@@ -2766,8 +2860,8 @@
     "label_de": "Nachbearbeitung von Haushalten und Personen",
     "study": "soep-is",
     "statistics": {
-      "valid": 8234,
-      "invalid": 48554
+      "valid": 8346,
+      "invalid": 53129
     }
   },
   {
@@ -2828,7 +2922,7 @@
         0,
         0,
         0,
-        53788,
+        58475,
         0,
         900,
         1200,
@@ -2841,7 +2935,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3000,
-      "invalid": 53788
+      "invalid": 58475
     }
   },
   {
@@ -2890,7 +2984,7 @@
         0,
         0,
         0,
-        56725,
+        61412,
         0,
         63
       ]
@@ -2900,7 +2994,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 63,
-      "invalid": 56725
+      "invalid": 61412
     }
   },
   {
@@ -2953,7 +3047,7 @@
         0,
         0,
         0,
-        55253,
+        59940,
         0,
         768,
         767
@@ -2964,7 +3058,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1535,
-      "invalid": 55253
+      "invalid": 59940
     }
   },
   {
@@ -3018,7 +3112,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         0,
@@ -3033,7 +3127,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 11797,
-      "invalid": 44991
+      "invalid": 49678
     }
   },
   {
@@ -3091,7 +3185,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         0,
@@ -3107,7 +3201,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 12009,
-      "invalid": 44779
+      "invalid": 49466
     }
   },
   {
@@ -3165,7 +3259,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         0,
@@ -3181,7 +3275,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 11986,
-      "invalid": 44802
+      "invalid": 49489
     }
   },
   {
@@ -3227,7 +3321,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         9511,
@@ -3240,7 +3334,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2457,
-      "invalid": 54331
+      "invalid": 59018
     }
   },
   {
@@ -3286,7 +3380,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         6301,
@@ -3299,7 +3393,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5656,
-      "invalid": 51132
+      "invalid": 55819
     }
   },
   {
@@ -3345,7 +3439,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         11836,
@@ -3358,7 +3452,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 56667
+      "invalid": 61354
     }
   },
   {
@@ -3404,7 +3498,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         6822,
@@ -3417,7 +3511,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5135,
-      "invalid": 51653
+      "invalid": 56340
     }
   },
   {
@@ -3475,7 +3569,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         0,
@@ -3491,7 +3585,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 12000,
-      "invalid": 44788
+      "invalid": 49475
     }
   },
   {
@@ -3553,7 +3647,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         1495,
@@ -3570,7 +3664,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9414,
-      "invalid": 47374
+      "invalid": 52061
     }
   },
   {
@@ -3640,7 +3734,7 @@
       ],
       "frequencies": [
         0,
-        44085,
+        48772,
         0,
         0,
         4491,
@@ -3659,7 +3753,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 7591,
-      "invalid": 49197
+      "invalid": 53884
     }
   },
   {
@@ -3802,29 +3896,29 @@
         0,
         0,
         0,
-        2560,
-        10,
-        781,
-        0,
-        361,
-        75,
-        29,
+        5121,
         33,
-        44,
-        0,
-        123,
+        1924,
         2,
-        3,
+        749,
+        364,
+        46,
+        66,
+        106,
+        4,
+        260,
+        5,
+        8,
         0,
         0,
         0,
         2,
         0,
-        6,
-        7,
-        18,
+        10,
+        9,
+        30,
         0,
-        0,
+        2,
         0
       ]
     },
@@ -3832,7 +3926,7 @@
     "label_de": "AAPOR Klassifizierung Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 4054,
+      "valid": 8741,
       "invalid": 52734
     }
   },
@@ -3906,8 +4000,8 @@
         0,
         0,
         0,
-        4054,
-        0,
+        8045,
+        696,
         0,
         0
       ]
@@ -3916,7 +4010,7 @@
     "label_de": "Art der Incentivierung",
     "study": "soep-is",
     "statistics": {
-      "valid": 4054,
+      "valid": 8741,
       "invalid": 52734
     }
   },
@@ -3937,7 +4031,8 @@
         3,
         4,
         5,
-        6
+        6,
+        7
       ],
       "labels": [
         "[-6] Questionnaire Version With Modified Filtering",
@@ -3951,7 +4046,8 @@
         "[3] 5 per Questionnaire and 10 Completion Bonus",
         "[4] 15 per Pers. Interview with integrated HH part and 10 for Pers. Interview",
         "[5] 15 per HH",
-        "[6] Special Incentivization BiP"
+        "[6] Special Incentivization BiP",
+        "[7] 15 per Pers. Interview w. integr. HH, 10 Pers. Interview, 5 Early-Bird-Incentive/Pers. and 5 completion bonus/HH"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -3965,7 +4061,8 @@
         "[3] 5 pro Fragebogen und 10 Vollständigkeitsprämie",
         "[4] 15 pro Personeninterview mit integriertem HH-Teil und 10 für Personeninterview",
         "[5] 15 pro Haushalt",
-        "[6] Spezial-Incentivierung BiP"
+        "[6] Spezial-Incentivierung BiP",
+        "[7] 15 pro P-Interview mit integr. HH, 10 P-Interview, 5 Early-Bird-Incentive/Person und 5 Vollständigkeitsprämie/HH"
       ],
       "missings": [
         true,
@@ -3974,6 +4071,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -3991,16 +4089,17 @@
         0,
         0,
         0,
-        3553,
+        7054,
         0,
-        501
+        991,
+        696
       ]
     },
     "scale": "cat",
     "label_de": "Incentivierungsmodell",
     "study": "soep-is",
     "statistics": {
-      "valid": 4054,
+      "valid": 8741,
       "invalid": 52734
     }
   },
@@ -4056,15 +4155,15 @@
         0,
         0,
         0,
-        3578,
-        476
+        7566,
+        1175
       ]
     },
     "scale": "cat",
     "label_de": "Ausgangsbrutto nächste Welle",
     "study": "soep-is",
     "statistics": {
-      "valid": 4054,
+      "valid": 8741,
       "invalid": 52734
     }
   }

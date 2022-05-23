@@ -14,12 +14,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 858650.0,
-      "Median": 937584.0,
-      "Mean": 2077232.7453806165,
-      "3rd Qu.": 4089940.0,
+      "1st Qu.": 862550.0,
+      "Median": 948950.0,
+      "Mean": 2174558.621715547,
+      "3rd Qu.": 4099236.0,
       "Max.": 4905976.0,
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -38,12 +38,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 860557.0,
-      "Median": 930091.0,
-      "Mean": 2048954.472438108,
-      "3rd Qu.": 4088102.0,
+      "1st Qu.": 863904.0,
+      "Median": 941239.0,
+      "Mean": 2142374.00594078,
+      "3rd Qu.": 4097819.5,
       "Max.": 4905976.0,
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -64,10 +64,10 @@
       "Min.": 1998.0,
       "1st Qu.": 2012.0,
       "Median": 2015.0,
-      "Mean": 2013.4446446034278,
-      "3rd Qu.": 2017.0,
-      "Max.": 2019.0,
-      "valid": 38858,
+      "Mean": 2014.0186441871933,
+      "3rd Qu.": 2018.0,
+      "Max.": 2020.0,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -116,10 +116,10 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 2.262854495856709,
+      "Mean": 2.264282527531876,
       "3rd Qu.": 3.0,
       "Max.": 9.0,
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -157,7 +157,7 @@
         0,
         0,
         0,
-        30480,
+        33612,
         0
       ]
     },
@@ -168,11 +168,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.5933396992122224,
+      "Mean": 1.5890807799442896,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 8378,
-      "invalid": 30480
+      "valid": 8975,
+      "invalid": 33612
     }
   },
   {
@@ -209,7 +209,7 @@
         0,
         0,
         0,
-        29052,
+        32072,
         0
       ]
     },
@@ -220,11 +220,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 1.6751988578421375,
+      "Mean": 1.6690442225392297,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 9806,
-      "invalid": 29052
+      "valid": 10515,
+      "invalid": 32072
     }
   },
   {
@@ -261,8 +261,8 @@
         1009,
         0,
         16,
-        1679,
-        851
+        2054,
+        948
       ]
     },
     "scale": "number",
@@ -271,12 +271,12 @@
     "statistics": {
       "Min.": 1917.0,
       "1st Qu.": 1985.0,
-      "Median": 2000.0,
-      "Mean": 1995.6243095487634,
+      "Median": 2001.0,
+      "Mean": 1996.132417012448,
       "3rd Qu.": 2010.0,
-      "Max.": 2020.0,
-      "valid": 35303,
-      "invalid": 3555
+      "Max.": 2021.0,
+      "valid": 38560,
+      "invalid": 4027
     }
   },
   {
@@ -307,8 +307,8 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1] Before 1918",
-        "[2] 1918 To 1948",
+        "[1] Before 1919",
+        "[2] 1919 To 1948",
         "[3] 1949 To 1971",
         "[4] 1972 To 1980",
         "[5] 1981 To 1990",
@@ -323,8 +323,8 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] vor 1918",
-        "[2] 1918 bis 1948",
+        "[1] vor 1919",
+        "[2] 1919 bis 1948",
         "[3] 1949 bis 1971",
         "[4] 1972 bis 1980",
         "[5] 1981 bis 1990",
@@ -350,27 +350,27 @@
       ],
       "frequencies": [
         0,
-        2949,
+        4100,
         0,
         0,
-        1513,
-        1641,
-        4236,
-        4632,
-        10032,
-        5222,
-        3388,
-        3334,
-        1383,
-        528
+        1901,
+        1779,
+        4475,
+        4893,
+        10642,
+        5569,
+        3576,
+        3536,
+        1485,
+        631
       ]
     },
     "scale": "cat",
     "label_de": "Baujahr des Hauses",
     "study": "soep-is",
     "statistics": {
-      "valid": 32755,
-      "invalid": 6103
+      "valid": 34807,
+      "invalid": 7780
     }
   },
   {
@@ -428,7 +428,7 @@
       ],
       "frequencies": [
         0,
-        29165,
+        32894,
         0,
         0,
         0,
@@ -444,7 +444,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9680,
-      "invalid": 29178
+      "invalid": 32907
     }
   },
   {
@@ -506,7 +506,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -523,7 +523,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8636,
-      "invalid": 30222
+      "invalid": 33951
     }
   },
   {
@@ -573,7 +573,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -587,7 +587,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 30223
+      "invalid": 33952
     }
   },
   {
@@ -637,7 +637,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -651,7 +651,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 30223
+      "invalid": 33952
     }
   },
   {
@@ -701,7 +701,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -715,7 +715,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5895,
-      "invalid": 32963
+      "invalid": 36692
     }
   },
   {
@@ -765,7 +765,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -779,7 +779,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8633,
-      "invalid": 30225
+      "invalid": 33954
     }
   },
   {
@@ -829,7 +829,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -843,7 +843,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8610,
-      "invalid": 30248
+      "invalid": 33977
     }
   },
   {
@@ -893,7 +893,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -907,7 +907,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8621,
-      "invalid": 30237
+      "invalid": 33966
     }
   },
   {
@@ -957,7 +957,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -971,7 +971,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8626,
-      "invalid": 30232
+      "invalid": 33961
     }
   },
   {
@@ -1021,7 +1021,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -1035,7 +1035,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8628,
-      "invalid": 30230
+      "invalid": 33959
     }
   },
   {
@@ -1085,7 +1085,7 @@
       ],
       "frequencies": [
         0,
-        29165,
+        32894,
         0,
         0,
         0,
@@ -1099,7 +1099,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9393,
-      "invalid": 29465
+      "invalid": 33194
     }
   },
   {
@@ -1149,7 +1149,7 @@
       ],
       "frequencies": [
         0,
-        32600,
+        36329,
         0,
         0,
         0,
@@ -1163,7 +1163,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5835,
-      "invalid": 33023
+      "invalid": 36752
     }
   },
   {
@@ -1213,7 +1213,7 @@
       ],
       "frequencies": [
         0,
-        33926,
+        37655,
         0,
         0,
         0,
@@ -1227,7 +1227,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 33933
+      "invalid": 37662
     }
   },
   {
@@ -1277,7 +1277,7 @@
       ],
       "frequencies": [
         0,
-        33926,
+        37655,
         0,
         0,
         0,
@@ -1291,7 +1291,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 33933
+      "invalid": 37662
     }
   },
   {
@@ -1341,7 +1341,7 @@
       ],
       "frequencies": [
         0,
-        34824,
+        38553,
         0,
         0,
         0,
@@ -1355,7 +1355,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4020,
-      "invalid": 34838
+      "invalid": 38567
     }
   },
   {
@@ -1405,7 +1405,7 @@
       ],
       "frequencies": [
         0,
-        34824,
+        38553,
         0,
         0,
         0,
@@ -1419,7 +1419,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4021,
-      "invalid": 34837
+      "invalid": 38566
     }
   },
   {
@@ -1481,14 +1481,14 @@
       ],
       "frequencies": [
         0,
-        2949,
+        3421,
         0,
         0,
         0,
         0,
-        17511,
-        17874,
-        493,
+        19128,
+        19447,
+        560,
         0,
         31
       ]
@@ -1497,8 +1497,8 @@
     "label_de": "Eigentümer, Mieter",
     "study": "soep-is",
     "statistics": {
-      "valid": 35909,
-      "invalid": 2949
+      "valid": 39166,
+      "invalid": 3421
     }
   },
   {
@@ -1556,7 +1556,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         4313,
@@ -1572,7 +1572,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2590,
-      "invalid": 36268
+      "invalid": 39997
     }
   },
   {
@@ -1622,7 +1622,7 @@
       ],
       "frequencies": [
         0,
-        38102,
+        41831,
         0,
         0,
         478,
@@ -1636,7 +1636,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 164,
-      "invalid": 38694
+      "invalid": 42423
     }
   },
   {
@@ -1686,7 +1686,7 @@
       ],
       "frequencies": [
         0,
-        30961,
+        34690,
         0,
         0,
         4464,
@@ -1700,7 +1700,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3389,
-      "invalid": 35469
+      "invalid": 39198
     }
   },
   {
@@ -1762,7 +1762,7 @@
       ],
       "frequencies": [
         0,
-        31062,
+        34791,
         0,
         0,
         4101,
@@ -1779,7 +1779,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3633,
-      "invalid": 35225
+      "invalid": 38954
     }
   },
   {
@@ -1833,7 +1833,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         4340,
@@ -1848,7 +1848,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4294,
-      "invalid": 34564
+      "invalid": 38293
     }
   },
   {
@@ -1898,7 +1898,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         4340,
@@ -1912,7 +1912,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4074,
-      "invalid": 34784
+      "invalid": 38513
     }
   },
   {
@@ -1946,11 +1946,11 @@
       ],
       "frequencies": [
         0,
-        2949,
+        3421,
         0,
         4,
         5607,
-        305
+        528
       ]
     },
     "scale": "number",
@@ -1958,13 +1958,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 8.0,
-      "1st Qu.": 67.0,
+      "1st Qu.": 68.0,
       "Median": 90.0,
-      "Mean": 99.00940219384523,
+      "Mean": 99.34259848003148,
       "3rd Qu.": 120.0,
       "Max.": 754.0,
-      "valid": 29993,
-      "invalid": 8865
+      "valid": 33027,
+      "invalid": 9560
     }
   },
   {
@@ -1998,7 +1998,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2016,7 +2016,7 @@
       "3rd Qu.": 5.0,
       "Max.": 12.0,
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2050,7 +2050,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         4553,
@@ -2068,7 +2068,7 @@
       "3rd Qu.": 100.0,
       "Max.": 493.0,
       "valid": 4095,
-      "invalid": 34763
+      "invalid": 38492
     }
   },
   {
@@ -2102,11 +2102,11 @@
       ],
       "frequencies": [
         0,
-        2949,
+        3683,
         0,
         0,
-        20462,
-        3389
+        22312,
+        3619
       ]
     },
     "scale": "number",
@@ -2114,13 +2114,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
-      "1st Qu.": 42.0,
-      "Median": 63.0,
-      "Mean": 74.24498258417648,
-      "3rd Qu.": 98.0,
+      "1st Qu.": 43.0,
+      "Median": 64.0,
+      "Mean": 74.60995914591845,
+      "3rd Qu.": 100.0,
       "Max.": 1213.0,
-      "valid": 12058,
-      "invalid": 26800
+      "valid": 12973,
+      "invalid": 29614
     }
   },
   {
@@ -2154,10 +2154,10 @@
       ],
       "frequencies": [
         0,
-        2949,
+        3421,
         0,
-        2,
-        18502,
+        4,
+        20334,
         0
       ]
     },
@@ -2165,14 +2165,14 @@
     "label_de": "Bruttokaltmiete in EURO",
     "study": "soep-is",
     "statistics": {
-      "Min.": 15.0,
-      "1st Qu.": 376.0,
-      "Median": 490.0,
-      "Mean": 536.5044527434645,
-      "3rd Qu.": 640.0,
+      "Min.": 8.0,
+      "1st Qu.": 380.0,
+      "Median": 500.0,
+      "Mean": 542.196250265562,
+      "3rd Qu.": 650.0,
       "Max.": 3300.0,
-      "valid": 17405,
-      "invalid": 21453
+      "valid": 18828,
+      "invalid": 23759
     }
   },
   {
@@ -2206,7 +2206,7 @@
       ],
       "frequencies": [
         0,
-        36766,
+        40495,
         0,
         0,
         1143,
@@ -2224,7 +2224,7 @@
       "3rd Qu.": 73.0,
       "Max.": 279.0,
       "valid": 945,
-      "invalid": 37913
+      "invalid": 41642
     }
   },
   {
@@ -2278,22 +2278,22 @@
       ],
       "frequencies": [
         0,
-        2949,
+        3421,
         0,
         0,
-        34923,
-        82,
+        38054,
+        108,
         464,
-        313,
-        127
+        378,
+        162
       ]
     },
     "scale": "cat",
     "label_de": "Zahle keine Miete",
     "study": "soep-is",
     "statistics": {
-      "valid": 904,
-      "invalid": 37954
+      "valid": 1004,
+      "invalid": 41583
     }
   },
   {
@@ -2343,7 +2343,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2357,7 +2357,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2407,7 +2407,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2421,7 +2421,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2471,7 +2471,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2485,7 +2485,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2535,7 +2535,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2549,7 +2549,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2607,7 +2607,7 @@
       ],
       "frequencies": [
         0,
-        30205,
+        33934,
         0,
         0,
         0,
@@ -2623,7 +2623,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 30205
+      "invalid": 33934
     }
   },
   {
@@ -2673,7 +2673,7 @@
       ],
       "frequencies": [
         0,
-        36766,
+        40495,
         0,
         0,
         0,
@@ -2687,7 +2687,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2092,
-      "invalid": 36766
+      "invalid": 40495
     }
   },
   {
@@ -2765,23 +2765,23 @@
         0,
         0,
         0,
-        12,
-        12121,
-        12572,
-        3252,
-        6083,
-        2578,
-        1484,
-        226,
-        530
+        13,
+        13254,
+        13778,
+        3587,
+        6558,
+        2837,
+        1698,
+        253,
+        609
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (1-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 38846,
-      "invalid": 12
+      "valid": 42574,
+      "invalid": 13
     }
   },
   {
@@ -2931,41 +2931,41 @@
         0,
         0,
         0,
-        12,
-        1085,
-        2185,
-        2036,
-        930,
-        1649,
-        4236,
-        12572,
-        1097,
-        787,
-        787,
-        185,
-        248,
-        148,
-        2218,
-        2753,
-        1112,
-        1745,
-        719,
-        114,
-        813,
-        671,
-        195,
+        13,
+        1171,
+        2359,
+        2261,
+        1010,
+        1786,
+        4667,
+        13778,
+        1187,
+        833,
+        884,
+        218,
+        297,
+        168,
+        2397,
+        2973,
+        1188,
+        1916,
+        793,
+        128,
+        925,
+        773,
+        218,
         3,
-        28,
-        480,
-        50
+        32,
+        550,
+        59
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (2-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 38846,
-      "invalid": 12
+      "valid": 42574,
+      "invalid": 13
     }
   },
   {
@@ -3060,25 +3060,25 @@
         0,
         0,
         0,
-        2802,
-        3119,
+        2891,
+        3157,
         1835,
-        699,
-        537,
-        402,
-        723,
-        373,
-        7350,
-        12169,
-        6349,
-        2500
+        1063,
+        695,
+        410,
+        775,
+        464,
+        7930,
+        13690,
+        6999,
+        2678
       ]
     },
     "scale": "cat",
     "label_de": "Monat des Interviews",
     "study": "soep-is",
     "statistics": {
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -3183,7 +3183,7 @@
         0,
         0,
         15,
-        1584,
+        1586,
         949,
         0,
         88,
@@ -3191,18 +3191,18 @@
         0,
         0,
         0,
-        36011,
+        38386,
         0,
         117,
-        0,
-        9
+        814,
+        547
       ]
     },
     "scale": "cat",
     "label_de": "Interviewmethode",
     "study": "soep-is",
     "statistics": {
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
@@ -3239,9 +3239,9 @@
         0,
         0,
         0,
-        141,
+        151,
         0,
-        2364
+        2575
       ]
     },
     "scale": "number",
@@ -3249,13 +3249,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2673.7784226886365,
+      "1st Qu.": 1534.0,
+      "Median": 2368.0,
+      "Mean": 2724.08672637415,
       "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 36353,
-      "invalid": 2505
+      "valid": 39861,
+      "invalid": 2726
     }
   },
   {
@@ -3289,7 +3289,7 @@
       ],
       "frequencies": [
         0,
-        31380,
+        35109,
         0,
         3,
         0,
@@ -3307,7 +3307,7 @@
       "3rd Qu.": 3068.0,
       "Max.": 30000.0,
       "valid": 6904,
-      "invalid": 31954
+      "invalid": 35683
     }
   },
   {
@@ -3418,36 +3418,36 @@
         0,
         0,
         0,
-        3886,
-        5720,
-        1514,
-        1115,
-        340,
-        654,
-        2456,
-        945,
-        4172,
-        10381,
-        1519,
-        412,
-        2048,
-        1246,
-        1287,
-        1163
+        4231,
+        6231,
+        1642,
+        1237,
+        379,
+        720,
+        2684,
+        1047,
+        4545,
+        11465,
+        1663,
+        445,
+        2283,
+        1359,
+        1394,
+        1262
       ]
     },
     "scale": "cat",
     "label_de": "NUTS-Systematik-1(Bundesland)",
     "study": "soep-is",
     "statistics": {
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   },
   {
     "name": "hgi1hinc",
     "dataset": "hgen",
-    "label": "1. Imputed Monthly Net Household Income (EUR) [1/5]",
+    "label": "1. Imputed Monthly Net Household Income (EUR) [1/15]",
     "categories": {
       "values": [
         -6,
@@ -3487,19 +3487,19 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2662.7141043947327,
-      "3rd Qu.": 3400.0,
+      "1st Qu.": 1534.0,
+      "Median": 2310.0,
+      "Mean": 2712.760343707127,
+      "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 37818,
+      "valid": 41547,
       "invalid": 1040
     }
   },
   {
     "name": "hgi2hinc",
     "dataset": "hgen",
-    "label": "2. Imputed Monthly Net Household Income (EUR) [2/5]",
+    "label": "2. Imputed Monthly Net Household Income (EUR) [2/15]",
     "categories": {
       "values": [
         -6,
@@ -3539,19 +3539,19 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2662.532815061611,
-      "3rd Qu.": 3400.0,
+      "1st Qu.": 1534.0,
+      "Median": 2335.0,
+      "Mean": 2712.9575420607985,
+      "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 37818,
+      "valid": 41547,
       "invalid": 1040
     }
   },
   {
     "name": "hgi3hinc",
     "dataset": "hgen",
-    "label": "3. Imputed Monthly Net Household Income (EUR) [3/5]",
+    "label": "3. Imputed Monthly Net Household Income (EUR) [3/15]",
     "categories": {
       "values": [
         -6,
@@ -3591,19 +3591,19 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2661.0050505050503,
-      "3rd Qu.": 3400.0,
+      "1st Qu.": 1534.0,
+      "Median": 2310.0,
+      "Mean": 2712.679784340626,
+      "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 37818,
+      "valid": 41547,
       "invalid": 1040
     }
   },
   {
     "name": "hgi4hinc",
     "dataset": "hgen",
-    "label": "4. Imputed Monthly Net Household Income (EUR) [4/5]",
+    "label": "4. Imputed Monthly Net Household Income (EUR) [4/15]",
     "categories": {
       "values": [
         -6,
@@ -3643,19 +3643,19 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2661.2102702416837,
-      "3rd Qu.": 3400.0,
+      "1st Qu.": 1534.0,
+      "Median": 2310.0,
+      "Mean": 2711.6841408525283,
+      "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 37818,
+      "valid": 41547,
       "invalid": 1040
     }
   },
   {
     "name": "hgi5hinc",
     "dataset": "hgen",
-    "label": "5. Imputed Monthly Net Household Income (EUR) [5/5]",
+    "label": "5. Imputed Monthly Net Household Income (EUR) [5/15]",
     "categories": {
       "values": [
         -6,
@@ -3695,13 +3695,533 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1500.0,
-      "Median": 2300.0,
-      "Mean": 2662.7532656407,
-      "3rd Qu.": 3400.0,
+      "1st Qu.": 1534.0,
+      "Median": 2330.0,
+      "Mean": 2713.7204370953377,
+      "3rd Qu.": 3500.0,
       "Max.": 30000.0,
-      "valid": 37818,
+      "valid": 41547,
       "invalid": 1040
+    }
+  },
+  {
+    "name": "hgi6hinc",
+    "dataset": "hgen",
+    "label": "6. Imputed Monthly Net Household Income (EUR) [6/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "6.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2870.0,
+      "Mean": 3223.0198444623225,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi7hinc",
+    "dataset": "hgen",
+    "label": "7. Imputed Monthly Net Household Income (EUR) [7/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "7.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3225.8919281308663,
+      "3rd Qu.": 4150.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi8hinc",
+    "dataset": "hgen",
+    "label": "8. Imputed Monthly Net Household Income (EUR) [8/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "8.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3232.3083936712255,
+      "3rd Qu.": 4200.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi9hinc",
+    "dataset": "hgen",
+    "label": "9. Imputed Monthly Net Household Income (EUR) [9/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "9.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3228.5939930276213,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi10hinc",
+    "dataset": "hgen",
+    "label": "10. Imputed Monthly Net Household Income (EUR) [10/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "10.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3225.5508179136496,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi11hinc",
+    "dataset": "hgen",
+    "label": "11. Imputed Monthly Net Household Income (EUR) [11/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "11.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3227.706891928131,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi12hinc",
+    "dataset": "hgen",
+    "label": "12. Imputed Monthly Net Household Income (EUR) [12/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "12.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3226.2287476535266,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi13hinc",
+    "dataset": "hgen",
+    "label": "13. Imputed Monthly Net Household Income (EUR) [13/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "13.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3229.8994368463395,
+      "3rd Qu.": 4100.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi14hinc",
+    "dataset": "hgen",
+    "label": "14. Imputed Monthly Net Household Income (EUR) [14/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "14.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3228.9160632877447,
+      "3rd Qu.": 4170.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
+    }
+  },
+  {
+    "name": "hgi15hinc",
+    "dataset": "hgen",
+    "label": "15. Imputed Monthly Net Household Income (EUR) [15/15]",
+    "categories": {
+      "values": [
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-6] Questionnaire Version With Modified Filtering",
+        "[-5] Not Contained In Questionnaire",
+        "[-4] Inadmissible Multiple Answer",
+        "[-3] Answer Improbable",
+        "[-2] Does Not Apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        38858,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "15.Imput.monatl.HH-Nettoeinkommen (EUR)",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 130.0,
+      "1st Qu.": 1900.0,
+      "Median": 2900.0,
+      "Mean": 3231.9418074550817,
+      "3rd Qu.": 4141.0,
+      "Max.": 20000.0,
+      "valid": 3729,
+      "invalid": 38858
     }
   },
   {
@@ -3756,15 +4276,15 @@
         0,
         0,
         0,
-        36353,
-        2505
+        39861,
+        2726
       ]
     },
     "scale": "cat",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen",
     "study": "soep-is",
     "statistics": {
-      "valid": 38858,
+      "valid": 42587,
       "invalid": 0
     }
   }

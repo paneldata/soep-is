@@ -4,56 +4,7 @@
     "dataset": "intv",
     "label": "Interviewer ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
-    },
-    "scale": "number",
-    "label_de": "Interviewer ID",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 1001028.0,
-      "1st Qu.": 1002481.5,
-      "Median": 1003741.0,
-      "Mean": 1003653.2866568915,
-      "3rd Qu.": 1004964.0,
-      "Max.": 1006055.0,
-      "valid": 2728,
-      "invalid": 0
-    }
-  },
-  {
-    "name": "syear",
-    "dataset": "intv",
-    "label": "Befragungsjahr ",
-    "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
-    },
-    "scale": "number",
-    "label_de": "Befragungsjahr ",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 2011.0,
-      "1st Qu.": 2013.0,
-      "Median": 2015.0,
-      "Mean": 2015.1308651026393,
-      "3rd Qu.": 2017.0,
-      "Max.": 2019.0,
-      "valid": 2728,
-      "invalid": 0
-    }
-  },
-  {
-    "name": "eintritt",
-    "dataset": "intv",
-    "label": "Eintrittsjahr",
-    "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -61,15 +12,13 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -78,6 +27,101 @@
       ],
       "frequencies": [
         0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Interviewer ID",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1001028.0,
+      "1st Qu.": 1002504.0,
+      "Median": 1003745.0,
+      "Mean": 1003673.5125881168,
+      "3rd Qu.": 1004969.0,
+      "Max.": 1006100.0,
+      "valid": 2979,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "syear",
+    "dataset": "intv",
+    "label": "Survey Year",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Befragungsjahr",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2011.0,
+      "1st Qu.": 2013.0,
+      "Median": 2016.0,
+      "Mean": 2015.5404498153744,
+      "3rd Qu.": 2018.0,
+      "Max.": 2020.0,
+      "valid": 2979,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "eintritt",
+    "dataset": "intv",
+    "label": "Year Joined",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
         0,
         0,
         0,
@@ -92,20 +136,19 @@
       "Min.": 1969.0,
       "1st Qu.": 2000.0,
       "Median": 2007.0,
-      "Mean": 2003.7972873900294,
+      "Mean": 2003.8763856231105,
       "3rd Qu.": 2011.0,
-      "Max.": 2019.0,
-      "valid": 2728,
-      "invalid": 0
+      "Max.": 2021.0,
+      "valid": 2977,
+      "invalid": 2
     }
   },
   {
     "name": "soepseit",
     "dataset": "intv",
-    "label": "Erstes Arbeitsjahr im SOEP",
+    "label": "Year Started Working at SOEP",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -113,15 +156,13 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -133,8 +174,7 @@
         0,
         0,
         0,
-        0,
-        13
+        14
       ]
     },
     "scale": "number",
@@ -144,20 +184,19 @@
       "Min.": 1984.0,
       "1st Qu.": 2005.0,
       "Median": 2009.0,
-      "Mean": 2007.4850828729282,
+      "Mean": 2007.5683428957138,
       "3rd Qu.": 2012.0,
-      "Max.": 2019.0,
-      "valid": 2715,
-      "invalid": 13
+      "Max.": 2020.0,
+      "valid": 2963,
+      "invalid": 16
     }
   },
   {
     "name": "festseit",
     "dataset": "intv",
-    "label": "Erstes Arbeitsjahr mit Festanstellung",
+    "label": "Year Gained Permanent Position",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -166,25 +205,22 @@
         0
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] Nicht dauerhaft angestellt"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[0] Not permanently employed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Nicht dauerhaft angestellt"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -196,27 +232,25 @@
         0,
         0,
         0,
-        0,
         784,
         0,
-        1861
+        2092
       ]
     },
     "scale": "cat",
     "label_de": "Erstes Arbeitsjahr mit Festanstellung",
     "study": "soep-is",
     "statistics": {
-      "valid": 1944,
-      "invalid": 784
+      "valid": 2193,
+      "invalid": 786
     }
   },
   {
     "name": "sex_intv",
     "dataset": "intv",
-    "label": "Geschlecht des Interviewers ",
+    "label": "Gender",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -226,27 +260,24 @@
         2
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Male",
+        "[2] Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] männlich",
         "[2] weiblich"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -261,26 +292,24 @@
         0,
         0,
         0,
-        0,
-        1530,
-        1198
+        1666,
+        1311
       ]
     },
     "scale": "cat",
-    "label_de": "Geschlecht des Interviewers ",
+    "label_de": "Geschlecht des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 2728,
-      "invalid": 0
+      "valid": 2977,
+      "invalid": 2
     }
   },
   {
     "name": "gebjahr_intv",
     "dataset": "intv",
-    "label": "Geburtsjahr des Interviewers ",
+    "label": "Year of Birth",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -288,15 +317,13 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -308,31 +335,29 @@
         0,
         0,
         0,
-        0,
         0
       ]
     },
     "scale": "number",
-    "label_de": "Geburtsjahr des Interviewers ",
+    "label_de": "Geburtsjahr des Interviewers",
     "study": "soep-is",
     "statistics": {
       "Min.": 1927.0,
-      "1st Qu.": 1945.0,
+      "1st Qu.": 1946.0,
       "Median": 1951.0,
-      "Mean": 1951.850073313783,
+      "Mean": 1951.9371850856567,
       "3rd Qu.": 1957.0,
       "Max.": 1994.0,
-      "valid": 2728,
-      "invalid": 0
+      "valid": 2977,
+      "invalid": 2
     }
   },
   {
     "name": "famstand",
     "dataset": "intv",
-    "label": "Familienstand des Interviewers ",
+    "label": "Marital Status",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -344,22 +369,20 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
         "unbekannt",
         "[1] Single",
-        "[2] Verheiratet",
-        "[3] Verwitwet/Geschieden/Getrennt"
+        "[2] Married",
+        "[3] Widowed/Divorced/Separated"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "unbekannt",
@@ -368,7 +391,6 @@
         "[3] Verwitwet/Geschieden/Getrennt"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -386,27 +408,25 @@
         0,
         0,
         0,
-        0,
-        359,
-        1985,
-        384
+        392,
+        2162,
+        423
       ]
     },
     "scale": "cat",
-    "label_de": "Familienstand des Interviewers ",
+    "label_de": "Familienstand des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 2728,
-      "invalid": 0
+      "valid": 2977,
+      "invalid": 2
     }
   },
   {
     "name": "btaetig",
     "dataset": "intv",
-    "label": "Berufsstatus",
+    "label": "Employment Status",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -420,24 +440,22 @@
         6
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Vollzeitbeschäftigung",
-        "[2] Teilzeitbeschäftigung",
-        "[3] Hausfrau/Hausmann",
-        "[4] Rentner/Pensionär",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Fully Employed",
+        "[2] Part-Time Work",
+        "[3] Homemaker",
+        "[4] Retiree / Pensioner",
         "[5] Student / Trainee",
-        "[6] arbeitslos"
+        "[6] Currently Unemployed"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Vollzeitbeschäftigung",
@@ -448,7 +466,6 @@
         "[6] arbeitslos"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -466,31 +483,29 @@
         0,
         0,
         0,
-        0,
         1,
-        713,
-        764,
-        389,
-        773,
-        69,
-        19
+        798,
+        828,
+        414,
+        842,
+        73,
+        21
       ]
     },
     "scale": "cat",
     "label_de": "Berufsstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 2727,
-      "invalid": 1
+      "valid": 2976,
+      "invalid": 3
     }
   },
   {
     "name": "schule",
     "dataset": "intv",
-    "label": "Bildungsstand des Interviewers",
+    "label": "Education",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -503,23 +518,21 @@
         5
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sekundarschulabschluss ",
-        "[2] Fachhochschulreife",
-        "[3] Abitur",
-        "[4] Tertiäre Bildung mit Abschluss",
-        "[5] Tertiäre Bildung ohne Abschluss"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Sec. Gen. School Leaving Certificat",
+        "[2] Vocational High School Leaving Certificate",
+        "[3] College Entrance Exam",
+        "[4] Tertiary Education with Degree",
+        "[5] Tertiary Education without Degree"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sekundarschulabschluss ",
@@ -529,7 +542,6 @@
         "[5] Tertiäre Bildung ohne Abschluss"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -547,55 +559,66 @@
         0,
         0,
         0,
-        0,
-        417,
-        1096,
-        341,
-        160,
-        714
+        455,
+        1195,
+        372,
+        178,
+        777
       ]
     },
     "scale": "cat",
     "label_de": "Bildungsstand des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 2728,
-      "invalid": 0
+      "valid": 2977,
+      "invalid": 2
     }
   },
   {
     "name": "iverh5",
     "dataset": "intv",
-    "label": "Soziale Erwünschtheit: Zu viel Wechsel",
+    "label": "Social Desirability: Too Much Change",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Trifft überhaupt nicht zu",
-        "[7] Trifft voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Does Not Apply At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Applies completely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht zu",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -604,18 +627,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         53,
+        29,
+        7,
+        8,
+        9,
+        4,
         10
       ]
     },
@@ -624,42 +655,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "iverh6",
     "dataset": "intv",
-    "label": "Soziale Erwünschtheit: Fluchen",
+    "label": "Social Desirability: Cursing",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Trifft überhaupt nicht zu",
-        "[7] Trifft voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Does Not Apply At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Applies completely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht zu",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -668,18 +711,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         35,
+        22,
+        18,
+        17,
+        10,
+        15,
         3
       ]
     },
@@ -688,42 +739,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "iverh7",
     "dataset": "intv",
-    "label": "Soziale Erwünschtheit: Notlügen",
+    "label": "Social Desirability: White Lies",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Trifft überhaupt nicht zu",
-        "[7] Trifft voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Does Not Apply At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Applies completely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht zu",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -732,18 +795,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         7,
+        43,
+        12,
+        28,
+        9,
+        12,
         9
       ]
     },
@@ -752,42 +823,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "iverh8",
     "dataset": "intv",
-    "label": "Soziale Erwünschtheit: Stehlen",
+    "label": "Social Desirability: Stealing",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Trifft überhaupt nicht zu",
-        "[7] Trifft voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Does Not Apply At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Applies completely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht zu",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -796,18 +879,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         18,
+        9,
+        3,
+        2,
+        4,
+        17,
         67
       ]
     },
@@ -816,42 +907,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "iverh9",
     "dataset": "intv",
-    "label": "Soziale Erwünschtheit: Ausnutzen",
+    "label": "Social Desirability: Exploiting",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Trifft überhaupt nicht zu",
-        "[7] Trifft voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Does Not Apply At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Applies completely"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht zu",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Trifft voll zu"
       ],
       "missings": [
@@ -860,18 +963,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         50,
+        34,
+        9,
+        16,
+        8,
+        2,
         1
       ]
     },
@@ -880,16 +991,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "ipol1",
     "dataset": "intv",
-    "label": "Interesse für Politik",
+    "label": "Political Interests",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -901,22 +1011,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] sehr stark",
-        "[2] stark",
-        "[3] nicht so stark",
-        "[4] überhaupt nicht "
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Much",
+        "[2] Much",
+        "[3] Not Much",
+        "[4] Not At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] sehr stark",
@@ -930,18 +1038,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         39,
         56,
@@ -954,16 +1060,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "ipol2",
     "dataset": "intv",
-    "label": "Allgemeine Parteienpräferenz",
+    "label": "Supports Political Party",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -973,20 +1078,18 @@
         2
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Ja",
-        "[2] Nein"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Yes",
+        "[2] No"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Ja",
@@ -998,16 +1101,14 @@
         true,
         true,
         true,
-        true,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         80,
         40
@@ -1018,16 +1119,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "ipol3",
     "dataset": "intv",
-    "label": "Parteienidentifikation ",
+    "label": "Political Party Preference",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1045,28 +1145,26 @@
         27
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
         "[1] SPD",
         "[2] CDU",
         "[3] CSU",
         "[4] FDP",
-        "[5] Bündnis90/Die Grünen",
-        "[6] Linke",
+        "[5] Alliance90/The Greens",
+        "[6] The Left",
         "[7] NPD/Republikaner/Die Rechte",
-        "[8] Andere",
+        "[8] Other",
         "[26] Piratenpartei",
         "[27] AfD"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] SPD",
@@ -1086,7 +1184,6 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
@@ -1099,11 +1196,10 @@
         false
       ],
       "frequencies": [
+        2860,
         0,
         0,
-        0,
-        0,
-        2648,
+        39,
         4,
         21,
         25,
@@ -1118,20 +1214,19 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Parteienidentifikation ",
+    "label_de": "Parteienidentifikation",
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 2652
+      "invalid": 2903
     }
   },
   {
     "name": "ipolso",
     "dataset": "intv",
-    "label": "Andere Partei",
+    "label": "Other Party",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1142,21 +1237,19 @@
         2
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] siehe ipol3",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[0] see ipol3",
         "[1] BUeSO",
         "[2] OeDP"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] siehe ipol3",
@@ -1169,17 +1262,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         119,
         1,
@@ -1191,16 +1282,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "ipol4",
     "dataset": "intv",
-    "label": "Stärke Parteizuneigung",
+    "label": "Amount Of Support For Political Party",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1213,23 +1303,21 @@
         5
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] sehr stark",
-        "[2] ziemlich stark",
-        "[3] mäßig",
-        "[4] ziemlich schwach",
-        "[5] sehr schwach"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Strong",
+        "[2] Fairly Strong",
+        "[3] Moderate",
+        "[4] Fairly Weak",
+        "[5] Very Weak"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] sehr stark",
@@ -1244,7 +1332,6 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
@@ -1252,11 +1339,10 @@
         false
       ],
       "frequencies": [
+        2860,
         0,
         0,
-        0,
-        0,
-        2652,
+        43,
         0,
         7,
         39,
@@ -1270,16 +1356,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 2652
+      "invalid": 2903
     }
   },
   {
     "name": "ipol6",
     "dataset": "intv",
-    "label": "Politische Einstellung",
+    "label": "Political Attitude",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1287,30 +1372,49 @@
         -1,
         0,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
         9,
         10
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] Ganz links",
-        "[1] Sehr links",
-        "[9] Sehr rechts",
-        "[10] Ganz rechts"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[0] Completely Left",
+        "[1] Very Left",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "[9] Very Right",
+        "[10] Completely Right"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Ganz links",
         "[1] Sehr links",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
         "[9] Sehr rechts",
         "[10] Ganz rechts"
       ],
@@ -1320,21 +1424,33 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         2,
         0,
         2,
+        9,
+        20,
+        19,
+        46,
+        12,
+        7,
+        3,
         1,
         0
       ]
@@ -1344,16 +1460,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2609
+      "invalid": 2860
     }
   },
   {
     "name": "isor03",
     "dataset": "intv",
-    "label": "Interviewer Sorgen eigene Gesundheit ",
+    "label": "Worried About Own Health",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1364,21 +1479,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1391,17 +1504,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         19,
         65,
@@ -1409,20 +1520,19 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewer Sorgen eigene Gesundheit ",
+    "label_de": "Interviewer Sorgen eigene Gesundheit",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "isor04",
     "dataset": "intv",
-    "label": "Interviewer Sorgen Umweltschutz",
+    "label": "Worried About Environment",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1433,21 +1543,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1460,17 +1568,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         43,
         62,
@@ -1482,16 +1588,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "isor05",
     "dataset": "intv",
-    "label": "Interviewer Sorgen Friedenserhaltung",
+    "label": "Worried About Peace",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1502,21 +1607,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1529,17 +1632,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         70,
         42,
@@ -1551,16 +1652,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "isor02",
     "dataset": "intv",
-    "label": "Interviewer Sorgen Stabilität Finanzmärkte ",
+    "label": "Worried About Finances",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1571,21 +1671,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1598,17 +1696,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         13,
         58,
@@ -1616,20 +1712,19 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewer Sorgen Stabilität Finanzmärkte ",
+    "label_de": "Interviewer Sorgen Stabilität Finanzmärkte",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "isor08",
     "dataset": "intv",
-    "label": "Interviewer Sorgen Zuwanderung ",
+    "label": "Worried About Immigration To Germany",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1640,21 +1735,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1667,17 +1760,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         1,
         42,
         63,
@@ -1685,20 +1776,19 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewer Sorgen Zuwanderung ",
+    "label_de": "Interviewer Sorgen Zuwanderung",
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 2608
+      "invalid": 2859
     }
   },
   {
     "name": "isor09",
     "dataset": "intv",
-    "label": "Interviewer Sorgen Ausländerfeindlichkeit ",
+    "label": "Worried About Hostility To Foreigners",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1709,21 +1799,19 @@
         3
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Große Sorgen",
-        "[2] Einige Sorgen",
-        "[3] Keine Sorgen"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Concerned",
+        "[2] Somewhat Concerned",
+        "[3] Not Concerned At All"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Große Sorgen",
@@ -1736,17 +1824,15 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         0,
         64,
         44,
@@ -1754,46 +1840,58 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Interviewer Sorgen Ausländerfeindlichkeit ",
+    "label_de": "Interviewer Sorgen Ausländerfeindlichkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 2607
+      "invalid": 2858
     }
   },
   {
     "name": "ithem01",
     "dataset": "intv",
-    "label": "Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben haben",
+    "label": "Fair that higher educated people have better chances in life",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Stimme überhaupt nicht zu ",
-        "[7] Stimme voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Do Not Agree At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Agree Fully"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Stimme überhaupt nicht zu ",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Stimme voll zu"
       ],
       "missings": [
@@ -1802,18 +1900,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         3,
         17,
+        16,
+        7,
+        20,
+        33,
+        15,
         10
       ]
     },
@@ -1822,16 +1928,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2610
+      "invalid": 2861
     }
   },
   {
     "name": "ithem01a",
     "dataset": "intv",
-    "label": "Wie sicher: Fair, dass Menschen mit höherer Bildung bessere Chancen im Leben hab",
+    "label": "How sure: Fair that higher educated people have better chances in life",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1843,22 +1948,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sehr sicher",
-        "[2] Eher sicher",
-        "[3] Eher unsicher",
-        "[4] Sehr unsicher"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Sure",
+        "[2] Rather Sure",
+        "[3] Rather Uncertain",
+        "[4] Very Uncertain"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sehr sicher",
@@ -1872,18 +1975,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         2,
         38,
         65,
@@ -1896,42 +1997,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2609
+      "invalid": 2860
     }
   },
   {
     "name": "ithem02",
     "dataset": "intv",
-    "label": "Freiheit sich über religiöse Themen / Einstellungen öffentlich lustig zu machen",
+    "label": "Free to joke about religious topics / attitudes in public",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Stimme überhaupt nicht zu ",
-        "[7] Stimme voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Do Not Agree At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Agree Fully"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Stimme überhaupt nicht zu ",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Stimme voll zu"
       ],
       "missings": [
@@ -1940,18 +2053,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         2,
         35,
+        24,
+        14,
+        15,
+        13,
+        9,
         9
       ]
     },
@@ -1960,16 +2081,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2609
+      "invalid": 2860
     }
   },
   {
     "name": "ithem02a",
     "dataset": "intv",
-    "label": "Wie sicher: Freiheit sich über religiöse Themen / Einstellungen öffentlich lusti",
+    "label": "How sure: Free to joke about religious topics / attitudes in public",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -1981,22 +2101,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sehr sicher",
-        "[2] Eher sicher",
-        "[3] Eher unsicher",
-        "[4] Sehr unsicher"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Sure",
+        "[2] Rather Sure",
+        "[3] Rather Uncertain",
+        "[4] Very Uncertain"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sehr sicher",
@@ -2010,18 +2128,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         2,
         63,
         41,
@@ -2034,42 +2150,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2609
+      "invalid": 2860
     }
   },
   {
     "name": "ithem03",
     "dataset": "intv",
-    "label": "Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
+    "label": "Equal possibilities / chances for same-sex couples",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Stimme überhaupt nicht zu ",
-        "[7] Stimme voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Do Not Agree At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Agree Fully"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Stimme überhaupt nicht zu ",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Stimme voll zu"
       ],
       "missings": [
@@ -2078,18 +2206,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         3,
         17,
+        22,
+        10,
+        15,
+        13,
+        9,
         32
       ]
     },
@@ -2098,16 +2234,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2610
+      "invalid": 2861
     }
   },
   {
     "name": "ithem03a",
     "dataset": "intv",
-    "label": "Wie sicher: Gleiche Möglichkeiten / Chancen für gleichgeschlechtliche Paare",
+    "label": "How sure: Equal possibilities / chances for same-sex couples",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2119,22 +2254,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sehr sicher",
-        "[2] Eher sicher",
-        "[3] Eher unsicher",
-        "[4] Sehr unsicher"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Sure",
+        "[2] Rather Sure",
+        "[3] Rather Uncertain",
+        "[4] Very Uncertain"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sehr sicher",
@@ -2148,18 +2281,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         2,
         61,
         38,
@@ -2172,42 +2303,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 2609
+      "invalid": 2860
     }
   },
   {
     "name": "ithem04",
     "dataset": "intv",
-    "label": "Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
+    "label": "Medically assisted suicide should be allowed in Germany",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Stimme überhaupt nicht zu ",
-        "[7] Stimme voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Do Not Agree At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Agree Fully"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Stimme überhaupt nicht zu ",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Stimme voll zu"
       ],
       "missings": [
@@ -2216,18 +2359,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         3,
         12,
+        10,
+        5,
+        13,
+        13,
+        21,
         44
       ]
     },
@@ -2236,16 +2387,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2610
+      "invalid": 2861
     }
   },
   {
     "name": "ithem04a",
     "dataset": "intv",
-    "label": "Wie sicher: Aktive Sterbehilfe sollte in Deutschland erlaubt sein",
+    "label": "How sure: Medically assisted suicide should be allowed in Germany",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2257,22 +2407,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sehr sicher",
-        "[2] Eher sicher",
-        "[3] Eher unsicher",
-        "[4] Sehr unsicher"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Sure",
+        "[2] Rather Sure",
+        "[3] Rather Uncertain",
+        "[4] Very Uncertain"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sehr sicher",
@@ -2286,18 +2434,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         3,
         58,
         41,
@@ -2310,42 +2456,54 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 2610
+      "invalid": 2861
     }
   },
   {
     "name": "ithem05",
     "dataset": "intv",
-    "label": "Legalisierung von Cannabis / Marihuana in Deutschland",
+    "label": "Legalization of cannabis / marihuana in Germany",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
         1,
+        2,
+        3,
+        4,
+        5,
+        6,
         7
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Stimme überhaupt nicht zu ",
-        "[7] Stimme voll zu"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Do Not Agree At All",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "[7] Agree Fully"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Stimme überhaupt nicht zu ",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
         "[7] Stimme voll zu"
       ],
       "missings": [
@@ -2354,18 +2512,26 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         4,
         44,
+        13,
+        10,
+        15,
+        13,
+        9,
         13
       ]
     },
@@ -2374,16 +2540,15 @@
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 2611
+      "invalid": 2862
     }
   },
   {
     "name": "ithem05a",
     "dataset": "intv",
-    "label": "Wie sicher: Legalisierung von Cannabis / Marihuana in Deutschland",
+    "label": "How sure: Legalization of cannabis / marihuana in Germany",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2395,22 +2560,20 @@
         4
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Sehr sicher",
-        "[2] Eher sicher",
-        "[3] Eher unsicher",
-        "[4] Sehr unsicher"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very Sure",
+        "[2] Rather Sure",
+        "[3] Rather Uncertain",
+        "[4] Very Uncertain"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Sehr sicher",
@@ -2424,18 +2587,16 @@
         true,
         true,
         true,
-        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        2858,
         0,
         0,
         0,
-        0,
-        2607,
         4,
         64,
         27,
@@ -2448,7 +2609,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 2611
+      "invalid": 2862
     }
   },
   {
@@ -2457,7 +2618,6 @@
     "label": "Survey Instrument",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2466,25 +2626,22 @@
         9
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
         "[9] CAPI"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[9] CAPI"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -2493,30 +2650,28 @@
         false
       ],
       "frequencies": [
+        2644,
         0,
         0,
         0,
         0,
-        2607,
-        0,
-        121
+        335
       ]
     },
     "scale": "cat",
     "label_de": "Survey Instrument",
     "study": "soep-is",
     "statistics": {
-      "valid": 121,
-      "invalid": 2607
+      "valid": 335,
+      "invalid": 2644
     }
   },
   {
     "name": "idatt",
     "dataset": "intv",
-    "label": "Tag des Interviews",
+    "label": "Day Of The Interview",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2524,15 +2679,13 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -2540,11 +2693,10 @@
         true
       ],
       "frequencies": [
+        2644,
         0,
         0,
         0,
-        0,
-        2607,
         0
       ]
     },
@@ -2554,48 +2706,75 @@
     "statistics": {
       "Min.": 1.0,
       "1st Qu.": 20.0,
-      "Median": 23.0,
-      "Mean": 21.09090909090909,
+      "Median": 22.0,
+      "Mean": 21.901492537313434,
       "3rd Qu.": 25.0,
       "Max.": 31.0,
-      "valid": 121,
-      "invalid": 2607
+      "valid": 335,
+      "invalid": 2644
     }
   },
   {
     "name": "idatm",
     "dataset": "intv",
-    "label": "Monat des Interviews",
+    "label": "Month Of The Interview",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
         -2,
         -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
         8,
-        9
+        9,
+        10,
+        11,
+        12
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] January",
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
         "[8] August",
-        "[9] September"
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
+        "[1] Januar",
+        "[2] Februar",
+        "[3] März",
+        "[4] April",
+        "[5] Mai",
+        "[6] Juni",
+        "[7] Juli",
         "[8] August",
-        "[9] September"
+        "[9] September",
+        "[10] Oktober",
+        "[11] November",
+        "[12] Dezember"
       ],
       "missings": [
         true,
@@ -2603,36 +2782,53 @@
         true,
         true,
         true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "frequencies": [
+        2644,
         0,
         0,
         0,
         0,
-        2607,
+        0,
+        0,
+        214,
+        0,
+        0,
+        0,
         0,
         104,
-        17
+        17,
+        0,
+        0,
+        0
       ]
     },
     "scale": "cat",
     "label_de": "Monat des Interviews",
     "study": "soep-is",
     "statistics": {
-      "valid": 121,
-      "invalid": 2607
+      "valid": 335,
+      "invalid": 2644
     }
   },
   {
     "name": "idatj",
     "dataset": "intv",
-    "label": "Jahr des Interviews",
+    "label": "Interview Year",
     "categories": {
       "values": [
-        -6,
         -5,
         -4,
         -3,
@@ -2640,15 +2836,13 @@
         -1
       ],
       "labels": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe"
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
       ],
       "missings": [
-        true,
         true,
         true,
         true,
@@ -2656,11 +2850,10 @@
         true
       ],
       "frequencies": [
+        2644,
         0,
         0,
         0,
-        0,
-        2607,
         0
       ]
     },
@@ -2670,12 +2863,2661 @@
     "statistics": {
       "Min.": 2015.0,
       "1st Qu.": 2015.0,
-      "Median": 2015.0,
-      "Mean": 2015.0,
-      "3rd Qu.": 2015.0,
-      "Max.": 2015.0,
-      "valid": 121,
-      "invalid": 2607
+      "Median": 2020.0,
+      "Mean": 2018.1940298507463,
+      "3rd Qu.": 2020.0,
+      "Max.": 2020.0,
+      "valid": 335,
+      "invalid": 2644
+    }
+  },
+  {
+    "name": "isp_int22",
+    "dataset": "intv",
+    "label": "Assessment of the language of the interviewer",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] No regional influence at all (like newscasters from Tagesschau)",
+        "[2] Slight regional influence",
+        "[3] Medium regional influence",
+        "[4] Rather strong regional influence",
+        "[5] Very strong regional influence"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Überhaupt keine regionale Färbung (wie Nachrichtensprecher in der Tagesschau)",
+        "[2] Leichte regionale Färbung",
+        "[3] Mittlere regionale Färbung",
+        "[4] Eher starke regionale Färbung",
+        "[5] Sehr starke regionale Färbung"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        1,
+        75,
+        107,
+        23,
+        8,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Einschätzung zur Sprache des Interviewers",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 213,
+      "invalid": 2766
+    }
+  },
+  {
+    "name": "isp_int20",
+    "dataset": "intv",
+    "label": "Interviewer dialect or Low German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        0,
+        100,
+        114
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Interviewer Dialekt oder Platt",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 214,
+      "invalid": 2765
+    }
+  },
+  {
+    "name": "isp_int24_1",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Low German/Platt German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        4,
+        30,
+        82,
+        76,
+        20,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Niederdeutsch/Plattdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 210,
+      "invalid": 2769
+    }
+  },
+  {
+    "name": "isp_int24a_1",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German himself): Low German/Pl",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        1,
+        20,
+        35,
+        36,
+        7,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Niederdeutsch/Pl",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 99,
+      "invalid": 2880
+    }
+  },
+  {
+    "name": "isp_int24b_1",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Low German/Pl",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        3,
+        10,
+        47,
+        40,
+        13,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Niederdeutsch/Pl",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 111,
+      "invalid": 2868
+    }
+  },
+  {
+    "name": "isp_int24_2",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Bavarian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        0,
+        41,
+        89,
+        62,
+        19,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Bayerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 214,
+      "invalid": 2765
+    }
+  },
+  {
+    "name": "isp_int24a_2",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Bavarian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        26,
+        43,
+        21,
+        7,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Bayerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_2",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Bavarian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        0,
+        15,
+        46,
+        41,
+        12,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Bayerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 114,
+      "invalid": 2865
+    }
+  },
+  {
+    "name": "isp_int24_3",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: High German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        0,
+        109,
+        90,
+        14,
+        1,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Hochdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 214,
+      "invalid": 2765
+    }
+  },
+  {
+    "name": "isp_int24a_3",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German himself): High German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        45,
+        45,
+        9,
+        1,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Hochdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_3",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): High German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        0,
+        64,
+        45,
+        5,
+        0,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Hochdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 114,
+      "invalid": 2865
+    }
+  },
+  {
+    "name": "isp_int24_4",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Swabian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        1,
+        17,
+        81,
+        64,
+        42,
+        9
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Schwäbisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 213,
+      "invalid": 2766
+    }
+  },
+  {
+    "name": "isp_int24a_4",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Swabian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        14,
+        48,
+        25,
+        11,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Schwäbisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_4",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Swabian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        1,
+        3,
+        33,
+        39,
+        31,
+        7
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Schwäbisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 113,
+      "invalid": 2866
+    }
+  },
+  {
+    "name": "isp_int24_5",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Saxon",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        0,
+        8,
+        32,
+        66,
+        66,
+        42
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Sächsisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 214,
+      "invalid": 2765
+    }
+  },
+  {
+    "name": "isp_int24a_5",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Saxon",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        5,
+        14,
+        32,
+        34,
+        15
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Sächsisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_5",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Saxonian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        0,
+        3,
+        18,
+        34,
+        32,
+        27
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Sächsisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 114,
+      "invalid": 2865
+    }
+  },
+  {
+    "name": "isp_int24_6",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Berlinerisch",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        0,
+        17,
+        79,
+        83,
+        29,
+        6
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Berlinerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 214,
+      "invalid": 2765
+    }
+  },
+  {
+    "name": "isp_int24a_6",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Berlinerisch",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        10,
+        38,
+        37,
+        13,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Berlinerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_6",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Berlinerisch",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        0,
+        7,
+        41,
+        46,
+        16,
+        4
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Berlinerisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 114,
+      "invalid": 2865
+    }
+  },
+  {
+    "name": "isp_int24_7",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Hessian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        2,
+        10,
+        82,
+        88,
+        26,
+        6
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Hessisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 212,
+      "invalid": 2767
+    }
+  },
+  {
+    "name": "isp_int24a_7",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Hessian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        6,
+        53,
+        28,
+        12,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Hessisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_7",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Hessian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        2,
+        4,
+        29,
+        60,
+        14,
+        5
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Hessisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 112,
+      "invalid": 2867
+    }
+  },
+  {
+    "name": "isp_int24_8",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Kölsch/Rhenish Platt",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        2,
+        27,
+        82,
+        78,
+        14,
+        11
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Kölsch/Rheinisches Platt",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 212,
+      "invalid": 2767
+    }
+  },
+  {
+    "name": "isp_int24a_8",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Kölsch/Rheinisch",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        16,
+        40,
+        36,
+        3,
+        5
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Kölsch/Rheinisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_8",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Kölsch/Rheini",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        2,
+        11,
+        42,
+        42,
+        11,
+        6
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Kölsch/Rheinisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 112,
+      "invalid": 2867
+    }
+  },
+  {
+    "name": "isp_int24_9",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: North German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        2,
+        44,
+        106,
+        55,
+        7,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Norddeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 212,
+      "invalid": 2767
+    }
+  },
+  {
+    "name": "isp_int24a_9",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): North German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        1,
+        19,
+        49,
+        28,
+        3,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Norddeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 99,
+      "invalid": 2880
+    }
+  },
+  {
+    "name": "isp_int24b_9",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): North German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        1,
+        25,
+        57,
+        27,
+        4,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Norddeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 113,
+      "invalid": 2866
+    }
+  },
+  {
+    "name": "isp_int24_10",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Swiss German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        3,
+        26,
+        100,
+        69,
+        13,
+        3
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Schweizerdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 211,
+      "invalid": 2768
+    }
+  },
+  {
+    "name": "isp_int24a_10",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Swiss German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        15,
+        51,
+        31,
+        1,
+        2
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Schweizerdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_10",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Swiss German",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        3,
+        11,
+        49,
+        38,
+        12,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Schweizerdeutsch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 111,
+      "invalid": 2868
+    }
+  },
+  {
+    "name": "isp_int24_11",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer: Austrian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        0,
+        2,
+        28,
+        102,
+        69,
+        9,
+        4
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Österreichisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 212,
+      "invalid": 2767
+    }
+  },
+  {
+    "name": "isp_int24a_11",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (speaks dialect or Low German): Austrian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        0,
+        16,
+        50,
+        27,
+        3,
+        4
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht selbst Dialekt o. Platt): Österreichisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 100,
+      "invalid": 2879
+    }
+  },
+  {
+    "name": "isp_int24b_11",
+    "dataset": "intv",
+    "label": "Dialect rating interviewer (does not speak dialect or Low German): Austrian",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr symphatisch",
+        "[2] symphatisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr Unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2765,
+        0,
+        0,
+        100,
+        2,
+        12,
+        52,
+        42,
+        6,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer (spricht keinen Dialekt o. Platt): Österreichisch",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 112,
+      "invalid": 2867
+    }
+  },
+  {
+    "name": "isp_int24a_12",
+    "dataset": "intv",
+    "label": "Interviewer's dialect rating: The dialect spoken by the interviewer him/herself.",
+    "categories": {
+      "values": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Very sympathetic",
+        "[2] Sympathetic",
+        "[3] Partly sympathetic/partly unsympathetic",
+        "[4] Unsympathetic",
+        "[5] Very unsympathetic"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sehr sympathisch",
+        "[2] Sympathisch",
+        "[3] Teils/teils",
+        "[4] Unsympathisch",
+        "[5] Sehr unsympathisch"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2766,
+        0,
+        0,
+        113,
+        1,
+        42,
+        38,
+        17,
+        2,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Dialektbewertung Interviewer: Der Dialekt, den der Interviewer selbst spricht",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 99,
+      "invalid": 2880
     }
   }
 ]

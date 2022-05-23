@@ -116,7 +116,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Start Kurzfragebogen",
     "study": "soep-is",
     "statistics": {}
@@ -378,7 +378,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q1",
     "study": "soep-is",
     "statistics": {}
@@ -624,7 +624,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Antwort Q2",
     "study": "soep-is",
     "statistics": {}
@@ -755,7 +755,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Antwort Q3",
     "study": "soep-is",
     "statistics": {}
@@ -1353,7 +1353,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q4",
     "study": "soep-is",
     "statistics": {}
@@ -2517,7 +2517,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.1",
     "study": "soep-is",
     "statistics": {}
@@ -2532,7 +2532,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.2",
     "study": "soep-is",
     "statistics": {}
@@ -2547,7 +2547,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.3",
     "study": "soep-is",
     "statistics": {}
@@ -2562,7 +2562,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.4",
     "study": "soep-is",
     "statistics": {}
@@ -2577,7 +2577,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.5",
     "study": "soep-is",
     "statistics": {}
@@ -2592,7 +2592,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.6",
     "study": "soep-is",
     "statistics": {}
@@ -2607,7 +2607,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.7",
     "study": "soep-is",
     "statistics": {}
@@ -2622,7 +2622,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.8",
     "study": "soep-is",
     "statistics": {}
@@ -2637,7 +2637,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.9",
     "study": "soep-is",
     "statistics": {}
@@ -2652,7 +2652,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.10",
     "study": "soep-is",
     "statistics": {}
@@ -2667,7 +2667,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.11",
     "study": "soep-is",
     "statistics": {}
@@ -2682,7 +2682,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.12",
     "study": "soep-is",
     "statistics": {}
@@ -2697,7 +2697,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a20",
+    "scale": "|S20",
     "label_de": "Zeitpunkt Anzeige Q5.13",
     "study": "soep-is",
     "statistics": {}

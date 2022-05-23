@@ -253,7 +253,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a15",
+    "scale": "|S15",
     "label_de": "Wann sind Sie gestern aufgestanden?",
     "study": "soep-is",
     "statistics": {}
@@ -504,7 +504,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a15",
+    "scale": "|S15",
     "label_de": "Beginn der Aktivität",
     "study": "soep-is",
     "statistics": {}
@@ -519,7 +519,7 @@
       "missings": [],
       "frequencies": []
     },
-    "scale": "a15",
+    "scale": "|S15",
     "label_de": "Ende der Aktivität",
     "study": "soep-is",
     "statistics": {}

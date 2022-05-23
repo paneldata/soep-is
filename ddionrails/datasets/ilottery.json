@@ -316,7 +316,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Splitvariable \"Geheim\" oder \"Offen\" nach Entscheidungsblatt 1",
+    "label_de": "Splitvariable \\\"Geheim\\\" oder \\\"Offen\\\" nach Entscheidungsblatt 1",
     "study": "soep-is",
     "statistics": {
       "valid": 497,
@@ -2002,7 +2002,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \"Zahl\"",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \\\"Zahl\\\"",
     "study": "soep-is",
     "statistics": {
       "Min.": 10.0,
@@ -2054,7 +2054,7 @@
       ]
     },
     "scale": "number",
-    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \"Kopf\"",
+    "label_de": "Betrag Entscheidungsblatt 2: Szenario 3 bei \\\"Kopf\\\"",
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
