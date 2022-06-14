@@ -28,13 +28,13 @@ soep-is,PB20_BIP,lgebm,soep-bip-2020-e,PA2,lgebmo
 soep-is,PB20_BIP,lgebt,soep-bip-2020-e,PA2,lgebtag
 soep-is,notdirectlydelivered2020bip-e,znettox4,soep-bip-2020-e,Q10,znettox4
 soep-is,notdirectlydelivered2020bip-e,lpleb5bcd,soep-bip-2020-e,Q100,lpleb5bcd
-soep-is,,lela,soep-bip-2020-e,Q1000,lela
+soep-is,notdirectlydelivered2020bip-e,lela,soep-bip-2020-e,Q1000,lela
 soep-is,notdirectlydelivered2020bip-e,lpleb3bcd,soep-bip-2020-e,Q101,lpleb3bcd
 soep-is,notdirectlydelivered2020bip-e,lehebcd,soep-bip-2020-e,Q102,lehebcd
 soep-is,notdirectlydelivered2020bip-e,lehe1bcd,soep-bip-2020-e,Q103,lehe1bcd
 soep-is,notdirectlydelivered2020bip-e,lehe2bcd,soep-bip-2020-e,Q104,lehe2bcd
 soep-is,notdirectlydelivered2020bip-e,lehe3bcd,soep-bip-2020-e,Q105,lehe3bcd
-soep-is,,lehe2bcd1,soep-bip-2020-e,Q106,lehe2bcd1
+soep-is,notdirectlydelivered2020bip-e,lehe2bcd1,soep-bip-2020-e,Q106,lehe2bcd1
 soep-is,PB20_BIP,lgeka,soep-bip-2020-e,Q107,lgeka
 soep-is,PB20_BIP,lgesch1,soep-bip-2020-e,Q107,lgesch1
 soep-is,PB20_BIP,lgesch2,soep-bip-2020-e,Q107,lgesch2
@@ -493,7 +493,7 @@ soep-is,PB20_BIP,pbipinfcr02,soep-bip-2020-e,Q47,Temp56
 soep-is,PB20_BIP,pbipinfcr03,soep-bip-2020-e,Q47,Temp57
 soep-is,PB20_BIP,pbipöV,soep-bip-2020-e,Q48,Temp58
 soep-is,PB20_BIP,ppol1,soep-bip-2020-e,Q49,ppol1
-soep-is,,hm01,soep-bip-2020-e,Q5,hm01
+soep-is,notdirectlydelivered2020bip-e,hm01,soep-bip-2020-e,Q5,hm01
 soep-is,PB20_BIP,ppol_n,soep-bip-2020-e,Q50,ppol_n
 soep-is,PB20_BIP,ppol_n2,soep-bip-2020-e,Q51,ppol_n2
 soep-is,PB20_BIP,ppol_n2o,soep-bip-2020-e,Q51,ppol_n2o
@@ -550,7 +550,7 @@ soep-is,notdirectlydelivered2020bip-e,znettox3,soep-bip-2020-e,Q9,znettox3
 soep-is,PB20_BIP,lehe1a,soep-bip-2020-e,Q90,lehe1a
 soep-is,PB20_BIP,lehe2a,soep-bip-2020-e,Q91,lehe2a
 soep-is,PB20_BIP,lehe3a,soep-bip-2020-e,Q92,lehe3a
-soep-is,,lehe2a1,soep-bip-2020-e,Q93,lehe2a1
+soep-is,notdirectlydelivered2020bip-e,lehe2a1,soep-bip-2020-e,Q93,lehe2a1
 soep-is,notdirectlydelivered2020bip-e,lp1bcd,soep-bip-2020-e,Q94,lp1bcd
 soep-is,notdirectlydelivered2020bip-e,lpjbcd,soep-bip-2020-e,Q95,lpjbcd
 soep-is,notdirectlydelivered2020bip-e,lpend1bcd,soep-bip-2020-e,Q96,lpend1bcd
