@@ -4,22 +4,58 @@
     "dataset": "kid",
     "label": "Case-ID, Original Household Number",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Case ID, Ursprungshaushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 200093.0,
-      "1st Qu.": 876186.0,
-      "Median": 4038008.0,
-      "Mean": 2778775.387726421,
-      "3rd Qu.": 4900940.0,
+      "1st Qu.": 878294.0,
+      "Median": 4049654.0,
+      "Mean": 2837549.590665573,
+      "3rd Qu.": 4900974.0,
       "Max.": 4905976.0,
-      "valid": 19212,
+      "valid": 20719,
       "invalid": 0
     }
   },
@@ -28,22 +64,58 @@
     "dataset": "kid",
     "label": "Wave-Specific Household ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Wellen-spezifische Haushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 877190.0,
-      "Median": 4036358.0,
-      "Mean": 2765761.2250676663,
-      "3rd Qu.": 4900940.0,
+      "1st Qu.": 880582.0,
+      "Median": 4049280.0,
+      "Mean": 2823303.105217433,
+      "3rd Qu.": 4900974.0,
       "Max.": 4905976.0,
-      "valid": 19212,
+      "valid": 20719,
       "invalid": 0
     }
   },
@@ -52,22 +124,58 @@
     "dataset": "kid",
     "label": "ID Of Child",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Personennummer des Kindes",
     "study": "soep-is",
     "statistics": {
       "Min.": 1153803.0,
-      "1st Qu.": 8766703.0,
-      "Median": 40379503.0,
-      "Mean": 27726985.45075994,
-      "3rd Qu.": 49009402.0,
+      "1st Qu.": 8803003.0,
+      "Median": 40495805.0,
+      "Mean": 28309384.63791689,
+      "3rd Qu.": 49009704.0,
       "Max.": 49059704.0,
-      "valid": 19212,
+      "valid": 20719,
       "invalid": 0
     }
   },
@@ -77,6 +185,8 @@
     "label": "Survey Year",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -85,11 +195,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -98,9 +210,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -115,11 +231,11 @@
     "statistics": {
       "Min.": 1998.0,
       "1st Qu.": 2013.0,
-      "Median": 2015.0,
-      "Mean": 2014.3000208203207,
+      "Median": 2016.0,
+      "Mean": 2014.7873449490805,
       "3rd Qu.": 2018.0,
-      "Max.": 2020.0,
-      "valid": 19212,
+      "Max.": 2021.0,
+      "valid": 20719,
       "invalid": 0
     }
   },
@@ -129,6 +245,8 @@
     "label": "Sample Membership",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -145,11 +263,13 @@
         38
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[5] E 1998",
         "[9] I Innovationsample 2009",
@@ -161,9 +281,11 @@
         "[38] S5 Supplementary 2020 ESS"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -177,6 +299,8 @@
         "[38] Innovationssample 2020 Aufstockung ESS"
       ],
       "missings": [
+        true,
+        true,
         true,
         true,
         true,
@@ -199,21 +323,23 @@
         0,
         0,
         0,
-        2914,
-        3610,
-        2243,
-        1966,
-        1218,
-        5827,
-        1198,
-        236
+        0,
+        0,
+        2973,
+        3748,
+        2411,
+        2108,
+        1321,
+        6339,
+        1347,
+        472
       ]
     },
     "scale": "cat",
     "label_de": "Stichprobenzugehörigkeit",
     "study": "soep-is",
     "statistics": {
-      "valid": 19212,
+      "valid": 20719,
       "invalid": 0
     }
   },
@@ -223,6 +349,8 @@
     "label": "Relationship To Head Of Household",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -243,11 +371,13 @@
         62
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[3] Son, Daughter",
         "[4] Foster Child",
@@ -263,9 +393,11 @@
         "[62] Niece/Nephew"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -289,6 +421,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -303,6 +437,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -328,7 +464,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19200,
-      "invalid": 12
+      "invalid": 1519
     }
   },
   {
@@ -337,6 +473,8 @@
     "label": "Member Of Household",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -367,11 +505,13 @@
         40
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Lives In HH",
         "[2] Absent Schooling",
@@ -397,9 +537,11 @@
         "[40] Currently In HH"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -433,6 +575,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -457,6 +601,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -492,7 +638,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19212,
-      "invalid": 0
+      "invalid": 1507
     }
   },
   {
@@ -501,6 +647,8 @@
     "label": "Serial Number Of Child",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -509,11 +657,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -522,9 +672,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -544,7 +698,7 @@
       "3rd Qu.": 4.0,
       "Max.": 10.0,
       "valid": 19212,
-      "invalid": 0
+      "invalid": 1507
     }
   },
   {
@@ -553,6 +707,8 @@
     "label": "Household Size",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -561,11 +717,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -574,9 +732,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -596,7 +758,7 @@
       "3rd Qu.": 5.0,
       "Max.": 9.0,
       "valid": 19212,
-      "invalid": 0
+      "invalid": 1507
     }
   },
   {
@@ -605,6 +767,8 @@
     "label": "Number Of Children In Household",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -613,11 +777,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -626,9 +792,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -648,7 +818,7 @@
       "3rd Qu.": 3.0,
       "Max.": 7.0,
       "valid": 19212,
-      "invalid": 0
+      "invalid": 1507
     }
   },
   {
@@ -657,6 +827,8 @@
     "label": "Pointer To Head Of Household",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -665,11 +837,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -678,9 +852,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -700,7 +878,7 @@
       "3rd Qu.": 49009401.0,
       "Max.": 49059701.0,
       "valid": 19212,
-      "invalid": 0
+      "invalid": 1507
     }
   },
   {
@@ -709,6 +887,8 @@
     "label": "Pointer To Partner Of Head",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -717,11 +897,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -730,9 +912,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -752,7 +938,7 @@
       "3rd Qu.": 49002304.0,
       "Max.": 49059705.0,
       "valid": 15481,
-      "invalid": 3731
+      "invalid": 5238
     }
   },
   {
@@ -761,6 +947,8 @@
     "label": "Pointer To Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -769,11 +957,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -782,9 +972,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -804,7 +998,7 @@
       "3rd Qu.": 49009701.0,
       "Max.": 49059701.0,
       "valid": 18915,
-      "invalid": 297
+      "invalid": 1804
     }
   },
   {
@@ -813,6 +1007,8 @@
     "label": "Pointer To Partner Of Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -821,11 +1017,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -834,9 +1032,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         0,
         0,
@@ -856,7 +1058,7 @@
       "3rd Qu.": 49000502.0,
       "Max.": 49059603.0,
       "valid": 15132,
-      "invalid": 4080
+      "invalid": 5587
     }
   },
   {
@@ -865,6 +1067,8 @@
     "label": "Pre-School",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -878,11 +1082,13 @@
         5
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Nursery School",
         "[2] Part-Time",
@@ -891,9 +1097,11 @@
         "[5] Full Day"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -910,6 +1118,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -917,6 +1127,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         15910,
         0,
@@ -935,7 +1147,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 709,
-      "invalid": 18503
+      "invalid": 20010
     }
   },
   {
@@ -944,6 +1156,8 @@
     "label": "General Education System",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -961,11 +1175,13 @@
         9
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Primary School",
         "[2] Lower Secondary School",
@@ -978,9 +1194,11 @@
         "[9] Other School (East 90,91)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1001,6 +1219,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -1012,6 +1232,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         15910,
         0,
@@ -1034,7 +1256,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2176,
-      "invalid": 17036
+      "invalid": 18543
     }
   },
   {
@@ -1043,6 +1265,8 @@
     "label": "Vocational School",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1053,19 +1277,23 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Vocational School",
         "[2] Other School"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1079,10 +1307,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         16648,
         0,
@@ -1098,7 +1330,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 19212
+      "invalid": 20719
     }
   },
   {
@@ -1107,6 +1339,8 @@
     "label": "None Of These Institutions",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1118,20 +1352,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] None Of These Institutions (1984-2008)",
         "[2] None Of These Schools (2009-2011)",
         "[3] No Pre-School Attended (2009-2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1146,11 +1384,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         15910,
         0,
@@ -1167,7 +1409,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 744,
-      "invalid": 18468
+      "invalid": 19975
     }
   },
   {
@@ -1176,6 +1418,8 @@
     "label": "General School East Germany",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1191,11 +1435,13 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Polytechnical Secondary School",
         "[2] Extended Oberschule",
@@ -1206,9 +1452,11 @@
         "[7] Other School"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1227,6 +1475,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -1236,6 +1486,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19212,
         0,
@@ -1256,7 +1508,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 19212
+      "invalid": 20719
     }
   },
   {
@@ -1265,6 +1517,8 @@
     "label": "Day-Home For School Children,East",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1274,18 +1528,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Boarding School (East 90/91)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1298,9 +1556,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19212,
         0,
@@ -1315,7 +1577,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 19212
+      "invalid": 20719
     }
   },
   {
@@ -1324,6 +1586,8 @@
     "label": "Other Type Of School",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1354,11 +1618,13 @@
         37
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Spec. Education School",
         "[6] Learning Disabilities School",
@@ -1384,9 +1650,11 @@
         "[37] Learn Disabilities Special School"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1420,6 +1688,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -1444,6 +1714,8 @@
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19212,
         0,
@@ -1479,7 +1751,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 19212
+      "invalid": 20719
     }
   },
   {
@@ -1488,6 +1760,8 @@
     "label": "Public Institution",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1499,20 +1773,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Public Institution",
         "[2] Public School (2011)",
         "[3] Public Provider (2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1527,11 +1805,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -1548,7 +1830,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 456,
-      "invalid": 18756
+      "invalid": 20263
     }
   },
   {
@@ -1557,6 +1839,8 @@
     "label": "Private Provider Of Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1568,20 +1852,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Private Provider",
         "[2] Private Non-Profit School (2011)",
         "[3] Private Provider (2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1596,11 +1884,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -1617,7 +1909,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 10,
-      "invalid": 19202
+      "invalid": 20709
     }
   },
   {
@@ -1626,6 +1918,8 @@
     "label": "Independent Provider Of Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1637,20 +1931,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Independent Provider",
         "[2] Church School (2011)",
         "[3] Church Institution (2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1665,11 +1963,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -1686,7 +1988,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 47,
-      "invalid": 19165
+      "invalid": 20672
     }
   },
   {
@@ -1695,6 +1997,8 @@
     "label": "Company Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1705,19 +2009,23 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Provided By Company",
         "[3] Provided By Company (2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1731,10 +2039,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -1750,7 +2062,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 19212
+      "invalid": 20719
     }
   },
   {
@@ -1759,6 +2071,8 @@
     "label": "Commercial Provider Of Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1770,20 +2084,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Commercial Provider",
         "[2] Private School (2011)",
         "[3] Commercial Provider (2011)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1798,11 +2116,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -1819,7 +2141,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9,
-      "invalid": 19203
+      "invalid": 20710
     }
   },
   {
@@ -1828,6 +2150,8 @@
     "label": "Time Of Day Of Care",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1840,11 +2164,13 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] In The Morning",
         "[2] Afternoon",
@@ -1852,9 +2178,11 @@
         "[4] No, Not Full-Time (2009-)"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1870,12 +2198,16 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         15910,
         0,
@@ -1893,7 +2225,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2478,
-      "invalid": 16734
+      "invalid": 18241
     }
   },
   {
@@ -1902,6 +2234,8 @@
     "label": "Hours P.Day Spent At Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1910,11 +2244,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -1923,9 +2259,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         17723,
         0,
@@ -1945,7 +2285,7 @@
       "3rd Qu.": 7.0,
       "Max.": 10.0,
       "valid": 385,
-      "invalid": 18827
+      "invalid": 20334
     }
   },
   {
@@ -1954,6 +2294,8 @@
     "label": "Adherence To Opening Time",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1965,20 +2307,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Fully Rely",
         "[2] Partly Rely",
         "[3] Cannot Rely"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1993,11 +2339,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19044,
         0,
@@ -2014,7 +2364,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 156,
-      "invalid": 19056
+      "invalid": 20563
     }
   },
   {
@@ -2023,6 +2373,8 @@
     "label": "Lunch At Facility",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2035,11 +2387,13 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes",
         "[2] No",
@@ -2047,9 +2401,11 @@
         "[4] No, lunch provided"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2065,12 +2421,16 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18614,
         0,
@@ -2088,7 +2448,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 448,
-      "invalid": 18764
+      "invalid": 20271
     }
   },
   {
@@ -2097,6 +2457,8 @@
     "label": "Fee Payable For Attendance",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2107,19 +2469,23 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Free Of Charge",
         "[2] Fixed Sum in EURO"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2133,10 +2499,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18741,
         0,
@@ -2152,7 +2522,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 415,
-      "invalid": 18797
+      "invalid": 20304
     }
   },
   {
@@ -2161,6 +2531,8 @@
     "label": "Amount Paid",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2169,11 +2541,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -2182,9 +2556,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18741,
         0,
@@ -2204,7 +2582,7 @@
       "3rd Qu.": 99.25,
       "Max.": 600.0,
       "valid": 86,
-      "invalid": 19126
+      "invalid": 20633
     }
   },
   {
@@ -2213,6 +2591,8 @@
     "label": "Carer: Relatives",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2222,18 +2602,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Carer: Relatives"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2246,9 +2630,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         16259,
         0,
@@ -2263,7 +2651,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 471,
-      "invalid": 18741
+      "invalid": 20248
     }
   },
   {
@@ -2272,6 +2660,8 @@
     "label": "Carer: Friends",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2281,18 +2671,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Carer: Friends"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2305,9 +2699,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         16259,
         0,
@@ -2322,7 +2720,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 19094
+      "invalid": 20601
     }
   },
   {
@@ -2331,6 +2729,8 @@
     "label": "Carer: Paid",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2340,18 +2740,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Carer: Paid Care"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2364,9 +2768,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         16259,
         0,
@@ -2381,7 +2789,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 37,
-      "invalid": 19175
+      "invalid": 20682
     }
   },
   {
@@ -2390,6 +2798,8 @@
     "label": "Carer: Child Minder",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2399,18 +2809,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Carer: Child Minder"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2423,9 +2837,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         15910,
         0,
@@ -2440,7 +2858,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 46,
-      "invalid": 19166
+      "invalid": 20673
     }
   },
   {
@@ -2449,6 +2867,8 @@
     "label": "Carer: None",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2458,18 +2878,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Carer: None"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2482,9 +2906,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         16259,
         0,
@@ -2499,7 +2927,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2297,
-      "invalid": 16915
+      "invalid": 18422
     }
   },
   {
@@ -2508,6 +2936,8 @@
     "label": "External Care: Costs per Month",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2516,11 +2946,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -2529,9 +2961,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19085,
         0,
@@ -2551,7 +2987,7 @@
       "3rd Qu.": 200.0,
       "Max.": 200.0,
       "valid": 7,
-      "invalid": 19205
+      "invalid": 20712
     }
   },
   {
@@ -2560,6 +2996,8 @@
     "label": "External Care: No Costs",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2569,18 +3007,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] no costs"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2593,9 +3035,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         19085,
         0,
@@ -2610,7 +3056,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 27,
-      "invalid": 19185
+      "invalid": 20692
     }
   },
   {
@@ -2619,6 +3065,8 @@
     "label": "Gymnastics Under 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2628,18 +3076,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2652,9 +3104,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2669,7 +3125,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 104,
-      "invalid": 19108
+      "invalid": 20615
     }
   },
   {
@@ -2678,6 +3134,8 @@
     "label": "Music Education Under 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2687,18 +3145,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2711,9 +3173,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2728,7 +3194,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 36,
-      "invalid": 19176
+      "invalid": 20683
     }
   },
   {
@@ -2737,6 +3203,8 @@
     "label": "Art Class Under 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2746,18 +3214,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2770,9 +3242,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2787,7 +3263,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 19208
+      "invalid": 20715
     }
   },
   {
@@ -2796,6 +3272,8 @@
     "label": "Other Activities Under 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2805,18 +3283,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2829,9 +3311,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2846,7 +3332,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 31,
-      "invalid": 19181
+      "invalid": 20688
     }
   },
   {
@@ -2855,6 +3341,8 @@
     "label": "No Activities Under 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2864,18 +3352,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] No Activities Under 6"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2888,9 +3380,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2905,7 +3401,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 161,
-      "invalid": 19051
+      "invalid": 20558
     }
   },
   {
@@ -2914,6 +3410,8 @@
     "label": "6 Years And Older: School Sports Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2923,18 +3421,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2947,9 +3449,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -2964,7 +3470,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 138,
-      "invalid": 19074
+      "invalid": 20581
     }
   },
   {
@@ -2973,6 +3479,8 @@
     "label": "6 Years And Older: School Music Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2982,18 +3490,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3006,9 +3518,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3023,7 +3539,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 92,
-      "invalid": 19120
+      "invalid": 20627
     }
   },
   {
@@ -3032,6 +3548,8 @@
     "label": "6 Years And Older: School Art Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3041,18 +3559,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3065,9 +3587,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3082,7 +3608,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 21,
-      "invalid": 19191
+      "invalid": 20698
     }
   },
   {
@@ -3091,6 +3617,8 @@
     "label": "6 Years And Older: School Theatre Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3100,18 +3628,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3124,9 +3656,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3141,7 +3677,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 34,
-      "invalid": 19178
+      "invalid": 20685
     }
   },
   {
@@ -3150,6 +3686,8 @@
     "label": "6 Years And Older: Other School Activities",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3159,18 +3697,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Other School Activities"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3183,9 +3725,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3200,7 +3746,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 83,
-      "invalid": 19129
+      "invalid": 20636
     }
   },
   {
@@ -3209,6 +3755,8 @@
     "label": "6 Years And Older: Non School Sports Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3218,18 +3766,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3242,9 +3794,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3259,7 +3815,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 310,
-      "invalid": 18902
+      "invalid": 20409
     }
   },
   {
@@ -3268,6 +3824,8 @@
     "label": "6 Years And Older: Non School Music Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3277,18 +3835,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3301,9 +3863,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3318,7 +3884,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 19093
+      "invalid": 20600
     }
   },
   {
@@ -3327,6 +3893,8 @@
     "label": "6 Years And Older: Non School Art Club",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3336,18 +3904,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3360,9 +3932,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3377,7 +3953,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 19208
+      "invalid": 20715
     }
   },
   {
@@ -3386,6 +3962,8 @@
     "label": "6 Years And Older: Volunteer Fire Department, Red Cross",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3395,18 +3973,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3419,9 +4001,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3436,7 +4022,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 29,
-      "invalid": 19183
+      "invalid": 20690
     }
   },
   {
@@ -3445,6 +4031,8 @@
     "label": "6 Years And Older: Youth Group",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3454,18 +4042,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3478,9 +4070,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3495,7 +4091,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 24,
-      "invalid": 19188
+      "invalid": 20695
     }
   },
   {
@@ -3504,6 +4100,8 @@
     "label": "6 Years And Older: Non School Youth Center",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3513,18 +4111,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Activity Applies"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3537,9 +4139,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3554,7 +4160,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 22,
-      "invalid": 19190
+      "invalid": 20697
     }
   },
   {
@@ -3563,6 +4169,8 @@
     "label": "No Activities Above 6",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3572,18 +4180,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] No Activities Above 6"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3596,9 +4208,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18320,
         0,
@@ -3613,7 +4229,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 122,
-      "invalid": 19090
+      "invalid": 20597
     }
   },
   {
@@ -3622,6 +4238,8 @@
     "label": "Average Costs Per Month",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3630,11 +4248,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -3643,9 +4263,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18601,
         0,
@@ -3665,7 +4289,7 @@
       "3rd Qu.": 90.0,
       "Max.": 850.0,
       "valid": 383,
-      "invalid": 18829
+      "invalid": 20336
     }
   },
   {
@@ -3674,6 +4298,8 @@
     "label": "No Costs",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3683,18 +4309,22 @@
         1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] no costs"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3707,9 +4337,13 @@
         true,
         true,
         true,
+        true,
+        true,
         false
       ],
       "frequencies": [
+        1507,
+        0,
         0,
         18601,
         0,
@@ -3724,7 +4358,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 208,
-      "invalid": 19004
+      "invalid": 20511
     }
   }
 ]
