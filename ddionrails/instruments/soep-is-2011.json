@@ -16496,7 +16496,6 @@
         {
           "text": "Are you currently enrolled in an educational or training program? In other words: are you in school or higher education, working on a doctors degree, completing vocational training, or taking part in further training?",
           "text_de": "Sind Sie derzeit in Ausbildung? Das heißt: Besuchen Sie eine Schule oder Hochschule, einschließlich Promotion, machen Sie eine Berufsausbildung oder nehmen Sie an einem Weiterbildungslehrgang teil?",
-          "description": "Qlib:Q15901",
           "concept": "paus1",
           "scale": "cat",
           "answers": [
@@ -16534,7 +16533,6 @@
         {
           "text": "What kind of training or further training is it?",
           "text_de": "Was für eine Ausbildung oder Weiterbildung ist das?",
-          "description": "Qlib:Q15902",
           "concept": "paus",
           "scale": "cat",
           "answers": [
@@ -16584,7 +16582,6 @@
           "text_de": "Um welche Art allgemeinbildende Schule handelt es sich?",
           "instruction": "List 8 is available!",
           "instruction_de": "Liste 8 liegt vor!",
-          "description": "Qlib:Q15903",
           "filter": "Q159:PAUS=1",
           "concept": "paus2",
           "scale": "cat",
@@ -16643,7 +16640,6 @@
         {
           "text": "Were you registered unemployed at the unemployment office (Arbeitsamt) any time in the last 10 years, that is, from the beginning of 2001 to today?",
           "text_de": "Waren Sie in den letzten 10 Jahren, also von Anfang 2001 bis heute, irgendwann einmal beim Arbeitsamt arbeitslos gemeldet?",
-          "description": "Qlib:Q16001",
           "filter": "Q1;Lela=1",
           "concept": "lal10a",
           "scale": "cat",
@@ -16682,7 +16678,6 @@
         {
           "text": "How often have you been unemployed since 2001?",
           "text_de": "Wie häufig sind Sie von 2001 bis heute arbeitslos gewesen?",
-          "description": "Qlib:Q16002",
           "filter": "Q160c.1;al10a=1",
           "scale": "txt",
           "sn": 0,
@@ -16712,7 +16707,6 @@
         {
           "text": "Are you registered as unemployed at the Employment Office (\"Arbeitsamt\")?",
           "text_de": "Sind Sie zur Zeit beim Arbeitsamt arbeitslos gemeldet?",
-          "description": "Qlib:Q16003",
           "filter": "Q160c.1;al10a=1",
           "concept": "palomitlela",
           "scale": "cat",
@@ -16751,7 +16745,6 @@
         {
           "text": "If you added up all your phases of unemployment up to the present day, how many months in total were you unemployed between 2001 and today?",
           "text_de": "Wenn Sie einmal alle diese Zeiten der Arbeitslosigkeit bis heute zusammenzählen: Wie viele Monate waren Sie seit 2001 alles in allem arbeitslos?",
-          "description": "Qlib:Q16004",
           "filter": "Q160c.1;al10a=1",
           "scale": "txt",
           "sn": 0,
@@ -16781,7 +16774,6 @@
         {
           "text": "How many jobs or employers have you had in the last 10 years, in other words, since the beginning of 2001?",
           "text_de": "Bei wie vielen Stellen beziehungsweise bei wie vielen Arbeitgebern waren Sie in den letzten 10 Jahren, also seit Anfang 2001, beschäftigt? Wenn Sie heute berufstätig sind, zählen Sie Ihre heutige Stelle bitte mit.",
-          "description": "Qlib:Q16005",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -20854,7 +20846,6 @@
         {
           "text": "Now we have a few questions about your parents. Let us begin with your father.",
           "text_de": "Nun haben wir noch ein paar Fragen zu Ihren Eltern. Beginnen wir mit Ihrem Vater.",
-          "description": "Researcher notes: Codierung:beide im Haushalt: LVM = 1,\nnur der Vater = 2,\nnur die Mutter = 3,\nNein, beide nicht = 4",
           "scale": "txt",
           "sn": 0,
           "item": "root",

@@ -2665,7 +2665,6 @@
           "text_de": "… (Zahl zwischen 0 und 10) Euro",
           "instruction": "[de] [@Scripter: Reihenfolge der beiden Items bitte randomisieren]  Bitte Kennzeichen für random",
           "instruction_de": "[@Scripter: Reihenfolge der beiden Items bitte randomisieren]  Bitte Kennzeichen für random",
-          "description": "[@Scripter: Reihenfolge der beiden Items bitte randomisieren]  Bitte Kennzeichen für random",
           "concept": "sbipeurnd",
           "scale": "int",
           "sn": 4,
@@ -6405,7 +6404,6 @@
           "item": "Temp107",
           "text": "[de] Welche Aussage beschreibt die Anzahl der Berufe, über die Du momentan nachdenkst, am besten:",
           "text_de": "Welche Aussage beschreibt die Anzahl der Berufe, über die Du momentan nachdenkst, am besten:",
-          "description": "Ursprünglich mp: SBANZ1,SBANZ2,SBANZ3,SBANZ4,SBANZ5,SBANZ6; wurde in sp geändert\n",
           "concept": "sbipbanz",
           "scale": "cat",
           "answers": [
@@ -6955,7 +6953,6 @@
           "text_de": "Was glaubst Du? Wie wurdest Du hinsichtlich der folgenden Punkte während der Schulschließung in der Corona-Pandemie beeinflusst? \n",
           "instruction": "[de] Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Sehr stark positiv. Der\nWert \"7\" bedeutet: Sehr stark negativ. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
           "instruction_de": "Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Sehr stark positiv. Der\nWert \"7\" bedeutet: Sehr stark negativ. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
-          "description": "If 30:sbipsch = 7 & 32:sschend < 2020: Was glaubst Du? Wie wurdest Du hinsichtlich der folgenden Punkte während des Lockdowns in der Corona-Pandemie beeinflusst? .",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -7225,7 +7222,6 @@
           "text_de": "Wie war das während der Schulschließungen im Vergleich zu der Zeit davor, hast Du weniger oder mehr …",
           "instruction": "[de] Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Sehr viel mehr. Der\nWert \"7\" bedeutet: Sehr viel weniger. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
           "instruction_de": "Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Sehr viel mehr. Der\nWert \"7\" bedeutet: Sehr viel weniger. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
-          "description": "If 30:sbipsch = 7 & 32:sschend < 2020: Wie war das während des Lockdowns im Vergleich zu der Zeit davor, hast Du weniger oder mehr …",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -7997,7 +7993,6 @@
           "text_de": "Wie sehr hast du dich während der Schulschließungen an die öffentlichen Vorgaben, wie z. B. das Tragen einer Maske und nur begrenzt viele Leute treffen, gehalten? ",
           "instruction": "[de] Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Überhaupt nicht. Der\nWert \"7\" bedeutet: Sehr stark. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
           "instruction_de": "Antworte bitte anhand der folgenden Skala. Der Wert \"1\" bedeutet: Überhaupt nicht. Der\nWert \"7\" bedeutet: Sehr stark. Mit den Werten zwischen 1 und 7 kannst Du Deine Antwort\nAbstufen.",
-          "description": "If 30:sbipsch = 7 & 32:sschend < 2020: Wie sehr hast du dich während des Lockdowns an die öffentlichen Vorgaben, wie z. B. das Tragen einer Maske und nur begrenzt viele Leute treffen, gehalten? ",
           "concept": "sbipcr23",
           "scale": "cat",
           "answers": [

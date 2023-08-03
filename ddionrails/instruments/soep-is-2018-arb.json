@@ -34,7 +34,6 @@
         {
           "text": "[de] Dummy Reihenfolge Blöcke A/D",
           "text_de": "Dummy Reihenfolge Blöcke A/D",
-          "description": "Scripter notes: Reihenfolge der Blöcke A und D: ADummy = 1: Reihenfolge A, B, C, D, E, F; ADummy = 2: Reihenfolge D, B, C, A, E, F",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -115,7 +114,6 @@
         {
           "text": "[de] Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
           "text_de": "Jetzt möchten wir Sie um eine Einschätzung Ihrer persönlichen Lebensumstände bitten. Wie bewerten Sie im Vergleich zum Durchschnitt in Deutschland Ihre persönliche Situation bezüglich …",
-          "description": "Scripter notes: Items bitte randomisieren; Reihenfolge wegschreiben",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -501,7 +499,6 @@
         {
           "text": "[de] Wo würden Sie sich auf der Leiter platzieren?",
           "text_de": "Wo würden Sie sich auf der Leiter platzieren?",
-          "description": "Scripter notes: Bitte entsprechende Leiter integrieren (siehe Inno 2018); Ab \"Wo würden Sie sich...\" + Leiter auf extra Screen anzeigen zur Übersichtlichkeit. Für alle Leiterfragen Antwortoptionen neben der Leiter anzeigen!",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -588,7 +585,6 @@
           "item": "A3",
           "text": "[de] Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "text_de": "Nun zur Vergangenheit: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation vor 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
-          "description": "Scripter notes: Bitte entsprechende Leiter integrieren (siehe Inno 2018)",
           "concept": "A3",
           "scale": "cat",
           "answers": [
@@ -666,7 +662,6 @@
           "item": "A4",
           "text": "[de] Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
           "text_de": "Und jetzt zu Ihrer Zukunft: Wo würden Sie sich auf der Leiter platzieren, wenn Sie an Ihre Situation in 5 Jahren im Vergleich zu anderen Menschen in Deutschland denken?",
-          "description": "Scripter notes: Bitte entsprechende Leiter integrieren (siehe Inno 2018)",
           "concept": "A4",
           "scale": "cat",
           "answers": [
@@ -744,7 +739,6 @@
           "item": "A5",
           "text": "[de] Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
           "text_de": "Bitte denken Sie wieder an den Vergleich zu anderen Menschen in Deutschland: Wo würden Sie Ihre Eltern platzieren, als diese so alt waren wie Sie jetzt sind?",
-          "description": "Scripter notes: Bitte entsprechende Leiter integrieren (siehe Inno 2018)",
           "concept": "A5",
           "scale": "cat",
           "answers": [
@@ -822,7 +816,6 @@
           "item": "A6",
           "text": "[de] Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
           "text_de": "Es geht noch einmal um den Vergleich zu anderen Menschen in Deutschland. Angenommen, Sie haben Kinder: Was glauben Sie, welche Position auf der Leiter werden Ihre Kinder haben, wenn Ihre Kinder so alt sind wie Sie jetzt?",
-          "description": "Scripter notes: Bitte entsprechende Leiter integrieren (siehe Inno 2018)",
           "concept": "A6",
           "scale": "cat",
           "answers": [
@@ -1141,7 +1134,6 @@
           "text_de": "Wann kann man jemanden als arm bezeichnen? \n\nMenschen sind arm, wenn sie…",
           "instruction": "[de] Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",
           "instruction_de": "Bitte geben Sie an, inwieweit Sie folgenden Aussagen zustimmen.",
-          "description": "Scripter notes: Items bitte randomisieren; Reihenfolge wegschreiben; Hinweis zwischen Frage und \"Menschen sind arm, wenn sie...\" platzieren",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -1643,7 +1635,6 @@
         {
           "text": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
           "text_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland arm ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand arm ist: Nie, selten, manchmal, oft oder immer?",
-          "description": "Scripter notes: Items bitte randomisieren; Reihenfolge wegschreiben",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -2073,7 +2064,6 @@
         {
           "text": "[de] Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
           "text_de": "Bitte geben Sie an, wie sehr Sie den folgenden Aussagen zustimmen.",
-          "description": "Scripter notes: Items bitte randomisieren; Reihenfolge wegschreiben",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -2991,7 +2981,6 @@
         {
           "text": "[de] Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
           "text_de": "Im Folgenden geht es um die Gründe, warum jemand in Deutschland reich ist. Was glauben Sie, wie häufig sind die folgenden Punkte ein Grund dafür, dass jemand reich ist: Nie, selten, manchmal, oft oder immer?",
-          "description": "Scripter notes: Items bitte randomisieren; Reihenfolge wegschreiben",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -5258,7 +5247,6 @@
           "item": "E2to7pos",
           "text": "[de] Dummy Reihenfolge Bewertung Einkommensverteilung",
           "text_de": "Dummy Reihenfolge Bewertung Einkommensverteilung",
-          "description": "Scripter notes: Bitte die Abfrage von E2, E3 und E4 randomisieren und im Datensatz Reihenfolge wegschreiben.",
           "concept": "E2to7pos",
           "scale": "txt",
           "sn": 0,

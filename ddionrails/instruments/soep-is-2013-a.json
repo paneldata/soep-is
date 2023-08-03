@@ -250,7 +250,6 @@
         {
           "text": "Is it a rooming house, guesthouse, or a similar accommodation?",
           "text_de": "Handelt es sich um ein Wohnheim, eine Pension oder eine ähnliche Unterkunft?",
-          "description": "Researcher Notes:\nQuelle:\n**Core2011 Items reduziert\n",
           "concept": "hheim",
           "scale": "cat",
           "answers": [
@@ -755,7 +754,6 @@
         {
           "text": "Do you live in the flat as …?",
           "text_de": "Bewohnen Sie diese Wohnung als...",
-          "description": "Researcher Notes:\nCodierung:\n**Wohnheim = 4\n",
           "concept": "hm01",
           "scale": "cat",
           "answers": [
@@ -793,7 +791,6 @@
         {
           "text": "What is your monthly rent?",
           "text_de": "Wie hoch ist derzeit die monatliche Miete?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HM04\n**Var2 = HM05 (1)\n**\n**Nachfrage bei unplausibler Miethöhe oder Mehrfachnennung",
           "filter": "Q16;HM01=1,2",
           "scale": "txt",
           "sn": 0,
@@ -952,7 +949,6 @@
         {
           "text": "Are other costs  included in your rent, either partially or completely, for example, water, garbage removal, etc.?",
           "text_de": "Sind in dem Mietpreis andere Umlagen, z.B. für Wasser oder Müllabfuhr, teilweise oder ganz enthalten?",
-          "description": "Researcher Notes:\nCodierung;\n**Weiß nicht = -1\n",
           "filter": "Q17:HM04 > 0",
           "concept": "hm09",
           "scale": "cat",
@@ -1039,7 +1035,6 @@
         {
           "text": "And to what extent are these contributions included in the rent?",
           "text_de": "Und in welcher Höhe sind diese Umlagen im Mietpreis enthalten?",
-          "description": "Researcher Notes:\nCodierung:\n**Var2 = HM11= 1\n**\n**Nachfrage bei unplausibler Höhe oder Mehrfachnennung\n",
           "filter": "Q21;HM09=1,2",
           "scale": "txt",
           "sn": 0,
@@ -1156,7 +1151,6 @@
           "text_de": "Wie hoch ist der monatliche Betrag für Tilgung und Zinsen, den Sie für dieses Darlehen zu leisten haben? ",
           "instruction": "If you don't know the exact amount, please estimate!",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q24;HE01=1",
           "scale": "txt",
           "sn": 0,
@@ -1186,7 +1180,6 @@
         {
           "text": "Are you able to pay the mortgage/interest payments without any difficulty?",
           "text_de": "Können Sie die Tilgung beziehungsweise Zinsen für Ihr Wohnungseigentum ohne Probleme zahlen?",
-          "description": "Researcher Notes:\nCodierung:\n**Trifft nicht zu, zahle keine = Code 3",
           "filter": "Q24;HE01=1",
           "concept": "hzahl1",
           "scale": "cat",
@@ -1227,7 +1220,6 @@
           "text_de": "Wie hoch waren die Instandhaltungskosten für diese Wohnung beziehungsweise dieses Haus, die Ihnen im Jahr 2012 entstanden sind?",
           "instruction": "If you don't know the exact amount, please estimate! If you have become the owner of this property in 2013, please enter \"0\".",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!\n\nWenn Sie erst 2013 Eigentümer dieser Wohnung geworden sind, geben Sie bitte \"0\" ein.",
-          "description": "Researcher Notes:\nNachfrage beu unplausibler Höhe",
           "filter": "Q16;HM01=3",
           "scale": "txt",
           "sn": 0,
@@ -1259,7 +1251,6 @@
           "text_de": "Und wie hoch waren 2012 die Kosten für Wasser, Müllabfuhr, Straßenreinigung usw.?",
           "instruction": "If you don't know the exact amount, please estimate! If you have become the owner of this property in 2013 please enter \"0\".",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!\n\nWenn Sie erst 2013 Eigentümer dieser Wohnung geworden sind, geben Sie bitte \"0\" ein.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q16;HM01=3",
           "scale": "txt",
           "sn": 0,
@@ -1327,7 +1318,6 @@
         {
           "text": "How much do you pay per month in management / maintenance fees?",
           "text_de": "Wie viel Wohngeld müssen Sie pro Monat entrichten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q29;HE06=1",
           "scale": "txt",
           "sn": 0,
@@ -1398,7 +1388,6 @@
           "text_de": "Wie hoch waren die Gesamteinnahmen aus Vermietung und Verpachtung\nim Jahr 2012 ungefähr?",
           "instruction": "Please state the gross amount including funds put aside for future use/maintenance/renovations.",
           "instruction_de": "Bitte geben Sie den Bruttobetrag einschließlich Umlagezahlungen an.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q31;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1428,7 +1417,6 @@
         {
           "text": "What costs did you have for the objects you rented out in the year 2012? Please state for maintenance and repair costs first.",
           "text_de": "Welche Ausgaben für die vermieteten oder verpachteten Objekte standen dem im Jahr 2012 ungefähr gegenüber?\nGeben Sie bitte zunächst die Ausgaben für Betriebs- und Instandhaltungskosten an.",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HVERM3\n**Var2 = HVERM4",
           "filter": "Q31;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1458,7 +1446,6 @@
         {
           "text": "What loan, mortgage and interest payments did you needed to set aside for the objects you rented out in the year 2012?",
           "text_de": "Welche Tilgungszahlungen und Zinsen für Hypotheken oder Bauspardarlehen mussten Sie im Jahr 2012 für die vermieteten oder verpachteten Objekte aufbringen?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HVERM3\n**Var2 = HVERM4",
           "filter": "Q31;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1529,7 +1516,6 @@
           "text_de": "Wie hoch ist der monatliche Betrag, der für die Rückzahlung dieser Kredite einschließlich Zinsen verwendet wird?",
           "instruction": "If you don't know the exact amount, please estimate!",
           "instruction_de": "Falls nicht genau bekannt: bitte schätzen!",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe\n**Vorfrage zu FM",
           "filter": "Q35;HKRED1=1",
           "scale": "txt",
           "sn": 0,
@@ -1561,7 +1547,6 @@
           "text_de": "Besaßen Sie oder andere Personen im Haushalt im Jahr 2012 eine oder mehrere Wertanlagen?",
           "instruction": "Those include savings accounts, savings contracts for building a home, life insurances, fixed interest securities like saving bonds, mortage bonds and federal savings bonds, other securities\nlike stocks, funds, bonds and equity warrant, but also company assets.",
           "instruction_de": "Dazu zählen Sparbuch und Spargirokonto, Tagesgeldkonten, Bausparverträge, Lebensversicherungen, festverzinsliche Wertpapiere wie Sparbriefe, Pfandbriefe und Bundesschatzbriefe, andere Wertpapiere wie Aktien, Fonds, Anleihen und Optionsscheine, aber auch Betriebsvermögen.",
-          "description": "Researcher Notes:\nQuelle:\n**Core2011\n**nur ja/nein abgefragt\n",
           "concept": "hwa",
           "scale": "cat",
           "answers": [
@@ -1599,7 +1584,6 @@
         {
           "text": "How high was your total income from interest, dividends and profits from all investments in the year 2012?",
           "text_de": "Wie hoch waren, alles in allem, die Einnahmen aus Zinsen, Dividenden und Gewinnen aus allen Ihren Wertanlagen im Jahr 2012?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q37;HWA=1",
           "scale": "txt",
           "sn": 0,
@@ -1698,7 +1682,6 @@
         {
           "text": "Do you or one of the members of your household currently receive any of the following governmental benefits?",
           "text_de": "Erhalten Sie oder ein anderes Haushaltsmitglied derzeit eine der folgenden staatlichen Leistungen?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HDKG1\n**Var2 = HDKZ1\n**Var3 = HDAG1\n**Var4 = HDPG1\n**Var5 = HDSH1\n**Var6 = HDGS1\n**Var7 = HDWG1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -1900,7 +1883,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in child benefits (Kindergeld)? Please do not include the supplementary child benefit (Kinderzuschlag).",
           "text_de": "Wie viel Kindergeld erhalten Sie oder ein anderes Haushaltsmitglied pro Monat? Den Kinderzuschlag zählen Sie hier bitte nicht dazu.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDKG1=1",
           "scale": "txt",
           "sn": 0,
@@ -1959,7 +1941,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in supplementary child benefits (Kinderzuschlag) in addition to child benefits (Kindergeld)?",
           "text_de": "Wie viel Kinderzuschlag erhalten Sie oder ein anderes Haushaltsmitglied pro Monat zusätzlich zum Kindergeld ?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDKZ1=1",
           "scale": "txt",
           "sn": 0,
@@ -1989,7 +1970,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in unemployment benefit II (Arbeitslosengeld II), including social benefit and accommodation expenses (Sozialgeld, Unterkunftskosten)?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich an Arbeitslosengeld II einschließlich Sozialgeld und Unterkunftskosten erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDAG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2019,7 +1999,6 @@
         {
           "text": "How much are you or another household member currently receiving per month for long-term care insurance benefits (Leistungen der Pflegeversicherung)?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich für Leistungen aus der Pflegeversicherung erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDPG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2049,7 +2028,6 @@
         {
           "text": "What is the amount that you or another household member receive monthly as assistance for livelihood?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich als Hilfe zum Lebensunterhalt erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDSH1=1",
           "scale": "txt",
           "sn": 0,
@@ -2079,7 +2057,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in basic income support for the elderly / those with reduced earning capacity (Grundsicherung im Alter oder bei Erwerbsminderung)?",
           "text_de": "Wie viel Grundsicherung im Alter oder bei Erwerbsminderung erhalten Sie oder ein anderes Haushaltsmitglied pro Monat?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDGS1=1",
           "scale": "txt",
           "sn": 0,
@@ -2109,7 +2086,6 @@
         {
           "text": "How much housing allowance (Wohngeld oder Lastenzuschuss) are you or another household member currently receiving per month?",
           "text_de": "Wie viel Wohngeld oder Lastenzuschuss erhalten Sie oder ein anderes Haushaltsmitglied pro Monat?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q40:HDWG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2141,7 +2117,6 @@
           "text_de": "Wenn man mal alle Einkünfte zusammennimmt:\nWie hoch ist das monatliche Haushaltseinkommen aller Haushaltsmitglieder heute?",
           "instruction": "Please state the net monthly income, which means after deductions for taxes and social security. Please include regular income such as pensions, housing allowance, child allowance, grants for higher education support payments, etc. If you do not know the exact amount, please estimate the amount per month.",
           "instruction_de": "Bitte geben Sie den monatlichen Netto-Betrag an, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen usw. rechnen Sie bitte dazu!\n\nFalls nicht genau bekannt: Bitte schätzen Sie den monatlichen Betrag.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -2170,7 +2145,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX1=9: ZNETTO=-1",
           "filter": "Q49:HNETTO=-1",
           "concept": "znettox1",
           "scale": "cat",
@@ -2209,7 +2183,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX2=1:ZNETTO=1\n**X2=2:ZNETTO=2\n**X2=9:ZNETTO=21",
           "filter": "Q50;ZNETTOX1=1",
           "concept": "znettox2",
           "scale": "cat",
@@ -2248,7 +2221,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX3=1:ZNETTO=3\n**X3=9:ZNETTO=31",
           "filter": "Q50;ZNETTOX1=2",
           "concept": "znettox3",
           "scale": "cat",
@@ -2287,7 +2259,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX4=1:ZNETTO=4\n**X4=9:ZNETTO=41",
           "filter": "Q50;ZNETTOX3=2",
           "concept": "znettox4",
           "scale": "cat",
@@ -2326,7 +2297,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX5=1:ZNETTO=5\n**X5=2:ZNETTO=6\n**X5=9:ZNETTO=51",
           "filter": "Q50;ZNETTOX4=2",
           "concept": "znettox5",
           "scale": "cat",
@@ -2365,7 +2335,6 @@
         {
           "text": "Do you usually have an amount of money left over at the end of the month that you can\nsave for larger purchases, emergency expenses or to acquire wealth? If yes, how much?",
           "text_de": "Bleibt Ihnen in der Regel monatlich ein gewisser Betrag übrig, den Sie sparen oder zurücklegen können, etwa für größere Anschaffungen, für Notlagen oder zur Vermögensbildung?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HSPAR1 (ja,nein)\n**Var2 = HSPAR2 (open)\n**Vorfrage zu Investitionsentscheidung FM\n",
           "concept": "hspar1",
           "scale": "cat",
           "answers": [
@@ -2528,7 +2497,6 @@
           "text_de": "Zunächst geht es um Ihre Zufriedenheit mit bestimmten Bereichen Ihres Lebens.\n\nWie zufrieden sind Sie gegenwärtig mit den folgenden Bereichen Ihres Lebens?",
           "instruction": "Please indicate for each area your level of satisfaction: If you are totally unhappy use the value \" 0 \", if you are totallly happy use the value \"10\". If you are partly satisfied / partly dissatisfied, use a value in between. Please show list 59. TNZ = does not apply. ",
           "instruction_de": "Bitte geben Sie für jeden Bereich den Grad Ihrer Zufriedenheit an:\nWenn Sie ganz und gar unzufrieden sind, den Wert \"0\",\nwenn Sie ganz und gar zufrieden sind, den Wert \"10\".\n\nWenn Sie teils zufrieden/teils unzufrieden sind, einen Wert dazwischen.\n\nBitte Liste 59 vorlegen\nTNZ = Trifft nicht zu\n\nWie zufrieden sind Sie ...\n\n",
-          "description": "Researcher Notes:\nbei Item 3 und 5 zusätzlich die Option \"TNZ\" programmieren.\n**\n**Codierung:\n**var1 = 01\n**var2 = 20\n**var3 = 02\n**var4 = 04\n**var5 = 05\n**var6= 07\n**var7= 08\n**var8= 13\n**\n**Items 9-16 nur einblenden, wenn Modul Geneca=1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -3514,7 +3482,6 @@
         {
           "text": "What would you say: How many close friends do you have?",
           "text_de": "Was würden Sie sagen: Wie viele enge Freunde haben Sie?",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -3524,7 +3491,6 @@
           "item": "pbez06",
           "text": "close friends",
           "text_de": "enge Freunde",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "concept": "pbez06",
           "scale": "int",
           "sn": 1,
@@ -4758,7 +4724,6 @@
         {
           "text": "Now I will read a few statements to you. Please state whether you feel often, sometimes, rarely or never the described way.",
           "text_de": "Ich lese Ihnen jetzt ein paar Aussagen vor. Bitte geben Sie jeweils an, ob Sie sich oft, manchmal, selten oder nie so fühlen wie beschrieben.",
-          "description": "Researcher Notes:\nbei dieser und den folgenden zwei Fragen gibt es dreierlei Skalen und dreierlei Zeitbezüge. Wenn möglich vereinheitlichen\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -7941,7 +7906,6 @@
           "text_de": "Haben oder hatten Sie Kinder? Wenn ja, wie viele?",
           "instruction": "This refers to biological or adopted children, not to foster- or stepchildren.",
           "instruction_de": "Gemeint sind leibliche oder adoptierte Kinder, nicht Pflege- oder Stiefkinder.",
-          "description": "Researcher Notes:\nCodierung:\n**Nein = LKNO = 1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -7960,7 +7924,6 @@
           "item": "LKNO",
           "text": "No, never had children.",
           "text_de": "Nein, hatte nie Kinder",
-          "description": "Researcher Notes:\nCodierung:\n**Nein = LKNO = 1\n",
           "concept": "lkno",
           "scale": "bin",
           "sn": 2,
@@ -7980,7 +7943,6 @@
         {
           "text": "We would now like some general information about your child / each of your children. Please start with your first (oldest) child and end with your last (youngest) child.",
           "text_de": "Nun hätten wir gerne zu Ihrem Kind / jedem Ihrer Kinder ein paar allgemeine Angaben. Bitte beginnen Sie mit Ihrem ersten, also ältesten Kind, und dann dem Alter nach, das Jüngste zuletzt.",
-          "description": "Researcher Notes:\nBitte Schleife für die nächsten 4 Fragen programmieren. Maximale Anzahl entspricht Angabe in \"Anzahl Kinder\".\n",
           "concept": "l38",
           "scale": "txt",
           "sn": 0,
@@ -8001,7 +7963,6 @@
         {
           "text": "Please state the first name of your child. / Please tell me the first name of your first, thus the oldest child. / Now, please tell me the name of your <n.> eldest child.",
           "text_de": "Bitte nennen Sie mir den Vornamen Ihres Kindes. / Bitte nennen Sie mir den Vornamen Ihres ersten, also ältesten Kindes. / Bitte nennen Sie mir nun den Vornamen Ihres <n.> ältesten Kindes. \n",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "filter": "Q185:LKIND=1",
           "scale": "txt",
           "sn": 0,
@@ -8012,7 +7973,6 @@
           "item": "LKNAMX",
           "text": "Prename:",
           "text_de": "Vorname:",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lknam x",
           "scale": "chr",
           "sn": 1,
@@ -8022,7 +7982,6 @@
           "item": "LKSEX",
           "text": "<first name>  is ...",
           "text_de": "<Vorname> ist ...",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n**\n**wenn KA in Q104ff, anstatt \"...Vorname...\" \"...Ihr ältestes (bzw. 2. ätestes etc.) Kind...\":\n",
           "concept": "lksex x",
           "scale": "cat",
           "answers": [
@@ -8049,7 +8008,6 @@
           "item": "4",
           "text": "What year was <first name> born?",
           "text_de": "In welchem Jahr und Monat ist <Vorname> geboren?",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "scale": "txt",
           "sn": 3,
           "number": ""
@@ -8058,7 +8016,6 @@
           "item": "LKGEB",
           "text": "Year of birth",
           "text_de": "Geburtsjahr",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lkgeb x",
           "scale": "int",
           "sn": 4,
@@ -8068,7 +8025,6 @@
           "item": "LKMO",
           "text": "Month of birth",
           "text_de": "Geburtsmonat",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lkgebmo x",
           "scale": "int",
           "sn": 5,
@@ -8090,7 +8046,6 @@
           "text_de": "Wo lebt <Vorname> heute?",
           "instruction": "Please show list 191b!",
           "instruction_de": "Bitte Liste 191b vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n**\n**Für alle Kinder für die hier angegeben wrid, dass sie hier im Haushalt leben, werden in der CAPI-Datei Vorname, Geschlecht, Geburtsjahr/Monat gespeichert und im nächsten Fenster nochmals aufgeführt\n",
           "concept": "lkwo x",
           "scale": "cat",
           "answers": [
@@ -13841,7 +13796,6 @@
         {
           "text": "Have you gone to a doctor in the last three months? If so, please state how many times.",
           "text_de": "Haben Sie in den letzten 3 Monaten Ärzte aufgesucht?\nWenn ja, geben Sie bitte an wie häufig.",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = pdr1\n**Var2 = pdr2\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -13918,7 +13872,6 @@
           "text_de": "Wie viele Tage haben Sie im Jahr 2012 wegen Krankheit nicht gearbeitet?",
           "instruction": "Please enter all days, not only those for which you have received a certificate of incapacity for work from your doctor!",
           "instruction_de": "Geben Sie bitte alle Tage an, nicht nur die , für die Sie eine ärztliche Arbeitsunfähigkeitsbescheinigung erhalten haben!",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = pkr6\n**Var2 = pkr5\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -14175,7 +14128,6 @@
           "text_de": "Hat sich an Ihrer familiären Situation nach dem 31.12.2011 etwas verändert? \nGeben Sie bitte an, ob einer oder mehrere der folgenden Punkte zutrifft, und wenn ja, wann das war.",
           "instruction": "Please show list 384!",
           "instruction_de": "Bitte Liste 384 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**ja \n**Var1 = 141 \n**Var2 = 011 \n**Var3 = 021\n**Var4 = 031\n**Var5 = 111\n**Var6 = 041\n**Var7 = 051\n**Var8 = 061\n**Var9 = 071\n**Var10 = 081\n**Var11 = 091\n**Var12 = 121\n**Var13 = 131\n**Var14 = 101\n**Var15 = pfsso (open)\n**Var16 = pfsno\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -14348,7 +14300,6 @@
         {
           "text": "What year and month did this change in your family situation take place?",
           "text_de": "In welchem Jahr und in welchem Monat fand diese Änderung Ihrer familiären Situation statt?",
-          "description": "Researcher Notes:\nNur für die Items einblenden, die in der Vorfrage angeklickt wurden.\n**Codierung:\n** Monat2011 Monat2010\n**Var1 = 143 142\n**Var2 = 013 012\n**Var3 = 023 022\n**Var4 = 033 032\n**Var5 = 113 112\n**Var6 = 043 042\n**Var7 = 053 052\n**Var8 = 063 062\n**Var9 = 073 072\n**Var10 = 083 082\n**Var11 = 093 092\n**Var12 = 123 122\n**Var13 = 133 132\n**Var14 = 103 102\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",

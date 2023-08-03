@@ -2916,7 +2916,6 @@
           "text_de": "Wie hoch ist die Leistung dieser Anlage in kWpeak?",
           "instruction": "Kilowatt peak refers to the maximum the construction can deliver. This value is the power the solar panel generates in a standardized test environment, and serves as a neutral standard of comparison. Sometimes producers call it “nominal output”.",
           "instruction_de": "Kilowatt peak steht für Spitzenleistung (engl. Peak = Spitze). Dieser Wert gibt die Leistung an, die ein Solarmodul unter festgelegten Standard-Testbedingungen abgibt, und dient als neutraler Vergleichsmaßstab zur Leistungsbewertung. Die Peakleistung wird von manchen Herstellern auch als „Nennleistung“ beizeichnet. ",
-          "description": "Q3202 was not in Screenshots, but Codeplan",
           "scale": "txt",
           "sn": 0,
           "item": "root",
