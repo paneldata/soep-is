@@ -6865,8 +6865,6 @@
           "text_de": "Welche Zahl können Sie hier erkennen?",
           "instruction": "Please enter your details in the box below.",
           "instruction_de": "Bitte tragen Sie Ihre Angabe in das Feld unten ein.",
-          "description": "Researcher notes:\nColor panel 1: 12 orange against gray background\nColor panel 2: 8 red, yellow\nColor panel 3: 29 red, yellow\nColor panel 4: 5 green, red\nColor panel 5: 3 green, red\nColor panel 6: 15 green, red\nColor panel 7: 74 green, red\nColor panel 8: 6 red, yellow\nColor panel 9: 45 red, yellow\nColor panel 10: 5 green, red\nColor panel 11: 7 green, red\nColor panel 12: 16 green, red\nColor panel 13: 73 green, red\nColor panel 14: 26 red and purple, black\nColor panel 15: 42 red and purple, black\nColor panel 16: no number",
-          "description_de": "Researcher notes:\nFarbtafel 1: 12 orange vor grauen Hintergrund\nFarbtafel 2: 8 rot, gelb\nFarbtafel 3: 29 rot, gelb\nFarbtafel 4: 5 grün, rot\nFarbtafel 5: 3 grün, rot\nFarbtafel 6: 15 grün, rot\nFarbtafel 7: 74 grün, rot\nFarbtafel 8: 6 rot, gelb\nFarbtafel 9: 45 rot, gelb\nFarbtafel 10: 5 grün, rot\nFarbtafel 11: 7 grün, rot\nFarbtafel 12: 16 grün, rot\nFarbtafel 13: 73 grün, rot\nFarbtafel 14: 26 rot und lila, schwarz\nFarbtafel 15: 42 rot und lila, schwarz\nFarbtafel 16: keine Zahl",
           "filter": "Q090:istr10=1",
           "scale": "txt",
           "sn": 0,
@@ -7614,8 +7612,6 @@
       "items": [
         {
           "item": "iabrgew",
-          "description": "Researcher notes: Correct number of touches for rectangles: 17 touches.\nCircles: 12\nWhite shapes: 15\nBlack shapes: 14\nIf IABRGEW = 1: Correct number of touches: at the end of the person questionnaire 4 euros are paid for the module \"Gorilla test\"; Correct result means: IABSPLIT, 1 = 17, IABSPLIT, 2 = 12,\nIABSPLIT, 3 = 15, IABSPLIT, 4 = 14\nIf IABRGEW = 2: Wrong number of touches: at the end of the person questionnaire 1 euro is paid for the module \"Gorilla test",
-          "description_de": "Researcher notes: Richtige Anzahl der Berührungen für Rechtecke: 17 Berührungen\nKreise: 12\nWeiße Formen: 15\nSchwarze Formen: 14\nWenn IABRGEW = 1: Richtige Anzahl der Berührungen: am Ende des Personenfragebogens werden 4 Euro für das Modul \"Gorilla-Test\" ausgezahlt; Richtiges Ergebnis bedeutet: IABSPLIT, 1 = 17, IABSPLIT, 2 = 12,\nIABSPLIT, 3 = 15, IABSPLIT, 4 = 14\nWenn IABRGEW = 2: Falsche Anzahl der Berührungen: am Ende des Personenfragebogens werden 1 Euro für das Modul \"Gorilla-Test\" ausgezahlt",
           "filter": "Q2000:sample=3",
           "scale": "cat",
           "answers": [
@@ -12029,8 +12025,6 @@
       "items": [
         {
           "item": "ptsplit2",
-          "description": "Scripter notes: Split 50/50 independent of other splits Please store for each respondent whether screen was rotated/not rotated",
-          "description_de": "Scripter notes: Split 50/50 unabhängig von anderen Splits Bitte für jeden Befragten hinterlegen, ob Bildschirm gedreht wurde/Nicht gedreht wurde",
           "scale": "cat",
           "answers": [
             {
@@ -23260,8 +23254,6 @@
       "items": [
         {
           "item": "ife01d",
-          "description": "Scripter notes: In this variable, please store whether the target person is actually paid out.\nPayout group 1: 25% of all persons in group 1 will be paid out. Please control via CAPI.\nAt the end of the questionnaire, variable Q764 will show the amount paid out to the respondent.",
-          "description_de": "Scripter notes: In dieser Variable bitte hinterlegen, ob die Zielperson tatsächlich ausbezahlt wird.\nAuszahlung Gruppe 1: 25% aller Personen, die in Gruppe 1 sind, werden ausbezahlt. Bitte Steuerung via CAPI.\nAm Ende des Fragebogens wird dann in Variable Q764 der entsprechende Betrag angezeigt, der der\nBefragungsperson ausbezahlt wird.",
           "filter": "Q286:ifedummy=1",
           "scale": "txt",
           "sn": 0,
@@ -23454,8 +23446,6 @@
       "label_de": "",
       "items": [
         {
-          "description": "Scripter notes: In this variable, please store whether the target person is actually paid out.\nPayout group 1: 25% of all persons in group 1 will be paid out. Please control via CAPI.\nAt the end of the questionnaire, variable Q764 will show the amount paid out to the respondent.",
-          "description_de": "Scripter notes: In dieser Variable bitte hinterlegen, ob die Zielperson tatsächlich ausbezahlt wird.\nAuszahlung Gruppe 1: 25% aller Personen, die in Gruppe 1 sind, werden ausbezahlt. Bitte Steuerung via CAPI.\nAm Ende des Fragebogens wird dann in Variable Q764 der entsprechende Betrag angezeigt, der der\nBefragungsperson ausbezahlt wird.",
           "filter": "Q286:ifedummy=2",
           "scale": "txt",
           "sn": 0,
@@ -23650,8 +23640,6 @@
       "items": [
         {
           "item": "ife03d",
-          "description": "Scripter notes: In this variable, please store whether the target person is actually paid out.\nPayout group 1: 25% of all persons in group 1 will be paid out. Please control via CAPI.\nAt the end of the questionnaire, variable Q764 will show the amount paid out to the respondent.",
-          "description_de": "Scripter notes: In dieser Variable bitte hinterlegen, ob die Zielperson tatsächlich ausbezahlt wird.\nAuszahlung Gruppe 1: 25% aller Personen, die in Gruppe 1 sind, werden ausbezahlt. Bitte Steuerung via CAPI.\nAm Ende des Fragebogens wird dann in Variable Q764 der entsprechende Betrag angezeigt, der der\nBefragungsperson ausbezahlt wird.",
           "filter": "Q286:ifedummy=3",
           "scale": "txt",
           "sn": 0,
@@ -51456,8 +51444,6 @@
       "items": [
         {
           "item": "itf03",
-          "description": "Researcher notes: This question is intended as a placeholder only.\nDepending on the specification of ITF02, either the SOEP questions or the EWS questions come here. The respondent receives either only the unspecified or only the specified questions according to ITF01. specified questions.\nFor the later group, please additionally display the respective question in front of it:\nLet's come back to your activities in free time.\nINT Note: When asked why the respondent has to answer such similar questions again: the one one block of questions is about concrete activities (i.e., what you do) and the other block is about areas in which one is active.",
-          "description_de": "Researcher notes: Diese Frage ist nur als Platzhalter gedacht.\nJe nach Ausprägung von ITF02 kommen hier entweder die SOEP-Fragen oder die FWS-Fragen. Die Befragungsperson erhält dabei entsprechend ITF01 entweder immer nur die unspezifizierten oder nur die spezifizierten Fragen.\nBitte für die spätere Gruppe vor die jeweilige Frage zusätzlich einblenden:\nKommen wir nochmal zurück auf Ihre Tätigkeiten in freier Zeit.\nINT Hinweis: Bei Nachfrage, warum der Befragte so ähnliche Fragen schon wieder beantworten muss: bei dem einen Frageblock geht es um konkrete Tätigkeiten (also was man macht) und beim anderen Block geht es um Bereiche, in denen man aktiv ist.",
           "filter": "Q2000:sample=1,2,3,4,5",
           "scale": "txt",
           "sn": 0,
@@ -51747,8 +51733,6 @@
       "items": [
         {
           "item": "istrgor2",
-          "description": "Researcher notes: Serves as a placeholder. Depending on the split in ISTRGOR1 either Innomodul Stroop- test (part 1) or Innomodul Gorilla test (part 2).",
-          "description_de": "Researcher notes: Dient als Platzhalter. Je nach Split in ISTRGOR1 kommt hier entweder Innomodul Stroop-Test (Teil 1) oder Innomodul Gorilla-Test (Teil 2) hin.",
           "filter": "Q2000:sample=3",
           "scale": "txt",
           "sn": 0,

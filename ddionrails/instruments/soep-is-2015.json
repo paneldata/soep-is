@@ -302,7 +302,6 @@
         {
           "text": "Information is taken from the CAPI-file",
           "text_de": "Information kommt aus CAPI-Datei",
-          "description": "Researcher Notes:\nNicht für neue Personen",
           "concept": "modul",
           "scale": "cat",
           "answers": [
@@ -1521,7 +1520,6 @@
           "item": "HWSIT",
           "text": "What is true for your household?",
           "text_de": "Was trifft auf Ihren Haushalt zu?",
-          "description": "Researcher Notes:\nAngepasst an LiD 2015",
           "concept": "hwsit",
           "scale": "cat",
           "answers": [
@@ -2244,7 +2242,6 @@
           "text_de": "Die folgenden Fragen beziehen sich auf die Kosten des Wohnens. \n\nZunächst die Frage: Bewohnen Sie diese Wohnung als …",
           "instruction": "For rentfree right of abode or usufruct please enter main tenant.",
           "instruction_de": "Mietfreies Wohnrecht oder Nießbrauch tragen Sie bitte bei Hauptmieter ein.",
-          "description": "Researcher Notes:\n„Altenheim/Seniorenheim“ wird von Datenprüfung gesetzt",
           "concept": "hm01",
           "scale": "cat",
           "answers": [
@@ -4081,7 +4078,6 @@
         {
           "text": "Is your household net income...",
           "text_de": "Ist ihr Haushaltseinkommen …",
-          "description": "Researcher notes: \nCodierung: ZNETTOX2=1:ZNETTO=1\nZNETTOX2=2:ZNETTO=2\nZNETTOX2=-1:ZNETTO=21",
           "filter": "Q63:ZNETTO=1 and Q64:SPLZNETT=1",
           "concept": "znettox2",
           "scale": "cat",
@@ -4120,7 +4116,6 @@
         {
           "text": "Is your household net income...",
           "text_de": "Ist ihr Haushaltseinkommen …",
-          "description": "Researcher notes: \nCodierung: ZNETTOX3=1:ZNETTO=3\nZNETTOX3=-1:ZNETTO=31",
           "filter": "Q63:ZNETTO=2 and Q64:SPLZNETT=1",
           "concept": "znettox3",
           "scale": "cat",
@@ -4159,7 +4154,6 @@
         {
           "text": "Is your household net income...",
           "text_de": "Ist ihr Haushaltseinkommen …",
-          "description": "Researcher notes: \nCodierung: ZNETTOX4=1:ZNETTO=4\nZNETTOX4=-1:ZNETTO=41",
           "filter": "Q69:ZNETTOX3=2 and Q64:SPLZNETT=1",
           "concept": "znettox4",
           "scale": "cat",
@@ -4198,7 +4192,6 @@
         {
           "text": "Is your household net income...",
           "text_de": "Ist ihr Haushaltseinkommen …",
-          "description": "Researcher notes: \nCodierung: ZNETTOX5=1:ZNETTO=5\nZNETTOX5=2:ZNETTO=6\nZNETTOX5=-1:ZNETTO=51",
           "filter": "Q69:ZNETTOX4=2 and Q64:SPLZNETT=1",
           "concept": "znettox5",
           "scale": "cat",
@@ -4941,7 +4934,6 @@
         {
           "text": "Does the person in need of care receives long-term care insurance benefits (Pflegeversicherung), and if so, at what care level (Pflegestufe)?",
           "text_de": "Erhält die hilfebedürftige Person Leistungen aus der Pflegeversicherung, und wenn ja, für welche Pflegestufe? ",
-          "description": "HPL=1 für „Ja“",
           "filter": "Q78:HPFLEG=1",
           "concept": "hpstuf",
           "scale": "cat",
@@ -11146,7 +11138,6 @@
           "text_de": "Beurteilen Sie bitte, wie sehr die folgenden Aussagen auf Sie zutreffen. ",
           "instruction": "Please answer using the following scale from 1 to 6.\nThe value 1 means: Does not apply at all.\nThe value 6 means: Fully applies.\nYou can use the values in between to make your estimate.",
           "instruction_de": "Antworten Sie bitte anhand einer Skala von 1 bis 6. \nDer Wert 1 bedeutet \"trifft überhaupt nicht zu\". \nDer Wert 6 bedeutet \"trifft vollkommen zu\". \nMit den Werten zwischen 1 und 6 können Sie Ihre Meinung abstufen. ",
-          "description": "Researcher notes: Selbstausfüller\n2013 Variablen ohne Prefix „SIM“",
           "filter": "Q2:STICHU=11/11,19",
           "scale": "txt",
           "sn": 0,
@@ -12418,7 +12409,6 @@
           "text_de": "Nun geht es um sportliche Aktivitäten im engeren Sinne. Welche Sportart üben Sie, das ganze Jahr betrachtet, am häufigsten aus? ",
           "instruction": "Please only state one type of sport.",
           "instruction_de": "Bitte nur eine Sportart angeben.",
-          "description": "Researcher notes: Codierung:\nzusätzlich eine 4-stellige Variable für Sportcode bilden \nSPO3ACODE",
           "filter": "Q99:PFZ=1,2,3",
           "concept": "spo3a",
           "scale": "chr",
@@ -12716,7 +12706,6 @@
           "text_de": "Welche Sportart üben Sie, das ganze Jahr betrachtet, am zweithäufigsten aus? ",
           "instruction": "Please only state one type of sport.",
           "instruction_de": "Bitte nur eine Sportart angeben.",
-          "description": "Researcher notes: Codierung:\nzusätzlich eine 4-stellige Variable für Sportcode bilden \nSPO3BCODE",
           "filter": "Q109:SPO8=1",
           "scale": "txt",
           "sn": 0,
@@ -13275,7 +13264,6 @@
         {
           "text": "If you think about your childhood and youth, what type of sport did you do most frequently outside of school?",
           "text_de": "Wenn Sie an Ihre Kindheit und Jugend zurückdenken, welche Sportart haben Sie außerhalb der Schule am häufigsten regelmäßig ausgeübt?",
-          "description": "Researcher notes: Codierung:\nzusätzlich eine 4-stellige Variable für Sportcode bilden \nSPO101CODE",
           "filter": "Q118:SPO10X=\"Sportart\"",
           "concept": "spo101",
           "scale": "chr",
@@ -19743,7 +19731,6 @@
           "text_de": "Bitte nennen Sie mir jeweils den Vornamen, das Geburtsjahr und das Geschlecht der weiteren Kinder. ",
           "instruction": "Please mention every child singly, starting with the oldest born after 1999, ending with the youngest.",
           "instruction_de": "Bitte geben Sie es getrennt für jedes weitere Kind an, beginnend mit dem ältesten Kind, das 1999 oder danach geboren ist, und dann dem Alter nach, das jüngste Kind zuletzt. ",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind: \nName = HKNAMA Geburtsjahr = HKGEBA Geschlecht = HKSEXA \nZweitältestes Kind\nName = HKNAMB Geburtsjahr = HKGEBB Geschlecht = HKSEXB\nEtc.",
           "filter": "Q193:HKIND=1",
           "scale": "txt",
           "sn": 0,
@@ -19803,7 +19790,6 @@
         {
           "text": "Another child existing?",
           "text_de": "Weiteres Kind vorhanden?",
-          "description": "Researcher notes: \nWenn ja: 2. Schleife HKNAMA-H etc.\nWenn nein: weiter mit HKMOA-H",
           "concept": "hk_dummy",
           "scale": "cat",
           "answers": [
@@ -19920,7 +19906,6 @@
           "text_de": "Sind Sie selbst die Hauptbetreuungsperson von <Vorname Kind X>, also die Person, die am besten Auskunft über das Kind geben kann? ",
           "instruction": "Important advice for the interviewer: Normally the biological or social mother should answer the following questions about the child.\nDoes the mother not live in the household, or is for other reasons the biological or social father or another person the main caring person, this person should answer the following questions.",
           "instruction_de": "Wichtiger Hinweis an den Interviewer: In der Regel sollte die (leibliche oder soziale) Mutter die folgenden Fragen zum Kind beantworten. Lebt die Mutter nicht im Haushalt, oder gibt aus anderen Gründen der (leibliche oder soziale) Vater beziehungsweise eine andere Person an, die Hauptbetreuungsperson zu sein, soll diese die folgenden Fragen beantworten. ",
-          "description": "Researcher notes: \nSchleife programmieren: diese Frage für jedes Kind stellen",
           "concept": "hbet",
           "scale": "cat",
           "answers": [
@@ -19972,7 +19957,6 @@
         {
           "text": "Let's talk about <name>. In which week of pregnancy was <name> born?",
           "text_de": "Kommen wir nun zu <Vorname Kind X> In der wievielten Schwangerschaftswoche wurde <Vorname Kind X> geboren?",
-          "description": "Researcher notes: \nDieser Block wird gestellt wenn (Kind 0-23 Monate alt laut K X oder HKNAMA-H etc. und HKMOA-H) und (Hauptbetreungsperson=ja laut HBET)",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -20500,7 +20484,6 @@
         {
           "text": "Let's talk about <name> now",
           "text_de": "Kommen wir nun zu <Vorname Kind X>",
-          "description": "Researcher notes: \nDieser Block wird gestellt wenn (Kind 24-47 Monate alt laut K X oder HKNAM etc. und HKMO) und (Hauptbetreungsperson=ja laut HBET)",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -21924,7 +21907,6 @@
           "text_de": "Kommen wir nun zu <Vorname Kind X> \n\nWelche Schule besucht <Vorname Kind X> derzeit?",
           "instruction": "Please show list 218!",
           "instruction_de": "Bitte Liste 218 vorlegen!",
-          "description": "Researcher notes: \nDieser Block wird gestellt wenn (Kind >= 48 Monate alt laut K X oder HKNAMA-H etc. und HKMOA-H) und (Hauptbetreungsperson=ja laut HBET)\n\nResearcher notes: \nItemliste wurde 2015 erweitert",
           "concept": "cein3",
           "scale": "cat",
           "answers": [
@@ -22185,7 +22167,6 @@
           "text_de": "Im Folgenden lese ich Ihnen eine Reihe von Aussagen vor. Bitte sagen Sie mir jeweils inwieweit diese Aussagen auf <Vorname Kind X> zutreffen. Bitte berücksichtigen Sie bei der Antwort das Verhalten des Kindes in den letzten sechs Monaten. Das Kind ...",
           "instruction": "Please answer using the following scale.\nThe value 1 means: Does not apply at all.\nThe value 7 means: Does fully apply.\nYou can use the values in between to make your estimate.\n\nPlease show list 223!",
           "instruction_de": "Antworten Sie bitte anhand folgender Skala. Der Wert 1 bedeutet: trifft überhaupt nicht zu. Der Wert 7 bedeutet: trifft voll zu. Mit den Werten zwischen 1 und 7 können Sie Ihre Meinung abstufen. Bitte Liste 223 vorlegen!",
-          "description": "Researcher notes: \nEltern mit Kindern, die älter als 12 Jahre alt sind, erhalten diese Frage nicht.\nGeburtsjahr <= 2003",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -24000,7 +23981,6 @@
         {
           "text": "Now we would like to have some general information about each child not living within your household.\nPlease start with your first (oldest) child and then proceed till you reach your youngest child.",
           "text_de": "<wenn LKIND>=1:> Nun hätten wir gerne zu jedem Ihrer Kinder, die nicht im Haushalt leben, ein paar allgemeine Angaben.\nBitte beginnen Sie mit Ihrem ersten, also ältesten Kind, und dann dem Alter nach, das Jüngste zuletzt.",
-          "description": "Researcher notes: \nBitte Schleife für die nächsten 4 Fragen programmieren. Maximale Anzahl entspricht Angabe in \"Anzahl Kinder\"",
           "filter": "Q231:LKIND=Anzahl",
           "concept": "1",
           "scale": "txt",
@@ -24022,7 +24002,6 @@
         {
           "text": "Please state the first name of the child, which does not live in the household anymore.",
           "text_de": "Bitte nennen Sie mir den Vornamen Ihres Kindes, welches nicht mehr im Haushalt wohnt. ",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind 1 LKNAM1\nZweitältestes Kind 2 LKNAM2\nEtc.",
           "filter": "Q231:LKIND LKNO=1",
           "scale": "txt",
           "sn": 0,
@@ -24052,7 +24031,6 @@
         {
           "text": "the child not living in the household is ...",
           "text_de": "das Kind, das nicht im Haushalt lebt ist …",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind 1 LKSEX1\nZweitältestes Kind 2 LKSEX2\nEtc.",
           "concept": "lksexx",
           "scale": "cat",
           "answers": [
@@ -24085,7 +24063,6 @@
         {
           "text": "In which year and month is <first name> born?",
           "text_de": "In welchem Jahr und Monat ist <Vorname Kind X> geboren?",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind 1 LKGEB1\nZweitältestes Kind 2 LKGEB2\nEtc.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -24104,7 +24081,6 @@
           "item": "LKGEBMOX",
           "text": "Month of birth",
           "text_de": "Geburtsmonat",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind 1 LKMO1\nZweitältestes Kind 2 LKMO1\nEtc.",
           "concept": "lkgebmox",
           "scale": "int",
           "sn": 2,
@@ -24124,7 +24100,6 @@
         {
           "text": "Where does <first name> live today?",
           "text_de": "Wo lebt <Vorname Kind X> heute?",
-          "description": "Researcher notes: Codierung:\nÄltestes Kind 1 LKWO1\nZweitältestes Kind 2 LKWO2\nEtc.",
           "concept": "lkwox",
           "scale": "cat",
           "answers": [
@@ -26036,7 +26011,6 @@
           "text_de": "Üben Sie derzeit eine Erwerbstätigkeit aus? \nWas trifft für Sie zu?",
           "instruction": "Pensioners and persons in federal volunteer service with a job contract are considered employed and please state their status here.\n\nPlease show list 271!",
           "instruction_de": "Rentner oder Personen im Bundesfreiwilligendienst, die zusätzlich eine Erwerbstätigkeit ausüben, geben hier bitte die Erwerbstätigkeit an. \n\nBitte Liste 271 vorlegen!",
-          "description": "Researcher notes: \nk.A. gibt es bei dieser Frage nicht\nCodierung: 8 = Werkstatt für Behinderte (wird lt. Vorjahr und diversen Zusatzangaben bei der Datenprüfung gesetzt)",
           "concept": "perw",
           "scale": "cat",
           "answers": [
@@ -28234,7 +28208,6 @@
           "text_de": "Wie hoch war Ihr Arbeitsverdienst im letzten Monat? \n\nWenn Sie im letzten Monat Sonderzahlungen hatten, z.B. Urlaubsgeld oder Nachzahlungen, rechnen Sie diese bitte nicht mit. Entgelt für Überstunden rechnen Sie dagegen mit. \nFalls Sie selbständig sind: Bitte schätzen Sie Ihren monatlichen Gewinn vor und nach Steuern.\n\nBitte geben Sie nach Möglichkeit beides an: \n\n- den Bruttoverdienst, das heißt Lohn oder Gehalt vor Abzug der Steuern und Sozialversicherung \n- und den Nettoverdienst, das heißt den Betrag nach Abzug von Steuern und Beiträgen zur Renten-, Arbeitslosen- und Krankenversicherung. ",
           "instruction": "Gross income is usually bigger than net income!",
           "instruction_de": "Eine Brutto-Angabe ist in der Regel größer als eine Netto-Angabe!",
-          "description": "Researcher notes: Range: 1-999999",
           "filter": "Q271:PERW=1,2,3,4,5,8",
           "scale": "txt",
           "sn": 0,
@@ -28401,7 +28374,6 @@
         {
           "text": "Please imagine that your actual weekly working time changes. Now you have to work [PAZ10+5] hours.\n\nHow much would you have to earn net totally per month, so that you are satisfied with this situation just as you are with your current situation?",
           "text_de": "Stellen Sie sich bitte vor, dass sich Ihre tatsächliche Wochenarbeitszeit ändert. Sie müssen [PAZ10+5] Stunden pro Woche arbeiten. \n\nWie viel müssten Sie insgesamt netto im Monat verdienen, damit Sie mit dieser neuen Situation genauso zufrieden sind wie mit Ihrer heutigen Situation?",
-          "description": "Researcher notes: \nReihenfolge Freizeit 1/2 bitte randomisieren",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -28430,7 +28402,6 @@
         {
           "text": "Please imagine that your actual weekly working time changes. Now you have to work [PAZ10-5] hours.\n\nHow much would you have to earn net totally per month, so that you are satisfied with this situation just as you are with your current situation?",
           "text_de": "Stellen Sie sich nun bitte vor, Sie müssen [PAZ10-5] Stunden pro Woche arbeiten. \n\nWie viel müssten Sie insgesamt netto im Monat verdienen, damit Sie mit dieser neuen Situation genauso zufrieden sind wie mit Ihrer heutigen Situation? ",
-          "description": "Researcher notes: \nReihenfolge Freizeit 1/2 bitte randomisieren",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -28487,7 +28458,6 @@
         {
           "text": "Please imagine again that your actual weekly working time changes. Now you have to work [hRandom2] hours.\n\nHow much would you have to earn net totally per month, so that you are satisfied with this situation just as you are with your current situation?",
           "text_de": "Bitte stellen Sie sich noch einmal vor, dass sich Ihre tatsächliche Wochenarbeitszeit ändert. Sie müssen [hRandom2] Stunden pro Woche arbeiten. \n\nWie viel müssten Sie insgesamt netto im Monat verdienen, damit Sie mit dieser neuen Situation genauso zufrieden sind wie mit Ihrer heutigen Situation?",
-          "description": "Researcher notes: \nFür SIMFREIZ3STD soll eine zufällig gezogene ganze Zahl zwischen 10 und 60 eingeblendet werden. Dabei soll die aktuelle Wochenarbeitszeit (PAZ10) sowie PAZ10+/-5 ausgeschlossen werden.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -28518,7 +28488,6 @@
           "text_de": "Stellen Sie sich vor, dass Sie im Lotto gewonnen haben, so dass Sie (und Ihr Partner) ab jetzt jeden Monat einen Betrag in Höhe Ihres heutigen monatlichen Haushaltseinkommens bekommen werden, so lange Sie (und Ihr Partner) leben. \n\nWie viele Stunden würden Sie dann in der Woche arbeiten?",
           "instruction": "Please imagine you had to work these amount of working hours in your current job. If you would stop working, your answer has to be 0.",
           "instruction_de": "Bitte gehen Sie davon aus, dass Sie diese Anzahl von Stunden an Ihrer heutigen Arbeitsstelle arbeiten würden. Wenn Sie aufhören würden, zu arbeiten, sollte Ihre Antwort 0 sein.",
-          "description": "Researcher notes: \nFür SIMFREIZ4STD soll eine zufällig gezogene ganze Zahl zwischen 10 und 60 eingeblendet werden. Dabei soll die aktuelle Wochenarbeitszeit (PAZ10) sowie PAZ10+/-5 ausgeschlossen werden.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -30025,7 +29994,6 @@
         {
           "text": "You specified <activity from Q2drm_x>.\nAt which time did you start this activity?",
           "text_de": "Sie haben angegeben <\"Aktivität aus Q2DRM_X\">. Zu welcher Uhrzeit haben Sie diese Aktivität begonnen? ",
-          "description": "Researcher Notes: Codierung\n\n1. Schleife Q3DRM_1S\n\n2. Schleife Q3DRM_2S\nEtc.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -30149,7 +30117,6 @@
           "text_de": "Zu welcher Uhrzeit haben Sie diese Aktivität beendet?",
           "instruction": "Please use the following format hh:mm",
           "instruction_de": "Bitte folgendes Format verwenden: hh:mm",
-          "description": "Researcher notes: Codierung:\n\n1. Schleife Q4DRM_1E\n\n2. Schleife Q4DRM_2E\netc.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -30187,7 +30154,6 @@
         {
           "text": "Did you do another activity from this list at the same time?",
           "text_de": "Haben Sie während dieser Zeit noch eine andere Aktivität von dieser Liste gemacht?",
-          "description": "Researcher notes: Codierung:\n\n1. Schleife Q5DRM_1\n\n2. Schleife Q5DRM_2\netc.",
           "concept": "q5drm_x",
           "scale": "cat",
           "answers": [
@@ -30222,7 +30188,6 @@
           "text_de": "Bitte wählen Sie diese von dieser Liste:",
           "instruction": "List 333 is available!",
           "instruction_de": "Liste 333 liegt vor!",
-          "description": "Researcher notes: Codierung:\n\n1. Schleife Q6DRM_1\n\n2. Schleife Q6DRM_2\netc.",
           "concept": "q6drm_x",
           "scale": "cat",
           "answers": [
@@ -30421,7 +30386,6 @@
         {
           "text": "For three of the mentioned activities we now ask some more questions.",
           "text_de": "Für drei der genannten Aktivitäten kommen jetzt noch ein paar Zusatzfragen.",
-          "description": "Researcher notes: \nBitte 3 der zuvor genannten Aktivitäten zufällig wählen und dazu Fragen Q10DRM, Q11DRM und Q12DRM stellen. Schleife programmieren.\nCodierung:\n1. Schleife QDRM_R_AKT1\n2. Schleife QDRM_R_AKT2\n3. Schleife QDRM_R_AKT3",
           "concept": "drm_r_akt x",
           "scale": "txt",
           "sn": 0,
@@ -30442,7 +30406,6 @@
         {
           "text": "Where have you been during this period and this performed activity?\nActivity: <activity from Q2drm_x> from <time> to <time>",
           "text_de": "Wo haben Sie sich in dieser Zeit bei der aufgeführten Aktivität befunden? Aktivität: <\"Aktivität aus Q2DRM_X\"> von <Uhrzeit Beginn> bis <Uhrzeit Ende> ",
-          "description": "Researcher notes: Codierung:\n\n1. Schleife Q10DRM_1\n\n2. Schleife Q10DRM_2\netc.",
           "concept": "q10drm_x",
           "scale": "cat",
           "answers": [
@@ -30487,7 +30450,6 @@
           "text_de": "Wer war an dieser Aktivität beteiligt? Aktivität: <\"Aktivität aus Q2DRM_X\"> Zeit> von <Uhrzeit Beginn> bis <Uhrzeit Ende> ",
           "instruction": "Please show list 342!",
           "instruction_de": "Bitte Liste 342 vorlegen!",
-          "description": "Researcher notes: Codierung:\n\n1. Schleife Q11DRM_1\n\n2. Schleife Q11DRM_2\netc.",
           "concept": "q11drm_x_x",
           "scale": "cat",
           "answers": [
@@ -30562,7 +30524,6 @@
           "text_de": "Wie stark haben Sie auf einer Skala von 1 (gar nicht) bis 7 (sehr stark) die folgenden Gefühle bei der angeführten Aktivität empfunden?",
           "instruction": "Please show list 343!",
           "instruction_de": "Bitte Liste 343 vorlegen!",
-          "description": "Researcher notes: Ab hier Schleife programmieren zu den 3 zufällig ausgewählten Aktivitäten Q10DRM_X bis Q12DRM_X_X\nCodierung:\n\n1. Schleife: \nVar1 = Q12DRM_1_1\nVar2 = Q12DRM_1_2\netc. \n\n2. Schleife: \nVar1 = Q12DRM_2_1\nVar2 = Q12DRM_2_2\netc.",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -31284,7 +31245,6 @@
         {
           "text": "If necessary, please provide additional explanations on the just completed test.",
           "text_de": "Falls erforderlich, geben Sie uns bitte noch zusätzliche Erläuterungen zu dem eben durchgeführten Test. ",
-          "description": "Researcher Notes:\nNur für Interviewer*in",
           "filter": "Q1:LELA=1",
           "scale": "txt",
           "sn": 0,
@@ -31424,7 +31384,6 @@
         {
           "text": "Where was your father born?",
           "text_de": "In welchem Land ist Ihr Vater geboren?",
-          "description": "Researcher notes: Codierung:\nzusätzlich eine 4-stellige Variable für Ländercode bilden \nLV03BNR",
           "filter": "Q348:LV03A=\"nicht in Deutschland geboren\"",
           "concept": "lv03b",
           "scale": "chr",
@@ -41460,7 +41419,6 @@
       "label_de": "",
       "items": [
         {
-          "description": "Researcher notes:\nNur für Interviewer",
           "filter": "Q4141:SIMSALIVAEV=1,2",
           "concept": "simsalivae",
           "scale": "cat",

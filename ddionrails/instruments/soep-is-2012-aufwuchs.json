@@ -605,7 +605,6 @@
         {
           "text": "Is it a rooming house, guesthouse, or a similar accommodation?",
           "text_de": "Handelt es sich um ein Wohnheim, eine Pension oder eine ähnliche Unterkunft?",
-          "description": "Researcher Notes:\nQuelle:\n**Core2011 Items reduziert\n",
           "concept": "hheim",
           "scale": "cat",
           "answers": [
@@ -1102,7 +1101,6 @@
         {
           "text": "Do you live in the flat as …?",
           "text_de": "Bewohnen Sie diese Wohnung als...",
-          "description": "Researcher Notes:\nCodierung:\n**Wohnheim = 4\n",
           "concept": "hm01",
           "scale": "cat",
           "answers": [
@@ -1140,7 +1138,6 @@
         {
           "text": "What is your monthly rent?",
           "text_de": "Wie hoch ist derzeit die monatliche Miete?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HM04\n**Var2 = HM05 (1)\n**\n**Nachfrage bei unplausibler Miethöhe oder Mehrfachnennung",
           "filter": "Q18;HM01=1,2",
           "scale": "txt",
           "sn": 0,
@@ -1219,7 +1216,6 @@
         {
           "text": "Are other costs included in your rent, either partially or completely, for example, water, garbage removal, etc.?",
           "text_de": "Sind im Mietpreis andere Umlagen, z.B. für Wasser oder Müllabfuhr, teilweise oder ganz enthalten?",
-          "description": "Researcher Notes:\nCodierung;\n**Weiß nicht = -1\n",
           "filter": "Q19:HM04=1",
           "concept": "hm09",
           "scale": "cat",
@@ -1268,7 +1264,6 @@
         {
           "text": "And to what extent are these contributions included in the rent?",
           "text_de": "Und in welcher Höhe sind diese Umlagen im Mietpreis enthalten?",
-          "description": "Researcher Notes:\nCodierung:\n**Var2 = HM11= 1\n**\n**Nachfrage bei unplausibler Höhe oder Mehrfachnennung\n",
           "filter": "Q21;HM09=1,2",
           "scale": "txt",
           "sn": 0,
@@ -1385,7 +1380,6 @@
           "text_de": "Wie hoch ist der monatliche Betrag für Tilgung und Zinsen, den Sie für dieses Darlehen zu leisten haben? Tilgung und Zinsen Euro pro Monat:",
           "instruction": "If you don't know the exact amount, please estimate!",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q24;HE01=1",
           "concept": "he02",
           "scale": "int",
@@ -1407,7 +1401,6 @@
         {
           "text": "Are you able to pay the mortgage/interest payments without any difficulty?",
           "text_de": "Können Sie die Tilgung beziehungsweise Zinsen für Ihr Wohnungseigentum ohne Probleme zahlen?",
-          "description": "Researcher Notes:\nCodierung:\n**Trifft nicht zu, zahle keine = Code 3",
           "filter": "Q24;HE01=1",
           "concept": "hzahl1",
           "scale": "cat",
@@ -1448,7 +1441,6 @@
           "text_de": "Wie hoch waren die Instandhaltungskosten für diese Wohnung beziehungsweise dieses Haus, die Ihnen im Jahr 2011 entstanden sind?",
           "instruction": "If you don't know the exact amount, please estimate! If you have become the owner of this property in 2012, please enter \"0\".",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!\n\nWenn Sie erst 2012 Eigentümer dieser Wohnung geworden sind, geben Sie bitte \"0\" ein.",
-          "description": "Researcher Notes:\nNachfrage beu unplausibler Höhe",
           "filter": "Q18;HM01=3",
           "scale": "txt",
           "sn": 0,
@@ -1480,7 +1472,6 @@
           "text_de": "Und wie hoch waren 2011 die Kosten für Wasser, Müllabfuhr, Straßenreinigung usw.?",
           "instruction": "If you don't know the exact amount, please estimate! If you have become the owner of this property in 2012, please enter \"0\".",
           "instruction_de": "Falls Betrag nicht genau bekannt: bitte schätzen!\n\nWenn Sie erst 2012 Eigentümer dieser Wohnung geworden sind, geben Sie bitte \"0\" ein.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q18;HM01=3",
           "scale": "txt",
           "sn": 0,
@@ -1548,7 +1539,6 @@
         {
           "text": "How much do you pay per month in management / maintenance fees?",
           "text_de": "Wie viel Wohngeld müssen Sie pro Monat entrichten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q28;HE06=1",
           "scale": "txt",
           "sn": 0,
@@ -1619,7 +1609,6 @@
           "text_de": "Wie hoch waren die Gesamteinnahmen aus Vermietung und Verpachtung\nim Jahr 2011 ungefähr?",
           "instruction": "Please state the gross amount including\nfunds put aside for future use/\nmaintenance/renovations.",
           "instruction_de": "Bitte geben Sie den Bruttobetrag einschließlich Umlagezahlungen an.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q30;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1649,7 +1638,6 @@
         {
           "text": "What costs did you have for the objects you rented out in the year 2011? Please state for maintenance and repair costs first.",
           "text_de": "Welche Ausgaben für die vermieteten oder verpachteten Objekte standen dem im Jahr 2011 ungefähr gegenüber?\nGeben Sie bitte zunächst die Ausgaben für Betriebs- und Instandhaltungskosten an.",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HVERM3\n**Var2 = HVERM4",
           "filter": "Q30;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1679,7 +1667,6 @@
         {
           "text": "What loan, mortgage and interest payments did you needed to set aside for the objects you rented out in the year 2010?",
           "text_de": "Welche Tilgungszahlungen und Zinsen für Hypotheken oder Bauspardarlehen mussten Sie im Jahr 2011 für die vermieteten oder verpachteten Objekte aufbringen?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HVERM3\n**Var2 = HVERM4",
           "filter": "Q30;HVERM1=1",
           "scale": "txt",
           "sn": 0,
@@ -1750,7 +1737,6 @@
           "text_de": "Wie hoch ist der monatliche Betrag, der für die Rückzahlung dieser Kredite einschließlich Zinsen verwendet wird?",
           "instruction": "If you don't know the exact amount, please estimate!",
           "instruction_de": "Falls nicht genau bekannt: bitte schätzen!",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe\n**Vorfrage zu FM",
           "filter": "Q33;HKRED1=1",
           "scale": "txt",
           "sn": 0,
@@ -1782,7 +1768,6 @@
           "text_de": "Wie hoch sind alles in allem Ihre derzeitigen Restschulden insgesamt ohne Zinsen?",
           "instruction": "If you don't know the exact amount, please estimate!",
           "instruction_de": "Falls nicht genau bekannt, bitte schätzen!",
-          "description": "Researcher Notes:\nnur wenn Finanz=1",
           "filter": "Q32B:HVERM4>0 | Q24;HE01=1 | Q33;HKRED1=1",
           "scale": "txt",
           "sn": 0,
@@ -1814,7 +1799,6 @@
           "text_de": "Besaßen Sie oder andere Personen im Haushalt im Jahr 2011 eine oder mehrere Wertanlagen?",
           "instruction": "Those include savings accounts, savings contracts for building a home, life insurances, fixed interest securities like saving bonds, mortage bonds and federal savings bonds, other securities\nlike stocks, funds, bonds and equity warrant, but also company assets.",
           "instruction_de": "Dazu zählen Sparbuch und Spargirokonto, Bausparverträge, Lebensversicherungen, festverzinsliche Wertpapiere wie Sparbriefe, Pfandbriefe und Bundesschatzbriefe, andere Wertpapiere wie Aktien, Fonds, Anleihen und Optionsscheine, aber auch Betriebsvermögen.",
-          "description": "Researcher Notes:\nQuelle:\n**Core2011\n**nur ja/nein abgefragt\n",
           "concept": "hwa",
           "scale": "cat",
           "answers": [
@@ -1852,7 +1836,6 @@
         {
           "text": "How high was your total income from interest, dividends and profits from all investments in the year 2011?",
           "text_de": "Wie hoch waren, alles in allem, die Einnahmen aus Zinsen, Dividenden und Gewinnen aus allen Ihren Wertanlagen im Jahr 2011?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q35;HWA=1",
           "scale": "txt",
           "sn": 0,
@@ -1951,7 +1934,6 @@
         {
           "text": "Do you or one of the members of your household currently receive any of the following governmental benefits?",
           "text_de": "Erhalten Sie oder ein anderes Haushaltsmitglied derzeit eine der folgenden staatlichen Leistungen?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HDKG1\n**Var2 = HDKZ1\n**Var3 = HDAG1\n**Var4 = HDPG1\n**Var5 = HDSH1\n**Var6 = HDGS1\n**Var7 = HDWG1\n",
           "concept": "hd x",
           "scale": "txt",
           "sn": 0,
@@ -2154,7 +2136,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in child benefits (Kindergeld)? Please do not include the supplementary child benefit (Kinderzuschlag).",
           "text_de": "Wie viel Kindergeld erhalten Sie oder ein anderes Haushaltsmitglied pro Monat? Den Kinderzuschlag zählen Sie hier bitte nicht dazu.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDKG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2213,7 +2194,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in supplementary child benefits (Kinderzuschlag) in addition to child benefits (Kindergeld)?",
           "text_de": "Wie viel Kinderzuschlag erhalten Sie oder ein anderes Haushaltsmitglied pro Monat zusätzlich zum Kindergeld ?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDKZ1=1",
           "scale": "txt",
           "sn": 0,
@@ -2243,7 +2223,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in unemployment benefit II (Arbeitslosengeld II), including social benefit and accommodation expenses (Sozialgeld, Unterkunftskosten)?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich an Arbeitslosengeld II einschließlich Sozialgeld und Unterkunftskosten erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDAG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2273,7 +2252,6 @@
         {
           "text": "How much are you or another household member currently receiving per month for long-term care insurance benefits (Leistungen der Pflegeversicherung)?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich für Leistungen aus der Pflegeversicherung erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDPG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2303,7 +2281,6 @@
         {
           "text": "What is the amount that you or another household member receive monthly as assistance for livelihood?",
           "text_de": "Wie hoch ist der Betrag, den Sie oder ein anderes Haushaltsmitglied monatlich als Hilfe zum Lebensunterhalt erhalten?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDSH1=1",
           "scale": "txt",
           "sn": 0,
@@ -2333,7 +2310,6 @@
         {
           "text": "How much are you or another household member currently receiving per month in basic income support for the elderly / those with reduced earning capacity (Grundsicherung im Alter oder bei Erwerbsminderung)?",
           "text_de": "Wie viel Grundsicherung im Alter oder bei Erwerbsminderung erhalten Sie oder ein anderes Haushaltsmitglied pro Monat?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDGS1=1",
           "scale": "txt",
           "sn": 0,
@@ -2363,7 +2339,6 @@
         {
           "text": "How much housing allowance (Wohngeld oder Lastenzuschuss) are you or another household member currently receiving per month?",
           "text_de": "Wie viel Wohngeld oder Lastenzuschuss erhalten Sie oder ein anderes Haushaltsmitglied pro Monat?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe",
           "filter": "Q38:HDWG1=1",
           "scale": "txt",
           "sn": 0,
@@ -2395,7 +2370,6 @@
           "text_de": "Wenn man mal alle Einkünfte zusammennimmt:\nWie hoch ist das monatliche Haushaltseinkommen aller Haushaltsmitglieder heute?",
           "instruction": "Please state the net monthly income, which means after deductions for taxes and social security. Please include regular income such as pensions, housing allowance, child allowance, grants for higher education support payments, etc. If you do not know the exact amount, please estimate the amount per month.",
           "instruction_de": "Bitte geben Sie den monatlichen Netto-Betrag an, also nach Abzug von Steuern und Sozialabgaben. Regelmäßige Zahlungen wie Renten, Wohngeld, Kindergeld, BAföG, Unterhaltszahlungen usw. rechnen Sie bitte dazu!\n\nFalls nicht genau bekannt: Bitte schätzen Sie den monatlichen Betrag.",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Höhe\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -2433,7 +2407,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX1=9: ZNETTO=-1",
           "filter": "Q47:HNETTO=-1",
           "concept": "znettox1",
           "scale": "cat",
@@ -2472,7 +2445,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX2=1:ZNETTO=1\n**X2=2:ZNETTO=2\n**X2=9:ZNETTO=21",
           "filter": "Q47N1;ZNETTOX1=1",
           "concept": "znettox2",
           "scale": "cat",
@@ -2511,7 +2483,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX3=1:ZNETTO=3\n**X3=9:ZNETTO=31",
           "filter": "Q47N1;ZNETTOX1=2",
           "concept": "znettox3",
           "scale": "cat",
@@ -2550,7 +2521,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX4=1:ZNETTO=4\n**X4=9:ZNETTO=41",
           "filter": "Q47N3;ZNETTOX3=2",
           "concept": "znettox4",
           "scale": "cat",
@@ -2589,7 +2559,6 @@
         {
           "text": "Is your household income...",
           "text_de": "Ist Ihr Haushaltseinkommen ...",
-          "description": "Researcher Notes:\nX5=1:ZNETTO=5\n**X5=2:ZNETTO=6\n**X5=9:ZNETTO=51",
           "filter": "Q47N4;ZNETTOX4=2",
           "concept": "znettox5",
           "scale": "cat",
@@ -2628,7 +2597,6 @@
         {
           "text": "Do you usually have an amount of money left over at the end of the month that you can\nsave for larger purchases, emergency expenses or to acquire wealth? If yes, how much?",
           "text_de": "Bleibt Ihnen in der Regel monatlich ein gewisser Betrag übrig, den Sie sparen oder zurücklegen können, etwa für größere Anschaffungen, für Notlagen oder zur Vermögensbildung?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = HSPAR1 (ja,nein)\n**Var2 = HSPAR2 (open)\n**Vorfrage zu Investitionsentscheidung FM\n",
           "concept": "hspar1",
           "scale": "cat",
           "answers": [
@@ -2675,7 +2643,6 @@
         {
           "text": "Do you or another household members currently contribute payments to a so-called Riester or Rürup contract to private pension schemes?",
           "text_de": "Zahlen Sie oder andere Haushaltsmitglieder derzeit Beträge in einen sogenannten Riester- oder Rürup-Vertrag zur privaten Altersvorsorge ein?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitionsentscheidungen\n",
           "concept": "fm02",
           "scale": "cat",
           "answers": [
@@ -2713,7 +2680,6 @@
         {
           "text": "In addition to the so-called Riester and Rürup contracts there are still a number of other forms of contractually fixed asset formation: including, for example, a private pension, an endowment policy (but no term life assurance), a combined vocational disability pension with share of life insurance, building loan contracts or other contracts in asset accumulation as periodic payments in mutual funds. Do you currently pay a monthly amount into such a contract except Riester and Rürup contracts?",
           "text_de": "Neben den sogenannten Riester- und Rürup-Verträgen gibt es ja noch eine Reihe anderer Formen von vertraglich festgelegter Vermögensbildung: dazu zählen zum Beispiel eine private Rentenversicherung, eine Kapitallebensversicherung (also keine Risikolebensversicherung), eine kombinierte Berufsunfähigkeitsrente mit Lebensversicherungsanteil, Bausparverträge oder andere Verträge zur Vermögensbildung wie regelmäßige Zahlungen in Investmentfonds. Zahlen Sie derzeit einen monatlichen Betrag in einen solchen Vertrag außer Riester- und Rürup-Rente ein?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitionsentscheidungen\n",
           "concept": "fm03",
           "scale": "cat",
           "answers": [
@@ -2889,7 +2855,6 @@
           "text_de": "Zunächst geht es um Ihre Zufriedenheit mit bestimmten Bereichen Ihres Lebens.\n\nWie zufrieden sind Sie gegenwärtig mit den folgenden Bereichen Ihres Lebens?",
           "instruction": "Show list 52. Please indicate for each area your level of satisfaction: If you are totally unhappy use the value \" 0 \", if you are totallly happy use the value \"10\". If you are partly satisfied / partly dissatisfied, use a value in between. TNZ does not apply",
           "instruction_de": "Liste 52 vorlegen, Bitte geben Sie für jeden Bereich den Grad Ihrer Zufriedenheit an:\nWenn Sie ganz und gar unzufrieden sind, den Wert \"0\",\nwenn Sie ganz und gar zufrieden sind, den Wert \"10\".\n\nWenn Sie teils zufrieden/teils unzufrieden sind, einen Wert dazwischen.\n\nTNZ trifft nicht zu bei Statement 3 und 5\n\nWie zufrieden sind Sie ...\n\n",
-          "description": "Researcher Notes:\nbei Item 3 und 5 zusätzlich die Option \"TNZ\" programmieren.\n**\n**Codierung:\n**var1 = 01\n**var2 = 20\n**var3 = 02\n**var4 = 04\n**var5 = 05\n**var6= 07\n**var7= 08\n**var8= 13\n**\n**Items 9-16 nur einblenden, wenn Modul Geneca=1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -5007,7 +4972,6 @@
         {
           "text": "Do you have regular contact with friends or acquaintances abroad?",
           "text_de": "Haben Sie regelmäßig Kontakt zu Freunden und Bekannten außerhalb Deutschlands?",
-          "description": "Researcher Notes:\nNur wenn Geneca=1\n",
           "concept": "gm02",
           "scale": "cat",
           "answers": [
@@ -5047,7 +5011,6 @@
           "text_de": "Haben Sie schon einmal länger als drei Monate außerhalb Deutschlands gelebt, sei es aus beruflichen oder privaten Gründen?",
           "instruction": "Please select all correct answers:",
           "instruction_de": "Bitte wählen Sie alle zutreffenden Antworten aus:",
-          "description": "Researcher Notes:\nNur wenn Geneca=1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -5391,7 +5354,6 @@
         {
           "text": "When did you enter into the <marriage> <civil union>?",
           "text_de": "Wann wurde die Ehe geschlossen?",
-          "description": "Researcher Notes:\nentsprechend Angabe in Vorfrage einblenden",
           "filter": "Q81;PEHE1A=1,2",
           "scale": "txt",
           "sn": 0,
@@ -5463,7 +5425,6 @@
         {
           "text": "Now it's about your relationship before, the one you had before the current relationship. Have you had a committed relationship relationship before?",
           "text_de": "Jetzt geht es um Ihre Beziehung davor, also die, die Sie vor der aktuellen Beziehung hatten. Hatten Sie davor eine feste Beziehung?\n",
-          "description": "Researcher Notes:\nQ83 bis Q93: drei Schleifen programmieren.\n",
           "concept": "pp1b",
           "scale": "cat",
           "answers": [
@@ -5745,7 +5706,6 @@
         {
           "text": "When did you enter into the marriage / civil union?",
           "text_de": "Wann wurde diese Ehe/ eingetragene Partnerschaft geschlossen?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q90",
           "filter": "Q90;PEHE1B=1,2",
           "scale": "txt",
           "sn": 0,
@@ -5775,7 +5735,6 @@
         {
           "text": "When did you repeal this marriage /civil union?",
           "text_de": "Wurde diese Ehe /eingetragene Partnerschaft aufgehoben?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q90;\n**\n**wird nicht gestellt wenn Tod in Q86",
           "filter": "Q90;PEHE1B=1,2",
           "concept": "pehe3b",
           "scale": "cat",
@@ -5814,7 +5773,6 @@
         {
           "text": "When did you repeal this marriage/ civil union?",
           "text_de": "Wann wurde diese Ehe/ eingetragene Partnerschaft aufgehoben?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q90",
           "filter": "Q92;PEHE3B=1",
           "scale": "txt",
           "sn": 0,
@@ -5844,7 +5802,6 @@
         {
           "text": "Have you ever been married to or lived in a civil union with someone you have not mentioned so far?",
           "text_de": "Haben Sie in einer anderen, noch nicht genannten Beziehung geheiratet beziehungsweise lebten Sie in einer anderen, noch nicht genannten eingetragenen gleichgeschlechtlichen Partnerschaft?",
-          "description": "Researcher Notes:\nkommt nur wenn in jeder Schleife eine Beziehung angegeben wurde, bei Frage nach Heirat aber immer nein.\n",
           "concept": "pehe1e",
           "scale": "cat",
           "answers": [
@@ -5887,7 +5844,6 @@
         {
           "text": "When did you enter into the <marriage> <civil union>?",
           "text_de": "Wann wurde diese Ehe/ eingetragene Partnerschaft geschlossen?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q94",
           "filter": "Q94;PEHE1E=1",
           "scale": "txt",
           "sn": 0,
@@ -5917,7 +5873,6 @@
         {
           "text": "Are you still married to/ registered  in civil union with that person?",
           "text_de": "Besteht diese Ehe/ eingetragene Partnerschaft noch?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q94",
           "filter": "Q94;PEHE1E=1",
           "concept": "pehe5e",
           "scale": "cat",
@@ -5956,7 +5911,6 @@
         {
           "text": "When did that marriage end?",
           "text_de": "Wann endete diese Ehe/ eingetragene Partnerschaft?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q94",
           "filter": "Q96;PEHE5E=2",
           "scale": "txt",
           "sn": 0,
@@ -5986,7 +5940,6 @@
         {
           "text": "How did that marriage/ civil union end?",
           "text_de": "Und wie endete diese Ehe/ eingetragene Partnerschaft?",
-          "description": "Researcher Notes:\nEinblendung je nach Angabe in Q94",
           "filter": "Q96;PEHE5E=2",
           "concept": "pehe7e",
           "scale": "cat",
@@ -6080,7 +6033,6 @@
         {
           "text": "Is one of your siblings your twin-brother or twin-sister?",
           "text_de": "Ist eines davon Ihr Zwillingsbruder oder Ihre Zwillingsschwester?",
-          "description": "Researcher Notes:\nif Anzahl Schwestern=1 and Anzahl Brüder=0: nur die Items 1,2,4,9 einblenden;\n**if Anzahl Schwestern=0 and Anzahl Brüder=1: nur die Items 1,3,4,9 einblenden;\n**if Anzahl Schwestern + Anzahl Brüder >1: alle Items einblenden;",
           "filter": "Q99_Q100:LGESCH1=1",
           "scale": "txt",
           "sn": 0,
@@ -6146,7 +6098,6 @@
         {
           "text": "What would you say: How many close friends do you have?",
           "text_de": "Was würden Sie sagen: Wie viele enge Freunde haben Sie?",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -6156,7 +6107,6 @@
           "item": "sim01",
           "text": "Friends",
           "text_de": "Freunde",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "concept": "sim01",
           "scale": "int",
           "sn": 1,
@@ -6176,7 +6126,6 @@
         {
           "text": "How is that when you travel: How many people do you know that you would entrust your house key to?",
           "text_de": "Wie ist das wenn Sie verreisen: Wie viele Personen kennen Sie, denen Sie Ihren Haustürschlüssel anvertrauen würden?",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -6186,7 +6135,6 @@
           "item": "sim02",
           "text": "persons",
           "text_de": "Personen",
-          "description": "Researcher Notes:\nGehört zu Modul Größe des sozialen Netzwerks\n",
           "concept": "sim02",
           "scale": "int",
           "sn": 1,
@@ -6208,7 +6156,6 @@
           "text_de": "Wie viele von Ihren ersten 15 Lebensjahren haben Sie bei den folgenden Personen gelebt?",
           "instruction": "Show list 111! Note: adoptive parents apply as biological parents\nPlease round to whole years!\nMust add up to 15 years!",
           "instruction_de": "Liste 111 vorlegen!\n\nAdoptiveltern gelten wie leibliche Eltern\nBitte auf ganze Jahre runden!\n\nSumme muss 15 Jahre ergeben!",
-          "description": "Researcher Notes:\nSummenprüfung!\n**Codierung:\n**Var1 = 03\n**Var2 = 04\n**Var3 = 05\n**Var4 = 06\n**Var5 = 07\n**Var6 = 08\n**Var7 = 09\n**Var8 = 10\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -10050,7 +9997,6 @@
           "text_de": "Sind Sie selbst die Hauptbetreuungsperson von <Kind1>, also die Person, die am besten Auskunft über das Kind geben kann?",
           "instruction": "Important note to interviewer: In general, the (physical or social) mother should answer the following questions about the child. If the mother doesn't live in the household, or the (physical or social) father or another person claims for other reasons  to be the primary caregiver, this person should answer the following questions.",
           "instruction_de": "Wichtiger Hinweis an den Interviewer: In der Regel sollte die (leibliche oder soziale) Mutter die folgenden Fragen zum Kind beantworten. Lebt die Mutter nicht im Haushalt, oder gibt aus anderen Gründen der (leibliche oder soziale) Vater beziehungsweise eine andere Person an, die Hauptbetreuungsperson zu sein, soll diese die folgenden Fragen beantworten.",
-          "description": "Researcher Notes:\nSchleife programmieren: diese Frage für jedes Kind stellen",
           "filter": "Q116;HKIND=1",
           "concept": "pbet",
           "scale": "cat",
@@ -10193,7 +10139,6 @@
         {
           "text": "After a child is born, the parents get a child health record book for early childhood screenings like U2, U3, etc. What was <first name>'s last early childhood screening?",
           "text_de": "Nach der Geburt erhält man ein Kinder-Untersuchungsheft für ärztliche Vorsorgeuntersuchungen wie U2, U3, usw. Welche war die letzte durchgeführte Untersuchung bei <Kind1>?",
-          "description": "Researcher Notes:\nCodierung:\n**Var2(keine) = AUNTNO\n",
           "concept": "aunt",
           "scale": "cat",
           "answers": [
@@ -10324,7 +10269,6 @@
           "text_de": "Welche Verzögerungen, Störungen oder Behinderungen der folgenden Art wurden bei <Name> festgestellt?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = 1\n**Var2 = 2\n**Var3 = 3\n**Var4 = 4\n**Var5 = 5\n**Var6 = 6\n**Var7 = 7\n**Var8 = 8\n**Var9 = 9",
           "filter": "Q122;ASTOR=1,2",
           "scale": "txt",
           "sn": 0,
@@ -10444,7 +10388,6 @@
         {
           "text": "Is <first name> currently attending a childcare facility, that is, nursery school, kindergarten, pre-school, or daycare?",
           "text_de": "Besucht <Vorname> derzeit eine Betreuungseinrichtung, also Kinderkrippe, Kindergarten oder Kindertageseinrichtung?",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = AEIN1A nein = 1\n**ja springt in die nächste Frage..Stundenangabe\n**\n**Falls weiteres Kind im entsprechenden Alter AEIN1A = AEIN1B\n",
           "concept": "aein1",
           "scale": "cat",
           "answers": [
@@ -10484,7 +10427,6 @@
           "text_de": "Und wie lange besucht <Vorname> diese Betreuungseinrichtung in der Regel?",
           "instruction": "Please state the actual hours per day.",
           "instruction_de": "Bitte geben Sie die tatsächlichen Stunden pro Tag an.",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = AEIN1SA \n**Falls weiteres Kind im entsprechenden Alter AEIN1SB etc.\n\nFilter:\nASK ONLY IF Q124 : AEIN1 =1\n",
           "filter": "Q124;AEIN1 =1",
           "scale": "txt",
           "sn": 0,
@@ -10495,7 +10437,6 @@
           "item": "aein1s",
           "text": "Actual hours per day:",
           "text_de": "Tatsächliche Stunden pro Tag:",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = AEIN1SA \n**Falls weiteres Kind im entsprechenden Alter AEIN1SB etc.\n\nFilter:\nASK ONLY IF Q124 : AEIN1 =1\n",
           "concept": "aein1s",
           "scale": "int",
           "sn": 1,
@@ -10517,7 +10458,6 @@
           "text_de": "Gibt es daneben noch Personen ohne Haushaltsangehörige, die das Kind regelmäßig betreuen?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind:\n**Var1 = ABET5A \n**Var2 = ABET3A\n**Var3 = ABET1A\n**Var4 = ABET2A\n**Var5 = ABET4A\n**\n**Falls weiteres Kind im entsprechenden Alter \n**ABET5A = ABET5B\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -10591,7 +10531,6 @@
         {
           "text": "Is <first name> currently attending a childcare facility, that is, nursery school, kindergarten, pre-school or daycare?",
           "text_de": "Kommen wir nun zu <Kind2>. Besucht <Kind2> derzeit eine Betreuungseinrichtung, also Kinderkrippe, Kindergarten oder Kindertageseinrichtung?",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = BEIN1A nein = 1\n**ja springt in die nächste Frage..Stundenangabe\n**\n**Falls weiteres Kind im entsprechenden Alter BEIN1A = BEIN1B\n",
           "concept": "bein1",
           "scale": "cat",
           "answers": [
@@ -10631,7 +10570,6 @@
           "text_de": "Und wie lange besucht <Vorname> diese Betreuungseinrichtung in der Regel?",
           "instruction": "Please state the actual hours per day.",
           "instruction_de": "Bitte geben Sie die tatsächlichen Stunden pro Tag an.",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = BEIN1SA \n**Falls weiteres Kind im entsprechenden Alter BEIN1SB etc.\n\nFilter:\nASK ONLY IF Q127 : BEIN1=1\n",
           "filter": "Q127;BEIN1=1",
           "scale": "txt",
           "sn": 0,
@@ -10642,7 +10580,6 @@
           "item": "bein1s",
           "text": "Actual hours per day:",
           "text_de": "Tatsächliche Stunden pro Tag:",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind = BEIN1SA \n**Falls weiteres Kind im entsprechenden Alter BEIN1SB etc.\n\nFilter:\nASK ONLY IF Q127 : BEIN1=1\n",
           "concept": "bein1s",
           "scale": "int",
           "sn": 1,
@@ -10664,7 +10601,6 @@
           "text_de": "Gibt es daneben noch Personen ohne Haushaltsangehörige, die das Kind regelmäßig betreuen?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**1. Kind:\n**Var1 = BBET5A \n**Var2 = BBET3A\n**Var3 = BBET1A\n**Var4 = BBET2A\n**Var5 = BBET4A\n**\n**Falls weiteres Kind im entsprechenden Alter \n**BBET4A = BBET4B\n",
           "concept": "bbet x",
           "scale": "txt",
           "sn": 0,
@@ -10834,7 +10770,6 @@
           "text_de": "Ist von einem Arzt bei <Vorname> einmal eine der folgenden Erkrankungen \noder Störungen festgestellt worden?",
           "instruction": "Multiple responses possible! Show list 133",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**VAr1 = 01\n**etc.\n**Var12 = 12\n**Var13 = 13(offene Angabe)\n**Var14 = 14(nichts)\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -10989,7 +10924,6 @@
         {
           "instruction": "Please turn the laptop so that the respondant is able to see the screen. The respondant should click the answers by him- /herself on the next page.",
           "instruction_de": "Bitte drehen Sie den Laptop, so dass die/ der Befragte auf den nächsten Bildschirm sehen kann. Die/ der Befragte soll selbst die Antworten auf den nächsten Seiten anklicken.",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann!\"\n**\n**hier: 11 Felder programmieren\n**\n**Codierung:\n**Var1 = 1\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -11011,7 +10945,6 @@
           "text_de": "Wie würden Sie <Vorname> im Vergleich zu Kindern gleichen Alters beurteilen?",
           "instruction": "The further to the left your checkmark, the more the left-hand trait applies. The further to the right your checkmark, the more the right-hand trait applies!",
           "instruction_de": "Je weiter links Sie Ihr Kreuz machen, umso mehr trifft die linke Eigenschaft zu,\nje weiter rechts Sie Ihr Kreuz machen, umso mehr trifft die rechte Eigenschaft zu!",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann!\"\n**\n**hier: 11 Felder programmieren\n**\n**Codierung:\n**Var1 = 1\n**etc.\n",
           "concept": "bvergl",
           "scale": "txt",
           "sn": 0,
@@ -11288,7 +11221,6 @@
         {
           "instruction": "Please turn the laptop so that the respondant is not able to see the screen anymore. The respondent should have the opportunity to judge the questions spontaneously, without being affected by the program.",
           "instruction_de": "Bitte den Laptop so drehen, dass der /die Befragte nicht mehr auf den Bildschirm sehen kann. Die der Befragte soll die Möglichkeit haben die Frage spontan zu beurteilen, ohne von dem Programm beeinflusst zu werden.",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann!\"\n**\n**hier: 11 Felder programmieren\n**\n**Codierung:\n**Var1 = 1\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -11310,7 +11242,6 @@
           "text_de": "Kommen wir nun zu <Kind3>. Welche Schule besucht <Kind3> derzeit?",
           "instruction": "Show list 135",
           "instruction_de": "Liste 135 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 (keine ) = HEIN4A = 1\n**Var2 (Grundschule) = HEIN3A = 1\n**Var3 (Hauptschule) = HEIN3A = 2 etc.\n**\n**A steht für ältestes Kind\n**B für Zweitältestes Kind\n",
           "concept": "cein4",
           "scale": "cat",
           "answers": [
@@ -11382,7 +11313,6 @@
         {
           "text": "Does the child usually spend all day at this school?",
           "text_de": "Besucht das Kind diese Schule meistens ganztags?",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind HEIN9A \n**A steht für ältestes Kind\n**B für Zweitältestes Kind\n**etc.\n\nFilter:\nASK ONLY IF Q135 : CEIN4 CEIN3=2,3,4,5,6,7,8\n",
           "filter": "Q135:CEIN3=1-7",
           "concept": "cein9",
           "scale": "cat",
@@ -11421,7 +11351,6 @@
         {
           "text": "Is <first name> currently attending a childcare facility, that is, nursery school, pre-school, daycare, or creche?",
           "text_de": "Besucht <Vorname> derzeit eine Betreuungseinrichtung, also Kindergarten, Kindertageseinrichtung oder Hort?",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind:\n**Nein = HEIN1A = 1\n**Stdangabe in nächste Frage\n**Zweitältestes Kind:\n**Nein = HEIN1B = 1\n**Stdangabe in nächste Frage\n**etc.\n",
           "concept": "cein1",
           "scale": "cat",
           "answers": [
@@ -11461,7 +11390,6 @@
           "text_de": "Und wie lange besucht <Vorname3> diese Betreuungseinrichtung in der Regel?",
           "instruction": "Please state the actual hours per day.",
           "instruction_de": "Bitte geben Sie die tatsächlichen Stunden pro Tag an.",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind = HEIN1SA \n**Zweitältestes Kind = HEIN1SB\n**etc.\n\nFilter:\nASK ONLY IF Q13701 : CEIN1=1\n",
           "filter": "Q137;CEIN1=1",
           "scale": "txt",
           "sn": 0,
@@ -11472,7 +11400,6 @@
           "item": "1",
           "text": "Actual hours per day:",
           "text_de": "Tatsächliche Stunden pro Tag:",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind = HEIN1SA \n**Zweitältestes Kind = HEIN1SB\n**etc.\n\nFilter:\nASK ONLY IF Q13701 : CEIN1=1\n",
           "concept": "cein1s",
           "scale": "int",
           "sn": 1,
@@ -11494,7 +11421,6 @@
           "text_de": "Gibt es daneben noch Personen ohne Haushaltsangehörige, die das Kind regelmäßig betreuen?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind:\n**Var1 = HBET5A \n**Var2 = HBET3A\n**Var3 = HBET1A\n**Var4 = HBET2A\n**Var5 = HBET4A\n**Zweitältestes Kind:\n**HBET5A = HBET5B\n**etc.\n",
           "concept": "cbet x",
           "scale": "txt",
           "sn": 0,
@@ -11664,7 +11590,6 @@
           "text_de": "Ist von einem Arzt bei <Kind3> einmal eine der folgenden Erkrankungen \noder Störungen festgestellt worden?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennungen möglich!",
-          "description": "Researcher Notes:\nCodierung:\n**open = CSTOR8\n**Nein = CSTOR9\n",
           "concept": "cstor x",
           "scale": "txt",
           "sn": 0,
@@ -11775,7 +11700,6 @@
         {
           "instruction": "Please turn the laptop so that the respondant is able to see the screen. The respondant should click the answers by him- /herself on the next page.",
           "instruction_de": "Bitte drehen Sie den Laptop, so dass die/ der Befragte auf den nächsten Bildschirm sehen kann. Die/ der Befragte soll selbst die Antworten auf den nächsten Seiten anklicken.",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann! Die/der Befragte soll die Möglichkeit haben, die Frage spontan zu beurteilen, ohne durch das Programm beeinflußt zu werden\"\n**\n**hier: 11 Felder programmieren\n**Codierung:\n**Var1 = 01\n**Var2 = 02\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -11797,7 +11721,6 @@
           "text_de": "Wie würden Sie <Vorname> im Vergleich zu Kindern gleichen Alters beurteilen?",
           "instruction": "The further to the left your checkmark, the more the left-hand trait applies. The further to the right your checkmark, the more the right-hand trait applies!",
           "instruction_de": "Je weiter links Sie Ihr Kreuz machen, umso mehr trifft die linke Eigenschaft zu,\nje weiter rechts Sie Ihr Kreuz machen, umso mehr trifft die rechte Eigenschaft zu!",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann! Die/der Befragte soll die Möglichkeit haben, die Frage spontan zu beurteilen, ohne durch das Programm beeinflußt zu werden\"\n**\n**hier: 11 Felder programmieren\n**Codierung:\n**Var1 = 01\n**Var2 = 02\n**etc.\n",
           "concept": "cverg x",
           "scale": "txt",
           "sn": 0,
@@ -12458,7 +12381,6 @@
         {
           "instruction": "Please turn the laptop so that the respondant is not able to see the screen anymore. The respondent should have the opportunity to judge the questions spontaneously, without being affected by the program.",
           "instruction_de": "Bitte den Laptop so drehen, dass der /die Befragte nicht mehr auf den Bildschirm sehen kann. Die der Befragte soll die Möglichkeit haben die Frage spontan zu beurteilen, ohne von dem Programm beeinflusst zu werden.",
-          "description": "Researcher Notes:\nVor und nach der Frage jeweils eigenen Screen mit Standardtext: \"Bitte drehen Sie den Laptop so, dass die/der Befragte mit auf den nächsten Bildschirm sehen kann. \n**Die/der Befragte soll selbst die Antworten auf der nächsten Seite anklicken!\" \n**\n**\"Bitte den Laptop so drehen, dass die/der Befragte nicht mehr mit auf den Bildschirm sehen kann! Die/der Befragte soll die Möglichkeit haben, die Frage spontan zu beurteilen, ohne durch das Programm beeinflußt zu werden\"\n**\n**hier: 11 Felder programmieren\n**Codierung:\n**Var1 = 01\n**Var2 = 02\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -12480,7 +12402,6 @@
           "text_de": "Haben oder hatten Sie persönlich noch weitere Kinder, die nicht hier im Haushalt leben? Wenn ja, wie viele?",
           "instruction": "This refers to biological or adopted children, not to foster- or stepchildren.",
           "instruction_de": "Gemeint sind leibliche oder adoptierte Kinder, nicht Pflege- oder Stiefkinder.",
-          "description": "Researcher Notes:\nCodierung:\n**Nein = LKNO = 1\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -12499,7 +12420,6 @@
           "item": "lkno",
           "text": "No",
           "text_de": "Nein",
-          "description": "Researcher Notes:\nCodierung:\n**Nein = LKNO = 1\n",
           "concept": "lkno",
           "scale": "bin",
           "sn": 2,
@@ -12519,7 +12439,6 @@
         {
           "text": "We would now like some general information about each of your children. Please start with your first (oldest) child and end with your last (youngest) child.",
           "text_de": "Nun hätten wir gerne zu jedem Ihrer Kinder ein paar allgemeine Angaben. Bitte beginnen Sie mit Ihrem ersten, also ältesten Kind, und dann dem Alter nach, das Jüngste zuletzt.",
-          "description": "Researcher Notes:\nBitte Schleife für die nächsten 4 Fragen programmieren. Maximale Anzahl entspricht Angabe in \"Anzahl Kinder\".\n",
           "concept": "l38",
           "scale": "txt",
           "sn": 0,
@@ -12540,7 +12459,6 @@
         {
           "text": "<if number children = 1:> Please state the first name of your child. <if number children > 1:> <1st loop:> Please tell me the first name of your first, thus the oldest child. \n<2nd to n th loop:> Now, please tell me the name of your <n.> eldest child.",
           "text_de": "<wenn Anzahl Kinder = 1:> \nBitte nennen Sie mir den Vornamen Ihres Kindes. \n<wenn Anzahl Kinder > 1:> \n<1. Schleife:> Bitte nennen Sie mir den Vornamen Ihres ersten, also ältesten Kindes. \n<2. bis n.te Schleife:> Bitte nennen Sie mir nun den Vornamen Ihres <n.> ältesten Kindes. \n",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -12550,7 +12468,6 @@
           "item": "lknam",
           "text": "Prename",
           "text_de": "Vorname",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lknam",
           "scale": "chr",
           "sn": 1,
@@ -12570,7 +12487,6 @@
         {
           "text": "<first name>  is ...",
           "text_de": "<Vorname> ist ...",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n**\n**wenn KA in Q104ff, anstatt \"...Vorname...\" \"...Ihr ältestes (bzw. 2. ätestes etc.) Kind...\":\n",
           "concept": "lksex",
           "scale": "cat",
           "answers": [
@@ -12603,7 +12519,6 @@
         {
           "text": "What year was <first name> born?",
           "text_de": "In welchem Jahr und Monat ist <Vorname> geboren?",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -12613,7 +12528,6 @@
           "item": "lkgeb",
           "text": "Year",
           "text_de": "Jahr",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lkgeb",
           "scale": "int",
           "sn": 1,
@@ -12623,7 +12537,6 @@
           "item": "lkmo",
           "text": "Month",
           "text_de": "Monat",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n",
           "concept": "lkmo",
           "scale": "int",
           "sn": 2,
@@ -12645,7 +12558,6 @@
           "text_de": "Wo lebt <Vorname> heute?",
           "instruction": "Show list 108!",
           "instruction_de": "Liste 108 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Ältestes Kind 1\n**Zweitältestes Kind 2\n**etc.\n**\n**Für alle Kinder für die hier angegeben wrid, dass sie hier im Haushalt leben, werden in der CAPI-Datei Vorname, Geschlecht, Geburtsjahr/Monat gespeichert und im nächsten Fenster nochmals aufgeführt\n",
           "concept": "lkwo",
           "scale": "cat",
           "answers": [
@@ -12749,7 +12661,6 @@
           "item": "mem02",
           "text": "%",
           "text_de": "%",
-          "description": "Researcher Notes:\nwenn Anzahl Kinder > 1: Vorname vom ersten, also ältesten Kind einblenden",
           "concept": "mem02",
           "scale": "int",
           "sn": 1,
@@ -12809,7 +12720,6 @@
           "text_de": "Haben Sie nach der Geburt von <Vorname> eine Erwerbstätigkeit aufgenommen?",
           "instruction": "If you have more than one child, we mean the gainful employment which laid between the birth of children.",
           "instruction_de": "Wenn Sie mehr als ein Kind haben, meinen wir damit eine Erwerbstätigkeit, die zwischen der Geburt der Kinder lag.",
-          "description": "Researcher Notes:\nSTART SCHLEIFE\n**Schleife programmieren für jedes Kind >= 1996;\n**Reihenfolge: das älteste Kind zuerst und dann dem Alter nach bis zum Jüngsten Kind",
           "filter": "VorQ191;MEM01=1",
           "concept": "mem04",
           "scale": "cat",
@@ -13121,7 +13031,6 @@
           "text_de": "Und welche Gründe haben für Ihre Entscheidung die wichtigste Rolle gespielt, eine Erwerbstätigkeit aufzunehmen bzw. wiederaufzunehmen?",
           "instruction": "Please specify up to three reasons!",
           "instruction_de": "Bitte nennen Sie bis zu drei Gründe!",
-          "description": "Researcher Notes:\nProgrammierung: \n**Nur die Items einblenden, die in der Vorfrage angegeben wurden.\n**\n**Maximal 3 Antworten zulassen\n**\n**wird nur eingeblendet, wenn in Vorfrage mehr als drei Items angegeben werden",
           "filter": "Q192.1;MEM04=1",
           "concept": "mem08a",
           "scale": "txt",
@@ -13262,7 +13171,6 @@
           "text_de": "Für die Entscheidung, nach der Geburt eines Kindes keine Erwerbstätigkeit aufzunehmen, kann es unterschiedliche Gründe geben.\n\nWelche der folgenden Gründe haben für Ihre Entscheidung eine Rolle gespielt, nach der Geburt von <Vorname> keine Erwerbstätigkeit aufzunehmen?\n\nWichtige Gründe waren hierbei...",
           "instruction": "Multiple responses possible! Show list 199!",
           "instruction_de": "Mehrfachnennung möglich!\nListe 199 vorlegen!",
-          "description": "Researcher Notes:\n- Bitte nochmals die Items kritisch prüfen! Vor allem auf Trennschärfe und Redundanz. \n**- Vermutlich sind die ersten beiden Items zentral für die relevante Fragestellung, allerdings stellt sich auch hier die Frage, ob sie für die Befragten inhaltlich zu trennen sind",
           "filter": "Q192.1;MEM04=2",
           "concept": "mem09",
           "scale": "txt",
@@ -13466,7 +13374,6 @@
           "text_de": "Und welche Gründe haben für Ihre Entscheidung die wichtigste Rolle gespielt, keine Erwerbstätigkeit aufzunehmen?",
           "instruction": "Please specify up to three reasons!",
           "instruction_de": "Bitte nennen Sie bis zu drei Gründe.",
-          "description": "Researcher Notes:\nENDE SCHLEIFE\n**\n**Programmierung: \n**Nur die Items einblenden, die in der Vorfrage angegeben wurden.\n**\n**Maximal 3 Antworten zulassen\n**\n**wird nur eingeblendet, wenn in Vorfrage mehr als drei Items angegeben werden\n",
           "concept": "mem09a",
           "scale": "txt",
           "sn": 0,
@@ -13658,7 +13565,6 @@
         {
           "text": "Do you intend to (re)-start in gainful employment in the future?",
           "text_de": "Beabsichtigen Sie in Zukunft eine Erwerbstätigkeit bzw. wieder eine Erwerbstätigkeit aufzunehmen?",
-          "description": "Researcher Notes:\nbei mehr als einem Kind: Frage wird am Ende der Schleife, also nach dem letzten Kind gestellt.",
           "filter": "Q192.1;MEM04=2",
           "concept": "mem10",
           "scale": "cat",
@@ -13826,7 +13732,6 @@
           "text_de": "Welche der folgenden Einkünfte beziehen Sie persönlich derzeit?",
           "instruction": "Show list 146",
           "instruction_de": "Liste 146 vorlegen",
-          "description": "Researcher Notes:\nCodierung: hier habe ich Vorruhestand nicht mehr berücksichtigt!\n**var1 = 01\n**var2 = 02\n**var3 = 03\n**var4 = 04\n**var5 = 05\n**var6 = 07\n**var7 = 08\n**var8 = 09\n**var9 = 23\n**var10= 18\n**var11= 11\n**var12= pekno\n**\n**gehört auch zum Modul Investitionsentscheidung\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -13983,7 +13888,6 @@
           "text_de": "Für alle zutreffenden Einkünfte geben Sie bitte an, wie hoch derzeit der Betrag im Monat ist. >Eigene Rente, Pension<. Wenn Sie den monatlichen Betrag nicht genau sagen können, geben Sie bitte einen Schätzbetrag an.",
           "instruction": "If the target person is basically not willing to give details of the income, please point out that this is a key issue.The gross amount means before any deductions for taxes or social security. If you have more than one, please add them together!\n",
           "instruction_de": "Falls die Zielperson grundsätzlich nicht bereit ist, Angaben über das Einkommen zu geben, weisen Sie sie bitte darauf hin, dass es sich hierbei um eine zentrale Frage handelt. Bruttobetrag heißt vor Abzug eventueller Steuern oder Sozialversicherungsbeiträge! Falls Sie mehrere haben, bitte zusammenrechnen! ",
-          "description": "Researcher Notes:\nfür jedes in der Vorfrage ausgewählte Item eigener Screen.\n**\n**bei den Items 1 und 2: \n**\"Bruttobetrag heißt: vor Abzug eventueller Steuern oder Sozialversicherungsbeiträge.\"\n**\"Falls Sie mehrere haben: bitte zusammenrechnen!\" hinzufügen\n**\n**Codierung:\n**Bei pek04 (Arbeitslosengeld) wird kein Betrag abgefragt!\n**Ansonsten Nachfrage bei unplausibler Höhe der Beträge\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -14423,7 +14327,6 @@
         {
           "text": "Do you hold a school leaving certificate?",
           "text_de": "Besitzen Sie einen Schulabschluss?",
-          "description": "Researcher Notes:\nCodierung:\n**Ja nicht umsetzen, springt in nächste Frage!\n**Nein, noch keinen Abschluss: LSAB2 = Code 1\n**Schule ohne Abschluss: LSAB5 = 1\n",
           "concept": "lsabx",
           "scale": "cat",
           "answers": [
@@ -14509,7 +14412,6 @@
         {
           "text": "What kind of school leaving certificate did you receive?",
           "text_de": "Welchen Schulabschluss haben Sie?",
-          "description": "Researcher Notes:\nCodierung:\n**Volks-/Hauptschule: LSAB7 = 2\n**Realschule: LSAB7 =3\n**etc.\n**Sonstiger = 6",
           "filter": "Q151;LSAB3=1",
           "concept": "lsab7x",
           "scale": "cat",
@@ -14563,7 +14465,6 @@
         {
           "text": "What kind of school leaving certificate did you receive?",
           "text_de": "Welchen Schulabschluss haben Sie?",
-          "description": "Researcher Notes:\nCodierung:\n**Diese Variable wird auch in LSAB7 umgestzt\n**Abs. 8. Klasse: LSAB7 = 2\n**Abs. 10. Klasse: LSAB7 = 3\n**Abitur/Hochschulreife = 5\n**Sonstiger = 6",
           "filter": "Q151;LSAB3=2",
           "concept": "lsab7y",
           "scale": "cat",
@@ -14612,7 +14513,6 @@
         {
           "text": "Please state the other school-leaving certificate.",
           "text_de": "Bitte nennen Sie mir den anderen Schulabschluss.",
-          "description": "Researcher Notes:\nCodierung:\n**Bitte veränderte Codes der Items beachten!",
           "filter": "Q151;LSAB3=3 & (Q152;LSAB7X=5 | Q153;LSAB7Y=4)",
           "concept": "lsab9",
           "scale": "chr",
@@ -14634,7 +14534,6 @@
         {
           "text": "What type of school-leaving certificate did you attain?",
           "text_de": "Welchen Schulabschluss haben Sie?",
-          "description": "Researcher Notes:\nCodierung:\n**Item 1 = Code 2\n**Item2 = Code 3",
           "filter": "Q151;LSAB3=3",
           "concept": "lsab5",
           "scale": "cat",
@@ -14740,7 +14639,6 @@
           "text_de": "Was für ein Ausbildungs- oder Studiumsabschluss ist das?",
           "instruction": "Multiple responses possible! Show list 157!",
           "instruction_de": "Mehrfachnennungen möglich!\nListe 157 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Item1 = LAB02a = 1\n**Item2 = LAB02b = 1\n**Item3 = LAB03a = 1\n**Item4 = LAB03b = 1\n**Item5 = LAB04 = 1\n**Item6 = LAB05 = 1\n**Item7 = LAB06 = 1\n**Item8 = LAB07a = 1\n**Item9 = LAB07a = 1\n**Item10 = LAB08 = 1",
           "filter": "Q156;LAB01=1",
           "concept": "lab x",
           "scale": "txt",
@@ -14919,7 +14817,6 @@
         {
           "text": "What kind of training or further training is it?",
           "text_de": "Was für eine Ausbildung oder Weiterbildung ist das?",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = 2\n**Var2 = 5\n**Var3 = 3\n**Var4 = 4\n**Gesamtka: pauska",
           "filter": "Q159;PAUS1=1",
           "concept": "pausx",
           "scale": "cat",
@@ -15733,7 +15630,6 @@
           "text_de": "Wie wahrscheinlich ist es Ihrer Meinung nach, dass sie in den nächsten 2 Jahren eine bezahlte Beschäftigung aufnehmen?",
           "instruction": "Please estimate the probability of such a ob start within the next 2 yeras on a scale from 0 to 100, where 0 means that you definitely will not start a new job within the next 2 years, and 100 means that you will definitely start a new job within the next 2 years. With the values in between 0 and 100 you can estimate the likelihood. Show list 24539",
           "instruction_de": "Bitte geben Sie die Wahrscheinlichkeit auf einer Skala von 0 bis 100 an.\nDer Wert \"0\"bedeutet: Das wird mit Sicherheit nicht eintreten.\nDer Wert \"100\" bedeutet: Das wird mit Sicherheit eintreten.\nMit den Werten zwischen 0 und 100 können Sie die Wahrscheinlichkeit abstufen.\n\nListe 24539 vorlegen",
-          "description": "Researcher Notes:\ngehört zum Modul Investitionsentscheidung\n**\n**Filter prüfen!",
           "filter": "Q166;PNERW02=2,3,4",
           "concept": "fm05",
           "scale": "cat",
@@ -15898,7 +15794,6 @@
           "text_de": "In welcher beruflichen Stellung sind Sie derzeit beschäftigt?",
           "instruction": "If you are employed in more than one position, please answer the following questions for your main position only.",
           "instruction_de": "Wenn Sie mehr als eine berufliche Tätigkeit ausüben, beantworten Sie die folgenden\nFragen bitte nur für Ihre derzeitige berufliche Haupttätigkeit.\n\nListe 175 vorlegen",
-          "description": "Researcher Notes:\nCodierung:\n**enstsprechend Q177 bis Q180 umsetzen.\n**Var1 = PARB\n**Var2 = PANG\n**Var3 = PSST1\n**Var4 = PAMT\n**Var5 = PAZUBI\n**Gesamtka: PBERKA",
           "filter": "Q161;PERW=1,2,3,4",
           "concept": "x",
           "scale": "cat",
@@ -16202,7 +16097,6 @@
           "text_de": "Seit wann sind Sie bei Ihrem jetzigen Arbeitgeber beschäftigt?",
           "instruction": "Survey month is [display current month / 2012], no specification shall result in a later date",
           "instruction_de": "Befragungsmonat ist [aktuellen Monat einblenden/2012], Angabe darf kein späteres Datum ergeben",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Angabe",
           "filter": "Q175;X=1,2,4,5",
           "scale": "txt",
           "sn": 0,
@@ -16243,7 +16137,6 @@
           "text_de": "Wie wahrscheinlich ist es Ihrer Meinung nach, dass sie in den nächsten 2 Jahren Ihren Arbeitsplatz verlieren?",
           "instruction": "Please enter the likelihood on a scale from 0 to 100.  The value \" 0 \" means: This will certainly not occur.  The value \"100 \" means: That will certainly occur.\nWith the values inbetween 0 and 100 you make your estimate.",
           "instruction_de": "Bitte geben Sie die Wahrscheinlichkeit auf einer Skala von 0 bis 100 an.\nDer Wert \"0\"bedeutet: Das wird mit Sicherheit nicht eintreten.\nDer Wert \"100\" bedeutet: Das wird mit Sicherheit eintreten.\nMit den Werten zwischen 0 und 100 können Sie die Wahrscheinlichkeit abstufen.\n\nListe 24524 vorlegen",
-          "description": "Researcher Notes:\ngehört zum Modul Investitionsentscheidung",
           "filter": "Q175;X=1,2,4",
           "concept": "fm06",
           "scale": "cat",
@@ -16508,7 +16401,6 @@
           "text_de": "In welcher beruflichen Stellung sind Sie als Selbständiger derzeit beschäftigt?",
           "instruction": "Show list 174",
           "instruction_de": "Liste 175 vorlegen",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = PSST1\n**Var2 = PSST2\n**Var3 = PSST3\n**Codes lt. Q186 vergeben\n**\n**Var4 = PSST4 = 1",
           "filter": "Q175;X=3",
           "concept": "psstx1",
           "scale": "cat",
@@ -16557,7 +16449,6 @@
         {
           "text": "Please specify the number of your employees and staff.",
           "text_de": "Bitte benennen Sie die Anzahl Ihrer Mitarbeiter und Angestellten.",
-          "description": "Researcher Notes:\nCodierung:\n**1, 2 oder 3 in \n**PSST1\n**PSST2\n**PSST3",
           "filter": "Q185;PSSTX1=1,2,3",
           "concept": "psstx2",
           "scale": "cat",
@@ -16603,7 +16494,6 @@
           "text_de": "Wie hoch war Ihr Arbeitsverdienst im letzten Monat?\nWenn Sie im letzten Monat Sonderzahlungen hatten, z.B. Urlaubsgeld oder\nNachzahlungen, rechnen Sie diese bitte nicht mit. Entgelt für Überstunden rechnen Sie\ndagegen mit.\nFalls Sie selbständig sind: Bitte schätzen Sie Ihren monatlichen Gewinn vor und nach\nSteuern\nBitte geben Sie nach Möglichkeit beides an:\n-den Bruttoverdienst, das heißt Lohn oder Gehalt vor Abzug der Steuern und Sozialversicherung \n-und den Nettoverdienst, das heißt den Betrag nach Abzug von Steuern und Beiträgen zur Renten-, Arbeitslosen- und Krankenversicherung.",
           "instruction": "Gross income is usually bigger than net income!",
           "instruction_de": "Eine Brutto-Angabe ist in der Regel größer als eine Netto-Angabe!",
-          "description": "Researcher Notes:\nRange: 0-999999\n**\n**Nachfrage bei unplausibler Angabe",
           "filter": "Q161;PERW=1,2,3,4,7,8",
           "concept": "mem04",
           "scale": "txt",
@@ -16682,7 +16572,6 @@
         {
           "text": "What was your gross income from this job last month?",
           "text_de": "Wie hoch war Ihr Bruttoverdienst aus dieser Tätigkeit im letzten Monat?",
-          "description": "Researcher Notes:\nNachfrage bei unplausibler Angabe",
           "filter": "Q193;PJOBX=1",
           "scale": "txt",
           "sn": 0,
@@ -16714,7 +16603,6 @@
           "text_de": "Ich lese Ihnen jetzt verschiedene Arten von Geldbeständen und Geldanlagen vor. Bitte sagen Sie mir jeweils, ob Sie über ein derartiges Geldvermögen verfügen oder nicht. Verfügen Sie über...",
           "instruction": "Show list 24540. Please read out the possible responses.",
           "instruction_de": "Liste 24540 vorlegen Vorgaben bitte vorlesen.",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -16994,7 +16882,6 @@
         {
           "text": "And what is the respective money supply or money investment worth? \nWhat is the current approximate value of your personal bank giro account?",
           "text_de": "Und wie hoch ist der jeweilige Wert Ihres Geldbestandes beziehungsweise Ihrer Geldanlage? Wie hoch ist derzeit in etwa der Wert auf Ihrem Girokonto?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen",
           "filter": "Q24540:FM0701=1",
           "concept": "fm0801",
           "scale": "int",
@@ -17207,7 +17094,6 @@
           "text_de": "Manches spart und investiert man, um sich relativ bald von dem Angesparten etwas leisten zu können. Manches spart man hingegen in der Absicht, erst sehr viel später, etwa im Alter, darauf zurückzugreifen. \nÜber all Ihre Ersparnisse und Anlagen, wie ist Ihr durchschnittlicher Anlagehorizont?",
           "instruction": "Show list 24527",
           "instruction_de": "Liste 24527 vorlegen",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "concept": "fm09",
           "scale": "cat",
           "answers": [
@@ -17260,7 +17146,6 @@
         {
           "text": "How well do you know financial matters all in all? Not at all, a little, good or very good?",
           "text_de": "Wie gut kennen Sie sich alles in allem in finanziellen Angelegenheiten aus? Gar nicht, ein bisschen, gut oder sehr gut?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "concept": "fm10",
           "scale": "cat",
           "answers": [
@@ -17310,7 +17195,6 @@
           "text_de": "Im Folgenden sind einige Gründe aufgeführt, weshalb man sparen kann. Wie wichtig sind diese Gründe für Sie persönlich?",
           "instruction": "Please answer according to the following scale: A value of 0 means totally unimportant. The value of 10 means very important. With the vaues in between you can make your estimate.",
           "instruction_de": "Antworten Sie bitte anhand der folgenden Skala. Der Wert 0 bedeutet: ganz und gar unwichtig. Der Wert 10 bedeutet: sehr wichtig. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.\n\nListe 24536 vorlegen",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "concept": "fm11",
           "scale": "txt",
           "sn": 0,
@@ -18015,7 +17899,6 @@
         {
           "text": "Assuming that you have 100 € deposit in your savings account. This credit bears interest at 20% per year and you leave it on this account for 5 years.\nHow much credit will your savings account after 5 years? ",
           "text_de": "Angenommen, Sie haben 100 € Guthaben auf Ihrem Sparkonto. Dieses Guthaben wird mit 20% pro Jahr verzinst, und Sie lassen es 5 Jahre auf diesem Konto.\nWie viel Guthaben weist Ihr Sparkonto nach 5 Jahren auf?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "concept": "fm12",
           "scale": "cat",
           "answers": [
@@ -18063,7 +17946,6 @@
         {
           "text": "What do you think: Which of the following forms of investment showt he highest fluctuation of return over time? Savings accounts, fixed income securities or stocks?",
           "text_de": "Was glauben Sie: Welche der folgenden Anlageformen zeigt im Laufe der Zeit die höchsten Ertragsschwankungen? Sparbücher, festverzinsliche Wertpapiere oder Aktien?",
-          "description": "Researcher Notes:\ngehört zu Modul Investitonsentscheidungen\n",
           "concept": "fm13",
           "scale": "cat",
           "answers": [
@@ -22314,7 +22196,6 @@
         {
           "text": "Overall, was this episode <\"activity from Q6drm\">  from <start time> until <finishing time> rather pleasant or rather unpleasant?",
           "text_de": "Insgesamt gesehen, war diese Episode <\"Aktivität aus Q2drm\"> von <Uhrzeit Beginn> bis <Uhrzeit Ende> eher angenehm oder eher unangenehm?",
-          "description": "Researcher Notes:\nAb hier Schleife programmieren ab Q2drm Aktivitäten - Q9drm. Bis zu dem Zeitpunkt, wenn bei Q2drm \"Ende des Tages\" angegeben wird.\n",
           "concept": "q9drm",
           "scale": "cat",
           "answers": [
@@ -22394,7 +22275,6 @@
         {
           "text": "Now come a few additional questions for three of these activities .",
           "text_de": "Für drei der genannten Aktivitäten kommen jetzt noch ein paar Zusatzfragen.",
-          "description": "Researcher Notes:\nBitte 3 der zuvor genannten Aktivitäten zufällig wählen und dazu Fragen Q10drm, Q11drm und Q12drm stellen. Schleife programmieren.\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",
@@ -22527,7 +22407,6 @@
           "text_de": "Wie stark haben Sie auf einer Skala von 1 (gar nicht) bis 7 (sehr stark) die folgenden Gefühle bei der angeführten Aktivität empfunden?\nAktivität: <\"Aktivität aus Q2drm\"> Zeit von <Uhrzeit Beginn> bis <Uhrzeit Ende>.",
           "instruction": "Show list Q12drm.",
           "instruction_de": "Liste Q12drm vorlegen",
-          "description": "Researcher Notes:\nAb hier Schleife programmieren zu den 3 zufällig ausgewählten Aktivitäten Q10drm bis Q12drm\n",
           "concept": "q12drm",
           "scale": "txt",
           "sn": 0,
@@ -25514,7 +25393,6 @@
           "text_de": "Jetzt geht es um mögliche Einschränkungen in Ihrem Leben. \nWie häufig hindern Sie bestimmte Lebensumstände daran, Dinge zu tun, die Ihnen wichtig sind? Bitte geben Sie zu jedem der folgenden Lebensumstände an, ob Sie dieser nie, selten, manchmal, oft oder immer daran hindert, Dinge zu tun, die Ihnen wichtig sind. Wie ist das mit ...",
           "instruction": "Show list 24581",
           "instruction_de": "Liste 24581 vorlegen",
-          "description": "Researcher Notes:\ndie Option \"trifft nicht zu\" für Items 2 und 5 programmieren\n",
           "concept": "gm11",
           "scale": "txt",
           "sn": 0,
@@ -29750,7 +29628,6 @@
           "text_de": "Kennen Sie die Begriffe Regionalwährung oder Tauschkreis?",
           "instruction": "Multiple responses possible!",
           "instruction_de": "Mehrfachnennung möglich!",
-          "description": "Researcher Notes:\nMehrfachnennung für Items 1 und 2 zulassen\n",
           "concept": "gm25",
           "scale": "txt",
           "sn": 0,
@@ -29807,7 +29684,6 @@
         {
           "text": "Do you use …",
           "text_de": "Und nutzen Sie ...",
-          "description": "Researcher Notes:\nnur in Vorfrage genannte Items einblenden",
           "filter": "Q24597:GM2501=1 | Q24597:GM2502=1",
           "concept": "gm26",
           "scale": "txt",
@@ -30255,7 +30131,6 @@
         {
           "text": "Now let's talk about another topic.\n\nDo you have a car?",
           "text_de": "Kommen wir nun zu einem anderen Thema.\n\nVerfügen Sie über ein Auto?",
-          "description": "Researcher Notes:\n2 Splitgruppen programmieren; jeweils 50% die mit S1 bzw. S2 gekennzeichneten Fragen\n",
           "concept": "gm29",
           "scale": "cat",
           "answers": [
@@ -31867,7 +31742,6 @@
         {
           "text": "Now we have a few questions about your parents. Let us begin with your father.",
           "text_de": "Nun haben wir noch ein paar Fragen zu Ihren Eltern. Beginnen wir mit Ihrem Vater.",
-          "description": "Researcher Notes:\nCodierung:\n**beide im Haushalt: LVM = 1\n**nur der Vater = 2\n**nur die Mutter = 3\n**Nein, beide nicht = 4\n",
           "concept": "lvm",
           "scale": "txt",
           "sn": 0,
@@ -31888,7 +31762,6 @@
         {
           "text": "Was your father born in Germany?",
           "text_de": "Ist Ihr Vater in Deutschland geboren?",
-          "description": "Researcher Notes:\nCodierung:\n**nur ja = 1 umsetzen\n**Nein springt in nächste Frage\n",
           "concept": "lv03a",
           "scale": "cat",
           "answers": [
@@ -31927,7 +31800,6 @@
           "text": "Where was your father born?",
           "text_de": "In welchem Land ist Ihr Vater geboren?",
           "instruction": "Please enter the current name!",
-          "description": "Researcher Notes:\nCodierung:\n**zusätzlich eine 4-stellige Variable für Ländercode bilden \n**LV03BNR",
           "filter": "Q206;LV03A=2",
           "concept": "lv03b",
           "scale": "chr",
@@ -32045,7 +31917,6 @@
         {
           "text": "Did your father complete vocational training or a university degree?",
           "text_de": "Hat Ihr Vater eine berufliche Ausbildung oder ein Studium abgeschlossen?",
-          "description": "Researcher Notes:\nMehrfachnennung für 1 und 2 zulassen\n",
           "concept": "lv06",
           "scale": "cat",
           "answers": [
@@ -32095,7 +31966,6 @@
           "text_de": "In welcher beruflichen Stellung war Ihr Vater damals tätig, als Sie 15 Jahre alt waren?",
           "instruction": "Show list 211",
           "instruction_de": "Liste 211 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Hier wird nur \n**War nicht erwerbstätig = 1\n**War verstorben = 2\n**weiß nicht = -1 \n**umgesetzt\n**Item 1-4 springt in nächste Frage!\n",
           "concept": "lv12",
           "scale": "cat",
           "answers": [
@@ -32410,7 +32280,6 @@
           "text_de": "Und welche berufliche Tätigkeit übte Ihr Vater aus, als Sie selbst 15 Jahre alt waren?",
           "instruction": "For example, do not write \"clerk\", but \"shipping clerk\"; not \"blue-collar worker\", but \"machine metalworker\". If he was engaged in public employment, please give his official title, for example, \"police chief\" or \"Studienrat\". ",
           "instruction_de": "Bitte geben Sie wenn möglich die [u]genaue[/u] Tätigkeitsbezeichnung an, also zum Beispiel nicht \"kaufmännischer Angestellter\", sondern: \"Speditionskaufmann\", nicht \"Arbeiter\", sondern: \"Maschinenschlosser.\" Wenn Ihr Vater Beamter war, geben Sie bitte die Amtsbezeichnung an, zum Beispiel \"Polizeimeister\" oder \"Studienrat\".",
-          "description": "Researcher Notes:\nCodierung:\n**Falls \"weiß nicht\" \n**LV12 = -1",
           "filter": "Q211;LV12=1,2,3,4",
           "concept": "lv07",
           "scale": "chr",
@@ -32432,7 +32301,6 @@
         {
           "text": "Now about your mother. Was she born in Germany?",
           "text_de": "Nun zu Ihrer Mutter. Ist Ihre Mutter in Deutschland geboren?",
-          "description": "Researcher Notes:\nCodierung:\n**ja = LM03A = 1.\n**Nein springt in nächste Frage und wird nicht umgestzt.\n",
           "concept": "lm03a",
           "scale": "cat",
           "answers": [
@@ -32470,7 +32338,6 @@
         {
           "text": "Where was your mother born?",
           "text_de": "In welchem Land ist Ihre Mutter geboren?",
-          "description": "Researcher Notes:\nCodierung:\n**zusätzlich eine 4-stellige Variable für Ländercode bilden \n**LM03BNR",
           "filter": "Q217;LM03A=2",
           "concept": "lm03b",
           "scale": "int",
@@ -32588,7 +32455,6 @@
         {
           "text": "Did your mother complete vocational training or a university degree?",
           "text_de": "Hat Ihre Mutter eine berufliche Ausbildung oder ein Studium abgeschlossen?",
-          "description": "Researcher Notes:\nMehrfachnennung für 1 und 2 zulassen\n**Codierung:\n**diesmal: weiß nicht = Code 4\n",
           "concept": "lm06",
           "scale": "cat",
           "answers": [
@@ -32638,7 +32504,6 @@
           "text_de": "In welcher beruflichen Stellung war Ihre Mutter damals tätig, als Sie 15 Jahre alt waren?",
           "instruction": "Show list 211",
           "instruction_de": "Liste 211 vorlegen!",
-          "description": "Researcher Notes:\nCodierung:\n**Hier wird nur \n**War nicht erwerbstätig = 1\n**War verstorben = 2\n**weiß nicht = -1 \n**umgesetzt\n**Item 1-4 springt in nächste Frage!\n",
           "concept": "lm12",
           "scale": "cat",
           "answers": [
@@ -32953,7 +32818,6 @@
           "text_de": "Und welche berufliche Tätigkeit übte Ihre Mutter aus, als Sie selbst 15 Jahre alt waren?",
           "instruction": "For example, do not write \"clerk\", but \"shipping clerk\"; not \"blue-collar worker\", but \"machine metalworker\". If she was engaged in public employment, please give his official title, for example, \"police chief\" or \"Studienrätin\". ",
           "instruction_de": "Bitte geben Sie wenn möglich die genaue Tätigkeitsbezeichnung an, also zum Beispiel nicht \"kaufmännische Angestellte\", sondern: \"Speditionskauffrau\", nicht \"Arbeiterin\", sondern: \"Maschinenschlosserin.\" Wenn Ihre Mutter Beamte war, geben Sie bitte die Amtsbezeichnung an, zum Beispiel \"Polizeimeisterin\" oder \"Studienrätin\".",
-          "description": "Researcher Notes:\nCodierung:\n**Falls \"weiß nicht\" \n**LM12 = -1",
           "filter": "Q222;LM12=1,2,3,4",
           "concept": "lm07",
           "scale": "chr",
@@ -33017,7 +32881,6 @@
           "text_de": "Wie heimisch fühlen Sie sich bei Besuchen in Ihrem Herkunftsland?",
           "instruction": "By country of origin we mean both your personal country of origin, in so far as you have immigrated to Germany by yourself, as well as that of your parents or grandparents in so far as you are a child or grandchild of people who have immigrated to Germany.",
           "instruction_de": "Mit Herkunftsland meinen wir sowohl Ihr persönliches Herkunftsland, insofern Sie selbst nach Deutschland zugewandert sind, als auch das Ihrer Eltern oder Großelter, insofern Sie ein Kind oder Enkelkind von Personen sind, die nach Deutschland zugewandert sind.",
-          "description": "Researcher Notes:\nGehört zu Modul Integrationsfragen",
           "filter": "Q24556;SIM05=1",
           "concept": "sim06",
           "scale": "cat",
@@ -33063,7 +32926,6 @@
           "text_de": "Wenn Sie sich über das Weltgeschehen in Medien wie Zeitungen, Fernsehen, Radio, Internet etc. informieren: Nutzen Sie diese dann ...",
           "instruction": "By country of origin we mean both your personal country of origin, in so far as you have immigrated to Germany by yourself, as well as that of your parents or grandparents in so far as you are a child or grandchild of people who have immigrated to Germany.",
           "instruction_de": "Mit Herkunftsland meinen wir sowohl Ihr persönliches Herkunftsland, insofern Sie selbst nach Deutschland zugewandert sind, als auch das Ihrer Eltern oder Großelter, insofern Sie ein Kind oder Enkelkind von Personen sind, die nach Deutschland zugewandert sind.",
-          "description": "Researcher Notes:\ngehört zu Modul Integrationsfragen",
           "filter": "Q67;LSTA1=2 | Q70;LSTA1a=2 | Q72;LSTA3=2 | Q206;LV03A=2 | Q217;LM03A=2",
           "concept": "sim0701",
           "scale": "cat",
@@ -33135,7 +32997,6 @@
         {
           "text": "Do you belong to a church or religious group?",
           "text_de": "Gehören Sie einer Kirche oder Religionsgemeinschaft an?",
-          "description": "Researcher Notes:\nCodierung:\n**wird nicht umgestzt.\n**Ja springt in die nächste Frage\n",
           "concept": "lrelneu",
           "scale": "cat",
           "answers": [
@@ -33299,7 +33160,6 @@
         {
           "text": "Has a doctor ever diagnosed you with one or more of the following illnesses?",
           "text_de": "Hat ein Arzt bei Ihnen jemals eine oder mehrere der folgenden Krankheiten festgestellt?",
-          "description": "Researcher Notes:\nGehört zu Control Striving\n",
           "concept": "pkr x",
           "scale": "txt",
           "sn": 0,
@@ -33473,7 +33333,6 @@
         {
           "text": "How concerned are you about getting a form of dementia such as Alzheimer's one day? Not at all, a little, somewhat or severely?",
           "text_de": "Wie besorgt sind Sie einmal eine Demenzerkrankung wie zum Beispiel Alzheimer zu bekommen? Überhaupt nicht, ein bisschen, etwas oder stark?",
-          "description": "Researcher Notes:\nIst die Abgrenzung so erwünscht? Dann fällt auch Demenz durch Alkoholmißbrauch darunter. Oder geht es nur um Alzheimer?",
           "filter": "Q24553:PKR15!=1",
           "concept": "sim08",
           "scale": "cat",
@@ -33577,7 +33436,6 @@
           "text_de": "Inwieweit stimmen Sie den folgenden Aussagen zu.",
           "instruction": "Please answer according to the following scale from 1 to 7, where 1 means „Does not apply at all“ and 7 means „Fully applies“. With the values in between, you can make your estimate\nShow list 24566",
           "instruction_de": "Bitte antworten Sie anhand der folgenden Skala von 1 bis 7, wobei 1 \"trifft überhaupt nicht zu\" und 7 \"trifft voll und ganz zu\" bedeutet. Mit den Werten dazwischen können Sie Ihre Meinung abstufen.\n\nListe 24566 vorlegen",
-          "description": "Researcher Notes:\ndoch 5er-Skala gewünscht? Auch 11er-Skala denkbar",
           "filter": "Q24553:PKR15!=1",
           "concept": "sim10",
           "scale": "txt",
@@ -33783,7 +33641,6 @@
         {
           "text": "Now I will read a few statements to you. Please state whether you feel often, sometimes, rarely or never the described way.",
           "text_de": "Ich lese Ihnen jetzt ein paar Aussagen vor. Bitte geben Sie jeweils an, ob Sie sich oft, manchmal, selten oder nie so fühlen wie beschrieben.",
-          "description": "Researcher Notes:\nbei dieser und den folgenden zwei Fragen gibt es dreierlei Skalen und dreierlei Zeitbezüge. Wenn möglich vereinheitlichen\n",
           "concept": "sim11",
           "scale": "txt",
           "sn": 0,
@@ -34645,7 +34502,6 @@
         {
           "text": "Have you gone to a doctor in the last three months? If so, please state how many times.",
           "text_de": "Haben Sie in den letzten 3 Monaten Ärzte aufgesucht?\nWenn ja, geben Sie bitte an wie häufig.",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = pdr1\n**Var2 = pdr2\n",
           "concept": "pdr x",
           "scale": "txt",
           "sn": 0,
@@ -34723,7 +34579,6 @@
           "text_de": "Wie viele Tage haben Sie im Jahr 2011 wegen Krankheit nicht gearbeitet?",
           "instruction": "Please enter all days, not only those for which you have received a certificate of incapacity for work from your doctor. ",
           "instruction_de": "Geben Sie bitte alle Tage an, nicht nur die , für die Sie eine ärztliche Arbeitsunfähigkeitsbescheinigung erhalten haben.",
-          "description": "Researcher Notes:\nCodierung:\n**Var1 = pkr6\n**Var2 = pkr5\n",
           "concept": "pkr x1",
           "scale": "txt",
           "sn": 0,
@@ -34810,7 +34665,6 @@
         {
           "text": "Did one or more of the following changes to your health insurance status occurre after 31.12.2010?",
           "text_de": "Sind nach dem 31.12.2010 eine oder mehrer der folgenden Veränderungen an Ihrem Krankenkassenversicherungsstatus eingetreten?",
-          "description": "Researcher Notes:\n2 Fragen zum Krankenversicherungsstatus:\n**50% der Befragten bekommen die Frage \"Krankenversicherungsstatus Split 1\",\n**50% der Befragten die andere Frage \"Krankenversicherungsstatus Split 2\"\n",
           "concept": "sim13a",
           "scale": "txt",
           "sn": 0,
@@ -34909,7 +34763,6 @@
         {
           "text": "Did one or more of the following changes to your health insurance status occurre after 31.12.2009?",
           "text_de": "Sind nach dem 31.12.2009 eine oder mehrer der folgenden Veränderungen an Ihrem Krankenkassenversicherungsstatus eingetreten?",
-          "description": "Researcher Notes:\n2 Fragen zum Krankenversicherungsstatus:\n**50% der Befragten bekommen die Frage \"Krankenversicherungsstatus Split 1\",\n**50% der Befragten die andere Frage \"Krankenversicherungsstatus Split 2\"\n",
           "concept": "sim13b",
           "scale": "txt",
           "sn": 0,
@@ -35010,7 +34863,6 @@
           "text_de": "Hat sich an Ihrer familiären Situation nach dem 31.12.2010 etwas verändert? \nGeben Sie bitte an, ob einer oder mehrere der folgenden Punkte zutrifft, und wenn ja, wann das war.",
           "instruction": "Show list 242",
           "instruction_de": "Liste 242 vorlegen",
-          "description": "Researcher Notes:\nCodierung:\n**ja \n**Var1 = 141 \n**Var2 = 011 \n**Var3 = 021\n**Var4 = 031\n**Var5 = 111\n**Var6 = 041\n**Var7 = 051\n**Var8 = 061\n**Var9 = 071\n**Var10 = 081\n**Var11 = 091\n**Var12 = 121\n**Var13 = 131\n**Var14 = 101\n**Var15 = pfsso (open)\n**Var16 = pfsno\n",
           "concept": "pfs x1",
           "scale": "txt",
           "sn": 0,
@@ -35186,7 +35038,6 @@
           "text_de": "In welchem Jahr und in welchem Monat fand diese Änderung Ihrer familiären Situation statt? Habe neuen Partner / Partnerin kennengelernt",
           "instruction": "Entering no later than survey date! (Display current month / 2012)",
           "instruction_de": "Eingabe nicht später als Befragungsdatum! (aktuellen Monat einblenden/2012)",
-          "description": "Researcher Notes:\nNur für die Items einblenden, die in der Vorfrage angeklickt wurden.\n**Codierung:\n** Monat2011 Monat2010\n**Var1 = 143 142\n**Var2 = 013 012\n**Var3 = 023 022\n**Var4 = 033 032\n**Var5 = 113 112\n**Var6 = 043 042\n**Var7 = 053 052\n**Var8 = 063 062\n**Var9 = 073 072\n**Var10 = 083 082\n**Var11 = 093 092\n**Var12 = 123 122\n**Var13 = 133 132\n**Var14 = 103 102\n",
           "scale": "txt",
           "sn": 0,
           "item": "root",

@@ -7843,7 +7843,6 @@
           "text_de": "Welche Handlungen würden Sie sich auf Grund Ihrer Sprachkenntnisse zutrauen? Ich lese Ihnen hierfür eine Reihe von Aussagen vor. Bitte sagen Sie mir jeweils, ob diese Aussagen hinsichtlich der Sprachen, in denen Sie Sprachkenntnisse haben, zutreffen.",
           "instruction": "Show list 81",
           "instruction_de": "Bitte Liste 81 vorlegen!",
-          "description": "loop for every language",
           "filter": "Q79:FSPR1_x=1 & Q78;MSPR>0",
           "scale": "txt",
           "sn": 0,
@@ -18351,7 +18350,6 @@
         {
           "text": "Do you hold a school leaving certificate?",
           "text_de": "Besitzen Sie einen Schulabschluss?",
-          "description": "\"JA\" nicht umsetzen",
           "concept": "lsabx",
           "scale": "cat",
           "answers": [

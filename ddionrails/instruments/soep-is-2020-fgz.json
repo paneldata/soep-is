@@ -16,8 +16,6 @@
           "item": "ankerperson",
           "text": "Anchor Person",
           "text_de": "Ankerperson",
-          "description": "Scripter Notes: PROG: From the sample comes the information about which type of respondent it is: Anchor person: var \"anchor\" = 1 Non-anchor person: var \"anchor\" = no code assigned.",
-          "description_de": "Scripter Notes: PROG: Aus dem Sample kommt die Information, um welche Art von Befragtem es sich handelt: Ankerperson: Var \"Anker\" = 1 Nicht-Ankerperson: Var \"Anker\" = kein Code vergeben",
           "scale": "bin",
           "sn": 0,
           "number": ""
@@ -82,8 +80,6 @@
           "item": "dsgvo2",
           "text": "You can only participate in the survey if you indicate that you have read and accept the privacy policy.",
           "text_de": "Sie können nur an der Befragung teilnehmen, wenn Sie angeben, dass Sie die Datenschutzerklärung gelesen haben und diese akzeptieren.",
-          "description": "Scripter Notes: Filter: Ask if: Q827 - T1 = not 1 If respondent clicks \"Continue\" at Q827 without checking \"I have read and accept the privacy policy.\", please show this note at DSGVO",
-          "description_de": "Scripter Notes: Filter: Ask if: Q827 – T1 = not 1 Falls Befragter bei Q827 auf „Weiter“ klickt, ohne das Häkchen bei „Ich habe die Datenschutzerklärung gelesen und akzeptiere diese.“ zu setzen, bitte diesen Hinweis bei DSGVO einblenden",
           "filter": "Q828:t1!=1",
           "scale": "cat",
           "answers": [
@@ -111,8 +107,6 @@
           "item": "dsgvo_out",
           "text": "Thank you very much for your information. Unfortunately, since you have not agreed to the privacy policy, you cannot participate in the survey.",
           "text_de": "Vielen Dank für Ihre Angaben. Da Sie der Datenschutzerklärung nicht zugestimmt haben, können Sie leider nicht an der Befragung teilnehmen.",
-          "description": "Scripter Notes: ASK if DSGVO not 1 PROG: If respondent clicks on \"Continue\" at Q828 DSGVO (i.e., for the second time) without checking the box, please display this note at DSGVO_out as an error message; document abort in data.",
-          "description_de": "Scripter Notes: ASK if DSGVO not 1 PROG: Falls Befragter bei Q828 DSGVO auf „Weiter“ klickt (also zum zweiten Mal), ohne das Häkchen zu setzen, bitte diesen Hinweis bei DSGVO_out einblenden als error message; Abbruch in Daten dokumentieren",
           "filter": "Q828:dsgvo2!=1",
           "scale": "txt",
           "sn": 0,
@@ -133,8 +127,6 @@
           "item": "name",
           "text": "Please enter your first name:",
           "text_de": "Bitte geben Sie Ihren Vornamen an:",
-          "description": "Scripter Notes: Filter: Ask if Q827 - T1 = 1 OR Q828 - DSGVO2=1",
-          "description_de": "Scripter Notes: Filter: Ask if Q827 – T1 = 1 OR Q828 – DSGVO2=1",
           "filter": "(Q827:t1=1)|(Q828:dsgvo2=1)",
           "scale": "chr",
           "sn": 0,
@@ -179,8 +171,6 @@
           "item": "lgeb",
           "text": "Year:",
           "text_de": "Jahr:",
-          "description": "Researcher Notes: Data from LGEB should be stored away separately and made available to the main questionnaire. LGEB serves as a filter for further questions.",
-          "description_de": "Researcher Notes: Die Daten aus LGEB sollen separat weggepeichert und dem Hauptfragebogen zur Verfügung gestellt werden. LGEB dient als Filter für weitere Fragen.",
           "scale": "int",
           "sn": 3,
           "number": ""
@@ -241,8 +231,6 @@
           "item": "korr_main",
           "text": "Thank you very much for your information! To make sure that all your information is correct, we would like to ask you to double-check: 1 Yourself: [first name] [last name], [date of birth], [gender].",
           "text_de": "Vielen Dank für Ihre Angaben! Um sicherzustellen, dass alle Ihre Angaben richtig sind, möchten wir Sie bitten, die Angaben nochmal zu überprüfen: 1 Sie selbst: [Vorname] [Nachname], [Geburtsdatum], [Geschlecht]",
-          "description": "Scripter Notes: - Store data separately according to data protection criteria. - For KA in preliminary question, replace text module for gender with \"No gender added\" Researcher Notes: For data on household composition, see address dataset.",
-          "description_de": "Scripter Notes: - Angaben nach Datenschutzkriterien separat wegspeichern. - Bei KA in Vorfrage bei Geschlecht Textbaustein ersetzen durch \"Kein Geschlecht hinzugefügt\" Researcher Notes: Daten zur Haushaltszusammensetzung s. Adressdatensatz",
           "scale": "cat",
           "answers": [
             {
@@ -457,8 +445,6 @@
           "item": "zuskorr_x",
           "text": "Thank you very much for your information! To make sure that all your information is correct, we would like to ask you to double check the information. In your household lives: 1st person: [First name person_1] [Last name person 1], [Date of birth person 1], [Gender person 1] [PROG: Insert after each person specified in Zus loop].",
           "text_de": "Vielen Dank für Ihre Angaben! Um sicherzustellen, dass alle Ihre Angaben richtig sind, möchten wir Sie bitten, die Angaben nochmal zu überprüfen. In Ihrem Haushalt wohnt: 1. Person: [Vorname Person_1] [Nachname Person 1], [Geburtsdatum Person 1], [Geschlecht Person 1] [PROG: Einfügen nach jeder angegebenen Person in Zus-Schleife]",
-          "description": "Scripter Notes: - Store data separately according to data protection criteria. - For KA in preliminary questions, replace text module with \"No [first name last name, date of birth, gender] added\" Filter: Zuskorr should only appear if more than one person lives in the household. So if the respondent person is the only household member, this summary should not appear. If 2: Correct specification: Back routing to start query household list first name person 1.",
-          "description_de": "Scripter Notes: - Angaben nach Datenschutzkriterien separat wegspeichern. - Bei KA in Vorfragen Textbaustein ersetzen durch \"Kein [Vorname Nachname, Geburtsdatum, Geschlecht] hinzugefügt\" Filter: Zuskorr soll nur erscheinen, wenn mehr als eine Person im Haushalt wohnen. Wenn also die befragte erson das  einzige Haushaltsmitglied ist, soll diese Zusammenfassung nicht erscheinen. Wenn 2: Angabe korrigieren: Rückrouting auf Beginn Abfrage Haushaltsliste Vorname Person 1",
           "filter": "Q674:zus1=1",
           "scale": "cat",
           "answers": [
@@ -845,8 +831,6 @@
           "item": "lkind",
           "text": "Yes, _ _ children.",
           "text_de": "Ja, und zwar _ _ Kind(er).",
-          "description": "Researcher Notes: Refers to CAWI (online) collected cases only: LKIND: Item/content adjustment for content reasons: Anchor persons were asked directly before about all persons in the household, therefore here only query about children outside the household. For non-anchor persons or CAPI-surveyed interviews, the question is analogous to previous innovation surveys. LKNO: Special anchor person code \"3",
-          "description_de": "Researcher Notes: Betrifft nur die CAWI (online) erhobenen Fälle: LKIND: Positions-/Inhalts-Anpassung aus inhaltlichen Gründen: Ankerpersonen wurden direkt davor nach allen Personen im Haushalt gefragt, deshalb hier nur noch Abfrage zu Kindern außerhalb des Haushalts. Für Nicht- Ankerpersonen bzw. CAPI-erhobene Interviews ist die Frage analog zu den bisherigen Innovationserhebungen. LKNO: Spezieller Ankerpersonen-Code „3“",
           "scale": "int",
           "sn": 1,
           "number": ""
@@ -944,8 +928,6 @@
           "item": "1",
           "text": "Please enter the date of birth of [child's name].",
           "text_de": "Bitte geben Sie das Geburtsdatum von [Name Kind] an.",
-          "description": "Researcher Notes: Coding: oldest child 1 second oldest child 2 etc. Scripter Notes: The variable LKTA_X exists ONLY FOR CAWI if No specification in LKNAM_X, instead of [first name] then use *Your oldest (or second oldest etc.) child*. ",
-          "description_de": "Researcher Notes: Codierung: Ältestes Kind 1 Zweitältestes Kind 2 etc.\nScripter Notes: Die Variable LKTA_X gibt es NUR FÜR CAWI wenn Keine Angabe in LKNAM_X, anstatt [Vorname] dann *Ihr ältestes (bzw. zweitältestes etc.) Kind* verwenden",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -1263,8 +1245,6 @@
           "item": "hwhr",
           "text": "This is a very important question. Do you really not want to give any information on this question?",
           "text_de": "Es handelt sich hier um eine sehr wichtige Frage. Möchten Sie zu dieser Frage wirklich keine Angabe machen?",
-          "description": "Researcher Notes: Queries indicated here and below in the code plan for documentation, but not included in the dataset.",
-          "description_de": "Researcher Notes: Rückfragen hier und fortfolgend im Codeplan zur Dokumentation angegegeben, aber nicht im Datensatz enthalten",
           "filter": "Q013:hwh=-1",
           "scale": "cat",
           "answers": [
@@ -1385,8 +1365,6 @@
           "item": "hraumr1",
           "text": "Your indication \"[value from HQM]\" is unusual [low/high]. Would you perhaps like to correct your statement?",
           "text_de": "Ihre Angabe \"[Wert aus HQM]\" ist ungewöhnlich [niedrig/hoch]. Möchten Sie Ihre Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Control text insertion via: *IF [HQM< 11] *PUT [low/high] \"low\" *IF [HQM> 250] *PUT [low/high] \"high\".",
-          "description_de": "Scripter Notes: Texteinblendung steuern über: *IF [HQM< 11] *PUT [niedrig/hoch] \"niedrig\" *IF [HQM> 250] *PUT [niedrig/hoch] \"hoch\"",
           "filter": "(Q019:hqm<11)|(Q019:hqm>250)",
           "scale": "cat",
           "answers": [
@@ -1421,8 +1399,6 @@
           "text_de": "Die folgenden Fragen beziehen sich auf die Kosten des Wohnens. Zunächst die Frage: Bewohnen Sie diese Wohnung als Hauptmieter, Untermieter oder Eigentümer?",
           "instruction": "Please enter rent-free right of residence or beneficial interest under main landlord.",
           "instruction_de": "Mietfreies Wohnrecht oder Nießbrauch tragen Sie bitte bei Hauptmieter ein.",
-          "description": "Researcher Notes: 4 = \"nursing home/senior home\" is set by data check; question has no KA",
-          "description_de": "Researcher Notes: 4 = \"Altenheim/Seniorenheim\" wird von Datenprüfung gesetzt; Frage hat kein KA",
           "filter": "Q832:ankerperson=1",
           "scale": "cat",
           "answers": [
@@ -2571,8 +2547,6 @@
           "item": "hzins1r2",
           "text": "Please give at least one indication.",
           "text_de": "Bitte geben Sie zumindest eine Angabe an.",
-          "description": "Scripter Notes: Filter: If no specification was made in HZINS1.",
-          "description_de": "Scripter Notes: Filter: Wenn in HZINS1 keinerlei Angabe gemacht wurde",
           "filter": "Q050:hzins1=",
           "scale": "cat",
           "answers": [
@@ -3116,8 +3090,6 @@
           "item": "hdkg3r2",
           "text": "Your information: \"Currently {amount} Euro per month for {number of children}\" seems a bit low/high. Would you like to correct your information?",
           "text_de": "Ihre Angabe: \"Derzeit {Betrag} Euro pro Monat für {Anzahl Kind(er)}\" erscheint etwas niedrig/hoch. Möchten Sie Ihre Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: demand for too high amount: IF HDGK2 > (HDGK3[A numberChildren *235 AND HDGK3>0 demand for too low amount at: > 0 children & HDKG2 < 75",
-          "description_de": "Scripter Notes: Filter: Nachfrage bei zu hohem Betrag: IF HDGK2 > (HDGK3[A zahlKinder  *235 UND HDGK3>0  Nachfrage  nach zu niedrigem  Betrag bei: > 0 Kinder & HDKG2 < 75",
           "scale": "cat",
           "answers": [
             {
@@ -3210,8 +3182,6 @@
           "item": "hdkz2r",
           "text": "Your information: \"Currently {amount} Euro supplementary child benefit per month\" seems a bit high. Would you perhaps like to correct your information?",
           "text_de": "Ihre Angabe: \"Derzeit {Betrag} Euro Kindergeldzuschlag pro Monat\" erscheint etwas hoch. Möchten Sie Ihre Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF [HDKG3 > 0 & HDKZ2 > HDKG3 * 140]",
-          "description_de": "Scripter Notes: Filter: IF [HDKG3 > 0 & HDKZ2 > HDKG3 * 140]",
           "scale": "cat",
           "answers": [
             {
@@ -3317,8 +3287,6 @@
           "item": "hdbg2r",
           "text": "Your entry: Currently {amount} Euro \"Benefits from the education package for one or more children\" seems a bit high. Would you perhaps like to correct your information?",
           "text_de": "Ihre Angabe: Derzeit {Betrag} Euro \"Leistungen aus dem Bildungspaket für eines oder mehrere Kinder\" erscheint etwas hoch. Möchten Sie Ihre Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF [HDKG3 > 0 & HDBG2 > HDKG3 * 150]",
-          "description_de": "Scripter Notes: Filter: IF [HDKG3 > 0 & HDBG2 > HDKG3 * 150]",
           "scale": "cat",
           "answers": [
             {
@@ -3913,8 +3881,6 @@
           "item": "hdwg2r2",
           "text": "According to the information you provided, your household currently pays {amount HMIET_WARM} euros of rent per month, but receives {amount} euros of housing allowance (rent and expenses benefit). Would you perhaps like to correct any of the information?",
           "text_de": "Laut Ihren Angaben zahlt Ihr Haushalt derzeit {Betrag HMIET_WARM} Euro Miete pro Monat, erhält aber {Betrag} Euro Wohngeld (Miet- und Lastenzuschuss). Möchten Sie vielleicht eine der Angaben korrigieren?",
-          "description": "Scripter Notes: Filter: IF [HDWG2 > HMIET_WARM > 0]",
-          "description_de": "Scripter Notes: Filter: IF [HDWG2 > HMIET_WARM > 0]",
           "scale": "cat",
           "answers": [
             {
@@ -7629,8 +7595,6 @@
           "item": "1",
           "text": "How do you assess the current situation in Germany? Please indicate the extent to which you agree with the following statements.",
           "text_de": "Wie schätzen Sie die gegenwärtige Lage in Deutschland ein? Geben Sie bitte an, inwieweit Sie den folgenden Aussagen zustimmen.",
-          "description": "Scripter Notes: Please randomize items, save order: F6_order_1 to F6_order_6",
-          "description_de": "Scripter Notes: Items bitte randomisieren, Reihenfolge wegschreiben: F6_order_1 bis F6_order_6",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -9406,8 +9370,6 @@
           "item": "1",
           "text": "There are different ideas about when a society is fair. What is your personal opinion on this?",
           "text_de": "Es gibt unterschiedliche Vorstellungen darüber, wann eine Gesellschaft gerecht ist. Wie ist Ihre persönliche Meinung dazu?",
-          "description": "Scripter Notes: Please randomize items, save order: F31_order_1 to F31_order_8",
-          "description_de": "Scripter Notes: Items bitte randomisieren, Reihenfolge wegschreiben: F31_order_1 bis F31_order_8",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -10086,8 +10048,6 @@
           "item": "1",
           "text": "Currently, the coronavirus is an omnipresent topic. What is your assessment of the following statements?",
           "text_de": "Zurzeit ist der Coronavirus ein allgegenwärtiges Thema. Wie ist Ihre Einschätzung zu den folgenden Aussagen?",
-          "description": "Scripter Notes: Please randomize items, save order: Coro1_order_1 to Coro1_order_7",
-          "description_de": "Scripter Notes: Items bitte randomisieren, Reihenfolge wegschreiben: Coro1_order_1 bis Coro1_order_7",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -10631,8 +10591,6 @@
           "item": "1",
           "text": "Please now consider the current political situation in Germany and think about the extent to which you agree with the following statements.",
           "text_de": "Bitte führen Sie sich nun die aktuelle politische Situation in Deutschland vor Augen und überlegen Sie, inwieweit Sie den folgenden Aussagen zustimmen.",
-          "description": "Scripter Notes: Please randomize items, save order: F1_order_1 to F1_order_12",
-          "description_de": "Scripter Notes: Items bitte randomisieren, Reihenfolge wegschreiben: F1_order_1 bis F1_order_12",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -12705,8 +12663,6 @@
           "item": "1",
           "text": "Now you see some opinions that can be important to one in life. To what extent do you agree with the statements?",
           "text_de": "Nun sehen Sie einige Meinungen, die einem im Leben wichtig sein können. Inwiefern stimmen Sie den Aussagen zu?",
-          "description": "Scripter Notes: Please randomize items, save order: F7_order_1 to F7_order_8",
-          "description_de": "Scripter Notes: Items bitte randomisieren, Reihenfolge wegschreiben: F7_order_1 bis F7_order_8",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13135,8 +13091,6 @@
           "item": "f10_dummy",
           "text": "Sequence or code in case of predefined order",
           "text_de": "Reihenfolge oder Code bei vordefinierter Reihenfolge",
-          "description": "Scripter Notes: Randomized order of questions F10_1 to F10_4: Define possible orders (for this question there are 120 options) in advance and store them in a dummy variable. Write the position of each question in the corresponding dummy variable and output it in the dataset: F10_order_F10_1 to F10_order_F10_4",
-          "description_de": "Scripter Notes: Randomisierte Reihenfolge der Fragen F10_1 bis F10_4: Möglichen Reihenfolgen (bei dieser Frage sind es 120 Optionen) vorab definieren und in einer Dummyvariable ablegen. Position je Frage in zugehöriger Dummy_Var wegschreiben und im Datensatz mit ausgeben: F10_order_F10_1 bis F10_order_F10_4",
           "scale": "bin",
           "sn": 0,
           "number": ""
@@ -13177,8 +13131,6 @@
           "text_de": "Ist es im Allgemeinen schlecht oder gut für die deutsche Wirtschaft, dass Flüchtlinge hierher kommen?",
           "instruction": "Please answer using the following scale: The value 0 means \"Bad for the economy\". The value 10 means \"Good for the economy\". You can use the values in between to grade your opinion. Please scroll.",
           "instruction_de": "Bitte antworten Sie anhand der folgenden Skala: Der Wert 0 bedeutet „Schlecht für die Wirtschaft“. Der Wert 10 bedeutet „Gut für die Wirtschaft“. Mit den Werten dazwischen können Sie Ihre Meinung abstufen. Bitte scrollen.",
-          "description": "Scripter Notes: Randomize order F10_1 to F10_4 and save: F10_order_F10_1 to F10_order_F10_4",
-          "description_de": "Scripter Notes: Reihenfolge F10_1 bis F10_4 randomisieren und wegschreiben: F10_order_F10_1 bis F10_order_F10_4",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13268,8 +13220,6 @@
           "text_de": "Wird das kulturelle Leben in Deutschland im Allgemeinen durch Flüchtlinge untergraben oder bereichert?",
           "instruction": "Please answer using the following scale: The value 0 means \"Undermined\". The value 10 means \"Enriched\". You can use the values in between to grade your opinion. Please scroll.",
           "instruction_de": "Bitte antworten Sie anhand der folgenden Skala: Der Wert 0 bedeutet „Untergraben“. Der Wert 10 bedeutet „Bereichert“. Mit den Werten dazwischen können Sie Ihre Meinung abstufen. Bitte scrollen.",
-          "description": "Scripter Notes: Randomize order F10_1 to F10_4 and save: F10_order_F10_1 to F10_order_F10_4",
-          "description_de": "Scripter Notes: Reihenfolge F10_1 bis F10_4 randomisieren und wegschreiben: F10_order_F10_1 bis F10_order_F10_4",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13359,8 +13309,6 @@
           "text_de": "Wird Deutschland durch Flüchtlinge zu einem schlechteren oder besseren Ort zum Leben?",
           "instruction": "Please answer using the following scale: The value 0 means \"To a worse place\". The value 10 means \"To a better place\". You can use the values in between to grade your opinion. Please scroll.",
           "instruction_de": "Bitte antworten Sie anhand der folgenden Skala: Der Wert 0 bedeutet „Zu einem schlechteren Ort“. Der Wert 10 bedeutet „Zu einem besseren Ort“. Mit den Werten dazwischen können Sie Ihre Meinung abstufen. Bitte scrollen.",
-          "description": "Scripter Notes: Randomize order F10_1 to F10_4 and save: F10_order_F10_1 to F10_order_F10_4",
-          "description_de": "Scripter Notes: Reihenfolge F10_1 bis F10_4 randomisieren und wegschreiben: F10_order_F10_1 bis F10_order_F10_4",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13450,8 +13398,6 @@
           "text_de": "Birgt ein starker Zustrom von Flüchtlingen mehr Risiken oder mehr Chancen für die Gesellschaft?",
           "instruction": "Please answer using the following scale: The value 0 means \"More risks\". The value 10 means \"More opportunities\". You can use the values in between to grade your opinion. Please scroll.",
           "instruction_de": "Bitte antworten Sie anhand der folgenden Skala: Der Wert 0 bedeutet „Mehr Risiken“. Der Wert 10 bedeutet „Mehr Chancen“. Mit den Werten dazwischen können Sie Ihre Meinung abstufen. Bitte scrollen.",
-          "description": "Scripter Notes: Randomize order F10_1 to F10_4 and save: F10_order_F10_1 to F10_order_F10_4",
-          "description_de": "Scripter Notes: Reihenfolge F10_1 bis F10_4 randomisieren und wegschreiben: F10_order_F10_1 bis F10_order_F10_4",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13539,8 +13485,6 @@
           "item": "1",
           "text": "Please indicate to what extent you agree with the following statements.",
           "text_de": "Bitte geben Sie an, inwiefern Sie den folgenden Aussagen zustimmen.",
-          "description": "Scripter Notes: Randomize item order and save: F11_order_1 to F11_order_4",
-          "description_de": "Scripter Notes: Itemreihenfolge randomisieren und wegschreiben: F11_order_1 bis F11_order_4",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -13829,8 +13773,6 @@
           "item": "1",
           "text": "How would you rate the following statements?",
           "text_de": "Wie beurteilen Sie die folgenden Aussagen?",
-          "description": "Scripter Notes: Randomize item order and save: F2_order_1 to F2_order_9",
-          "description_de": "Scripter Notes: Itemreihenfolge randomisieren und wegschreiben: F2_order_1 bis F2_order_9",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -14210,8 +14152,6 @@
           "item": "1",
           "text": "You hear different opinions about Jews here and there. The following is a list of some of them. Using the list, please indicate the extent to which you agree with these statements.",
           "text_de": "Man hört hier und da verschiedene Meinungen über Juden. Im Folgenden sind einige davon zusammengestellt. Geben Sie bitte anhand der Liste an, inwieweit Sie diesen Aussagen zustimmen.",
-          "description": "Scripter Notes: Randomize order of items and save: F3_order_1 to F3_order_5",
-          "description_de": "Scripter Notes: Reihenfolge der Items randomisieren und wegschreiben: F3_order_1 bis F3_order_5",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -20259,8 +20199,6 @@
           "item": "1",
           "text": "And if you compare your standard of living with the standard of living of the following people, is their standard of living lower or higher than your own standard of living?",
           "text_de": "Und wenn Sie Ihren Lebensstandard mit dem Lebensstandard der folgenden Personen vergleichen, ist der Lebensstandard der folgenden Personen dann niedriger oder höher als Ihr eigener Lebensstandard:",
-          "description": "Scripter Notes: Display item 3: should be dependent on information in preliminary question F36: Filter [NOT IF F36:Item3: \"Does not apply\"] Work colleagues",
-          "description_de": "Scripter Notes: Anzeige Item 3: soll abhängig sein von Angabe in Vorfrage F36: Filter [NOT IF F36:Item3:\"Trifft nicht zu\"] Arbeitskolleginnen und –kollegen",
           "scale": "txt",
           "sn": 0,
           "number": ""
@@ -21897,8 +21835,6 @@
           "text_de": "Welche Staatsangehörigkeit haben Sie?",
           "instruction": "Please select the appropriate country.",
           "instruction_de": "Bitte wählen Sie das entsprechende Land aus.",
-          "description": "Scripter Notes: Insert drop down menu with list \"Country\". At the end show the option *Other country*. If *Other Country* is selected, then insert an input field: Other Country, namely:",
-          "description_de": "Scripter Notes: Drop Down Menü mit Liste „Land“ einfügen. Am Ende die Option *Anderes Land* darstellen. Wenn *Anderes Land* ausgewählt wird, dann ein Eingabefeld einfügen: Anderes Land, und zwar:",
           "filter": "Q137:psta1=2",
           "scale": "txt",
           "sn": 0,
@@ -22284,8 +22220,6 @@
           "text_de": "In welchem Land sind Sie geboren?",
           "instruction": "Please select the corresponding country. Please enter today's designation!",
           "instruction_de": "Bitte wählen Sie das entsprechende Land aus. Bitte heutige Bezeichnung eintragen!",
-          "description": "Scripter Notes: Insert drop down menu with list \"Country\". At the end show the option *Other country*. If *Other Country* is selected, then insert an input field: Other Country, namely:",
-          "description_de": "Scripter Notes: Drop Down Menü mit Liste „Land“ einfügen. Am Ende die Option *Anderes Land* darstellen. Wenn *Anderes Land* ausgewählt wird, dann ein Eingabefeld einfügen: Anderes Land, und zwar:",
           "filter": "Q176:lsta1=2",
           "scale": "txt",
           "sn": 0,
@@ -22494,8 +22428,6 @@
           "text_de": "Für alle zutreffenden Einkünfte geben Sie bitte an, wie hoch derzeit der Bruttobetrag im Monat ist.",
           "instruction": "If you cannot say the exact monthly amount, please provide an estimated amount. When answering this question, please think about the time before the coronavirus appeared.",
           "instruction_de": "Wenn Sie den monatlichen Betrag nicht genau sagen können, geben Sie bitte einen Schätzbetrag an. Bitte denken Sie bei der Beantwortung dieser Frage an die Zeit vor Auftreten des Coronavirus.",
-          "description": "Scripter Notes: separate screen for each item selected in the preliminary question. for items 1 and 2: \"Gross amount means: before deduction of any taxes or social security contributions.\" \"If you have more than one: please add together!\" add coding: for pek05 (unemployment benefit II) no amount is queried! Otherwise ask if the amounts are implausible",
-          "description_de": "Scripter Notes: für jedes in der Vorfrage ausgewählte Item eigener Screen. bei den Items 1 und 2: \"Bruttobetrag heißt: vor Abzug eventueller Steuern oder Sozialversicherungsbeiträge.\" \"Falls Sie mehrere haben: bitte zusammenrechnen!\" hinzufügen Codierung: Bei pek05 (Arbeitslosengeld II) wird kein Betrag abgefragt! Ansonsten Nachfrage bei unplausibler Höhe der Beträge",
           "filter": "Q261:pek_x=2,3,4,6,7,8,9,10",
           "scale": "txt",
           "sn": 0,
@@ -22608,8 +22540,6 @@
           "item": "p065r",
           "text": "Your indication: \"< 50 or > 3500 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 50 oder > 3500 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 2 (annuity) AND PEK_X_1 < 50 OR PEK_X_1 > 3500",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 2 (Rente) AND PEK_X_1 < 50 OR PEK_X_1 > 3500",
           "scale": "cat",
           "answers": [
             {
@@ -22641,8 +22571,6 @@
           "item": "p065r2",
           "text": "Your indication: \"< 50 or > 2500 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 50 oder > 2500 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 3 (widow's pension) AND PEK_X_1 < 50 OR PEK_X_1 > 2500",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 3 (Witwenrente) AND PEK_X_1 < 50 OR PEK_X_1 > 2500",
           "scale": "cat",
           "answers": [
             {
@@ -22674,8 +22602,6 @@
           "item": "p065r9",
           "text": "Your indication: \"< 100 or >=2500 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 100 oder >=2500 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 4 (unemployment benefit (also in case of further education / retraining or transitional allowance)) AND PEK_X_1 < 100 OR PEK_X_1 >= 2500",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 4 (Arbeitslosengeld (auch bei Fortbildung / Umschulung oder Übergangsgeld)) AND PEK_X_1 < 100 OR PEK_X_1 >= 2500",
           "scale": "cat",
           "answers": [
             {
@@ -22707,8 +22633,6 @@
           "item": "p065r4",
           "text": "Your indication: \"< 50 or > 1500 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 50 oder > 1500 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 6 (maternity benefit) AND PEK_X_1 < 50 OR PEK_X_1 > 1500",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 6 (Mutterschaftsgeld) AND PEK_X_1 < 50 OR PEK_X_1 > 1500",
           "scale": "cat",
           "answers": [
             {
@@ -22740,8 +22664,6 @@
           "item": "p065r5",
           "text": "Your indication: \"< 20 or > 2000 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 20 oder > 2000 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 8 (former partner) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 8 (früherer Partner) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
           "scale": "cat",
           "answers": [
             {
@@ -22773,8 +22695,6 @@
           "item": "p065r8",
           "text": "Your indication: \"< 20 or > 2000 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 20 oder > 2000 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 9 (alimony advance funds) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 9 (Unterhaltsvorschusskassen) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
           "scale": "cat",
           "answers": [
             {
@@ -22806,8 +22726,6 @@
           "item": "p065r6",
           "text": "Your indication: \"< 20 or > 853 Euro\" seems a bit low/high. Would you like to correct the information?",
           "text_de": "Ihre Angabe: \"< 20 oder > 853 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 7 (Bafög) AND PEK_X_1 < 20 OR PEK_X_1 > 853",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 7 (Bafög) AND PEK_X_1 < 20 OR PEK_X_1 > 853",
           "scale": "cat",
           "answers": [
             {
@@ -22859,8 +22777,6 @@
           "item": "p065r7",
           "text": "Your specification: \"< 20 or > 2000 Euro\" seems a bit low/high. Would you perhaps like to correct the figure?",
           "text_de": "Ihre Angabe: \"< 20 oder > 2000 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: IF PEK_X = 10 (Other support) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
-          "description_de": "Scripter Notes: Filter: IF PEK_X = 10 (Sonstige Unterstützungen) AND PEK_X_1 < 20 OR PEK_X_1 > 2000",
           "scale": "cat",
           "answers": [
             {
@@ -22930,8 +22846,6 @@
           "item": "perz",
           "text": "IF [LSEX: Woman, Divers, KA AND age \"less than\" = 49] Are you currently on maternity or statutory parental leave? IF [LSEX: Man or (LSEX: Woman, Divers, KA AND age \"greater than\" 49)] Are you currently on statutory parental leave? ",
           "text_de": "IF [LSEX: Frau, Divers, KA UND Alter \"kleiner\" = 49] Sind Sie zur Zeit im Mutterschutz oder in der gesetzlich geregelten Elternzeit?\nIF [LSEX: Mann oder (LSEX: Frau, Divers, KA UND Alter \"größer\" 49)] Sind Sie zur Zeit in der gesetzlich geregelten Elternzeit?",
-          "description": "Scripter Notes: Filter: Ask only if LGEB \"greater than\" 1960 (Age: less than 60) Question text 1: IF [LSEX: Woman, Divers, KA AND Age \"less than\" 49] (LGEB: >=1971) Question text 2: IF [LSEX: Man or (LSEX: Woman, Divers, KA AND Age \"greater than\" 49)] (LGEB < 1971) Item 1: PROG: IF [LSEX: Woman, Divers, KA AND Age \"less than\" 49] (LGEB: >=1971)",
-          "description_de": "Scripter Notes: Filter: Ask only if LGEB \"größer\" 1960 (Alter: unter 60)\nFragetext 1: IF [LSEX: Frau, Divers, KA UND Alter \"kleiner\" = 49] (LGEB: >=1971)\nFragetext 2: IF [LSEX: Mann oder (LSEX: Frau, Divers, KA UND Alter \"größer\" 49)] (LGEB < 1971)\nItem 1: PROG: IF [LSEX: Frau, Divers, KA UND Alter \"kleiner\" = 49] (LGEB: >=1971)",
           "scale": "cat",
           "answers": [
             {
@@ -23305,8 +23219,6 @@
           "item": "lsab_x",
           "text": "Which high school diploma did you graduate with?",
           "text_de": "Welchen Schulabschluss haben Sie gemacht?",
-          "description": "Researcher Notes: Coding open specifications: \"Left school without graduation\": LSAB8; \"Other school-leaving qualification\": LSAB9 Scripter Notes: \"Left school without graduation\" and \"Other school-leaving qualification\": program with open text field.",
-          "description_de": "Researcher Notes: Coding offene Angaben: \"Schule ohne Abschluss verlassen\": LSAB8; \"Sonstiger Schulabschluss\": LSAB9 Scripter Notes: \"Schule ohne Abschluss verlassen\" und \"Sonstiger Schulabschluss\": mit offenem Textfeld programmieren",
           "filter": "Q842:lsab3=1,2",
           "scale": "cat",
           "answers": [
@@ -23930,8 +23842,6 @@
           "text_de": "Üben Sie derzeit eine Erwerbstätigkeit aus? Was trifft für Sie zu?",
           "instruction": "Retirees or individuals in the federal volunteer service (Bundesfreiwilligendienst) who also work in addition to this, please state your job here.",
           "instruction_de": "Rentner oder Personen im Bundesfreiwilligendienst, die zusätzlich eine Erwerbstätigkeit ausüben, geben hier bitte die Erwerbstätigkeit an.",
-          "description": "Researcher Notes: no information is not available for this question",
-          "description_de": "Researcher Notes: keine Angabe gibt es bei dieser Frage nicht",
           "scale": "cat",
           "answers": [
             {
@@ -25055,8 +24965,6 @@
           "text_de": "Wie hoch war Ihr tatsächlicher Bruttostundenlohn im letzten Monat?",
           "instruction": "Please enter to a maximum of two decimal places (e.g. x.xx)! Please enter dot instead of comma! When answering this question, please think of the time before the appearance of the coronavirus.",
           "instruction_de": "Bitte maximal auf zwei Stellen nach dem Komma eingeben (z.B. x.xx)! Bitte Punkt anstatt Komma eingeben! Bitte denken Sie bei der Beantwortung dieser Frage an die Zeit vor Auftreten des Coronavirus.",
-          "description": "Scripter Notes: Store euro information in PVBRSTD2A and cent information in PVBRSTD2B. Allow one digit before the decimal point for Euro, allow two digits after the decimal point for Cent.",
-          "description_de": "Scripter Notes: Euroangabe in PVBRSTD2A und Centangabe in PVBRSTD2B ablegen. Für Euro eine Stelle vor dem Komma erlauben, für Cent zwei Stellen hinter dem Komma erlauben",
           "filter": "Q353:pvbrstd1=2",
           "scale": "txt",
           "sn": 0,
@@ -25355,8 +25263,6 @@
           "item": "pseitmalter",
           "text": "According to your information, you were born [specify year of birth] and have been employed by your employer since [specify PSEITJ].",
           "text_de": "Laut Ihren Angaben sind Sie [Angabe Geburtsjahr] geboren und seit [Angabe PSEITJ] bei Ihrem Arbeitgeber beschäftigt.",
-          "description": "Scripter Notes: Filter: PSEITJ specification - GebJahr < 5",
-          "description_de": "Scripter Notes: Filter: PSEITJ Angabe - GebJahr < 5",
           "scale": "cat",
           "answers": [
             {
@@ -25383,8 +25289,6 @@
           "item": "pseitmr1",
           "text": "You have stated that you have been employed by your employer since [specify from PSEITJ]. Compared to your year of birth, this would mean that you were not yet 14 years old when you started the job. Do you want to correct your entry?",
           "text_de": "Sie haben angegeben seit [Angabe aus PSEITJ] bei Ihrem Arbeitgeber beschäftigt zu sein. Verglichen mit Ihrem Geburtsjahr würde das bedeuten, dass Sie noch keine 14 Jahre alt waren, als Sie die Stelle angetreten haben. Möchten Sie Ihre Eingabe korrigieren?",
-          "description": "Scripter Notes: Filter: PSEITJ specification - year born < 14",
-          "description_de": "Scripter Notes: Filter: PSEITJ Angabe - GebJahr < 14",
           "scale": "cat",
           "answers": [
             {
@@ -25416,8 +25320,6 @@
           "item": "pseitmr3",
           "text": "Your entry: since [entry from PSEITJ] seems somewhat implausible. Would you like to correct the entry?",
           "text_de": "Ihre Angabe: seit [Angabe aus PSEITJ] erscheint etwas unplausibel. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: PSEITJ > 0 / < 1930",
-          "description_de": "Scripter Notes: Filter: PSEITJ > 0 / < 1930",
           "scale": "cat",
           "answers": [
             {
@@ -25701,8 +25603,6 @@
           "text_de": "Wie viele Wochenstunden beträgt Ihre vereinbarte Arbeitszeit ohne Überstunden?",
           "instruction": "Please enter to a maximum of one decimal place (e.g. xx.x)! Please enter dot instead of comma!",
           "instruction_de": "Bitte maximal auf eine Stelle nach dem Komma eingeben (z.B. xx.x)! Bitte Punkt anstatt Komma eingeben!",
-          "description": "Scripter Notes: store hours in PAZ08A and minutes in PAZ08b. \"No fixed working time\" = PAZ09. *MIN 1 *MAX 168",
-          "description_de": "Scripter Notes: Stunden in PAZ08A und Minuten in PAZ08b ablegen. \"Keine festgelegte Arbeitszeit\" = PAZ09. *MIN 1 *MAX 168",
           "filter": "Q319:pstell= ,2,3,4,5,6,-1",
           "scale": "cat",
           "answers": [
@@ -25810,8 +25710,6 @@
           "text_de": "Und wie viel beträgt im Durchschnitt Ihre tatsächliche Arbeitszeit pro Woche einschließlich eventueller Überstunden?\n(If PSTELL=Selbstständig) Wie viel beträgt im Durchschnitt Ihre Arbeitszeit pro Woche?",
           "instruction": "Please enter to a maximum of one decimal place (i. e. xx.x)!",
           "instruction_de": "Bitte maximal auf eine Stelle nach dem Komma eingeben (z.B. xx.x)! Bitte Punkt anstatt Komma eingeben!",
-          "description": "Scripter Notes: store hours in PAZ10A and minutes in PAZ10B. *MIN 1 *MAX 150",
-          "description_de": "Scripter Notes: Stunden in PAZ10A und Minuten in PAZ10B ablegen. *MIN 1 *MAX 150",
           "filter": "Q302:perw=1,2,3,4,8",
           "scale": "txt",
           "sn": 0,
@@ -26295,8 +26193,6 @@
           "item": "pbrutr1",
           "text": "CAUTION! CONFLICTING DATA. Net earnings are usually less than gross earnings. You have entered [amount from PNETT] euros for net earnings and [amount from PBRUT] euros for gross earnings.  Do you want to change your entry?",
           "text_de": "ACHTUNG! WIDERSPRÜCHLICHE DATEN! Der Nettoverdienst ist in der Regel geringer als der Bruttoverdienst. Sie haben [Betrag aus PNETT] Euro für den Nettoverdienst und [Betrag aus PBRUT] Euro für den Bruttoverdienst eingegeben.  Möchten Sie Ihre Angabe ändern?",
-          "description": "Scripter Notes: Filter: PBRUT > 0 & PNETT> 0 & (PNETT > PBRUT \\ (PNETT = PBRUT & PNETT > 750))",
-          "description_de": "Scripter Notes: Filter: PBRUT > 0 & PNETT> 0 & (PNETT > PBRUT \\ (PNETT = PBRUT & PNETT > 750))",
           "scale": "cat",
           "answers": [
             {
@@ -26348,8 +26244,6 @@
           "item": "pbrutr3",
           "text": "Your entry: \"Gross: [amount from PBRUT] Euro, Net: [amount from PNETT] Euro\" seems to me a bit low compared to your actual working time of [amount from PAZ10] hours per week. Would you perhaps like to correct the figure? ",
           "text_de": "Ihre Angabe: \"Brutto: [Betrag aus PBRUT] Euro, Netto: [Betrag aus PNETT] Euro\" erscheint mir im Vergleich mit Ihrer tatsächlichen Arbeitszeit von [Angabe aus PAZ10] Stunden pro Woche etwas gering. Möchten Sie die Angabe vielleicht korrigieren? ",
-          "description": "Scripter Notes: Filter: question is asked when the gross/net hourly wage is above 0 and below 3 euros. For this, the weekly hours given in PAZ10 are converted to monthly hours, i.e. multiplied by 4.35: (PBRUT/(PAZ10*4.35)) > 0 & (PBRUT/(PAZ10*4.35)) < 3 or (PNETT/(PAZ10*4.35)) > 0 & (PNETT/(PAZ10*4.35)) < 3",
-          "description_de": "Scripter Notes: Filter: Frage wird gestellt, wenn der Brutto/Netto-Stundenlohn über 0 und unter 3 Euro ist. Dazu werden die in PAZ10 angegebenen Wochenstunden in Monatsstunden umgerechtet, also mit 4,35 multipliziert: (PBRUT/(PAZ10*4,35)) > 0 & (PBRUT/(PAZ10*4,35)) < 3 oder (PNETT/(PAZ10*4,35)) > 0 & (PNETT/(PAZ10*4,35)) < 3",
           "scale": "cat",
           "answers": [
             {
@@ -26406,8 +26300,6 @@
           "item": "pbrutr5",
           "text": "You have entered \"Gross: [amount from PBRUT] Euro and net: [amount from PNETT] Euro. That is, your deductions exceed 77% of the gross salary. Would you perhaps like to correct the information?",
           "text_de": "Sie haben \"Brutto: [Betrag aus PBRUT] Euro und Netto: [Betrag aus PNETT] Euro angegeben. D.h. Ihre Abzüge übersteigen 77% des Bruttolohnes. Möchten Sie die Angaben vielleicht korrigieren?",
-          "description": "Scripter Notes: Filter: Gross/Net Deduction > 77% So PBRUT > 0 & PNETT > 0 & (PBRUT / PNETT) > 4.3478",
-          "description_de": "Scripter Notes: Filter: Brutto/Netto Abzug > 77% Also PBRUT > 0 & PNETT > 0 & (PBRUT / PNETT) > 4.3478",
           "scale": "cat",
           "answers": [
             {
@@ -26685,8 +26577,6 @@
           "item": "pxxxr3",
           "text": "Your specification: \"< 20 / > 2000 Euro\" seems a bit low/high. Would you perhaps like to correct the information?",
           "text_de": "Ihre Angabe: \"< 20 / > 2000 Euro\" erscheint etwas niedrig/hoch. Möchten Sie die Angabe vielleicht korrigieren?",
-          "description": "Scripter Notes: PNEBBRI < 20 or > 2000",
-          "description_de": "Scripter Notes: PNEBBRI < 20 oder > 2000",
           "scale": "cat",
           "answers": [
             {
@@ -26736,8 +26626,6 @@
         {
           "text": "Curriculum vitae: parent module",
           "text_de": "Lebenslauf: Elternmodul",
-          "description": "Scripter Notes: Routing for this block: - if father lives in HH according to LVLEBH (code 1): skip block and ask for HH affiliation of mother (LMLEBH) - if mother lives in HH according to LMLEBH (code 1): skip block.",
-          "description_de": "Scripter Notes: Routing für diesen Block: - wenn Vater laut LVLEBH im HH lebt (Code 1): Block überspringen und nach HH-Zugehörigkeit der Mutter fragen (LMLEBH) - wenn Mutter laut LMLEBH im HH lebt (Code 1): Block überspringen",
           "scale": "txt",
           "sn": 0,
           "item": "root",

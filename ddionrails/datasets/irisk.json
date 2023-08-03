@@ -958,15 +958,6 @@
         "[-1] No Answer",
         "[0]  Participant made a decision without sampling "
       ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] Teilnehmer hat direkt eine Entscheidung getroffen (kein sampling)"
-      ],
       "missings": [
         true,
         true,
@@ -986,10 +977,16 @@
         113
       ]
     },
-    "scale": "cat",
+    "scale": "number",
     "label_de": "Gewählte Sample Box (Box Nummer, Von Links Nach Rechts)",
     "study": "soep-is",
     "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 1.0,
+      "Median": 2.0,
+      "Mean": 2.0895567469606586,
+      "3rd Qu.": 3.0,
+      "Max.": 4.0,
       "valid": 39729,
       "invalid": 3948
     }
