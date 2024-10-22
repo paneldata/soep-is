@@ -1,28 +1,29 @@
 study,name,label,label_de,description,description_de,analysis_unit,conceptual_dataset,period,primary_key,folder,dollar_dataset,minedition
-soep-is,bio,Variables from the Life Course Question Module,,,,p,org/net,0,,,,eu
-soep-is,bioage,Variables from the Modules of Questions on Children,,,,p,org/net,0,,,,eu
-soep-is,biobirth,Birth Biography of Female and Male Respondents,,,,p,track,0,,,,eu
-soep-is,bioparen,Biography Information for Respondents‘ Parents,,,,p,org/net,0,,,,eu
-soep-is,cognit,Data on cognitive potential,,,,p,org/net,0,,,,eu
-soep-is,h,Variables from the Household Question Module,,,,h,org/net,0,hid syear,,,eu
-soep-is,hbrutto,Household-related Gross File,,,,h,org/gross,0,hid syear,,,eu
-soep-is,hgen,Household-related Status and Generated Variables,,,,h,gen,0,,,,eu
-soep-is,hhrf,Weighting and staying probabilities,,,,h,survey,0,,,,eu
-soep-is,ibip_parent,Bonn Intervention Panel (Parents),,,,p,org/net,0,,,,eu
-soep-is,ibip_pupil,Bonn Intervention Panel (Students),,,,p,org/net,0,,,,eu
-soep-is,idrm,Person-related Data from Innovative DRM Module,,,,p,org/net,0,,,,eu
-soep-is,idrm_esm,Person-related Data from Innovative DRM/ESM Module,,,,p,org/net,0,,,,eu
-soep-is,iesm,Person-related Data from Innovative IESM Module,,,,p,org/net,0,,,,eu
-soep-is,ilanguage,Innovative Language Modules,,,,p,org/net,0,,,,eu
-soep-is,ilottery,Innovative Lottery Experiment,,,,p,org/net,0,,,,eu
-soep-is,inno,Variables from the Innovation Modules,,,,p,org/net,0,,,,eu
-soep-is,inno_h,Variables from the Innovation Modules on Household Level,,,,h,org/net,0,,,,eu
-soep-is,intv,Information on Interviewers,,,,p,org/net,0,,,,eu
-soep-is,irisk,Person-related Data from Innovative RISK Module,,,,p,org/net,0,,,,eu
-soep-is,kid,Pooled Dataset on Children,,,,p,track,0,,,,eu
-soep-is,p,Variables from the Individual Question Module,,,,p,org/net,0,,,,eu
-soep-is,pbrutto,Person-related Gross File,,,,p,org/gross,0,pid syear,,,eu
-soep-is,pgen,Person-related Status and Generated Variables,,,,p,gen,0,,,,eu
-soep-is,phrf,Weighting and staying probabilities,,,,p,survey,0,,,,eu
-soep-is,ppfad,Person-related Meta-dataset,,,,p,track,0,,,,eu
-soep-is,fgz,FGZ exclusive Variables,,,,p,org/net,0,,,,eu
+soep-is,bioage,Variables from the Modules of Questions on Children,[en] ,,,p,org/net,0,,,,eu
+soep-is,biobirth,Birth Biography of Female and Male Respondents,[en] ,,,p,track,0,,,,eu
+soep-is,biol,Variables from the Life Course Question Module,[en] ,,,p,org/net,0,pid syear,,,eu
+soep-is,bioparen,Biography Information for Respondents‘ Parents,[en] ,,,p,org/net,0,,,,eu
+soep-is,cognit,Data on cognitive potential,[en] ,,,p,org/net,0,,,,eu
+soep-is,fgz,FGZ exclusive Variables,[en] ,,,p,org/net,0,pid syear,,,eu
+soep-is,hbrutto,Household-related Gross File,[en] ,,,h,org/gross,0,hid syear,,,eu
+soep-is,hgen,Household-related Status and Generated Variables,[en] ,,,h,gen,0,hid syear,,,eu
+soep-is,hl,Variables from the Household Question Module,[en] ,,,h,org/net,0,hid syear,,,eu
+soep-is,hpath,Household-related Meta-dataset,[en] ,,,h,track,0,hid,,,eu
+soep-is,hpathl,Household-related Meta-dataset (long),[en] ,,,h,track,0,hid syear,,,eu
+soep-is,ibip_parent,Bonn Intervention Panel (Parents),[en] ,,,p,org/net,0,,,,eu
+soep-is,ibip_pupil,Bonn Intervention Panel (Students),[en] ,,,p,org/net,0,,,,eu
+soep-is,idrm,Person-related Data from Innovative DRM Module,[en] ,,,p,org/net,0,,,,eu
+soep-is,idrm_esm,Person-related Data from Innovative DRM/ESM Module,[en] ,,,p,org/net,0,,,,eu
+soep-is,iesm,Person-related Data from Innovative IESM Module,[en] ,,,p,org/net,0,,,,eu
+soep-is,ilanguage,Innovative Language Modules,[en] ,,,p,org/net,0,,,,eu
+soep-is,ilottery,Innovative Lottery Experiment,[en] ,,,p,org/net,0,,,,eu
+soep-is,inno,Variables from the Innovation Modules,[en] ,,,p,org/net,0,pid syear,,,eu
+soep-is,inno_h,Variables from the Innovation Modules on Household Level,[en] ,,,h,org/net,0,hid syear,,,eu
+soep-is,intv,Information on Interviewers,[en] ,,,p,org/net,0,intid syear,,,eu
+soep-is,irisk,Person-related Data from Innovative RISK Module,[en] ,,,p,org/net,0,,,,eu
+soep-is,kidlong,Pooled Dataset on Children,[en] ,,,p,track,0,pid syear,,,eu
+soep-is,pbrutto,Person-related Gross File,[en] ,,,p,org/gross,0,pid syear,,,eu
+soep-is,pgen,Person-related Status and Generated Variables,[en] ,,,p,gen,0,pid syear,,,eu
+soep-is,pl,Variables from the Individual Question Module,[en] ,,,p,org/net,0,pid syear,,,eu
+soep-is,ppath,Person-related Meta-dataset,[en] ,,,p,track,0,pid,,,eu
+soep-is,ppathl,Person-related Meta-dataset (long),[en] ,,,p,track,0,pid syear,,,eu
