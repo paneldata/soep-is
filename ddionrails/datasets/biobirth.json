@@ -2,24 +2,56 @@
   {
     "name": "cid",
     "dataset": "biobirth",
-    "label": "Original Household Number",
+    "label": "Original Houshold Number, Case ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Ursprungshaushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 886289.0,
-      "Median": 4022438.0,
-      "Mean": 2633729.0835614353,
-      "3rd Qu.": 4133914.0,
+      "1st Qu.": 891901.0,
+      "Median": 4047678.0,
+      "Mean": 2805635.3381609796,
+      "3rd Qu.": 4154717.0,
       "Max.": 4905976.0,
-      "valid": 13152,
+      "valid": 19195,
       "invalid": 0
     }
   },
@@ -29,6 +61,7 @@
     "label": "Never Changing Person ID",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -37,14 +70,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -53,6 +88,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -66,12 +102,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8873276.5,
-      "Median": 40210502.5,
-      "Mean": 26236710.321548052,
-      "3rd Qu.": 41337351.0,
-      "Max.": 49059701.0,
-      "valid": 13152,
+      "1st Qu.": 8941851.5,
+      "Median": 40451101.0,
+      "Mean": 27888885.22907007,
+      "3rd Qu.": 41547301.5,
+      "Max.": 55664302.0,
+      "valid": 19195,
       "invalid": 0
     }
   },
@@ -81,74 +117,40 @@
     "label": "Sex",
     "categories": {
       "values": [
-        1,
-        2
-      ],
-      "labels": [
-        "[1] male",
-        "[2] female"
-      ],
-      "labels_de": [
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        false,
-        false
-      ],
-      "frequencies": [
-        6253,
-        6899
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 13152,
-      "invalid": 0
-    }
-  },
-  {
-    "name": "biovalid",
-    "dataset": "biobirth",
-    "label": "Birth Biography Information",
-    "categories": {
-      "values": [
+        -7,
         -6,
         -5,
         -4,
         -3,
         -2,
         -1,
-        10,
-        20,
-        30,
-        31
+        1,
+        2,
+        3
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[10] No Birth Biography - No Kids From Bio",
-        "[20] Youth Biography - No Kids From Bio",
-        "[30] Birth Biography - No Kids From Bio",
-        "[31] Birth Biography - Kids From Bio"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female",
+        "Various"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[10] Keine Geburtsbio. - Keine Kinder aus Bio",
-        "[20] Jugendbio - Keine Kinder aus Bio.",
-        "[30] Geburtsbio - Keine Kinder aus Bio.",
-        "[31] Geburtsbio - Kinder lt. Geburtsbio."
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich",
+        "divers"
       ],
       "missings": [
         true,
@@ -157,7 +159,7 @@
         true,
         true,
         true,
-        false,
+        true,
         false,
         false,
         false
@@ -169,26 +171,27 @@
         0,
         0,
         0,
-        1026,
-        144,
-        5243,
-        6739
+        52,
+        9424,
+        9719,
+        0
       ]
     },
     "scale": "cat",
-    "label_de": "Geburtsbiographie-Information",
+    "label_de": "Geschlecht",
     "study": "soep-is",
     "statistics": {
-      "valid": 13152,
-      "invalid": 0
+      "valid": 19143,
+      "invalid": 52
     }
   },
   {
-    "name": "bioyear",
+    "name": "gebjahr",
     "dataset": "biobirth",
-    "label": "Year Of Biography Survey",
+    "label": "Year of Birth, 4-digit",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -197,14 +200,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -217,7 +222,222 @@
         0,
         0,
         0,
-        1026,
+        0,
+        0,
+        316
+      ]
+    },
+    "scale": "number",
+    "label_de": "Geburtsjahr -4Steller-",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1907.0,
+      "1st Qu.": 1955.0,
+      "Median": 1972.0,
+      "Mean": 1973.898458604799,
+      "3rd Qu.": 1995.0,
+      "Max.": 2022.0,
+      "valid": 18879,
+      "invalid": 316
+    }
+  },
+  {
+    "name": "biovalid",
+    "dataset": "biobirth",
+    "label": "Birth Biography Information",
+    "categories": {
+      "values": [
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        10,
+        30,
+        31
+      ],
+      "labels": [
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "No Birth Biography",
+        "Birth Biography (without data on children)",
+        "Birth Biography (with children)"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "keine Geburtsbiographie",
+        "Geburtsbio (ohne Angaben zu Kindern)",
+        "Geburtsbio (mit Kindern)"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11199,
+        3437,
+        4559
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Geburtsbiographie-Information",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 19195,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "bioinfo",
+    "dataset": "biobirth",
+    "label": "Fertility information source",
+    "categories": {
+      "values": [
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "labels": [
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "perfect match, bio (self-rep) + brutto (proxy)",
+        "match, bio (self-rep) + brutto (proxy)",
+        "nomatch, bio (self-rep) + brutto (proxy)",
+        "nomatch, only bio (self-rep)",
+        "nomatch, only brutto (proxy)"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "perfect match, bio (self-rep) + brutto (proxy)",
+        "match, bio (self-rep) + brutto (proxy)",
+        "nomatch, bio (self-rep) + brutto (proxy)",
+        "nomatch, only bio (self-rep)",
+        "nomatch, only brutto (proxy)"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        634,
+        1319,
+        407,
+        5636,
+        11199
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Informationsquelle für Fertilität",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 19195,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "bioyear",
+    "dataset": "biobirth",
+    "label": "Year Of Biography Survey",
+    "categories": {
+      "values": [
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9077,
         0
       ]
     },
@@ -228,11 +448,11 @@
       "Min.": 1999.0,
       "1st Qu.": 2012.0,
       "Median": 2013.0,
-      "Mean": 2013.220023090879,
+      "Mean": 2012.9505831191934,
       "3rd Qu.": 2016.0,
-      "Max.": 2020.0,
-      "valid": 12126,
-      "invalid": 1026
+      "Max.": 2022.0,
+      "valid": 10118,
+      "invalid": 9077
     }
   },
   {
@@ -241,6 +461,7 @@
     "label": "Age When Surveyed Biography",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -249,14 +470,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -270,7 +493,8 @@
         0,
         0,
         0,
-        8
+        9078,
+        0
       ]
     },
     "scale": "number",
@@ -278,65 +502,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 17.0,
-      "1st Qu.": 32.0,
-      "Median": 48.0,
-      "Mean": 47.456177723676205,
-      "3rd Qu.": 62.0,
+      "1st Qu.": 35.0,
+      "Median": 51.0,
+      "Mean": 50.03983394286844,
+      "3rd Qu.": 64.0,
       "Max.": 96.0,
-      "valid": 13144,
-      "invalid": 8
-    }
-  },
-  {
-    "name": "sumkids",
-    "dataset": "biobirth",
-    "label": "Total Number Of Births",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        2,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Zahl der Geburten insgesamt",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 1.0,
-      "Mean": 1.3492015209125476,
-      "3rd Qu.": 2.0,
-      "Max.": 10.0,
-      "valid": 13150,
-      "invalid": 2
+      "valid": 10117,
+      "invalid": 9078
     }
   },
   {
@@ -345,6 +517,7 @@
     "label": "Number Of Births From Biography",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -353,14 +526,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -373,8 +548,9 @@
         0,
         0,
         0,
-        1028,
-        1
+        0,
+        9077,
+        0
       ]
     },
     "scale": "number",
@@ -384,19 +560,20 @@
       "Min.": 0.0,
       "1st Qu.": 0.0,
       "Median": 1.0,
-      "Mean": 1.116637795925101,
+      "Mean": 1.209329907096264,
       "3rd Qu.": 2.0,
       "Max.": 10.0,
-      "valid": 12123,
-      "invalid": 1029
+      "valid": 10118,
+      "invalid": 9077
     }
   },
   {
-    "name": "kidpnr01",
+    "name": "sumkids",
     "dataset": "biobirth",
-    "label": "PID 1. Child",
+    "label": "Total Number Of Births",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -405,14 +582,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -425,8 +604,65 @@
         0,
         0,
         0,
-        4531,
-        4674
+        0,
+        0,
+        0
+      ]
+    },
+    "scale": "number",
+    "label_de": "Zahl der Geburten insgesamt",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.9323261265954675,
+      "3rd Qu.": 2.0,
+      "Max.": 10.0,
+      "valid": 19195,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "kidpnr01",
+    "dataset": "biobirth",
+    "label": "PERSNR 1st. Child",
+    "categories": {
+      "values": [
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10794,
+        3606
       ]
     },
     "scale": "number",
@@ -434,21 +670,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153803.0,
-      "1st Qu.": 8843554.5,
-      "Median": 40221603.0,
-      "Mean": 26764107.174816318,
-      "3rd Qu.": 41561453.0,
+      "1st Qu.": 8807203.0,
+      "Median": 40165804.0,
+      "Mean": 26462620.535766423,
+      "3rd Qu.": 41596803.0,
       "Max.": 49059703.0,
-      "valid": 3947,
-      "invalid": 9205
+      "valid": 4795,
+      "invalid": 14400
     }
   },
   {
     "name": "kidpnr02",
     "dataset": "biobirth",
-    "label": "PID 2. Child",
+    "label": "PERSNR 2nd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -457,14 +694,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -477,8 +716,9 @@
         0,
         0,
         0,
-        7209,
-        3084
+        0,
+        13710,
+        2366
       ]
     },
     "scale": "number",
@@ -486,21 +726,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153803.0,
-      "1st Qu.": 8864704.0,
-      "Median": 40363504.0,
-      "Mean": 27584336.362364464,
-      "3rd Qu.": 41671154.0,
+      "1st Qu.": 8834204.0,
+      "Median": 40394104.0,
+      "Mean": 27693937.58512344,
+      "3rd Qu.": 41722204.0,
       "Max.": 49059704.0,
-      "valid": 2859,
-      "invalid": 10293
+      "valid": 3119,
+      "invalid": 16076
     }
   },
   {
     "name": "kidpnr03",
     "dataset": "biobirth",
-    "label": "PID 3. Child",
+    "label": "PERSNR 3rd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -509,14 +750,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -529,8 +772,9 @@
         0,
         0,
         0,
-        11021,
-        1038
+        0,
+        17403,
+        742
       ]
     },
     "scale": "number",
@@ -538,21 +782,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153804.0,
-      "1st Qu.": 8933305.0,
-      "Median": 40368603.0,
-      "Mean": 28347476.080512352,
-      "3rd Qu.": 41821604.0,
+      "1st Qu.": 8849529.5,
+      "Median": 40397104.5,
+      "Mean": 28333083.31238095,
+      "3rd Qu.": 41808254.5,
       "Max.": 49059405.0,
-      "valid": 1093,
-      "invalid": 12059
+      "valid": 1050,
+      "invalid": 18145
     }
   },
   {
     "name": "kidpnr04",
     "dataset": "biobirth",
-    "label": "PID 4. Child",
+    "label": "PERSNR 4th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -561,14 +806,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -581,8 +828,9 @@
         0,
         0,
         0,
-        12495,
-        332
+        0,
+        18667,
+        242
       ]
     },
     "scale": "number",
@@ -590,21 +838,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1342706.0,
-      "1st Qu.": 8988606.0,
-      "Median": 40494004.0,
-      "Mean": 29141356.390769232,
-      "3rd Qu.": 41745605.0,
-      "Max.": 49057305.0,
-      "valid": 325,
-      "invalid": 12827
+      "1st Qu.": 8882655.25,
+      "Median": 40387403.5,
+      "Mean": 28904970.33216783,
+      "3rd Qu.": 41644206.0,
+      "Max.": 49056206.0,
+      "valid": 286,
+      "invalid": 18909
     }
   },
   {
     "name": "kidpnr05",
     "dataset": "biobirth",
-    "label": "PID 5. Child",
+    "label": "PERSNR 5th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -613,14 +862,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -633,8 +884,9 @@
         0,
         0,
         0,
-        12943,
-        108
+        0,
+        19030,
+        79
       ]
     },
     "scale": "number",
@@ -642,21 +894,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1342707.0,
-      "1st Qu.": 9429205.0,
-      "Median": 41209308.0,
-      "Mean": 32758251.12871287,
-      "3rd Qu.": 49000407.0,
+      "1st Qu.": 8895378.75,
+      "Median": 41116156.5,
+      "Mean": 31037292.093023255,
+      "3rd Qu.": 49001307.0,
       "Max.": 49056207.0,
-      "valid": 101,
-      "invalid": 13051
+      "valid": 86,
+      "invalid": 19109
     }
   },
   {
     "name": "kidpnr06",
     "dataset": "biobirth",
-    "label": "PID 6. Child",
+    "label": "PERSNR 6th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -665,14 +918,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -685,8 +940,9 @@
         0,
         0,
         0,
-        13081,
-        39
+        0,
+        19140,
+        32
       ]
     },
     "scale": "number",
@@ -694,21 +950,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 2144803.0,
-      "1st Qu.": 9779856.75,
-      "Median": 41241506.0,
-      "Mean": 34398208.15625,
-      "3rd Qu.": 49003056.75,
+      "1st Qu.": 9287656.5,
+      "Median": 41459908.0,
+      "Mean": 33847436.30434783,
+      "3rd Qu.": 49009658.0,
       "Max.": 49051402.0,
-      "valid": 32,
-      "invalid": 13120
+      "valid": 23,
+      "invalid": 19172
     }
   },
   {
     "name": "kidpnr07",
     "dataset": "biobirth",
-    "label": "PID 7. Child",
+    "label": "PERSNR 7th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -717,14 +974,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -737,30 +996,32 @@
         0,
         0,
         0,
-        13122,
-        15
+        0,
+        19180,
+        9
       ]
     },
     "scale": "number",
     "label_de": "PERSNR 7. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 2156802.0,
-      "1st Qu.": 9689653.5,
+      "Min.": 8783406.0,
+      "1st Qu.": 40462277.5,
       "Median": 40679404.0,
-      "Mean": 31964584.8,
-      "3rd Qu.": 45121805.5,
-      "Max.": 49048005.0,
-      "valid": 15,
-      "invalid": 13137
+      "Mean": 36804088.666666664,
+      "3rd Qu.": 41100606.25,
+      "Max.": 49051409.0,
+      "valid": 6,
+      "invalid": 19189
     }
   },
   {
     "name": "kidpnr08",
     "dataset": "biobirth",
-    "label": "PID 8. Child",
+    "label": "PERSNR 8th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -769,14 +1030,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -789,30 +1052,32 @@
         0,
         0,
         0,
-        13136,
-        9
+        0,
+        19189,
+        6
       ]
     },
     "scale": "number",
     "label_de": "PERSNR 8. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 8542406.0,
-      "1st Qu.": 9148353.5,
-      "Median": 9743705.0,
-      "Mean": 26233790.42857143,
-      "3rd Qu.": 49002854.5,
-      "Max.": 49048006.0,
-      "valid": 7,
-      "invalid": 13145
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 19195
     }
   },
   {
     "name": "kidpnr09",
     "dataset": "biobirth",
-    "label": "PID 9. Child",
+    "label": "PERSNR 9th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -821,14 +1086,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -841,30 +1108,32 @@
         0,
         0,
         0,
-        13147,
-        2
+        0,
+        19190,
+        5
       ]
     },
     "scale": "number",
     "label_de": "PERSNR 9. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 8542405.0,
-      "1st Qu.": 28772005.5,
-      "Median": 49001606.0,
-      "Mean": 35530672.666666664,
-      "3rd Qu.": 49024806.5,
-      "Max.": 49048007.0,
-      "valid": 3,
-      "invalid": 13149
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0,
+      "3rd Qu.": 0.0,
+      "Max.": 0.0,
+      "valid": 0,
+      "invalid": 19195
     }
   },
   {
     "name": "kidpnr10",
     "dataset": "biobirth",
-    "label": "PID 10. Child",
+    "label": "PERSNR 10th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -873,14 +1142,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -893,66 +1164,15 @@
         0,
         0,
         0,
-        13142,
-        6
+        0,
+        19194,
+        1
       ]
     },
     "scale": "number",
     "label_de": "PERSNR 10. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 8542402.0,
-      "1st Qu.": 38886805.75,
-      "Median": 49002857.5,
-      "Mean": 38899029.75,
-      "3rd Qu.": 49015081.5,
-      "Max.": 49048002.0,
-      "valid": 4,
-      "invalid": 13148
-    }
-  },
-  {
-    "name": "kidpnr11",
-    "dataset": "biobirth",
-    "label": "PID 11. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "PERSNR 11. Kind",
-    "study": "soep-is",
-    "statistics": {
       "Min.": 0.0,
       "1st Qu.": 0.0,
       "Median": 0.0,
@@ -960,215 +1180,7 @@
       "3rd Qu.": 0.0,
       "Max.": 0.0,
       "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidpnr12",
-    "dataset": "biobirth",
-    "label": "PID 12. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "PERSNR 12. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidpnr13",
-    "dataset": "biobirth",
-    "label": "PID 13. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "PERSNR 13. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidpnr14",
-    "dataset": "biobirth",
-    "label": "PID 14. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "PERSNR 14. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidpnr15",
-    "dataset": "biobirth",
-    "label": "PID 15. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "PERSNR 15. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
+      "invalid": 19195
     }
   },
   {
@@ -1177,6 +1189,7 @@
     "label": "Year Of Birth 1st. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1185,14 +1198,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1204,23 +1219,24 @@
         0,
         0,
         0,
+        0,
         3,
-        4530,
-        140
+        10013,
+        126
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr 1. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1927.0,
-      "1st Qu.": 1973.0,
-      "Median": 1988.0,
-      "Mean": 1986.986201202972,
-      "3rd Qu.": 2001.0,
-      "Max.": 2020.0,
-      "valid": 8479,
-      "invalid": 4673
+      "Min.": 1883.0,
+      "1st Qu.": 1974.0,
+      "Median": 1990.0,
+      "Mean": 1987.8990389925991,
+      "3rd Qu.": 2002.0,
+      "Max.": 2022.0,
+      "valid": 9053,
+      "invalid": 10142
     }
   },
   {
@@ -1229,6 +1245,7 @@
     "label": "Year Of Birth 2nd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1237,14 +1254,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1257,8 +1276,9 @@
         0,
         0,
         0,
-        7209,
-        86
+        0,
+        13104,
+        75
       ]
     },
     "scale": "number",
@@ -1266,13 +1286,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1932.0,
-      "1st Qu.": 1976.0,
-      "Median": 1990.0,
-      "Mean": 1989.2257128222639,
-      "3rd Qu.": 2003.0,
-      "Max.": 2020.0,
-      "valid": 5857,
-      "invalid": 7295
+      "1st Qu.": 1977.0,
+      "Median": 1992.0,
+      "Mean": 1990.130817819149,
+      "3rd Qu.": 2004.0,
+      "Max.": 2022.0,
+      "valid": 6016,
+      "invalid": 13179
     }
   },
   {
@@ -1281,6 +1301,7 @@
     "label": "Year Of Birth 3rd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1289,14 +1310,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1309,8 +1332,9 @@
         0,
         0,
         0,
-        11021,
-        35
+        0,
+        17174,
+        25
       ]
     },
     "scale": "number",
@@ -1318,13 +1342,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1938.0,
-      "1st Qu.": 1978.0,
-      "Median": 1994.0,
-      "Mean": 1990.7709923664122,
-      "3rd Qu.": 2004.0,
-      "Max.": 2020.0,
-      "valid": 2096,
-      "invalid": 11056
+      "1st Qu.": 1977.0,
+      "Median": 1993.0,
+      "Mean": 1990.8567134268537,
+      "3rd Qu.": 2005.0,
+      "Max.": 2022.0,
+      "valid": 1996,
+      "invalid": 17199
     }
   },
   {
@@ -1333,6 +1357,7 @@
     "label": "Year Of Birth 4th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1341,14 +1366,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1361,8 +1388,9 @@
         0,
         0,
         0,
-        12495,
-        13
+        0,
+        18597,
+        7
       ]
     },
     "scale": "number",
@@ -1370,13 +1398,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1949.0,
-      "1st Qu.": 1974.75,
-      "Median": 1993.5,
-      "Mean": 1990.5776397515529,
-      "3rd Qu.": 2005.0,
-      "Max.": 2019.0,
-      "valid": 644,
-      "invalid": 12508
+      "1st Qu.": 1974.0,
+      "Median": 1991.0,
+      "Mean": 1990.1387478849408,
+      "3rd Qu.": 2006.0,
+      "Max.": 2020.0,
+      "valid": 591,
+      "invalid": 18604
     }
   },
   {
@@ -1385,6 +1413,7 @@
     "label": "Year Of Birth 5th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1393,14 +1422,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1413,8 +1444,9 @@
         0,
         0,
         0,
-        12943,
-        4
+        0,
+        19009,
+        2
       ]
     },
     "scale": "number",
@@ -1423,12 +1455,12 @@
     "statistics": {
       "Min.": 1955.0,
       "1st Qu.": 1972.0,
-      "Median": 1992.0,
-      "Mean": 1990.180487804878,
+      "Median": 1990.0,
+      "Mean": 1989.5760869565217,
       "3rd Qu.": 2007.0,
-      "Max.": 2019.0,
-      "valid": 205,
-      "invalid": 12947
+      "Max.": 2022.0,
+      "valid": 184,
+      "invalid": 19011
     }
   },
   {
@@ -1437,6 +1469,7 @@
     "label": "Year Of Birth 6th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1445,14 +1478,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1465,8 +1500,9 @@
         0,
         0,
         0,
-        13081,
-        2
+        0,
+        19134,
+        1
       ]
     },
     "scale": "number",
@@ -1474,13 +1510,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1960.0,
-      "1st Qu.": 1972.0,
+      "1st Qu.": 1973.75,
       "Median": 1988.0,
-      "Mean": 1988.0289855072465,
-      "3rd Qu.": 2005.0,
+      "Mean": 1988.6666666666667,
+      "3rd Qu.": 2004.25,
       "Max.": 2018.0,
-      "valid": 69,
-      "invalid": 13083
+      "valid": 60,
+      "invalid": 19135
     }
   },
   {
@@ -1489,6 +1525,7 @@
     "label": "Year Of Birth 7th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1497,14 +1534,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1517,22 +1556,23 @@
         0,
         0,
         0,
-        13122,
-        2
+        0,
+        19177,
+        1
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr 7. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1964.0,
-      "1st Qu.": 1974.75,
-      "Median": 1989.0,
-      "Mean": 1990.142857142857,
-      "3rd Qu.": 2006.0,
-      "Max.": 2014.0,
-      "valid": 28,
-      "invalid": 13124
+      "Min.": 1963.0,
+      "1st Qu.": 1970.0,
+      "Median": 1979.0,
+      "Mean": 1983.4117647058824,
+      "3rd Qu.": 1997.0,
+      "Max.": 2016.0,
+      "valid": 17,
+      "invalid": 19178
     }
   },
   {
@@ -1541,6 +1581,7 @@
     "label": "Year Of Birth 8th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1549,14 +1590,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1569,22 +1612,23 @@
         0,
         0,
         0,
-        13136,
-        3
+        0,
+        19187,
+        1
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr 8. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1969.0,
-      "1st Qu.": 1986.0,
-      "Median": 1990.0,
-      "Mean": 1990.6153846153845,
-      "3rd Qu.": 2000.0,
-      "Max.": 2010.0,
-      "valid": 13,
-      "invalid": 13139
+      "Min.": 1964.0,
+      "1st Qu.": 1966.5,
+      "Median": 1975.0,
+      "Mean": 1974.857142857143,
+      "3rd Qu.": 1983.0,
+      "Max.": 1986.0,
+      "valid": 7,
+      "invalid": 19188
     }
   },
   {
@@ -1593,6 +1637,7 @@
     "label": "Year Of Birth 9th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1601,14 +1646,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1621,22 +1668,23 @@
         0,
         0,
         0,
-        13147,
-        1
+        0,
+        19189,
+        0
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr 9. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1976.0,
-      "1st Qu.": 1988.0,
-      "Median": 1997.0,
-      "Mean": 1996.0,
-      "3rd Qu.": 2005.0,
-      "Max.": 2014.0,
-      "valid": 4,
-      "invalid": 13148
+      "Min.": 1969.0,
+      "1st Qu.": 1976.25,
+      "Median": 1984.5,
+      "Mean": 1980.6666666666667,
+      "3rd Qu.": 1986.0,
+      "Max.": 1986.0,
+      "valid": 6,
+      "invalid": 19189
     }
   },
   {
@@ -1645,6 +1693,7 @@
     "label": "Year Of Birth 10th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1653,14 +1702,16 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1673,282 +1724,23 @@
         0,
         0,
         0,
-        13142,
-        1
+        0,
+        19193,
+        0
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr 10. Kind",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1977.0,
-      "1st Qu.": 1990.0,
-      "Median": 1994.0,
-      "Mean": 1994.888888888889,
-      "3rd Qu.": 2003.0,
-      "Max.": 2016.0,
-      "valid": 9,
-      "invalid": 13143
-    }
-  },
-  {
-    "name": "kidgeb11",
-    "dataset": "biobirth",
-    "label": "Year Of Birth 11th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtsjahr 11. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidgeb12",
-    "dataset": "biobirth",
-    "label": "Year Of Birth 12th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtsjahr 12. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidgeb13",
-    "dataset": "biobirth",
-    "label": "Year Of Birth 13th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtsjahr 13. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidgeb14",
-    "dataset": "biobirth",
-    "label": "Year Of Birth 14th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtsjahr 14. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidgeb15",
-    "dataset": "biobirth",
-    "label": "Year Of Birth 15th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0
-      ]
-    },
-    "scale": "number",
-    "label_de": "Geburtsjahr 15. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "Min.": 0.0,
-      "1st Qu.": 0.0,
-      "Median": 0.0,
-      "Mean": 0.0,
-      "3rd Qu.": 0.0,
-      "Max.": 0.0,
-      "valid": 0,
-      "invalid": 13152
+      "Min.": 1986.0,
+      "1st Qu.": 1988.0,
+      "Median": 1990.0,
+      "Mean": 1990.0,
+      "3rd Qu.": 1992.0,
+      "Max.": 1994.0,
+      "valid": 2,
+      "invalid": 19193
     }
   },
   {
@@ -1957,6 +1749,7 @@
     "label": "Sex 1st. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -1967,26 +1760,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2001,18 +1797,19 @@
         0,
         0,
         0,
-        4530,
-        28,
-        4515,
-        4079
+        0,
+        10014,
+        24,
+        4772,
+        4380
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 1. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 8594,
-      "invalid": 4558
+      "valid": 9152,
+      "invalid": 10043
     }
   },
   {
@@ -2021,6 +1818,7 @@
     "label": "Sex 2nd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2028,27 +1826,32 @@
         -2,
         -1,
         1,
-        2
+        2,
+        3
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female",
+        "various"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich",
+        "divers"
       ],
       "missings": [
         true,
@@ -2057,6 +1860,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false
       ],
@@ -2065,18 +1870,20 @@
         0,
         0,
         0,
-        7209,
-        20,
-        3017,
-        2906
+        0,
+        13104,
+        12,
+        3121,
+        2955,
+        0
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 2. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 5923,
-      "invalid": 7229
+      "valid": 6076,
+      "invalid": 13119
     }
   },
   {
@@ -2085,6 +1892,7 @@
     "label": "Sex 3rd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2095,26 +1903,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2129,18 +1940,19 @@
         0,
         0,
         0,
-        11020,
-        10,
-        1024,
-        1098
+        0,
+        17175,
+        4,
+        998,
+        1017
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 3. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 2122,
-      "invalid": 11030
+      "valid": 2015,
+      "invalid": 17180
     }
   },
   {
@@ -2149,6 +1961,7 @@
     "label": "Sex 4th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2159,26 +1972,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2193,18 +2009,19 @@
         0,
         0,
         0,
-        12495,
-        6,
-        314,
-        337
+        0,
+        18597,
+        2,
+        286,
+        309
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 4. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 651,
-      "invalid": 12501
+      "valid": 595,
+      "invalid": 18600
     }
   },
   {
@@ -2213,6 +2030,7 @@
     "label": "Sex 5th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2223,26 +2041,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2257,18 +2078,19 @@
         0,
         0,
         0,
-        12943,
-        1,
-        113,
-        95
+        0,
+        19009,
+        0,
+        92,
+        93
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 5. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 208,
-      "invalid": 12944
+      "valid": 185,
+      "invalid": 19010
     }
   },
   {
@@ -2277,6 +2099,7 @@
     "label": "Sex 6th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2287,26 +2110,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2321,18 +2147,19 @@
         0,
         0,
         0,
-        13081,
         0,
-        29,
-        42
+        19134,
+        0,
+        26,
+        35
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 6. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 71,
-      "invalid": 13081
+      "valid": 61,
+      "invalid": 19134
     }
   },
   {
@@ -2341,6 +2168,7 @@
     "label": "Sex 7th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2351,26 +2179,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2385,18 +2216,19 @@
         0,
         0,
         0,
-        13122,
         0,
-        10,
-        20
+        19177,
+        0,
+        6,
+        12
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 7. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 30,
-      "invalid": 13122
+      "valid": 18,
+      "invalid": 19177
     }
   },
   {
@@ -2405,6 +2237,7 @@
     "label": "Sex 8th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2415,26 +2248,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2449,18 +2285,19 @@
         0,
         0,
         0,
-        13136,
-        2,
-        3,
-        11
+        0,
+        19187,
+        0,
+        1,
+        7
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 8. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 14,
-      "invalid": 13138
+      "valid": 8,
+      "invalid": 19187
     }
   },
   {
@@ -2469,6 +2306,7 @@
     "label": "Sex 9th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2479,26 +2317,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2513,18 +2354,19 @@
         0,
         0,
         0,
-        13147,
+        0,
+        19189,
+        0,
         1,
-        2,
-        2
+        5
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 9. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 4,
-      "invalid": 13148
+      "valid": 6,
+      "invalid": 19189
     }
   },
   {
@@ -2533,6 +2375,7 @@
     "label": "Sex 10th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2543,26 +2386,29 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "Male",
+        "Female"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "maennlich",
+        "weiblich"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2577,338 +2423,19 @@
         0,
         0,
         0,
-        13142,
+        0,
+        19193,
+        0,
         1,
-        7,
-        2
+        1
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht 10. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 9,
-      "invalid": 13143
-    }
-  },
-  {
-    "name": "kidsex11",
-    "dataset": "biobirth",
-    "label": "Sex 11th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht 11. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidsex12",
-    "dataset": "biobirth",
-    "label": "Sex 12th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht 12. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidsex13",
-    "dataset": "biobirth",
-    "label": "Sex 13th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht 13. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidsex14",
-    "dataset": "biobirth",
-    "label": "Sex 14th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht 14. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidsex15",
-    "dataset": "biobirth",
-    "label": "Sex 15th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] Male",
-        "[2] Female"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geschlecht 15. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
+      "valid": 2,
+      "invalid": 19193
     }
   },
   {
@@ -2917,6 +2444,7 @@
     "label": "Month Of Birth 1st. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -2937,46 +2465,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3001,28 +2532,29 @@
         0,
         0,
         0,
-        4532,
-        2001,
-        575,
-        553,
-        542,
-        554,
-        535,
-        521,
-        568,
-        552,
-        594,
-        595,
-        492,
-        538
+        0,
+        10855,
+        4450,
+        322,
+        319,
+        340,
+        302,
+        328,
+        264,
+        349,
+        346,
+        340,
+        395,
+        288,
+        297
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 1. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 6619,
-      "invalid": 6533
+      "valid": 3890,
+      "invalid": 15305
     }
   },
   {
@@ -3031,6 +2563,7 @@
     "label": "Month Of Birth 2nd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3051,46 +2584,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3115,28 +2651,29 @@
         0,
         0,
         0,
-        7210,
-        1328,
-        348,
-        381,
-        375,
-        413,
-        422,
-        411,
-        412,
-        418,
-        400,
-        344,
-        336,
-        354
+        0,
+        13781,
+        2827,
+        172,
+        219,
+        192,
+        229,
+        215,
+        241,
+        237,
+        246,
+        248,
+        210,
+        176,
+        202
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 2. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 4614,
-      "invalid": 8538
+      "valid": 2587,
+      "invalid": 16608
     }
   },
   {
@@ -3145,6 +2682,7 @@
     "label": "Month Of Birth 3rd. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3165,46 +2703,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3229,28 +2770,29 @@
         0,
         0,
         0,
-        11025,
-        459,
-        132,
-        108,
-        158,
-        138,
-        158,
-        135,
-        182,
-        169,
-        139,
-        124,
-        99,
-        126
+        0,
+        17435,
+        846,
+        69,
+        60,
+        95,
+        74,
+        95,
+        73,
+        85,
+        70,
+        86,
+        80,
+        53,
+        74
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 3. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 1668,
-      "invalid": 11484
+      "valid": 914,
+      "invalid": 18281
     }
   },
   {
@@ -3259,6 +2801,7 @@
     "label": "Month Of Birth 4th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3279,46 +2822,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3343,28 +2889,29 @@
         0,
         0,
         0,
-        12495,
-        134,
-        46,
-        57,
-        40,
-        44,
-        30,
-        40,
-        40,
-        53,
-        38,
-        54,
-        51,
-        30
+        0,
+        18677,
+        268,
+        19,
+        32,
+        19,
+        18,
+        16,
+        21,
+        18,
+        25,
+        20,
+        28,
+        24,
+        10
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 4. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 523,
-      "invalid": 12629
+      "valid": 250,
+      "invalid": 18945
     }
   },
   {
@@ -3373,6 +2920,7 @@
     "label": "Month Of Birth 5th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3393,46 +2941,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3457,28 +3008,29 @@
         0,
         0,
         0,
-        12943,
-        41,
-        13,
-        11,
-        30,
-        22,
-        11,
-        15,
-        18,
-        15,
+        0,
+        19034,
+        85,
         8,
+        2,
+        10,
+        5,
+        2,
+        10,
         9,
-        8,
-        8
+        13,
+        3,
+        7,
+        0,
+        7
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 5. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 168,
-      "invalid": 12984
+      "valid": 76,
+      "invalid": 19119
     }
   },
   {
@@ -3487,6 +3039,7 @@
     "label": "Month Of Birth 6th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3507,46 +3060,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3571,28 +3127,29 @@
         0,
         0,
         0,
-        13081,
-        17,
+        0,
+        19142,
+        34,
         4,
-        7,
+        1,
+        2,
         3,
-        4,
-        5,
-        8,
-        4,
-        8,
         1,
         3,
-        4,
-        3
+        0,
+        1,
+        1,
+        0,
+        3,
+        0
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 6. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 54,
-      "invalid": 13098
+      "valid": 19,
+      "invalid": 19176
     }
   },
   {
@@ -3601,6 +3158,7 @@
     "label": "Month Of Birth 7th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3621,46 +3179,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3685,19 +3246,20 @@
         0,
         0,
         0,
-        13122,
-        6,
-        4,
-        1,
-        2,
-        2,
-        4,
+        0,
+        19180,
+        11,
         2,
         1,
-        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        2,
-        1,
+        0,
         0
       ]
     },
@@ -3705,8 +3267,8 @@
     "label_de": "Geburtsmonat 7. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 24,
-      "invalid": 13128
+      "valid": 4,
+      "invalid": 19191
     }
   },
   {
@@ -3715,6 +3277,7 @@
     "label": "Month Of Birth 8th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3735,46 +3298,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3799,19 +3365,20 @@
         0,
         0,
         0,
-        13136,
-        5,
-        1,
         0,
-        2,
+        19189,
+        6,
         0,
-        1,
-        2,
         0,
-        2,
         0,
-        1,
-        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0
       ]
     },
@@ -3819,8 +3386,8 @@
     "label_de": "Geburtsmonat 8. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 11,
-      "invalid": 13141
+      "valid": 0,
+      "invalid": 19195
     }
   },
   {
@@ -3829,6 +3396,7 @@
     "label": "Month Of Birth 9th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3849,46 +3417,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3913,15 +3484,16 @@
         0,
         0,
         0,
-        13147,
-        2,
-        1,
         0,
-        1,
+        19190,
+        5,
         0,
         0,
         0,
-        1,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -3933,8 +3505,8 @@
     "label_de": "Geburtsmonat 9. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 3,
-      "invalid": 13149
+      "valid": 0,
+      "invalid": 19195
     }
   },
   {
@@ -3943,6 +3515,7 @@
     "label": "Month Of Birth 10th. Child",
     "categories": {
       "values": [
+        -7,
         -6,
         -5,
         -4,
@@ -3963,46 +3536,49 @@
         12
       ],
       "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
+        "Only available in less restricted edition",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissible multiple response",
+        "Answer improbable",
+        "Does not apply",
+        "No Answer",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
       ],
       "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe",
+        "Januar",
+        "Februar",
+        "Maerz",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4027,598 +3603,29 @@
         0,
         0,
         0,
-        13142,
-        1,
-        1,
         0,
-        0,
-        0,
+        19194,
         1,
         0,
         0,
-        2,
-        2,
-        1,
         0,
-        2
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat 10. Kind",
     "study": "soep-is",
     "statistics": {
-      "valid": 9,
-      "invalid": 13143
-    }
-  },
-  {
-    "name": "kidmon11",
-    "dataset": "biobirth",
-    "label": "Month Of Birth 11th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geburtsmonat 11. Kind",
-    "study": "soep-is",
-    "statistics": {
       "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidmon12",
-    "dataset": "biobirth",
-    "label": "Month Of Birth 12th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geburtsmonat 12. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidmon13",
-    "dataset": "biobirth",
-    "label": "Month Of Birth 13th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geburtsmonat 13. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidmon14",
-    "dataset": "biobirth",
-    "label": "Month Of Birth 14th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geburtsmonat 14. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
-    }
-  },
-  {
-    "name": "kidmon15",
-    "dataset": "biobirth",
-    "label": "Month Of Birth 15th. Child",
-    "categories": {
-      "values": [
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "labels": [
-        "[-6] Questionnaire version with modified filtering",
-        "[-5] Not contained in questionnaire",
-        "[-4] Inadmissible multiple answer",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[1] January",
-        "[2] February",
-        "[3] March",
-        "[4] April",
-        "[5] May",
-        "[6] June",
-        "[7] July",
-        "[8] August",
-        "[9] September",
-        "[10] October",
-        "[11] November",
-        "[12] December"
-      ],
-      "labels_de": [
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[1] Januar",
-        "[2] Februar",
-        "[3] März",
-        "[4] April",
-        "[5] Mai",
-        "[6] Juni",
-        "[7] Juli",
-        "[8] August",
-        "[9] September",
-        "[10] Oktober",
-        "[11] November",
-        "[12] Dezember"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        0,
-        0,
-        0,
-        0,
-        13152,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Geburtsmonat 15. Kind",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 0,
-      "invalid": 13152
+      "invalid": 19195
     }
   }
 ]

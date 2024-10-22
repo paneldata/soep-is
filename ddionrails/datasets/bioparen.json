@@ -4,10 +4,46 @@
     "dataset": "bioparen",
     "label": "Original Household Number",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Ursprungshaushaltsnummer",
@@ -28,10 +64,46 @@
     "dataset": "bioparen",
     "label": "Never Changing Person ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Unveränderliche Personennummer",
@@ -52,10 +124,46 @@
     "dataset": "bioparen",
     "label": "Year Of Biography Survey",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Jahr der Biographieerhebung",
@@ -77,6 +185,8 @@
     "label": "Person Number Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -85,11 +195,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -98,9 +210,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -129,6 +245,8 @@
     "label": "Person Number Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -137,11 +255,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -150,9 +270,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -181,26 +305,66 @@
     "label": "Form Of Biography Questionnaire",
     "categories": {
       "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
         0,
         1,
         2
       ],
       "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
         "[0] Participation before 2001",
         "[1] Biography Questionnaire",
         "[2] Youth Questionnaire"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
         "[0] Teilnahme vor 2001",
         "[1] Biographie Fragebogen (Lela)",
         "[2] Jugendfragebogen"
       ],
       "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         772,
         9723,
         2000
@@ -219,10 +383,46 @@
     "dataset": "bioparen",
     "label": "Age",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8
+      ]
     },
     "scale": "number",
     "label_de": "Alter der Befragungspersonen",
@@ -244,6 +444,8 @@
     "label": "Age Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -252,11 +454,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -265,9 +469,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -296,6 +504,8 @@
     "label": "Age Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -304,11 +514,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -317,9 +529,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -348,6 +564,8 @@
     "label": "Year Of Birth Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -356,11 +574,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -369,9 +589,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         8671,
         0,
@@ -400,6 +624,8 @@
     "label": "Year Of Birth Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -408,11 +634,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -421,9 +649,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         8456,
         0,
@@ -452,6 +684,8 @@
     "label": "Year Of Death Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -460,11 +694,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -473,9 +709,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9164,
         0,
@@ -504,6 +744,8 @@
     "label": "Year Of Death Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -512,11 +754,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -525,9 +769,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9121,
         0,
@@ -556,6 +804,8 @@
     "label": "Level Of Education Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -572,11 +822,13 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know",
         "[1] Secondary School Degree",
@@ -588,9 +840,11 @@
         "[7] School Not Attended"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -610,6 +864,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -620,6 +876,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -650,6 +908,8 @@
     "label": "Level Of Education Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -666,11 +926,13 @@
         7
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know",
         "[1] Secondary School Degree",
@@ -682,9 +944,11 @@
         "[7] School Not Attended"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -704,6 +968,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -714,6 +980,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -744,6 +1012,8 @@
     "label": "Origin SBIL Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -755,20 +1025,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -783,11 +1057,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -813,6 +1091,8 @@
     "label": "Origin SBIL Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -824,20 +1104,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -852,11 +1136,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -882,6 +1170,8 @@
     "label": "Vocational Training Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -907,11 +1197,13 @@
         51
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know",
         "[10] No Vocational Degree",
@@ -932,9 +1224,11 @@
         "[51] Currently in Schooling"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -963,6 +1257,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -982,6 +1278,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1021,6 +1319,8 @@
     "label": "Vocational Training Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1046,11 +1346,13 @@
         51
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know",
         "[10] No Vocational Degree",
@@ -1071,9 +1373,11 @@
         "[51] Currently in Schooling"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1102,6 +1406,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -1121,6 +1427,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1160,6 +1468,8 @@
     "label": "Origin BBIL Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1171,20 +1481,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1199,11 +1513,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1229,6 +1547,8 @@
     "label": "Origin BBIL Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1240,20 +1560,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1268,11 +1592,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1298,6 +1626,8 @@
     "label": "Nationality of Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1308,19 +1638,23 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Germany",
         "[2] Other"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1334,10 +1668,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1362,6 +1700,8 @@
     "label": "Nationality of Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1372,19 +1712,23 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Germany",
         "[2] Other"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -1398,10 +1742,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        643,
+        0,
         0,
         0,
         0,
@@ -1426,6 +1774,8 @@
     "label": "Country of Origin, Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -1616,11 +1966,13 @@
         333
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Germany",
         "[2] Turkey",
@@ -1806,9 +2158,11 @@
         "[333] Other, not specified foreign country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2002,6 +2356,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -2186,6 +2542,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -2390,6 +2748,8 @@
     "label": "Country of Origin, Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -2579,11 +2939,13 @@
         333
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Germany",
         "[2] Turkey",
@@ -2768,9 +3130,11 @@
         "[333] Other, not specified foreign country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -2963,6 +3327,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3146,6 +3512,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -3349,6 +3717,8 @@
     "label": "Religion Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3364,11 +3734,13 @@
         6
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know - Proxy",
         "[1] Catholic",
@@ -3379,9 +3751,11 @@
         "[6] No Denomination"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3400,6 +3774,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3409,6 +3785,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -3438,6 +3816,8 @@
     "label": "Religion Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3453,11 +3833,13 @@
         6
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know - Proxy",
         "[1] Catholic",
@@ -3468,9 +3850,11 @@
         "[6] No Denomination"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3489,6 +3873,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3498,6 +3884,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -3527,6 +3915,8 @@
     "label": "Job Position Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3583,11 +3973,13 @@
         640
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] do not know",
         "[1] Has Died",
@@ -3639,9 +4031,11 @@
         "[640] Executive Civil Service"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3701,6 +4095,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -3751,6 +4147,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -3821,6 +4219,8 @@
     "label": "Job Position Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -3878,11 +4278,13 @@
         640
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] do not know",
         "[1] Has Died",
@@ -3935,9 +4337,11 @@
         "[640] Executive Civil Service"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -3998,6 +4402,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -4049,6 +4455,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -4120,6 +4528,8 @@
     "label": "Origin VBSTELL Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -4131,20 +4541,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4159,11 +4573,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -4189,6 +4607,8 @@
     "label": "Origin VBSTELL Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -4200,20 +4620,24 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Do Not Know-Proxy",
         "[1] Biography-Proxy",
         "[2] -Individual Info"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -4228,11 +4652,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -4259,6 +4687,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -6552,12 +6981,13 @@
         9971
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[110] Landwirt(e/innen), allgemein",
         "[111] Obst- und Gemüsebauern/-bäuerinnen (nicht Gärtner/innen)",
@@ -8846,10 +9276,11 @@
         "[9971] Sonstige Arbeitskräfte o.n.T."
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -11147,6 +11578,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -13434,6 +13866,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         1427,
@@ -15743,6 +16176,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -18036,12 +18470,13 @@
         9971
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[110] Landwirt(e/innen), allgemein",
         "[111] Obst- und Gemüsebauern/-bäuerinnen (nicht Gärtner/innen)",
@@ -20330,10 +20765,11 @@
         "[9971] Sonstige Arbeitskräfte o.n.T."
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -22631,6 +23067,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -24918,6 +25355,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         1427,
@@ -27227,6 +27665,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -28521,12 +28960,13 @@
         94794
       ],
       "labels": [
-        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1104] Offiziere",
         "[1203] Unteroffiziere mit Portepee",
@@ -29816,10 +30256,11 @@
         "[94794] Führung - Museum"
       ],
       "labels_de": [
-        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -31118,6 +31559,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -32406,6 +32848,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         9339,
@@ -33716,6 +34159,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -35010,12 +35454,13 @@
         94794
       ],
       "labels": [
-        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1104] Offiziere",
         "[1203] Unteroffiziere mit Portepee",
@@ -36305,10 +36750,11 @@
         "[94794] Führung - Museum"
       ],
       "labels_de": [
-        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -37607,6 +38053,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -38895,6 +39342,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         9339,
@@ -40205,6 +40653,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -40705,12 +41154,13 @@
         9330
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Soldiers",
         "[100] Soldiers",
@@ -41206,10 +41656,11 @@
         "[9330] Transport Lab., Freight Handler"
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -41714,6 +42165,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -42208,6 +42660,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         1427,
@@ -42724,6 +43177,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -43224,12 +43678,13 @@
         9330
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Soldiers",
         "[100] Soldiers",
@@ -43725,10 +44180,11 @@
         "[9330] Transport Lab., Freight Handler"
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -44233,6 +44689,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -44727,6 +45184,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         3063,
@@ -45242,6 +45700,8 @@
     "label": "FATHER: Current Occupational Classification (ISCO-08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -45840,11 +46300,13 @@
         9629
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Armed Forces Occupations",
         "[100] Commissioned Armed Forces Officers",
@@ -46044,8 +46506,8 @@
         "[3142] Agricultural Technicians",
         "[3143] Forestry Technicians",
         "[3150] Ship and Aircraft Controllers and Technicians",
-        "[3151] Shipsâ Engineers",
-        "[3152] Shipsâ Deck Officers and Pilots",
+        "[3151] Shipsâ€™ Engineers",
+        "[3152] Shipsâ€™ Deck Officers and Pilots",
         "[3153] Aircraft Pilots and Related Associate Professionals",
         "[3154] Air Traffic Controllers",
         "[3155] Air Traffic Safety Electronics Technicians",
@@ -46206,9 +46668,9 @@
         "[5246] Food Service Counter Attendants",
         "[5249] Sales Workers Not Elsewhere Classified",
         "[5300] Personal Care Workers",
-        "[5310] Child Care Workers and Teachersâ Aides",
+        "[5310] Child Care Workers and Teachersâ€™ Aides",
         "[5311] Child Care Workers",
-        "[5312] Teachersâ Aides",
+        "[5312] Teachersâ€™ Aides",
         "[5320] Personal Care Workers in Health Services",
         "[5321] Health Care Assistants",
         "[5322] Home-based Personal Care Workers",
@@ -46386,7 +46848,7 @@
         "[8342] Earthmoving and Related Plant Operators",
         "[8343] Crane, Hoist and Related Plant Operators",
         "[8344] Lifting Truck Operators",
-        "[8350] Shipsâ Deck Crews and Related Workers",
+        "[8350] Shipsâ€™ Deck Crews and Related Workers",
         "[9000] Elementary Occupations",
         "[9100] Cleaners and Helpers",
         "[9110] Domestic, Hotel and Office Cleaners and Helpers",
@@ -46438,9 +46900,11 @@
         "[9629] Elementary Workers Not Elsewhere Classified"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -46642,8 +47106,8 @@
         "[3142] Agricultural Technicians",
         "[3143] Forestry Technicians",
         "[3150] Ship and Aircraft Controllers and Technicians",
-        "[3151] Shipsâ Engineers",
-        "[3152] Shipsâ Deck Officers and Pilots",
+        "[3151] Shipsâ€™ Engineers",
+        "[3152] Shipsâ€™ Deck Officers and Pilots",
         "[3153] Aircraft Pilots and Related Associate Professionals",
         "[3154] Air Traffic Controllers",
         "[3155] Air Traffic Safety Electronics Technicians",
@@ -46804,9 +47268,9 @@
         "[5246] Food Service Counter Attendants",
         "[5249] Sales Workers Not Elsewhere Classified",
         "[5300] Personal Care Workers",
-        "[5310] Child Care Workers and Teachersâ Aides",
+        "[5310] Child Care Workers and Teachersâ€™ Aides",
         "[5311] Child Care Workers",
-        "[5312] Teachersâ Aides",
+        "[5312] Teachersâ€™ Aides",
         "[5320] Personal Care Workers in Health Services",
         "[5321] Health Care Assistants",
         "[5322] Home-based Personal Care Workers",
@@ -46984,7 +47448,7 @@
         "[8342] Earthmoving and Related Plant Operators",
         "[8343] Crane, Hoist and Related Plant Operators",
         "[8344] Lifting Truck Operators",
-        "[8350] Shipsâ Deck Crews and Related Workers",
+        "[8350] Shipsâ€™ Deck Crews and Related Workers",
         "[9000] Elementary Occupations",
         "[9100] Cleaners and Helpers",
         "[9110] Domestic, Hotel and Office Cleaners and Helpers",
@@ -47036,6 +47500,8 @@
         "[9629] Elementary Workers Not Elsewhere Classified"
       ],
       "missings": [
+        true,
+        true,
         true,
         true,
         true,
@@ -47634,6 +48100,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -48246,6 +48714,8 @@
     "label": "MOTHER: Current Occupational Classification (ISCO-08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -48844,11 +49314,13 @@
         9629
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Armed Forces Occupations",
         "[100] Commissioned Armed Forces Officers",
@@ -49048,8 +49520,8 @@
         "[3142] Agricultural Technicians",
         "[3143] Forestry Technicians",
         "[3150] Ship and Aircraft Controllers and Technicians",
-        "[3151] Shipsâ Engineers",
-        "[3152] Shipsâ Deck Officers and Pilots",
+        "[3151] Shipsâ€™ Engineers",
+        "[3152] Shipsâ€™ Deck Officers and Pilots",
         "[3153] Aircraft Pilots and Related Associate Professionals",
         "[3154] Air Traffic Controllers",
         "[3155] Air Traffic Safety Electronics Technicians",
@@ -49210,9 +49682,9 @@
         "[5246] Food Service Counter Attendants",
         "[5249] Sales Workers Not Elsewhere Classified",
         "[5300] Personal Care Workers",
-        "[5310] Child Care Workers and Teachersâ Aides",
+        "[5310] Child Care Workers and Teachersâ€™ Aides",
         "[5311] Child Care Workers",
-        "[5312] Teachersâ Aides",
+        "[5312] Teachersâ€™ Aides",
         "[5320] Personal Care Workers in Health Services",
         "[5321] Health Care Assistants",
         "[5322] Home-based Personal Care Workers",
@@ -49390,7 +49862,7 @@
         "[8342] Earthmoving and Related Plant Operators",
         "[8343] Crane, Hoist and Related Plant Operators",
         "[8344] Lifting Truck Operators",
-        "[8350] Shipsâ Deck Crews and Related Workers",
+        "[8350] Shipsâ€™ Deck Crews and Related Workers",
         "[9000] Elementary Occupations",
         "[9100] Cleaners and Helpers",
         "[9110] Domestic, Hotel and Office Cleaners and Helpers",
@@ -49442,9 +49914,11 @@
         "[9629] Elementary Workers Not Elsewhere Classified"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -49646,8 +50120,8 @@
         "[3142] Agricultural Technicians",
         "[3143] Forestry Technicians",
         "[3150] Ship and Aircraft Controllers and Technicians",
-        "[3151] Shipsâ Engineers",
-        "[3152] Shipsâ Deck Officers and Pilots",
+        "[3151] Shipsâ€™ Engineers",
+        "[3152] Shipsâ€™ Deck Officers and Pilots",
         "[3153] Aircraft Pilots and Related Associate Professionals",
         "[3154] Air Traffic Controllers",
         "[3155] Air Traffic Safety Electronics Technicians",
@@ -49808,9 +50282,9 @@
         "[5246] Food Service Counter Attendants",
         "[5249] Sales Workers Not Elsewhere Classified",
         "[5300] Personal Care Workers",
-        "[5310] Child Care Workers and Teachersâ Aides",
+        "[5310] Child Care Workers and Teachersâ€™ Aides",
         "[5311] Child Care Workers",
-        "[5312] Teachersâ Aides",
+        "[5312] Teachersâ€™ Aides",
         "[5320] Personal Care Workers in Health Services",
         "[5321] Health Care Assistants",
         "[5322] Home-based Personal Care Workers",
@@ -49988,7 +50462,7 @@
         "[8342] Earthmoving and Related Plant Operators",
         "[8343] Crane, Hoist and Related Plant Operators",
         "[8344] Lifting Truck Operators",
-        "[8350] Shipsâ Deck Crews and Related Workers",
+        "[8350] Shipsâ€™ Deck Crews and Related Workers",
         "[9000] Elementary Occupations",
         "[9100] Cleaners and Helpers",
         "[9110] Domestic, Hotel and Office Cleaners and Helpers",
@@ -50040,6 +50514,8 @@
         "[9629] Elementary Workers Not Elsewhere Classified"
       ],
       "missings": [
+        true,
+        true,
         true,
         true,
         true,
@@ -50638,6 +51114,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51250,6 +51728,8 @@
     "label": "FATHER: Magnitude Prestige Scale (based on KldB92)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51258,11 +51738,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51271,9 +51753,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1427,
         0,
@@ -51302,6 +51788,8 @@
     "label": "MOTHER: Magnitude Prestige Scale (based on KldB92)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51310,11 +51798,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51323,9 +51813,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         3068,
         0,
@@ -51354,6 +51848,8 @@
     "label": "FATHER: Magnitude Prestige Scale (based on IS88 recoded from IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51362,11 +51858,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51375,9 +51873,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51406,6 +51908,8 @@
     "label": "MOTHER: Magnitude Prestige Scale (based on IS88 recoded from IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51414,11 +51918,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51427,9 +51933,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51458,6 +51968,8 @@
     "label": "FATHER: TREIMANS STANDARD INT.OCC.PR.SCORE (based on IS88)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51466,11 +51978,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51479,9 +51993,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1427,
         0,
@@ -51510,6 +52028,8 @@
     "label": "MOTHER: TREIMANS STANDARD INT.OCC.PR.SCORE (based on IS88)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51518,11 +52038,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51531,9 +52053,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         3063,
         0,
@@ -51562,6 +52088,8 @@
     "label": "FATHER: TREIMANS STANDARD INT.OCC.PR.SCORE (based on IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51570,11 +52098,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51583,9 +52113,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51614,6 +52148,8 @@
     "label": "MOTHER: TREIMANS STANDARD INT.OCC.PR.SCORE (based on IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51622,11 +52158,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51635,9 +52173,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51666,6 +52208,8 @@
     "label": "FATHER: ISEI-Status following Ganzeboom (based on IS88)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51674,11 +52218,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51687,9 +52233,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1427,
         0,
@@ -51718,6 +52268,8 @@
     "label": "MOTHER: ISEI-Status following Ganzeboom (based on IS88)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51726,11 +52278,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51739,9 +52293,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         3063,
         0,
@@ -51770,6 +52328,8 @@
     "label": "FATHER: ISEI-Status following Ganzeboom (based on IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51778,11 +52338,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51791,9 +52353,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51822,6 +52388,8 @@
     "label": "MOTHER: ISEI-Status following Ganzeboom (based on IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51830,11 +52398,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -51843,9 +52413,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -51875,6 +52449,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -51894,12 +52469,13 @@
         11
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] [I] Higher Managerial and Professional Workers",
         "[2] [II] Lower Managerial and Professional Workers",
@@ -51914,10 +52490,11 @@
         "[11] [IVc] Self-Employed Farmers"
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -51941,6 +52518,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -51954,6 +52532,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         1427,
@@ -51989,6 +52568,7 @@
     "categories": {
       "values": [
         -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52008,12 +52588,13 @@
         11
       ],
       "labels": [
-        "[-8] Question this year not part of Survey program",
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] [I] Higher Managerial and Professional Workers",
         "[2] [II] Lower Managerial and Professional Workers",
@@ -52028,10 +52609,11 @@
         "[11] [IVc] Self-Employed Farmers"
       ],
       "labels_de": [
-        "[-8] nicht im Frageprogramm des Jahres enthalten",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52055,6 +52637,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -52068,6 +52651,7 @@
         false
       ],
       "frequencies": [
+        0,
         0,
         0,
         1427,
@@ -52102,6 +52686,8 @@
     "label": "FATHER: ERIKSON and GOLDTHORPE Class Category (based on IS88 recoded from IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52121,11 +52707,13 @@
         11
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] [I] Higher Controllers",
         "[2] [II] Lower Controllers",
@@ -52140,9 +52728,11 @@
         "[11] [IVc] Selfempl Farmer"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52165,6 +52755,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -52178,6 +52770,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -52211,6 +52805,8 @@
     "label": "MOTHER: ERIKSON and GOLDTHORPE Class Category (based on IS88 recoded from IS08)",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52230,11 +52826,13 @@
         11
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] [I] Higher Controllers",
         "[2] [II] Lower Controllers",
@@ -52249,9 +52847,11 @@
         "[11] [IVc] Selfempl Farmer"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52274,6 +52874,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -52287,6 +52889,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9339,
         0,
@@ -52320,6 +52924,8 @@
     "label": "Place Raised To Age 15",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52332,11 +52938,13 @@
         4
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Large City",
         "[2] Medium City",
@@ -52344,9 +52952,11 @@
         "[4] Countryside"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52362,12 +52972,16 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -52394,6 +53008,8 @@
     "label": "Still Lives In Town Where Raised",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52405,20 +53021,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, Still",
         "[2] Yes, Again",
         "[3] No"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52433,11 +53053,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -52463,6 +53087,8 @@
     "label": "No. Of  Years Living With Bio. Parents",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52471,11 +53097,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52484,9 +53112,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52515,6 +53147,8 @@
     "label": "No. Of  Years Living With Single Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52523,11 +53157,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52536,9 +53172,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52567,6 +53207,8 @@
     "label": "No. Of  Years Living With Single Mother And Partner",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52575,11 +53217,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52588,9 +53232,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52619,6 +53267,8 @@
     "label": "No. Of  Years Living With Single Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52627,11 +53277,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52640,9 +53292,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52671,6 +53327,8 @@
     "label": "No. Of  Years Living With Single Father And Partner",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52679,11 +53337,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52692,9 +53352,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52723,6 +53387,8 @@
     "label": "No. Of  Years Living With Other Relatives",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52731,11 +53397,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52744,9 +53412,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52775,6 +53447,8 @@
     "label": "No. Of  Years Living With Foster Parents",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52783,11 +53457,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52796,9 +53472,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52827,6 +53507,8 @@
     "label": "No. Of  Years Living In Home",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52835,11 +53517,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -52848,9 +53532,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         1618,
         0,
@@ -52879,6 +53567,8 @@
     "label": "Argue Or Fight With Father When Respondent 15",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52893,11 +53583,13 @@
         6
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Very Often",
         "[2] Often",
@@ -52907,9 +53599,11 @@
         "[6] Person Not Present"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -52927,6 +53621,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -52935,6 +53631,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -52963,6 +53661,8 @@
     "label": "Argue Or Fight With Mother When Respondent 15",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -52977,11 +53677,13 @@
         6
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Very Often",
         "[2] Often",
@@ -52991,9 +53693,11 @@
         "[6] Person Not Present"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53011,6 +53715,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53019,6 +53725,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         9582,
         0,
@@ -53047,6 +53755,8 @@
     "label": "Current residence of Father",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53066,11 +53776,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53085,9 +53797,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53110,6 +53824,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53123,6 +53839,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53156,6 +53874,8 @@
     "label": "Year of Update of VAORTAKT",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53164,11 +53884,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -53177,9 +53899,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         5354,
         0,
@@ -53208,6 +53934,8 @@
     "label": "Current residence of Mother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53227,11 +53955,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53246,9 +53976,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53271,6 +54003,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53284,6 +54018,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53317,6 +54053,8 @@
     "label": "Year of Update of MAORTAKT",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53325,11 +54063,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -53338,9 +54078,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         5202,
         0,
@@ -53369,6 +54113,8 @@
     "label": "Place Of Residence Father 91",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53388,11 +54134,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53407,9 +54155,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53432,6 +54182,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53445,6 +54197,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53478,6 +54232,8 @@
     "label": "Place Of Residence Mother 91",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53497,11 +54253,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53516,9 +54274,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53541,6 +54301,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53554,6 +54316,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53587,6 +54351,8 @@
     "label": "Place Of Residence Father 96",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53606,11 +54372,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53625,9 +54393,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53650,6 +54420,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53663,6 +54435,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53696,6 +54470,8 @@
     "label": "Place Of Residence Mother 96",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53715,11 +54491,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53734,9 +54512,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53759,6 +54539,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53772,6 +54554,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53805,6 +54589,8 @@
     "label": "Place Of Residence Father 01",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53824,11 +54610,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53843,9 +54631,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53868,6 +54658,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53881,6 +54673,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -53914,6 +54708,8 @@
     "label": "Place Of Residence Mother 01",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -53933,11 +54729,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -53952,9 +54750,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -53977,6 +54777,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -53990,6 +54792,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54023,6 +54827,8 @@
     "label": "Residence Of Father 2006",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54042,11 +54848,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54061,9 +54869,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54086,6 +54896,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54099,6 +54911,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54132,6 +54946,8 @@
     "label": "Residence Of Mother 2006",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54151,11 +54967,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54170,9 +54988,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54195,6 +55015,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54208,6 +55030,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54241,6 +55065,8 @@
     "label": "Residence Of Mother 2011",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54260,11 +55086,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54279,9 +55107,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54304,6 +55134,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54317,6 +55149,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54350,6 +55184,8 @@
     "label": "Residence Of Father 2011",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54369,11 +55205,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54388,9 +55226,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54413,6 +55253,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54426,6 +55268,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54459,6 +55303,8 @@
     "label": "Residence Of Mother 2016",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54478,11 +55324,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54497,9 +55345,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54522,6 +55372,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54535,6 +55387,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         5447,
         0,
@@ -54568,6 +55422,8 @@
     "label": "Residence Of Father 2016",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54587,11 +55443,13 @@
         10
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Has Died",
         "[1] Lives In Same HH",
@@ -54606,9 +55464,11 @@
         "[10] Lives Foreign Country"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54631,6 +55491,8 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false,
@@ -54644,6 +55506,8 @@
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         5264,
         0,
@@ -54677,6 +55541,8 @@
     "label": "Siblings yes/no",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54687,19 +55553,23 @@
         2
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54713,10 +55583,14 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54741,6 +55615,8 @@
     "label": "Number of sisters",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54749,11 +55625,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -54762,9 +55640,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54780,7 +55662,7 @@
       "Min.": 0.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.4383528232574463,
+      "Mean": 1.4383528265107213,
       "3rd Qu.": 2.0,
       "Max.": 16.0,
       "valid": 8208,
@@ -54793,6 +55675,8 @@
     "label": "Number of brothers",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54801,11 +55685,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -54814,9 +55700,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54832,7 +55722,7 @@
       "Min.": 0.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.4661582708358765,
+      "Mean": 1.4661582459485225,
       "3rd Qu.": 2.0,
       "Max.": 11.0,
       "valid": 8392,
@@ -54845,6 +55735,8 @@
     "label": "Twin sister/brother",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54856,20 +55748,24 @@
         3
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
         "[1] Yes, monozygotic",
         "[2] Yes, dizygotic",
         "[3] No"
       ],
       "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
         "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] nicht im Fragebogen enthalten",
-        "[-4] unzulässige Mehrfachantwort",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
@@ -54884,11 +55780,15 @@
         true,
         true,
         true,
+        true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,
@@ -54914,6 +55814,8 @@
     "label": "Time of update - siblings",
     "categories": {
       "values": [
+        -8,
+        -7,
         -6,
         -5,
         -4,
@@ -54922,11 +55824,13 @@
         -1
       ],
       "labels": [
-        "[-6] Questionnaire Version With Modified Filtering",
-        "[-5] Not Contained In Questionnaire",
-        "[-4] Inadmissible Multiple Answer",
-        "[-3] Answer Improbable",
-        "[-2] Does Not Apply",
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer"
       ],
       "missings": [
@@ -54935,9 +55839,13 @@
         true,
         true,
         true,
+        true,
+        true,
         true
       ],
       "frequencies": [
+        0,
+        0,
         0,
         0,
         0,

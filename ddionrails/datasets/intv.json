@@ -49,13 +49,13 @@
     "label_de": "Interviewer ID",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1001012.0,
-      "1st Qu.": 1002199.0,
-      "Median": 1003447.0,
-      "Mean": 1003427.4909426987,
-      "3rd Qu.": 1004623.0,
-      "Max.": 1009216.0,
-      "valid": 5410,
+      "Min.": 1.0,
+      "1st Qu.": 1002080.5,
+      "Median": 1003459.0,
+      "Mean": 899104.2485722874,
+      "3rd Qu.": 1004904.0,
+      "Max.": 1006100.0,
+      "valid": 3327,
       "invalid": 0
     }
   },
@@ -109,18 +109,18 @@
     "label_de": "Befragungsjahr",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1998.0,
-      "1st Qu.": 2009.0,
-      "Median": 2013.0,
-      "Mean": 2012.0242144177448,
-      "3rd Qu.": 2017.0,
-      "Max.": 2021.0,
-      "valid": 5410,
+      "Min.": 2011.0,
+      "1st Qu.": 2014.0,
+      "Median": 2016.0,
+      "Mean": 2016.2161106101594,
+      "3rd Qu.": 2019.0,
+      "Max.": 2022.0,
+      "valid": 3327,
       "invalid": 0
     }
   },
   {
-    "name": "eintritt",
+    "name": "eintritt_is",
     "dataset": "intv",
     "label": "Year Joined",
     "categories": {
@@ -169,10 +169,10 @@
         false
       ],
       "frequencies": [
-        2433,
+        348,
         0,
         0,
-        0,
+        2,
         0,
         0,
         0,
@@ -185,11 +185,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2977,
-      "invalid": 2433
+      "invalid": 350
     }
   },
   {
-    "name": "soepseit",
+    "name": "startint_c",
     "dataset": "intv",
     "label": "Year Started Working at SOEP",
     "categories": {
@@ -224,14 +224,14 @@
         true
       ],
       "frequencies": [
-        364,
         0,
         0,
         0,
+        2,
         0,
         0,
         0,
-        0
+        14
       ]
     },
     "scale": "number",
@@ -239,13 +239,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1984.0,
-      "1st Qu.": 1998.0,
-      "Median": 2006.0,
-      "Mean": 2003.0762980578677,
-      "3rd Qu.": 2011.0,
-      "Max.": 2020.0,
-      "valid": 5046,
-      "invalid": 364
+      "1st Qu.": 2006.0,
+      "Median": 2011.0,
+      "Mean": 2008.9948655995167,
+      "3rd Qu.": 2013.0,
+      "Max.": 2022.0,
+      "valid": 3311,
+      "invalid": 16
     }
   },
   {
@@ -287,13 +287,13 @@
         false
       ],
       "frequencies": [
-        3079,
+        348,
         0,
         0,
+        2,
         0,
         0,
-        0,
-        85,
+        784,
         0,
         2092
       ]
@@ -305,15 +305,15 @@
       "Min.": 0.0,
       "1st Qu.": 0.0,
       "Median": 0.0,
-      "Mean": 138.21905609973285,
+      "Mean": 92.85180118559052,
       "3rd Qu.": 0.0,
       "Max.": 2020.0,
-      "valid": 2246,
-      "invalid": 3164
+      "valid": 2193,
+      "invalid": 1134
     }
   },
   {
-    "name": "sex_intv",
+    "name": "gender",
     "dataset": "intv",
     "label": "Gender",
     "categories": {
@@ -366,28 +366,28 @@
         false
       ],
       "frequencies": [
-        364,
+        0,
+        0,
+        0,
+        2,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        141,
-        2744,
-        2161
+        1856,
+        1469
       ]
     },
     "scale": "cat",
     "label_de": "Geschlecht des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 4905,
-      "invalid": 505
+      "valid": 3325,
+      "invalid": 2
     }
   },
   {
-    "name": "gebjahr_intv",
+    "name": "birth",
     "dataset": "intv",
     "label": "Year of Birth",
     "categories": {
@@ -422,32 +422,32 @@
         true
       ],
       "frequencies": [
-        364,
         0,
         0,
         0,
+        2,
         0,
         0,
         0,
-        141
+        0
       ]
     },
     "scale": "number",
     "label_de": "Geburtsjahr des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1921.0,
-      "1st Qu.": 1942.0,
-      "Median": 1949.0,
-      "Mean": 1949.344750254842,
-      "3rd Qu.": 1955.0,
-      "Max.": 1994.0,
-      "valid": 4905,
-      "invalid": 505
+      "Min.": 1927.0,
+      "1st Qu.": 1946.0,
+      "Median": 1951.0,
+      "Mean": 1952.9843609022557,
+      "3rd Qu.": 1959.0,
+      "Max.": 2002.0,
+      "valid": 3325,
+      "invalid": 2
     }
   },
   {
-    "name": "famstand",
+    "name": "marital_c",
     "dataset": "intv",
     "label": "Marital Status",
     "categories": {
@@ -508,30 +508,30 @@
         false
       ],
       "frequencies": [
-        382,
+        348,
+        0,
+        0,
+        2,
         0,
         0,
         0,
         0,
         0,
-        119,
-        4,
-        0,
-        607,
-        3563,
-        735
+        392,
+        2162,
+        423
       ]
     },
     "scale": "cat",
     "label_de": "Familienstand des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 4905,
-      "invalid": 505
+      "valid": 2977,
+      "invalid": 350
     }
   },
   {
-    "name": "btaetig",
+    "name": "iberuf",
     "dataset": "intv",
     "label": "Employment Status",
     "categories": {
@@ -600,32 +600,32 @@
         false
       ],
       "frequencies": [
-        382,
         0,
         0,
         0,
+        2,
         0,
         0,
-        119,
-        4,
-        1293,
-        1173,
-        800,
-        1499,
-        79,
-        21
+        0,
+        15,
+        936,
+        868,
+        422,
+        948,
+        103,
+        33
       ]
     },
     "scale": "cat",
     "label_de": "Berufsstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 4905,
-      "invalid": 505
+      "valid": 3310,
+      "invalid": 17
     }
   },
   {
-    "name": "schule",
+    "name": "educ_c",
     "dataset": "intv",
     "label": "Education",
     "categories": {
@@ -690,31 +690,527 @@
         false
       ],
       "frequencies": [
-        382,
+        348,
+        0,
+        0,
+        2,
         0,
         0,
         0,
         0,
-        0,
-        119,
-        4,
-        805,
-        2055,
-        607,
-        563,
-        875
+        455,
+        1195,
+        372,
+        178,
+        777
       ]
     },
     "scale": "cat",
     "label_de": "Bildungsstand des Interviewers",
     "study": "soep-is",
     "statistics": {
-      "valid": 4905,
-      "invalid": 505
+      "valid": 2977,
+      "invalid": 350
     }
   },
   {
-    "name": "iverh5",
+    "name": "casmin",
+    "dataset": "intv",
+    "label": "Ausbildungsabschluss Casmin-Klassifikation",
+    "categories": {
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] (1a) Inadequately Completed",
+        "[2] (1b) General Elementary School",
+        "[3] (1c) Basic Vocational Qualification",
+        "[4] (2b) Intermediate General Qualification",
+        "[5] (2a) Intermediate Vocational",
+        "[6] (2c_gen) General Maturity Certificate",
+        "[7] (2c_voc) Vocational Maturity Certificate",
+        "[8] (3a) Lower Tertiary Education",
+        "[9] (3b) Higher Tertiary Education"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] (1a) Inadequately Completed",
+        "[2] (1b) General Elementary School",
+        "[3] (1c) Basic Vocational Qualification",
+        "[4] (2b) Intermediate General Qualification",
+        "[5] (2a) Intermediate Vocational",
+        "[6] (2c_gen) General Maturity Certificate",
+        "[7] (2c_voc) Vocational Maturity Certificate",
+        "[8] (3a) Lower Tertiary Education",
+        "[9] (3b) Higher Tertiary Education"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2979,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        2,
+        24,
+        7,
+        71,
+        24,
+        70,
+        43,
+        102
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Educational qualification Casmin classification",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 348,
+      "invalid": 2979
+    }
+  },
+  {
+    "name": "schule",
+    "dataset": "intv",
+    "label": "Schulabschluss",
+    "categories": {
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Special school leaving certificate",
+        "[2] Secondary school/elementary school certificate/POS",
+        "[3] Intermediate school leaving certificate",
+        "[4] Advanced technical college certificate",
+        "[5] Abitur",
+        "[6] Other school-leaving qualification",
+        "[7] No school leaving certificate (yet)"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Sonderschulabschluss",
+        "[2] Hauptschule/Volksschulabschluss/POS",
+        "[3] Mittlere Reife",
+        "[4] Fachhochschulreife",
+        "[5] Abitur",
+        "[6] Sonstiger Schulabschluss",
+        "[7] (noch) kein Schulabschluss"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2979,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        23,
+        86,
+        50,
+        180,
+        3,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "School-leaving qualification",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 343,
+      "invalid": 2984
+    }
+  },
+  {
+    "name": "soepbef",
+    "dataset": "intv",
+    "label": "Zuvor für SOEP gearbeitet",
+    "categories": {
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "frequencies": [
+        2979,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        38,
+        310
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Previously worked for SOEP",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 348,
+      "invalid": 2979
+    }
+  },
+  {
+    "name": "sprache",
+    "dataset": "intv",
+    "label": "Muttersprache",
+    "categories": {
+      "values": [
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        59
+      ],
+      "labels": [
+        "[-8] Question not part of the survey program this year",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] German",
+        "[2] Arabic",
+        "[3] Bulgarian",
+        "[4] Bosnian",
+        "[5] Czech",
+        "[6] Greek",
+        "[7] English",
+        "[8] Spanish",
+        "[9] Persian (Farsi)",
+        "[10] French",
+        "[11] Croatian",
+        "[12] Hungarian",
+        "[13] Italian",
+        "[14] Japanese",
+        "[15] Kurdish",
+        "[16] Luxembourgish",
+        "[17] Dutch",
+        "[18] Polish",
+        "[19] Portuguese",
+        "[20] Pashto",
+        "[21] Romanian",
+        "[22] Russian",
+        "[23] Slovakian",
+        "[24] Albanian",
+        "[25] Serbian",
+        "[26] Tigrinya",
+        "[27] Turkish",
+        "[28] Urdu",
+        "[29] Chinese",
+        "[59] Other languages"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Deutsch",
+        "[2] Arabisch",
+        "[3] Bulgarisch",
+        "[4] Bosnisch",
+        "[5] Tschechisch",
+        "[6] Griechisch",
+        "[7] Englisch",
+        "[8] Spanisch",
+        "[9] Persisch (Farsi)",
+        "[10] Französisch",
+        "[11] Kroatisch",
+        "[12] Ungarisch",
+        "[13] Italienisch",
+        "[14] Japanisch",
+        "[15] Kurdisch",
+        "[16] Luxemburgisch",
+        "[17] Niederländisch",
+        "[18] Polnisch",
+        "[19] Portugiesisch",
+        "[20] Paschtu",
+        "[21] Rumaenisch",
+        "[22] Russisch",
+        "[23] Slowakisch",
+        "[24] Albanisch",
+        "[25] Serbisch",
+        "[26] Tigrinya",
+        "[27] Türkisch",
+        "[28] Urdu",
+        "[29] Chinesisch",
+        "[59] Sonstige"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        2979,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        319,
+        0,
+        1,
+        0,
+        1,
+        0,
+        15,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Mother tongue",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 348,
+      "invalid": 2979
+    }
+  },
+  {
+    "name": "iverh5_is",
     "dataset": "intv",
     "label": "Social Desirability: Too Much Change",
     "categories": {
@@ -787,7 +1283,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -809,11 +1305,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
-    "name": "iverh6",
+    "name": "iverh6_is",
     "dataset": "intv",
     "label": "Social Desirability: Cursing",
     "categories": {
@@ -886,7 +1382,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -908,11 +1404,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
-    "name": "iverh7",
+    "name": "iverh7_is",
     "dataset": "intv",
     "label": "Social Desirability: White Lies",
     "categories": {
@@ -985,7 +1481,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1007,11 +1503,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
-    "name": "iverh8",
+    "name": "iverh8_is",
     "dataset": "intv",
     "label": "Social Desirability: Stealing",
     "categories": {
@@ -1084,7 +1580,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1106,11 +1602,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
-    "name": "iverh9",
+    "name": "iverh9_is",
     "dataset": "intv",
     "label": "Social Desirability: Exploiting",
     "categories": {
@@ -1183,7 +1679,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1205,7 +1701,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
@@ -1270,7 +1766,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1289,7 +1785,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 5289
+      "invalid": 3206
     }
   },
   {
@@ -1346,7 +1842,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1363,7 +1859,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
@@ -1452,7 +1948,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2859,
@@ -1477,86 +1973,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 5334
-    }
-  },
-  {
-    "name": "ipolso",
-    "dataset": "intv",
-    "label": "Other Party",
-    "categories": {
-      "values": [
-        -8,
-        -7,
-        -6,
-        -5,
-        -4,
-        -3,
-        -2,
-        -1,
-        0,
-        1,
-        2
-      ],
-      "labels": [
-        "[-8] Question not part of the survey program this year",
-        "[-7] Only available in less restricted edition",
-        "[-6] Version of questionnaire with modified filtering",
-        "[-5] Not included in this version of the questionnaire",
-        "[-4] Inadmissible multiple response",
-        "[-3] Answer improbable",
-        "[-2] Does not apply",
-        "[-1] No Answer",
-        "[0] see ipol3",
-        "[1] BUeSO",
-        "[2] OeDP"
-      ],
-      "labels_de": [
-        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
-        "[-6] Fragebogenversion mit geänderter Filterführung",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "[-4] Unzulässige Mehrfachantwort",
-        "[-3] nicht valide",
-        "[-2] trifft nicht zu",
-        "[-1] keine Angabe",
-        "[0] siehe ipol3",
-        "[1] BUeSO",
-        "[2] OeDP"
-      ],
-      "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        false,
-        false,
-        false
-      ],
-      "frequencies": [
-        2431,
-        0,
-        0,
-        2858,
-        0,
-        0,
-        0,
-        0,
-        119,
-        1,
-        1
-      ]
-    },
-    "scale": "cat",
-    "label_de": "Andere Partei",
-    "study": "soep-is",
-    "statistics": {
-      "valid": 121,
-      "invalid": 5289
+      "invalid": 3251
     }
   },
   {
@@ -1625,7 +2042,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2859,
@@ -1645,11 +2062,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 76,
-      "invalid": 5334
+      "invalid": 3251
     }
   },
   {
-    "name": "ipol6",
+    "name": "ipol6_is",
     "dataset": "intv",
     "label": "Political Attitude",
     "categories": {
@@ -1738,7 +2155,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1764,7 +2181,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 5291
+      "invalid": 3208
     }
   },
   {
@@ -1825,7 +2242,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1843,7 +2260,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
@@ -1904,7 +2321,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -1922,7 +2339,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 5289
+      "invalid": 3206
     }
   },
   {
@@ -1983,7 +2400,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2001,7 +2418,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 5289
+      "invalid": 3206
     }
   },
   {
@@ -2062,7 +2479,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2080,7 +2497,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 5289
+      "invalid": 3206
     }
   },
   {
@@ -2141,7 +2558,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2159,7 +2576,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 120,
-      "invalid": 5290
+      "invalid": 3207
     }
   },
   {
@@ -2220,7 +2637,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2238,11 +2655,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 121,
-      "invalid": 5289
+      "invalid": 3206
     }
   },
   {
-    "name": "ithem01",
+    "name": "ithem01_is",
     "dataset": "intv",
     "label": "Fair that higher educated people have better chances in life",
     "categories": {
@@ -2315,7 +2732,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2337,11 +2754,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 5292
+      "invalid": 3209
     }
   },
   {
-    "name": "ithem01a",
+    "name": "ithem01a_is",
     "dataset": "intv",
     "label": "How sure: Fair that higher educated people have better chances in life",
     "categories": {
@@ -2402,7 +2819,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2421,11 +2838,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 5291
+      "invalid": 3208
     }
   },
   {
-    "name": "ithem02",
+    "name": "ithem02_is",
     "dataset": "intv",
     "label": "Free to joke about religious topics / attitudes in public",
     "categories": {
@@ -2498,7 +2915,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2520,11 +2937,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 5291
+      "invalid": 3208
     }
   },
   {
-    "name": "ithem02a",
+    "name": "ithem02a_is",
     "dataset": "intv",
     "label": "How sure: Free to joke about religious topics / attitudes in public",
     "categories": {
@@ -2585,7 +3002,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2604,11 +3021,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 5291
+      "invalid": 3208
     }
   },
   {
-    "name": "ithem03",
+    "name": "ithem03_is",
     "dataset": "intv",
     "label": "Equal possibilities / chances for same-sex couples",
     "categories": {
@@ -2681,7 +3098,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2703,11 +3120,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 5292
+      "invalid": 3209
     }
   },
   {
-    "name": "ithem03a",
+    "name": "ithem03a_is",
     "dataset": "intv",
     "label": "How sure: Equal possibilities / chances for same-sex couples",
     "categories": {
@@ -2768,7 +3185,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2787,11 +3204,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 5291
+      "invalid": 3208
     }
   },
   {
-    "name": "ithem04",
+    "name": "ithem04_is",
     "dataset": "intv",
     "label": "Medically assisted suicide should be allowed in Germany",
     "categories": {
@@ -2864,7 +3281,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2886,11 +3303,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 5292
+      "invalid": 3209
     }
   },
   {
-    "name": "ithem04a",
+    "name": "ithem04a_is",
     "dataset": "intv",
     "label": "How sure: Medically assisted suicide should be allowed in Germany",
     "categories": {
@@ -2951,7 +3368,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -2970,11 +3387,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 118,
-      "invalid": 5292
+      "invalid": 3209
     }
   },
   {
-    "name": "ithem05",
+    "name": "ithem05_is",
     "dataset": "intv",
     "label": "Legalization of cannabis / marihuana in Germany",
     "categories": {
@@ -3047,7 +3464,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -3069,11 +3486,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 5293
+      "invalid": 3210
     }
   },
   {
-    "name": "ithem05a",
+    "name": "ithem05a_is",
     "dataset": "intv",
     "label": "How sure: Legalization of cannabis / marihuana in Germany",
     "categories": {
@@ -3134,7 +3551,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2858,
@@ -3153,11 +3570,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 117,
-      "invalid": 5293
+      "invalid": 3210
     }
   },
   {
-    "name": "iform",
+    "name": "iform_is",
     "dataset": "intv",
     "label": "Survey Instrument",
     "categories": {
@@ -3206,7 +3623,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2644,
@@ -3222,11 +3639,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 335,
-      "invalid": 5075
+      "invalid": 2992
     }
   },
   {
-    "name": "idatt",
+    "name": "idatt_is",
     "dataset": "intv",
     "label": "Day Of The Interview",
     "categories": {
@@ -3261,7 +3678,7 @@
         true
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2644,
@@ -3282,11 +3699,11 @@
       "3rd Qu.": 25.0,
       "Max.": 31.0,
       "valid": 335,
-      "invalid": 5075
+      "invalid": 2992
     }
   },
   {
-    "name": "idatm",
+    "name": "idatm_is",
     "dataset": "intv",
     "label": "Month Of The Interview",
     "categories": {
@@ -3299,6 +3716,7 @@
         -3,
         -2,
         -1,
+        3,
         8,
         9
       ],
@@ -3311,6 +3729,7 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer",
+        "[3] March",
         "[8] August",
         "[9] September"
       ],
@@ -3323,6 +3742,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
+        "[3] März",
         "[8] August",
         "[9] September"
       ],
@@ -3336,10 +3756,11 @@
         true,
         true,
         false,
+        false,
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2644,
@@ -3347,6 +3768,7 @@
         0,
         0,
         0,
+        214,
         104,
         17
       ]
@@ -3356,11 +3778,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 335,
-      "invalid": 5075
+      "invalid": 2992
     }
   },
   {
-    "name": "idatj",
+    "name": "idatj_is",
     "dataset": "intv",
     "label": "Interview Year",
     "categories": {
@@ -3395,7 +3817,7 @@
         true
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2644,
@@ -3416,11 +3838,11 @@
       "3rd Qu.": 2020.0,
       "Max.": 2020.0,
       "valid": 335,
-      "invalid": 5075
+      "invalid": 2992
     }
   },
   {
-    "name": "simarbip",
+    "name": "simarbip_is",
     "dataset": "intv",
     "label": "Altruism",
     "categories": {
@@ -3509,7 +3931,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -3535,11 +3957,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pgedu",
+    "name": "igedu_is",
     "dataset": "intv",
     "label": "Ready to refrain from sth to gain future advantage",
     "categories": {
@@ -3628,7 +4050,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -3654,11 +4076,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "prisk",
+    "name": "irisk",
     "dataset": "intv",
     "label": "willingness to take risks",
     "categories": {
@@ -3747,7 +4169,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -3773,11 +4195,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "bipbaus1",
+    "name": "bipbaus1_is",
     "dataset": "intv",
     "label": "return favors",
     "categories": {
@@ -3866,7 +4288,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -3892,11 +4314,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "bipbaus2",
+    "name": "bipbaus2_is",
     "dataset": "intv",
     "label": "get revenge for severe injustices",
     "categories": {
@@ -3985,7 +4407,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4011,11 +4433,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "bipbaus3",
+    "name": "bipbaus3_is",
     "dataset": "intv",
     "label": "suspect that people have only the best intentions",
     "categories": {
@@ -4104,7 +4526,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4130,11 +4552,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "bipbaus4",
+    "name": "bipbaus4_is",
     "dataset": "intv",
     "label": "Postpone tasks",
     "categories": {
@@ -4223,7 +4645,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4249,11 +4671,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "prech",
+    "name": "prech_is",
     "dataset": "intv",
     "label": "Calculation task 100 random people",
     "categories": {
@@ -4288,7 +4710,7 @@
         true
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4309,11 +4731,11 @@
       "3rd Qu.": 47.5,
       "Max.": 50.0,
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzuf01",
+    "name": "izuf01_is",
     "dataset": "intv",
     "label": "Satisfaction With Health",
     "categories": {
@@ -4402,7 +4824,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4428,11 +4850,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzuf04",
+    "name": "izuf04_is",
     "dataset": "intv",
     "label": "Satisfaction With Household Income",
     "categories": {
@@ -4521,7 +4943,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4547,11 +4969,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzuf08",
+    "name": "izuf08_is",
     "dataset": "intv",
     "label": "Satisfaction With Leisure Time",
     "categories": {
@@ -4640,7 +5062,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4666,11 +5088,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzuf23",
+    "name": "izuf23_is",
     "dataset": "intv",
     "label": "Satisfaction With Neighborhood",
     "categories": {
@@ -4759,7 +5181,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4785,11 +5207,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzuf24",
+    "name": "izuf24_is",
     "dataset": "intv",
     "label": "Satisfaction with contacts with friends and acquaintances",
     "categories": {
@@ -4878,7 +5300,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -4904,11 +5326,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego01",
+    "name": "iego01",
     "dataset": "intv",
     "label": "thorough worker",
     "categories": {
@@ -4981,7 +5403,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5003,11 +5425,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego02",
+    "name": "iego02",
     "dataset": "intv",
     "label": "am communicative",
     "categories": {
@@ -5080,7 +5502,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5102,11 +5524,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego03",
+    "name": "iego03",
     "dataset": "intv",
     "label": "am sometimes too coarse with others",
     "categories": {
@@ -5179,7 +5601,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5201,11 +5623,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego04",
+    "name": "iego04",
     "dataset": "intv",
     "label": "am original",
     "categories": {
@@ -5278,7 +5700,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5300,11 +5722,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego05",
+    "name": "iego05",
     "dataset": "intv",
     "label": "worry a lot",
     "categories": {
@@ -5377,7 +5799,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5399,11 +5821,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego06",
+    "name": "iego06",
     "dataset": "intv",
     "label": "able to forgive",
     "categories": {
@@ -5476,7 +5898,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5498,11 +5920,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego07",
+    "name": "iego07",
     "dataset": "intv",
     "label": "tend to be lazy",
     "categories": {
@@ -5575,7 +5997,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5597,11 +6019,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego08",
+    "name": "iego08",
     "dataset": "intv",
     "label": "am sociable",
     "categories": {
@@ -5674,7 +6096,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5696,11 +6118,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego09",
+    "name": "iego09",
     "dataset": "intv",
     "label": "value artistic experiences",
     "categories": {
@@ -5773,7 +6195,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5795,11 +6217,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego10",
+    "name": "iego10",
     "dataset": "intv",
     "label": "somewhat nervous",
     "categories": {
@@ -5872,7 +6294,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5894,11 +6316,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego11",
+    "name": "iego11",
     "dataset": "intv",
     "label": "carry out tasks efficiently",
     "categories": {
@@ -5971,7 +6393,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -5993,11 +6415,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego12",
+    "name": "iego12",
     "dataset": "intv",
     "label": "reserved",
     "categories": {
@@ -6070,7 +6492,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6092,11 +6514,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego13",
+    "name": "iego13",
     "dataset": "intv",
     "label": "friendly with others",
     "categories": {
@@ -6169,7 +6591,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6191,11 +6613,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego14",
+    "name": "iego14",
     "dataset": "intv",
     "label": "have lively imagination",
     "categories": {
@@ -6268,7 +6690,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6290,11 +6712,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego15",
+    "name": "iego15",
     "dataset": "intv",
     "label": "deal well with stress",
     "categories": {
@@ -6367,7 +6789,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6389,11 +6811,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pego16",
+    "name": "iego16",
     "dataset": "intv",
     "label": "inquisitive",
     "categories": {
@@ -6466,7 +6888,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6488,11 +6910,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "pzule1",
+    "name": "izule",
     "dataset": "intv",
     "label": "Life Satisfaction",
     "categories": {
@@ -6581,7 +7003,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2976,
@@ -6607,11 +7029,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 5407
+      "invalid": 3324
     }
   },
   {
-    "name": "isp_int22",
+    "name": "isp_int22_is",
     "dataset": "intv",
     "label": "Assessment of the language of the interviewer",
     "categories": {
@@ -6676,7 +7098,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -6696,11 +7118,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 213,
-      "invalid": 5197
+      "invalid": 3114
     }
   },
   {
-    "name": "isp_int20",
+    "name": "isp_int20_is",
     "dataset": "intv",
     "label": "Interviewer dialect or Low German",
     "categories": {
@@ -6753,7 +7175,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -6770,11 +7192,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 5196
+      "invalid": 3113
     }
   },
   {
-    "name": "isp_int24_1",
+    "name": "isp_int24_1_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Low German/Platt German",
     "categories": {
@@ -6839,7 +7261,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -6859,11 +7281,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 210,
-      "invalid": 5200
+      "invalid": 3117
     }
   },
   {
-    "name": "isp_int24a_1",
+    "name": "isp_int24a_1_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German himself): Low German/Pl",
     "categories": {
@@ -6928,7 +7350,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -6948,11 +7370,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 99,
-      "invalid": 5311
+      "invalid": 3228
     }
   },
   {
-    "name": "isp_int24b_1",
+    "name": "isp_int24b_1_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Low German/Pl",
     "categories": {
@@ -7017,13 +7439,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         3,
         10,
         47,
@@ -7037,11 +7459,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 111,
-      "invalid": 5299
+      "invalid": 3216
     }
   },
   {
-    "name": "isp_int24_2",
+    "name": "isp_int24_2_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Bavarian",
     "categories": {
@@ -7106,7 +7528,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -7126,11 +7548,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 5196
+      "invalid": 3113
     }
   },
   {
-    "name": "isp_int24a_2",
+    "name": "isp_int24a_2_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Bavarian",
     "categories": {
@@ -7195,7 +7617,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -7215,11 +7637,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_2",
+    "name": "isp_int24b_2_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Bavarian",
     "categories": {
@@ -7284,13 +7706,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         0,
         15,
         46,
@@ -7304,11 +7726,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 114,
-      "invalid": 5296
+      "invalid": 3213
     }
   },
   {
-    "name": "isp_int24_3",
+    "name": "isp_int24_3_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: High German",
     "categories": {
@@ -7373,7 +7795,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -7393,11 +7815,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 5196
+      "invalid": 3113
     }
   },
   {
-    "name": "isp_int24a_3",
+    "name": "isp_int24a_3_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German himself): High German",
     "categories": {
@@ -7462,7 +7884,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -7482,11 +7904,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_3",
+    "name": "isp_int24b_3_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): High German",
     "categories": {
@@ -7551,13 +7973,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         0,
         64,
         45,
@@ -7571,11 +7993,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 114,
-      "invalid": 5296
+      "invalid": 3213
     }
   },
   {
-    "name": "isp_int24_4",
+    "name": "isp_int24_4_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Swabian",
     "categories": {
@@ -7640,7 +8062,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -7660,11 +8082,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 213,
-      "invalid": 5197
+      "invalid": 3114
     }
   },
   {
-    "name": "isp_int24a_4",
+    "name": "isp_int24a_4_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Swabian",
     "categories": {
@@ -7729,7 +8151,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -7749,11 +8171,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_4",
+    "name": "isp_int24b_4_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Swabian",
     "categories": {
@@ -7818,13 +8240,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         1,
         3,
         33,
@@ -7838,11 +8260,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 113,
-      "invalid": 5297
+      "invalid": 3214
     }
   },
   {
-    "name": "isp_int24_5",
+    "name": "isp_int24_5_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Saxon",
     "categories": {
@@ -7907,7 +8329,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -7927,11 +8349,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 5196
+      "invalid": 3113
     }
   },
   {
-    "name": "isp_int24a_5",
+    "name": "isp_int24a_5_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Saxon",
     "categories": {
@@ -7996,7 +8418,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -8016,11 +8438,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_5",
+    "name": "isp_int24b_5_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Saxonian",
     "categories": {
@@ -8085,13 +8507,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         0,
         3,
         18,
@@ -8105,11 +8527,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 114,
-      "invalid": 5296
+      "invalid": 3213
     }
   },
   {
-    "name": "isp_int24_6",
+    "name": "isp_int24_6_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Berlinerisch",
     "categories": {
@@ -8174,7 +8596,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -8194,11 +8616,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 214,
-      "invalid": 5196
+      "invalid": 3113
     }
   },
   {
-    "name": "isp_int24a_6",
+    "name": "isp_int24a_6_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Berlinerisch",
     "categories": {
@@ -8263,7 +8685,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -8283,11 +8705,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_6",
+    "name": "isp_int24b_6_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Berlinerisch",
     "categories": {
@@ -8352,13 +8774,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         0,
         7,
         41,
@@ -8372,11 +8794,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 114,
-      "invalid": 5296
+      "invalid": 3213
     }
   },
   {
-    "name": "isp_int24_7",
+    "name": "isp_int24_7_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Hessian",
     "categories": {
@@ -8441,7 +8863,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -8461,11 +8883,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 212,
-      "invalid": 5198
+      "invalid": 3115
     }
   },
   {
-    "name": "isp_int24a_7",
+    "name": "isp_int24a_7_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Hessian",
     "categories": {
@@ -8530,7 +8952,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -8550,11 +8972,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_7",
+    "name": "isp_int24b_7_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Hessian",
     "categories": {
@@ -8619,13 +9041,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         2,
         4,
         29,
@@ -8639,11 +9061,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 112,
-      "invalid": 5298
+      "invalid": 3215
     }
   },
   {
-    "name": "isp_int24_8",
+    "name": "isp_int24_8_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Kölsch/Rhenish Platt",
     "categories": {
@@ -8708,7 +9130,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -8728,11 +9150,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 212,
-      "invalid": 5198
+      "invalid": 3115
     }
   },
   {
-    "name": "isp_int24a_8",
+    "name": "isp_int24a_8_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Kölsch/Rheinisch",
     "categories": {
@@ -8797,7 +9219,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -8817,11 +9239,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_8",
+    "name": "isp_int24b_8_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Kölsch/Rheini",
     "categories": {
@@ -8886,13 +9308,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         2,
         11,
         42,
@@ -8906,11 +9328,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 112,
-      "invalid": 5298
+      "invalid": 3215
     }
   },
   {
-    "name": "isp_int24_9",
+    "name": "isp_int24_9_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: North German",
     "categories": {
@@ -8975,7 +9397,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -8995,11 +9417,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 212,
-      "invalid": 5198
+      "invalid": 3115
     }
   },
   {
-    "name": "isp_int24a_9",
+    "name": "isp_int24a_9_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): North German",
     "categories": {
@@ -9064,7 +9486,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -9084,11 +9506,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 99,
-      "invalid": 5311
+      "invalid": 3228
     }
   },
   {
-    "name": "isp_int24b_9",
+    "name": "isp_int24b_9_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): North German",
     "categories": {
@@ -9153,13 +9575,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         1,
         25,
         57,
@@ -9173,11 +9595,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 113,
-      "invalid": 5297
+      "invalid": 3214
     }
   },
   {
-    "name": "isp_int24_10",
+    "name": "isp_int24_10_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Swiss German",
     "categories": {
@@ -9242,7 +9664,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -9262,11 +9684,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 211,
-      "invalid": 5199
+      "invalid": 3116
     }
   },
   {
-    "name": "isp_int24a_10",
+    "name": "isp_int24a_10_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Swiss German",
     "categories": {
@@ -9331,7 +9753,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -9351,11 +9773,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_10",
+    "name": "isp_int24b_10_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Swiss German",
     "categories": {
@@ -9420,13 +9842,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         3,
         11,
         49,
@@ -9440,11 +9862,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 111,
-      "invalid": 5299
+      "invalid": 3216
     }
   },
   {
-    "name": "isp_int24_11",
+    "name": "isp_int24_11_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer: Austrian",
     "categories": {
@@ -9509,7 +9931,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2765,
@@ -9529,11 +9951,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 212,
-      "invalid": 5198
+      "invalid": 3115
     }
   },
   {
-    "name": "isp_int24a_11",
+    "name": "isp_int24a_11_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (speaks dialect or Low German): Austrian",
     "categories": {
@@ -9598,7 +10020,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -9618,11 +10040,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 100,
-      "invalid": 5310
+      "invalid": 3227
     }
   },
   {
-    "name": "isp_int24b_11",
+    "name": "isp_int24b_11_is",
     "dataset": "intv",
     "label": "Dialect rating interviewer (does not speak dialect or Low German): Austrian",
     "categories": {
@@ -9687,13 +10109,13 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
-        2766,
+        2765,
         0,
         0,
-        99,
+        100,
         2,
         12,
         52,
@@ -9707,11 +10129,11 @@
     "study": "soep-is",
     "statistics": {
       "valid": 112,
-      "invalid": 5298
+      "invalid": 3215
     }
   },
   {
-    "name": "isp_int24a_12",
+    "name": "isp_int24a_12_is",
     "dataset": "intv",
     "label": "Interviewer's dialect rating: The dialect spoken by the interviewer him/herself.",
     "categories": {
@@ -9776,7 +10198,7 @@
         false
       ],
       "frequencies": [
-        2431,
+        348,
         0,
         0,
         2766,
@@ -9796,7 +10218,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 99,
-      "invalid": 5311
+      "invalid": 3228
     }
   }
 ]

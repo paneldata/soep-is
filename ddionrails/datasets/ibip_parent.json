@@ -397,27 +397,27 @@
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "missings": [
         true,
@@ -476,27 +476,27 @@
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "missings": [
         true,
@@ -555,27 +555,27 @@
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]"
       ],
       "missings": [
         true,
@@ -645,15 +645,15 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[0] Did not like at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Liked a lot",
         "[11] Cannot remember"
       ],
@@ -665,15 +665,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Gar nicht gefallen",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr gefallen",
         "[11] Kann mich nicht erinnern"
       ],
@@ -2684,12 +2684,12 @@
       "labels": [
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -2723,12 +2723,12 @@
       "labels": [
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -2762,12 +2762,12 @@
       "labels": [
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -2801,12 +2801,12 @@
       "labels": [
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -2840,12 +2840,12 @@
       "labels": [
         "[-5] Not Contained In Questionnaire",
         "[-2] Does Not Apply",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
         "[-2] trifft nicht zu",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -3333,7 +3333,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Hat schon Ärger mit der Polizei gehabt",
+    "label_de": "Hat schon „Ärger mit der Polizei“ gehabt",
     "study": "soep-is",
     "statistics": {
       "valid": 1960,
@@ -3694,11 +3694,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -3709,11 +3709,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -3783,11 +3783,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -3798,11 +3798,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -3872,11 +3872,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -3887,11 +3887,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -3961,11 +3961,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -3976,11 +3976,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -4050,11 +4050,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -4065,11 +4065,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -4139,11 +4139,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -4154,11 +4154,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -4228,11 +4228,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -4243,11 +4243,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -4317,11 +4317,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -4332,11 +4332,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -4406,11 +4406,11 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[1] does not apply at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] fully applies"
       ],
       "labels_de": [
@@ -4421,11 +4421,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] trifft überhaupt nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] trifft voll zu"
       ],
       "missings": [
@@ -6449,14 +6449,14 @@
         3
       ],
       "labels": [
-        "[1]  0.-",
-        "[2]  3.-",
-        "[3]  5.-"
+        "[1] € 0.-",
+        "[2] € 3.-",
+        "[3] € 5.-"
       ],
       "labels_de": [
-        "[1]  0.-",
-        "[2]  3.-",
-        "[3]  5.-"
+        "[1] € 0.-",
+        "[2] € 3.-",
+        "[3] € 5.-"
       ],
       "missings": [
         false,
@@ -6508,17 +6508,17 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -6527,17 +6527,17 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "missings": [
         true,
@@ -6922,15 +6922,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Does not describe me at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Describes me perfectly"
       ],
       "labels_de": [
@@ -6941,15 +6941,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Beschreibt mich überhaupt nicht",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Beschreibt mich perfekt"
       ],
       "missings": [
@@ -7031,15 +7031,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Does not describe me at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Describes me perfectly"
       ],
       "labels_de": [
@@ -7050,15 +7050,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Beschreibt mich überhaupt nicht",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Beschreibt mich perfekt"
       ],
       "missings": [
@@ -7101,7 +7101,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aussagen  Wenn ich sehr ungerecht behandelt werde, räche ich mich bei der erste",
+    "label_de": "Aussagen – Wenn ich sehr ungerecht behandelt werde, räche ich mich bei der erste",
     "study": "soep-is",
     "statistics": {
       "valid": 1494,
@@ -7140,15 +7140,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Does not describe me at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Describes me perfectly"
       ],
       "labels_de": [
@@ -7159,15 +7159,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Beschreibt mich überhaupt nicht",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Beschreibt mich perfekt"
       ],
       "missings": [
@@ -7249,15 +7249,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Does not describe me at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Describes me perfectly"
       ],
       "labels_de": [
@@ -7268,15 +7268,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Beschreibt mich überhaupt nicht",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Beschreibt mich perfekt"
       ],
       "missings": [
@@ -7349,35 +7349,35 @@
       ],
       "labels": [
         "[-5] Not Contained In Questionnaire",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
-        "[11]",
-        "[12]",
-        "[13]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
+        "[11] [11]",
+        "[12] [12]",
+        "[13] [13]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
-        "[11]",
-        "[12]",
-        "[13]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
+        "[11] [11]",
+        "[12] [12]",
+        "[13] [13]"
       ],
       "missings": [
         true,
@@ -7536,15 +7536,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Very little larger",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Very much larger"
       ],
       "labels_de": [
@@ -7555,15 +7555,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Sehr wenig größer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr viel größer"
       ],
       "missings": [
@@ -7645,15 +7645,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0] Very little darker",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Very much darker"
       ],
       "labels_de": [
@@ -7664,15 +7664,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Sehr wenig dunkler",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr viel dunkler"
       ],
       "missings": [
@@ -7748,8 +7748,8 @@
         "[-1] No Answer",
         "[1] Very shy",
         "[2] Somewhat shy",
-        "[1] Somewhat outgoing",
-        "[2] Very outgoing"
+        "[3] [1] Somewhat outgoing",
+        "[4] [2] Very outgoing"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -7760,8 +7760,8 @@
         "[-1] keine Angabe",
         "[1] Sehr schüchtern",
         "[2] Etwas schüchtern",
-        "[1] Etwas kontaktfreudig",
-        "[2] Sehr kontaktfreudig"
+        "[3] [1] Etwas kontaktfreudig",
+        "[4] [2] Sehr kontaktfreudig"
       ],
       "missings": [
         true,
@@ -7913,11 +7913,11 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Does not apply to me at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Fully applies to me"
       ],
       "labels_de": [
@@ -7928,11 +7928,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht auf mich zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Trifft voll auf mich zu"
       ],
       "missings": [
@@ -8002,11 +8002,11 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Does not apply to me at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Fully applies to me"
       ],
       "labels_de": [
@@ -8017,11 +8017,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Trifft überhaupt nicht auf mich zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Trifft voll auf mich zu"
       ],
       "missings": [
@@ -8728,15 +8728,15 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[0] Did not like at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Liked a lot",
         "[11] Cannot remember"
       ],
@@ -8748,15 +8748,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Gar nicht gefallen",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr gefallen",
         "[11] Kann mich nicht erinnern"
       ],
@@ -9556,13 +9556,13 @@
       ],
       "labels": [
         "[-5] Not Contained In Questionnaire",
-        "[1]",
-        "[2]"
+        "[1] [1]",
+        "[2] [2]"
       ],
       "labels_de": [
         "[-5] nicht im Fragebogen enthalten",
-        "[1]",
-        "[2]"
+        "[1] [1]",
+        "[2] [2]"
       ],
       "missings": [
         true,
@@ -13609,7 +13609,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13618,7 +13618,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13668,7 +13668,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13677,7 +13677,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13727,7 +13727,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13736,7 +13736,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13786,7 +13786,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13795,7 +13795,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13845,7 +13845,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13854,7 +13854,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13904,7 +13904,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13913,7 +13913,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -13963,7 +13963,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -13972,7 +13972,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14022,7 +14022,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14031,7 +14031,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14081,7 +14081,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14090,7 +14090,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14140,7 +14140,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14149,7 +14149,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14199,7 +14199,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14208,7 +14208,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14258,7 +14258,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14267,7 +14267,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14317,7 +14317,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14326,7 +14326,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14376,7 +14376,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14385,7 +14385,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14435,7 +14435,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14444,7 +14444,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14494,7 +14494,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14503,7 +14503,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14553,7 +14553,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14562,7 +14562,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14612,7 +14612,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14621,7 +14621,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14671,7 +14671,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14680,7 +14680,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14730,7 +14730,7 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]"
+        "[1] [1]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14739,7 +14739,7 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]"
+        "[1] [1]"
       ],
       "missings": [
         true,
@@ -14771,7 +14771,7 @@
   {
     "name": "pbipeur_rdm",
     "dataset": "ibip_parent",
-    "label": "Random division of 10  between two people",
+    "label": "Random division of 10 € between two people",
     "categories": {
       "values": [
         1,
@@ -14795,7 +14795,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Random Aufteilung von 10  zwischen zwei Personen",
+    "label_de": "Random Aufteilung von 10 € zwischen zwei Personen",
     "study": "soep-is",
     "statistics": {
       "valid": 698,
@@ -14805,7 +14805,7 @@
   {
     "name": "pbipeurd",
     "dataset": "ibip_parent",
-    "label": "Allocation of  10 between two persons: Person born in Dtld., allocation ",
+    "label": "Allocation of € 10 between two persons: Person born in Dtld., allocation €",
     "categories": {
       "values": [
         -6,
@@ -14833,17 +14833,17 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14852,17 +14852,17 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "missings": [
         true,
@@ -14904,7 +14904,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aufteilung von 10  zwischen zwei Personen: Person in Dtld. geboren, Zuordnung ",
+    "label_de": "Aufteilung von 10 € zwischen zwei Personen: Person in Dtld. geboren, Zuordnung €",
     "study": "soep-is",
     "statistics": {
       "valid": 696,
@@ -14914,7 +14914,7 @@
   {
     "name": "pbipeurnd",
     "dataset": "ibip_parent",
-    "label": "Sharing of 10  between two persons: Person not born in Dtld., allocation ",
+    "label": "Sharing of 10 € between two persons: Person not born in Dtld., allocation €",
     "categories": {
       "values": [
         -6,
@@ -14942,17 +14942,17 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -14961,17 +14961,17 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0]",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[0] [0]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "missings": [
         true,
@@ -15013,7 +15013,7 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Aufteilung von 10  zwischen zwei Personen: Person nicht in Dtld. geboren, Zuord",
+    "label_de": "Aufteilung von 10 € zwischen zwei Personen: Person nicht in Dtld. geboren, Zuord",
     "study": "soep-is",
     "statistics": {
       "valid": 696,
@@ -16642,16 +16642,16 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[0] Do not agree at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -16661,15 +16661,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Stimme gar nicht zu",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Stimme voll zu"
       ],
       "missings": [
@@ -16811,11 +16811,11 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Very much"
       ],
       "labels_de": [
@@ -16826,11 +16826,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Überhaupt nicht",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Sehr stark"
       ],
       "missings": [
@@ -17203,7 +17203,7 @@
         "[5] Working part-time or irregularly",
         "[6] In partial retirement with zero working hours",
         "[7] In voluntary social / ecological year, in federal voluntary service",
-        "[8] Not gainfully employed"
+        "[9] [8] Not gainfully employed"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -17219,7 +17219,7 @@
         "[5] Geringfügig oder unregelmäßig erwerbstätig",
         "[6] In Altersteilzeit mit Arbeitszeit Null",
         "[7] Im freiwilligen sozialen / ökologischen Jahr, im Bundesfreiwilligendienst",
-        "[8] Nicht erwerbstätig"
+        "[9] [8] Nicht erwerbstätig"
       ],
       "missings": [
         true,
@@ -17294,15 +17294,15 @@
         "[-2] does not apply",
         "[-1] no answer",
         "[0] Not at all willing to give up anything at first",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Very willing to give up something at first"
       ],
       "labels_de": [
@@ -17313,15 +17313,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Gar nicht bereit, zunächst auf etwas zu verzichten",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr bereit, zunächst auf etwas zu verzichten"
       ],
       "missings": [
@@ -18265,11 +18265,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18278,11 +18278,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18344,11 +18344,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18357,11 +18357,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18423,11 +18423,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18436,11 +18436,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18502,11 +18502,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18515,11 +18515,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18581,11 +18581,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18594,11 +18594,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18660,11 +18660,11 @@
         "[-3] Answer Improbable",
         "[-2] Does Not Apply",
         "[-1] No Answer",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -18673,11 +18673,11 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         true,
@@ -18814,7 +18814,7 @@
         "[4] FDP",
         "[5] Bündnis 90 / Die Grünen",
         "[6] Die Linke ",
-        "[[7] NPD / Republikaner / Die Rechte",
+        "[7] [[7] NPD / Republikaner / Die Rechte",
         "[8] Other and namely:",
         "[9] Will not vote ",
         "[27] AfD"
@@ -18832,7 +18832,7 @@
         "[4] FDP",
         "[5] Bündnis 90 / Die Grünen",
         "[6] Die Linke ",
-        "[[7] NPD / Republikaner / Die Rechte",
+        "[7] [[7] NPD / Republikaner / Die Rechte",
         "[8] Andere und zwar:",
         "[9] Werde nicht wählen",
         "[27] AfD"
@@ -18915,15 +18915,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Fewer taxes and levies, even if that means fewer welfare state benefits",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] More welfare state benefits, even if that means more taxes and contributions",
         "[12] Don't know"
       ],
@@ -18935,15 +18935,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Weniger Steuern und Abgaben, auch wenn das weniger sozialstaatliche Leistungen bedeutet",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] Mehr sozialstaatliche Leistungen, auch wenn das mehr Steuern und Abgaben bedeutet",
         "[12] Weiß nicht"
       ],
@@ -19029,15 +19029,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Immigration opportunities for foreigners should be facilitated",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] Immigration opportunities for foreigners to be restricted",
         "[12] Don't know"
       ],
@@ -19049,15 +19049,15 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Zuzugsmöglichkeiten für Ausländer sollten erleichtert werden",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] Zuzugsmöglichkeiten für Ausländer sollen eingeschränkt werden",
         "[12] Weiß nicht"
       ],
@@ -19131,29 +19131,29 @@
       ],
       "labels": [
         "[1] Prioritize tackling climate change, even if it hurts economic growth",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] Prioritize economic growth, even if it makes it harder to combat climate change.",
         "[12] Don't know"
       ],
       "labels_de": [
         "[1] Vorrang für Bekämpfung des Klimawandels, auch wenn es dem Wirtschaftswachstum schadet",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
-        "[10]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
+        "[10] [10]",
         "[11] Vorrang für Wirtschaftswachstum, auch wenn es die Bekämpfung des Klimawandels erschwert.",
         "[12] Weiß nicht"
       ],
@@ -19471,9 +19471,9 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]"
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]"
       ],
       "labels_de": [
         "[-6] Fragebogenversion mit geänderter Filterführung",
@@ -20900,11 +20900,11 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Do not agree at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Fully agree"
       ],
       "labels_de": [
@@ -20915,11 +20915,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] stimme ganz und gar nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Stimme voll und ganz zu"
       ],
       "missings": [
@@ -20989,11 +20989,11 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Do not agree at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Fully agree"
       ],
       "labels_de": [
@@ -21004,11 +21004,11 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] stimme ganz und gar nicht zu",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] Stimme voll und ganz zu"
       ],
       "missings": [
@@ -21081,14 +21081,14 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[1] Not ready at all",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] ",
-        "[8]",
-        "[9]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Extremely ready "
       ],
       "labels_de": [
@@ -21099,14 +21099,14 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[1] Gar nicht bereit",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
         "[7] ",
-        "[8]",
-        "[9]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Sehr bereit"
       ],
       "missings": [
@@ -21345,14 +21345,14 @@
         "[-1] No Answer",
         "[0] Strongly underrated",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Strongly overrated"
       ],
       "labels_de": [
@@ -21364,14 +21364,14 @@
         "[-1] keine Angabe",
         "[0] Stark unterbewertet",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Stark überbewertet"
       ],
       "missings": [
@@ -21453,15 +21453,15 @@
         "[-2] Does Not Apply",
         "[-1] No Answer",
         "[0]  Not stressed at all",
-        "[1]",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[1] [1]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Extremely stressed"
       ],
       "labels_de": [
@@ -21473,14 +21473,14 @@
         "[-1] keine Angabe",
         "[0] Überhaupt nicht gestresst",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Extrem gestresst"
       ],
       "missings": [
@@ -22044,17 +22044,17 @@
       ],
       "labels": [
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "labels_de": [
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]"
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]"
       ],
       "missings": [
         false,
@@ -22497,14 +22497,14 @@
         "[-1] No Answer",
         "[0] Not competitive at all",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Extremely competitive"
       ],
       "labels_de": [
@@ -22516,14 +22516,14 @@
         "[-1] keine Angabe",
         "[0] Überhaupt nicht wettbewerbsfähig",
         "[1] ",
-        "[2]",
-        "[3]",
-        "[4]",
-        "[5]",
-        "[6]",
-        "[7]",
-        "[8]",
-        "[9]",
+        "[2] [2]",
+        "[3] [3]",
+        "[4] [4]",
+        "[5] [5]",
+        "[6] [6]",
+        "[7] [7]",
+        "[8] [8]",
+        "[9] [9]",
         "[10] Äußerst wettbewerbsfähig"
       ],
       "missings": [
