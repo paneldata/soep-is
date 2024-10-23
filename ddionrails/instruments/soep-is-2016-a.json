@@ -218,14 +218,13 @@
     "Q5000": {
       "question": "Q5000",
       "name": "Q5000",
-      "label": "What was your occupational status before moving to Germany?",
+      "label": "Please provide the following information about the respondent:",
       "label_de": "Bitte machen Sie folgende Angaben zur Zielperson:",
       "items": [
         {
           "item": "lsex",
-          "text": "What was your occupational status before moving to Germany?",
+          "text": "Please provide the following information about the respondent:",
           "text_de": "Bitte machen Sie folgende Angaben zur Zielperson:",
-          "instruction": "Please answer for your last job before moving.",
           "concept": "lsex",
           "scale": "cat",
           "answers": [
