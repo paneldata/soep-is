@@ -1,4 +1,5 @@
 study,name,label,label_de,description,description_de,analysis_unit,period,value,mode,type_position,type,type_de
+soep-is,soep-is-2022,Questionnaire 2022,Fragebogen 2022,,,,2022,,,,,
 soep-is,soep-is-2020-fgz,Questionnaire 2020 (FGZ),Fragebogen 2020 (FGZ),,,,2020,,,,,
 soep-is,soep-bip-2020-s,"Questionnaire 2020 (BIP, Students)","Fragebogen 2020 (BIP, Schüler*innen)",,,,2020,,,,,
 soep-is,soep-bip-2020-e,"Questionnaire 2020 (BIP, Parents)","Fragebogen 2020 (BIP, Eltern)",,,,2020,,,,,

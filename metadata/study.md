@@ -19,24 +19,16 @@ Richter, David, and Jürgen Schupp. 2015. The SOEP Innovation Sample (SOEP IS). 
 
 ## Study info
 
-The research infrastructure SOEP at DIW Berlin established a longitudinal Innovation Sample (SOEP-IS) in 2011
-for particularly innovative research projects. The SOEP-IS is primarily available for methodical and thematic research that involves too high a risk of non-response for the long-term SOEP study.
-
-SOEP-IS
-* is based on an evaluation conducted by the German Council of Science and Humanities.
-* is a longitudinal sample for particularly innovative survey methods and behavioral experiments.
-
-A two-step module of Governance is established to regulate topics and question modules: first, the SOEP survey
-management runs a basic methodological test to establish whether the size, format, and survey mode outlined in
-a proposal seem appropriate for implementation in the SOEP-IS. The SOEP Survey Committee then checks the
-content of proposals received and prioritizes these for selection purposes.
-Information about SOEP-IS in general and about the application process is published in: SOEP Innovation Sample
-(SOEP-IS) - Description, Structure and Documentation by David Richter and Jürgen Schupp (SOEPpaper 463).
+The SOEP group at DIW Berlin introduced the SOEP-IS panel for short-term experiments but also for long-term surveys that are not possible in the core SOEP—for instance, because they require instruments that are not yet well established or that deal with very specific research topics. In addition to Samples E and I from the core SOEP, which were started in 1998 and 2009, respectively, new samples were drawn in 2012, 2013, 2014 and 2016 to achieve the final number of 5,000 respondents. The annual interviews since 2011 have contained not only questions from the core SOEP but also innovative modules, which are selected in a peer-reviewed competition as of the 2013 survey year to identify the “best” research questions. Some of the many topics include earnings, employment, education, health and more.
 
 ## Method
 
-All samples of SOEP are multi-stage random samples that are regionally clustered. The respondents (households) are selected by random-walk.
-The SOEP-IS is conducted using CAPI exclusively. In principle, an interviewer tries to obtain face-to-face interviews with all members of a given survey household aged 16 and over. Additionally, one person (head of household) is asked to complete a household questionnaire covering information on housing, housing costs, and different sources of income. This also includes some questions about children up to 16 years of age in the household (e.g., kindergarten attendance, elementary school attendance, etc.)
+All samples of SOEP-IS are multi-stage random samples with regional clustering. In the past, households were selected by random-walk (since 2023: register-based sampling).
+Until 2020, data collection was exclusively conducted via CAPI (Computer Assisted Personal Interviewing). No data was collected in 2021. In 2022, infas shifted data collection to CATI (Computer Assisted Telephone Interviewing) and CAWI (Computer Assisted Web Interviewing) with CAPI only available by request or if the telephone number was missing. Generally, all household members of age 18 and older within a sampled household are asked to participate in the surveys. In addition, one household member (head of household / anchor person) is asked to complete a household questionnaire covering information on living conditions, housing costs, and different sources of income. This questionnaire also includes some questions about children in the household up to age 16 (until 2022) or 18 (since 2023), for example, their kindergarten or school attendance.
+
+## Data Collector
+* since 2022: infas - Institut für angewandte Sozialwissenschaft
+* until 2020: Kantar Public Deutschland GmbH
 
 ## Data access
 
@@ -45,12 +37,3 @@ After users have signed or updated their data distribution contract with DIW Ber
 Additional information and all the required forms can be found on the SOEP webpage.
 
 The datasets are available for Stata and SPSS in versions with German and English labels.
-
-### Samples and fieldwork
-
-In 2018, more than 4,800 adult respondents in more than 3,200 households participated in the SOEP-Innovation Sample. Many of these women and men have been answering core SOEP questions since 1998 as part of an extension sample to the SOEP, while others entered in 2009. These individuals provide a wealth of longitudinal data to the SOEP Innovation Sample. Within the framework of the SOEP-Innovation Sample, additional samples were recruited in 2012, 2013, 2014, and 2016.
-
-## Data Collection
-
-The annual fieldwork runs from September to December of each year. The first wave of the first subsample of the SOEP-IS started in September 2011, with a newly developed core questionnaire “SOEP Innovations” and new methods to measure gender stereotypes.
-The overall volume and costs of the surveys conducted in the SOEP-IS are lower than if “fresh” samples were used: central household and individual characteristics, invariant over time, are already available and do not have to be collected again.
