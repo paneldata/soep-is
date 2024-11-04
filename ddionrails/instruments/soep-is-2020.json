@@ -4319,7 +4319,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
@@ -4370,7 +4369,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
@@ -4421,7 +4419,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
@@ -4472,7 +4469,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
@@ -29939,7 +29935,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keine"
             },
             {

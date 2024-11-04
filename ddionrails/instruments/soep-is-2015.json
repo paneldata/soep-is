@@ -612,7 +612,6 @@
             },
             {
               "value": 99,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
@@ -26505,7 +26504,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "keine"
             },
             {
@@ -27672,7 +27670,6 @@
           "answers": [
             {
               "value": 1,
-              "label": "None",
               "label_de": "Keine"
             },
             {
@@ -36631,7 +36628,6 @@
             },
             {
               "value": 28,
-              "label": "None",
               "label_de": "Keiner"
             },
             {
