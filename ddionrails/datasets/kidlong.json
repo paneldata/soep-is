@@ -50,12 +50,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153803.0,
-      "1st Qu.": 8805804.0,
-      "Median": 40495902.0,
-      "Mean": 28310954.002624173,
-      "3rd Qu.": 49009205.0,
-      "Max.": 49059704.0,
-      "valid": 20959,
+      "1st Qu.": 8832903.0,
+      "Median": 40552203.0,
+      "Mean": 28944266.65376763,
+      "3rd Qu.": 49010902.0,
+      "Max.": 69455104.0,
+      "valid": 21552,
       "invalid": 0
     }
   },
@@ -110,12 +110,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 880957.0,
-      "Median": 4049409.0,
-      "Mean": 2823913.53480605,
-      "3rd Qu.": 4900923.0,
-      "Max.": 5565710.0,
-      "valid": 20959,
+      "1st Qu.": 884332.0,
+      "Median": 4053511.0,
+      "Mean": 2888011.9884001487,
+      "3rd Qu.": 4901091.0,
+      "Max.": 6945510.0,
+      "valid": 21552,
       "invalid": 0
     }
   },
@@ -170,12 +170,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200093.0,
-      "1st Qu.": 878901.0,
-      "Median": 4049654.0,
-      "Mean": 2838557.917601031,
-      "3rd Qu.": 4900923.0,
-      "Max.": 4905976.0,
-      "valid": 20959,
+      "1st Qu.": 880523.0,
+      "Median": 4055670.0,
+      "Mean": 2902864.4389383816,
+      "3rd Qu.": 4901091.0,
+      "Max.": 6945510.0,
+      "valid": 21552,
       "invalid": 0
     }
   },
@@ -232,10 +232,10 @@
       "Min.": 1998.0,
       "1st Qu.": 2013.0,
       "Median": 2016.0,
-      "Mean": 2014.869936542774,
-      "3rd Qu.": 2018.0,
-      "Max.": 2022.0,
-      "valid": 20959,
+      "Mean": 2015.0936340014848,
+      "3rd Qu.": 2019.0,
+      "Max.": 2023.0,
+      "valid": 21552,
       "invalid": 0
     }
   },
@@ -290,12 +290,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1211102.0,
-      "1st Qu.": 8764102.0,
-      "Median": 40383001.0,
-      "Mean": 27802836.598601688,
-      "3rd Qu.": 49008901.0,
-      "Max.": 49059701.0,
-      "valid": 19452,
+      "1st Qu.": 8774201.0,
+      "Median": 40470001.0,
+      "Mean": 28506740.659316536,
+      "3rd Qu.": 49010601.0,
+      "Max.": 69455101.0,
+      "valid": 20045,
       "invalid": 1507
     }
   },
@@ -341,7 +341,7 @@
         0,
         0,
         0,
-        3760,
+        3830,
         0
       ]
     },
@@ -350,13 +350,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8706302.0,
-      "Median": 40087202.0,
-      "Mean": 26139975.595462658,
-      "3rd Qu.": 49001602.0,
-      "Max.": 49059705.0,
-      "valid": 15692,
-      "invalid": 5267
+      "1st Qu.": 8732503.0,
+      "Median": 40141202.0,
+      "Mean": 26997166.23965464,
+      "3rd Qu.": 49003802.0,
+      "Max.": 69455102.0,
+      "valid": 16215,
+      "invalid": 5337
     }
   },
   {
@@ -401,7 +401,7 @@
         0,
         0,
         0,
-        310,
+        345,
         0
       ]
     },
@@ -410,13 +410,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8766202.0,
-      "Median": 40379502.0,
-      "Mean": 27735239.493731063,
-      "3rd Qu.": 49009201.0,
-      "Max.": 49059701.0,
-      "valid": 19142,
-      "invalid": 1817
+      "1st Qu.": 8782402.0,
+      "Median": 40451101.0,
+      "Mean": 28416670.74076142,
+      "3rd Qu.": 49010901.0,
+      "Max.": 69455101.0,
+      "valid": 19700,
+      "invalid": 1852
     }
   },
   {
@@ -461,7 +461,7 @@
         0,
         0,
         0,
-        4115,
+        4203,
         0
       ]
     },
@@ -470,13 +470,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1161603.0,
-      "1st Qu.": 8682201.0,
-      "Median": 9791901.0,
-      "Mean": 25670304.12538306,
-      "3rd Qu.": 41822501.0,
-      "Max.": 49059603.0,
-      "valid": 15337,
-      "invalid": 5622
+      "1st Qu.": 8704301.0,
+      "Median": 40096201.0,
+      "Mean": 26539149.54721626,
+      "3rd Qu.": 49001502.0,
+      "Max.": 69455102.0,
+      "valid": 15842,
+      "invalid": 5710
     }
   },
   {
@@ -532,10 +532,10 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 2.0816368496812667,
+      "Mean": 2.0701920678473433,
       "3rd Qu.": 3.0,
       "Max.": 7.0,
-      "valid": 19452,
+      "valid": 20045,
       "invalid": 1507
     }
   },
@@ -590,19 +590,19 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 2011.0,
-      "1st Qu.": 2013.0,
-      "Median": 2016.0,
-      "Mean": 2016.0291666666667,
-      "3rd Qu.": 2019.0,
-      "Max.": 2022.0,
-      "valid": 240,
+      "1st Qu.": 2014.0,
+      "Median": 2017.0,
+      "Mean": 2016.7611044417768,
+      "3rd Qu.": 2020.0,
+      "Max.": 2023.0,
+      "valid": 833,
       "invalid": 20719
     }
   },
   {
     "name": "k_birthy_v2",
     "dataset": "kidlong",
-    "label": "[de] Geburtsjahr [2022]",
+    "label": "[de] Geburtsjahr [2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -646,16 +646,16 @@
       ]
     },
     "scale": "number",
-    "label_de": "Geburtsjahr [2022]",
+    "label_de": "Geburtsjahr [2022-2023]",
     "study": "soep-is",
     "statistics": {
       "Min.": 2011.0,
-      "1st Qu.": 2013.0,
-      "Median": 2016.0,
-      "Mean": 2016.0291666666667,
-      "3rd Qu.": 2019.0,
-      "Max.": 2022.0,
-      "valid": 240,
+      "1st Qu.": 2014.0,
+      "Median": 2017.0,
+      "Mean": 2016.7611044417768,
+      "3rd Qu.": 2020.0,
+      "Max.": 2023.0,
+      "valid": 833,
       "invalid": 20719
     }
   },
@@ -695,7 +695,7 @@
         true
       ],
       "frequencies": [
-        20348,
+        20941,
         0,
         0,
         0,
@@ -716,7 +716,7 @@
       "3rd Qu.": 90.0,
       "Max.": 850.0,
       "valid": 383,
-      "invalid": 20576
+      "invalid": 21169
     }
   },
   {
@@ -769,7 +769,7 @@
         false
       ],
       "frequencies": [
-        20348,
+        20941,
         0,
         0,
         0,
@@ -785,7 +785,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 208,
-      "invalid": 20751
+      "invalid": 21344
     }
   },
   {
@@ -838,7 +838,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -854,7 +854,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 20955
+      "invalid": 21548
     }
   },
   {
@@ -907,7 +907,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -923,7 +923,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 36,
-      "invalid": 20923
+      "invalid": 21516
     }
   },
   {
@@ -976,7 +976,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -992,7 +992,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 161,
-      "invalid": 20798
+      "invalid": 21391
     }
   },
   {
@@ -1045,7 +1045,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1061,7 +1061,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 31,
-      "invalid": 20928
+      "invalid": 21521
     }
   },
   {
@@ -1114,7 +1114,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1130,7 +1130,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 104,
-      "invalid": 20855
+      "invalid": 21448
     }
   },
   {
@@ -1183,7 +1183,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1199,7 +1199,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 20955
+      "invalid": 21548
     }
   },
   {
@@ -1252,7 +1252,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1268,7 +1268,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 22,
-      "invalid": 20937
+      "invalid": 21530
     }
   },
   {
@@ -1321,7 +1321,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1337,7 +1337,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 119,
-      "invalid": 20840
+      "invalid": 21433
     }
   },
   {
@@ -1390,7 +1390,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1406,7 +1406,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 122,
-      "invalid": 20837
+      "invalid": 21430
     }
   },
   {
@@ -1459,7 +1459,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1475,7 +1475,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 29,
-      "invalid": 20930
+      "invalid": 21523
     }
   },
   {
@@ -1528,7 +1528,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1544,7 +1544,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 21,
-      "invalid": 20938
+      "invalid": 21531
     }
   },
   {
@@ -1597,7 +1597,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1613,7 +1613,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 92,
-      "invalid": 20867
+      "invalid": 21460
     }
   },
   {
@@ -1666,7 +1666,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1682,7 +1682,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 83,
-      "invalid": 20876
+      "invalid": 21469
     }
   },
   {
@@ -1735,7 +1735,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1751,7 +1751,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 310,
-      "invalid": 20649
+      "invalid": 21242
     }
   },
   {
@@ -1804,7 +1804,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1820,7 +1820,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 138,
-      "invalid": 20821
+      "invalid": 21414
     }
   },
   {
@@ -1873,7 +1873,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1889,7 +1889,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 34,
-      "invalid": 20925
+      "invalid": 21518
     }
   },
   {
@@ -1942,7 +1942,7 @@
         false
       ],
       "frequencies": [
-        20067,
+        20660,
         0,
         0,
         0,
@@ -1958,7 +1958,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 24,
-      "invalid": 20935
+      "invalid": 21528
     }
   },
   {
@@ -1997,7 +1997,7 @@
         true
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         412,
@@ -2018,7 +2018,7 @@
       "3rd Qu.": 200.0,
       "Max.": 200.0,
       "valid": 7,
-      "invalid": 20952
+      "invalid": 21545
     }
   },
   {
@@ -2057,7 +2057,7 @@
         true
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         412,
@@ -2078,7 +2078,7 @@
       "3rd Qu.": 200.0,
       "Max.": 200.0,
       "valid": 7,
-      "invalid": 20952
+      "invalid": 21545
     }
   },
   {
@@ -2131,7 +2131,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         412,
@@ -2147,7 +2147,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 27,
-      "invalid": 20932
+      "invalid": 21525
     }
   },
   {
@@ -2200,7 +2200,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         412,
@@ -2216,7 +2216,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 27,
-      "invalid": 20932
+      "invalid": 21525
     }
   },
   {
@@ -2275,17 +2275,17 @@
         0,
         0,
         0,
-        152,
+        539,
         0,
-        88
+        294
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung: durch Grosseltern",
     "study": "soep-is",
     "statistics": {
-      "valid": 88,
-      "invalid": 20871
+      "valid": 294,
+      "invalid": 21258
     }
   },
   {
@@ -2344,17 +2344,17 @@
         412,
         0,
         0,
-        3493,
+        4078,
         0,
-        49
+        57
       ]
     },
     "scale": "cat",
     "label_de": "Tagesmutter [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 49,
-      "invalid": 20910
+      "valid": 57,
+      "invalid": 21495
     }
   },
   {
@@ -2407,7 +2407,7 @@
         false
       ],
       "frequencies": [
-        19730,
+        20323,
         0,
         0,
         0,
@@ -2423,13 +2423,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 7,
-      "invalid": 20952
+      "invalid": 21545
     }
   },
   {
     "name": "kc_mindr_v2",
     "dataset": "kidlong",
-    "label": "[de] Tagesmutter ausserhalb des HH [2005-2011, 2022]",
+    "label": "[de] Tagesmutter ausserhalb des HH [2005-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -2482,17 +2482,17 @@
         412,
         0,
         0,
-        2271,
+        2856,
         0,
-        42
+        50
       ]
     },
     "scale": "cat",
-    "label_de": "Tagesmutter ausserhalb des HH [2005-2011, 2022]",
+    "label_de": "Tagesmutter ausserhalb des HH [2005-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 42,
-      "invalid": 20917
+      "valid": 50,
+      "invalid": 21502
     }
   },
   {
@@ -2551,17 +2551,17 @@
         0,
         0,
         0,
-        227,
+        795,
         0,
-        13
+        38
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung: Aeltere Geschwister",
     "study": "soep-is",
     "statistics": {
-      "valid": 13,
-      "invalid": 20946
+      "valid": 38,
+      "invalid": 21514
     }
   },
   {
@@ -2618,7 +2618,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -2635,7 +2635,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 415,
-      "invalid": 20544
+      "invalid": 21137
     }
   },
   {
@@ -2674,7 +2674,7 @@
         true
       ],
       "frequencies": [
-        19058,
+        19651,
         0,
         0,
         412,
@@ -2695,7 +2695,7 @@
       "3rd Qu.": 7.0,
       "Max.": 10.0,
       "valid": 385,
-      "invalid": 20574
+      "invalid": 21167
     }
   },
   {
@@ -2734,7 +2734,7 @@
         true
       ],
       "frequencies": [
-        19058,
+        19651,
         0,
         0,
         412,
@@ -2755,7 +2755,7 @@
       "3rd Qu.": 7.0,
       "Max.": 10.0,
       "valid": 385,
-      "invalid": 20574
+      "invalid": 21167
     }
   },
   {
@@ -2836,7 +2836,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -2859,7 +2859,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 414,
-      "invalid": 20545
+      "invalid": 21138
     }
   },
   {
@@ -2912,7 +2912,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -2928,7 +2928,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 375,
-      "invalid": 20584
+      "invalid": 21177
     }
   },
   {
@@ -2981,7 +2981,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -2997,7 +2997,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 30,
-      "invalid": 20929
+      "invalid": 21522
     }
   },
   {
@@ -3050,7 +3050,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -3066,7 +3066,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5,
-      "invalid": 20954
+      "invalid": 21547
     }
   },
   {
@@ -3119,7 +3119,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -3135,7 +3135,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 20955
+      "invalid": 21548
     }
   },
   {
@@ -3200,7 +3200,7 @@
         false
       ],
       "frequencies": [
-        17249,
+        17842,
         0,
         0,
         0,
@@ -3219,7 +3219,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 75,
-      "invalid": 20884
+      "invalid": 21477
     }
   },
   {
@@ -3276,7 +3276,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3293,7 +3293,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 68,
-      "invalid": 20891
+      "invalid": 21484
     }
   },
   {
@@ -3350,7 +3350,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3367,7 +3367,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2,
-      "invalid": 20957
+      "invalid": 21550
     }
   },
   {
@@ -3424,7 +3424,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3441,7 +3441,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2,
-      "invalid": 20957
+      "invalid": 21550
     }
   },
   {
@@ -3498,7 +3498,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3515,7 +3515,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3,
-      "invalid": 20956
+      "invalid": 21549
     }
   },
   {
@@ -3588,7 +3588,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3609,7 +3609,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 33,
-      "invalid": 20926
+      "invalid": 21519
     }
   },
   {
@@ -3662,7 +3662,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3678,7 +3678,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 13,
-      "invalid": 20946
+      "invalid": 21539
     }
   },
   {
@@ -3731,7 +3731,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3747,7 +3747,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 15,
-      "invalid": 20944
+      "invalid": 21537
     }
   },
   {
@@ -3800,7 +3800,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3816,7 +3816,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4,
-      "invalid": 20955
+      "invalid": 21548
     }
   },
   {
@@ -3869,7 +3869,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         0,
@@ -3885,7 +3885,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1,
-      "invalid": 20958
+      "invalid": 21551
     }
   },
   {
@@ -3950,7 +3950,7 @@
         false
       ],
       "frequencies": [
-        19949,
+        20542,
         0,
         0,
         412,
@@ -3969,7 +3969,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 448,
-      "invalid": 20511
+      "invalid": 21104
     }
   },
   {
@@ -4026,7 +4026,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -4043,7 +4043,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 414,
-      "invalid": 20545
+      "invalid": 21138
     }
   },
   {
@@ -4100,7 +4100,7 @@
         false
       ],
       "frequencies": [
-        20420,
+        21013,
         0,
         0,
         412,
@@ -4117,7 +4117,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 34,
-      "invalid": 20925
+      "invalid": 21518
     }
   },
   {
@@ -4178,7 +4178,7 @@
         false
       ],
       "frequencies": [
-        20791,
+        21384,
         0,
         0,
         0,
@@ -4196,7 +4196,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 156,
-      "invalid": 20803
+      "invalid": 21396
     }
   },
   {
@@ -4259,18 +4259,18 @@
         412,
         0,
         0,
-        931,
-        24,
-        425,
-        2162
+        1250,
+        26,
+        542,
+        2317
       ]
     },
     "scale": "cat",
     "label_de": "Schulbesuch - ganztags [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 2587,
-      "invalid": 18372
+      "valid": 2859,
+      "invalid": 18693
     }
   },
   {
@@ -4331,7 +4331,7 @@
         false
       ],
       "frequencies": [
-        19146,
+        19739,
         0,
         0,
         0,
@@ -4349,13 +4349,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1537,
-      "invalid": 19422
+      "invalid": 20015
     }
   },
   {
     "name": "kd_time_v2",
     "dataset": "kidlong",
-    "label": "[de] Schulbesuch - ganztags [2009-2011, 2022]",
+    "label": "[de] Schulbesuch - ganztags [2009-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -4412,18 +4412,18 @@
         412,
         0,
         0,
-        675,
-        4,
-        258,
-        792
+        994,
+        6,
+        375,
+        947
       ]
     },
     "scale": "cat",
-    "label_de": "Schulbesuch - ganztags [2009-2011, 2022]",
+    "label_de": "Schulbesuch - ganztags [2009-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 1050,
-      "invalid": 19909
+      "valid": 1322,
+      "invalid": 20230
     }
   },
   {
@@ -4462,7 +4462,7 @@
         true
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -4483,7 +4483,7 @@
       "3rd Qu.": 99.25,
       "Max.": 600.0,
       "valid": 86,
-      "invalid": 20873
+      "invalid": 21466
     }
   },
   {
@@ -4522,7 +4522,7 @@
         true
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -4543,7 +4543,7 @@
       "3rd Qu.": 99.25,
       "Max.": 600.0,
       "valid": 86,
-      "invalid": 20873
+      "invalid": 21466
     }
   },
   {
@@ -4638,15 +4638,15 @@
         412,
         0,
         0,
-        1257,
-        0,
-        893,
-        231,
-        434,
-        483,
-        124,
+        1575,
+        3,
+        1098,
+        236,
+        441,
+        524,
+        133,
         14,
-        106,
+        111,
         0,
         0,
         0
@@ -4656,14 +4656,14 @@
     "label_de": "Allgemeine Schule [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 2285,
-      "invalid": 18674
+      "valid": 2557,
+      "invalid": 18995
     }
   },
   {
     "name": "ks_gen_v4",
     "dataset": "kidlong",
-    "label": "[de] Allgemeine Schule [1998-2011, 2022]",
+    "label": "[de] Allgemeine Schule [1998-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -4740,23 +4740,23 @@
         412,
         0,
         0,
-        1257,
-        0,
-        893,
-        231,
-        434,
-        483,
-        124,
+        1575,
+        3,
+        1098,
+        236,
+        441,
+        524,
+        133,
         14,
-        106
+        111
       ]
     },
     "scale": "cat",
-    "label_de": "Allgemeine Schule [1998-2011, 2022]",
+    "label_de": "Allgemeine Schule [1998-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 2285,
-      "invalid": 18674
+      "valid": 2557,
+      "invalid": 18995
     }
   },
   {
@@ -4829,7 +4829,7 @@
         false
       ],
       "frequencies": [
-        19146,
+        19739,
         0,
         0,
         0,
@@ -4850,7 +4850,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 246,
-      "invalid": 20713
+      "invalid": 21306
     }
   },
   {
@@ -4903,7 +4903,7 @@
         false
       ],
       "frequencies": [
-        19146,
+        19739,
         0,
         0,
         0,
@@ -4919,13 +4919,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 246,
-      "invalid": 20713
+      "invalid": 21306
     }
   },
   {
     "name": "ks_none_v3",
     "dataset": "kidlong",
-    "label": "[de] Schulbesuch [2022]",
+    "label": "[de] Schulbesuch [2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -4982,18 +4982,18 @@
         0,
         0,
         0,
-        113,
-        0,
-        7,
-        120
+        389,
+        3,
+        17,
+        424
       ]
     },
     "scale": "cat",
-    "label_de": "Schulbesuch [2022]",
+    "label_de": "Schulbesuch [2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 127,
-      "invalid": 20832
+      "valid": 441,
+      "invalid": 21111
     }
   },
   {
@@ -5060,19 +5060,19 @@
         0,
         0,
         0,
-        131,
-        0,
-        3,
-        5,
-        101
+        450,
+        1,
+        18,
+        17,
+        347
       ]
     },
     "scale": "cat",
     "label_de": "Art der Schule",
     "study": "soep-is",
     "statistics": {
-      "valid": 109,
-      "invalid": 20850
+      "valid": 382,
+      "invalid": 21170
     }
   },
   {
@@ -5141,7 +5141,7 @@
         false
       ],
       "frequencies": [
-        18395,
+        18988,
         0,
         0,
         0,
@@ -5161,7 +5161,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 20959
+      "invalid": 21552
     }
   },
   {
@@ -5346,7 +5346,7 @@
         false
       ],
       "frequencies": [
-        1747,
+        2340,
         0,
         0,
         0,
@@ -5395,7 +5395,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 19200,
-      "invalid": 1759
+      "invalid": 2352
     }
   },
   {
@@ -5492,7 +5492,7 @@
         false
       ],
       "frequencies": [
-        17245,
+        17838,
         0,
         0,
         0,
@@ -5519,7 +5519,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3714,
-      "invalid": 17245
+      "invalid": 17838
     }
   },
   {
@@ -5688,7 +5688,7 @@
         false
       ],
       "frequencies": [
-        5461,
+        6054,
         0,
         0,
         0,
@@ -5733,7 +5733,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 15486,
-      "invalid": 5473
+      "invalid": 6066
     }
   },
   {
@@ -5772,7 +5772,7 @@
         true
       ],
       "frequencies": [
-        1747,
+        2340,
         0,
         0,
         0,
@@ -5793,7 +5793,7 @@
       "3rd Qu.": 5.0,
       "Max.": 9.0,
       "valid": 19212,
-      "invalid": 1747
+      "invalid": 2340
     }
   },
   {
@@ -5832,7 +5832,7 @@
         true
       ],
       "frequencies": [
-        1747,
+        2340,
         0,
         0,
         0,
@@ -5853,7 +5853,7 @@
       "3rd Qu.": 4.0,
       "Max.": 10.0,
       "valid": 19212,
-      "invalid": 1747
+      "invalid": 2340
     }
   },
   {
@@ -5898,7 +5898,7 @@
         0,
         0,
         0,
-        96,
+        579,
         0
       ]
     },
@@ -5906,14 +5906,14 @@
     "label_de": "Interviewer-ID",
     "study": "soep-is",
     "statistics": {
-      "Min.": 41.0,
-      "1st Qu.": 240.0,
-      "Median": 2541.0,
-      "Mean": 3629.8819444444443,
-      "3rd Qu.": 4935.5,
-      "Max.": 18782.0,
-      "valid": 144,
-      "invalid": 20815
+      "Min.": 2.0,
+      "1st Qu.": 171.0,
+      "Median": 324.0,
+      "Mean": 3291.8700787401576,
+      "3rd Qu.": 3802.0,
+      "Max.": 19944.0,
+      "valid": 254,
+      "invalid": 21298
     }
   },
   {
@@ -5972,17 +5972,17 @@
         0,
         0,
         0,
-        52,
+        184,
         0,
-        188
+        649
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung: Sie selbst",
     "study": "soep-is",
     "statistics": {
-      "valid": 188,
-      "invalid": 20771
+      "valid": 649,
+      "invalid": 20903
     }
   },
   {
@@ -6041,17 +6041,17 @@
         0,
         0,
         0,
-        217,
+        767,
         0,
-        23
+        66
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung: Vater / Mutter des Kindes",
     "study": "soep-is",
     "statistics": {
-      "valid": 23,
-      "invalid": 20936
+      "valid": 66,
+      "invalid": 21486
     }
   },
   {
@@ -6126,27 +6126,27 @@
         0,
         0,
         0,
-        16222,
+        16754,
         0,
-        414,
-        70,
-        31,
-        2297,
-        69
+        437,
+        87,
+        43,
+        2302,
+        73
       ]
     },
     "scale": "cat",
     "label_de": "Kinderbetreuung durch andere Personen [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 2881,
-      "invalid": 18078
+      "valid": 2942,
+      "invalid": 18610
     }
   },
   {
     "name": "kc_care_v2",
     "dataset": "kidlong",
-    "label": "[de] Betreuung: Verwandte [1999-2002, 2004-2011, 2022]",
+    "label": "[de] Betreuung: Verwandte [1999-2002, 2004-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -6199,23 +6199,23 @@
         412,
         0,
         0,
-        2712,
+        3278,
         0,
-        481
+        508
       ]
     },
     "scale": "cat",
-    "label_de": "Betreuung: Verwandte [1999-2002, 2004-2011, 2022]",
+    "label_de": "Betreuung: Verwandte [1999-2002, 2004-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 481,
-      "invalid": 20478
+      "valid": 508,
+      "invalid": 21044
     }
   },
   {
     "name": "kc_care_v3",
     "dataset": "kidlong",
-    "label": "[de] Betreuung: Freunde, Bekannte, Nachbarn [1999-2002, 2004-2011, 2022]",
+    "label": "[de] Betreuung: Freunde, Bekannte, Nachbarn [1999-2002, 2004-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -6268,23 +6268,23 @@
         412,
         0,
         0,
-        3057,
+        3629,
         0,
-        136
+        157
       ]
     },
     "scale": "cat",
-    "label_de": "Betreuung: Freunde, Bekannte, Nachbarn [1999-2002, 2004-2011, 2022]",
+    "label_de": "Betreuung: Freunde, Bekannte, Nachbarn [1999-2002, 2004-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 136,
-      "invalid": 20823
+      "valid": 157,
+      "invalid": 21395
     }
   },
   {
     "name": "kc_care_v4",
     "dataset": "kidlong",
-    "label": "[de] Betreuung: Bezahlte Betr.person kommt ins Haus [1999-2002, 2004-2011, 2022]",
+    "label": "[de] Betreuung: Bezahlte Betr.person kommt ins Haus [1999-2002, 2004-2011, 2022-",
     "categories": {
       "values": [
         -8,
@@ -6337,23 +6337,23 @@
         412,
         0,
         0,
-        3155,
+        3736,
         0,
-        38
+        50
       ]
     },
     "scale": "cat",
-    "label_de": "Betreuung: Bezahlte Betr.person kommt ins Haus [1999-2002, 2004-2011, 2022]",
+    "label_de": "Betreuung: Bezahlte Betr.person kommt ins Haus [1999-2002, 2004-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 38,
-      "invalid": 20921
+      "valid": 50,
+      "invalid": 21502
     }
   },
   {
     "name": "kc_care_v5",
     "dataset": "kidlong",
-    "label": "[de] Betreuung: Keine externe Betreuung [1999-2002, 2004-2011, 2022]",
+    "label": "[de] Betreuung: Keine externe Betreuung [1999-2002, 2004-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -6406,17 +6406,17 @@
         412,
         0,
         0,
-        830,
+        1418,
         66,
-        2297
+        2302
       ]
     },
     "scale": "cat",
-    "label_de": "Betreuung: Keine externe Betreuung [1999-2002, 2004-2011, 2022]",
+    "label_de": "Betreuung: Keine externe Betreuung [1999-2002, 2004-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 2297,
-      "invalid": 18662
+      "valid": 2302,
+      "invalid": 19250
     }
   },
   {
@@ -6479,24 +6479,24 @@
         0,
         0,
         0,
-        131,
-        1,
-        61,
-        47
+        450,
+        5,
+        208,
+        170
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung im Schulhort [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 108,
-      "invalid": 20851
+      "valid": 378,
+      "invalid": 21174
     }
   },
   {
     "name": "ks_asc_v2",
     "dataset": "kidlong",
-    "label": "[de] Derzeit Hortbesuch [2022]",
+    "label": "[de] Derzeit Hortbesuch [2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -6553,18 +6553,18 @@
         0,
         0,
         0,
-        131,
-        1,
-        61,
-        47
+        450,
+        5,
+        208,
+        170
       ]
     },
     "scale": "cat",
-    "label_de": "Derzeit Hortbesuch [2022]",
+    "label_de": "Derzeit Hortbesuch [2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 108,
-      "invalid": 20851
+      "valid": 378,
+      "invalid": 21174
     }
   },
   {
@@ -6609,8 +6609,8 @@
         0,
         0,
         0,
-        179,
-        0
+        625,
+        2
       ]
     },
     "scale": "number",
@@ -6618,13 +6618,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 2.0,
-      "1st Qu.": 10.0,
-      "Median": 13.0,
-      "Mean": 14.065573770491802,
-      "3rd Qu.": 16.0,
-      "Max.": 45.0,
-      "valid": 61,
-      "invalid": 20898
+      "1st Qu.": 6.0,
+      "Median": 10.0,
+      "Mean": 12.805825242718447,
+      "3rd Qu.": 15.0,
+      "Max.": 48.0,
+      "valid": 206,
+      "invalid": 21346
     }
   },
   {
@@ -6677,7 +6677,7 @@
         false
       ],
       "frequencies": [
-        19146,
+        19739,
         0,
         0,
         0,
@@ -6693,13 +6693,13 @@
     "study": "soep-is",
     "statistics": {
       "valid": 324,
-      "invalid": 20635
+      "invalid": 21228
     }
   },
   {
     "name": "ks_pre_v6",
     "dataset": "kidlong",
-    "label": "[de] Krippe, Kindergarten, Hort [2009-2011, 2022]",
+    "label": "[de] Krippe, Kindergarten, Hort [2009-2011, 2022-2023]",
     "categories": {
       "values": [
         -8,
@@ -6756,24 +6756,24 @@
         412,
         0,
         0,
-        1148,
-        76,
-        485,
-        20
+        1437,
+        77,
+        703,
+        105
       ]
     },
     "scale": "cat",
-    "label_de": "Krippe, Kindergarten, Hort [2009-2011, 2022]",
+    "label_de": "Krippe, Kindergarten, Hort [2009-2011, 2022-2023]",
     "study": "soep-is",
     "statistics": {
-      "valid": 505,
-      "invalid": 20454
+      "valid": 808,
+      "invalid": 20744
     }
   },
   {
     "name": "kc_kindbetr",
     "dataset": "kidlong",
-    "label": "[de] 1. Kind Besuch Kinderkrippe, Kindergarten, Kindertageseinricht. Std/Woche",
+    "label": "[de] Besuch Kinderkrippe, Kindergarten, Kindertageseinricht. Std/Woche",
     "categories": {
       "values": [
         -8,
@@ -6812,22 +6812,22 @@
         0,
         0,
         0,
-        140,
-        0
+        515,
+        2
       ]
     },
     "scale": "number",
-    "label_de": "1. Kind Besuch Kinderkrippe, Kindergarten, Kindertageseinricht. Std/Woche",
+    "label_de": "Besuch Kinderkrippe, Kindergarten, Kindertageseinricht. Std/Woche",
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
-      "1st Qu.": 5.75,
-      "Median": 7.0,
-      "Mean": 7.8,
-      "3rd Qu.": 8.0,
-      "Max.": 24.0,
-      "valid": 100,
-      "invalid": 20859
+      "1st Qu.": 7.0,
+      "Median": 25.0,
+      "Mean": 22.901898734177216,
+      "3rd Qu.": 35.0,
+      "Max.": 56.0,
+      "valid": 316,
+      "invalid": 21236
     }
   },
   {
@@ -6886,17 +6886,17 @@
         0,
         0,
         0,
-        83,
+        291,
         0,
-        157
+        542
       ]
     },
     "scale": "cat",
     "label_de": "Betreuung: Partner / Partnerin",
     "study": "soep-is",
     "statistics": {
-      "valid": 157,
-      "invalid": 20802
+      "valid": 542,
+      "invalid": 21010
     }
   },
   {
@@ -6949,7 +6949,7 @@
         false
       ],
       "frequencies": [
-        20488,
+        21081,
         0,
         0,
         0,
@@ -6965,7 +6965,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 375,
-      "invalid": 20584
+      "invalid": 21177
     }
   },
   {
@@ -7022,7 +7022,7 @@
         false
       ],
       "frequencies": [
-        19058,
+        19651,
         0,
         0,
         412,
@@ -7035,11 +7035,11 @@
       ]
     },
     "scale": "cat",
-    "label_de": "keine dieser Einrichtungen",
+    "label_de": "keine dieser Einrichtungen [IS]",
     "study": "soep-is",
     "statistics": {
       "valid": 498,
-      "invalid": 20461
+      "invalid": 21054
     }
   },
   {

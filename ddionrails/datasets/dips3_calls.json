@@ -1,0 +1,377 @@
+[
+  {
+    "name": "pid",
+    "dataset": "dips3_calls",
+    "label": "Person ID",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Person ID",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1233703.0,
+      "1st Qu.": 9390101.0,
+      "Median": 40923001.0,
+      "Mean": 29954813.77014474,
+      "3rd Qu.": 41753301.0,
+      "Max.": 41833601.0,
+      "valid": 4629,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "subsample",
+    "dataset": "dips3_calls",
+    "label": "Subsample",
+    "categories": {
+      "values": [
+        0,
+        1
+      ],
+      "labels": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "labels_de": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        3755,
+        874
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Subsample",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4629,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "syear",
+    "dataset": "dips3_calls",
+    "label": "Survey Year",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Survey Year",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2022.0,
+      "1st Qu.": 2022.0,
+      "Median": 2022.0,
+      "Mean": 2022.0,
+      "3rd Qu.": 2022.0,
+      "Max.": 2022.0,
+      "valid": 4629,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_days",
+    "dataset": "dips3_calls",
+    "label": "Study Day Count",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Study Day Count",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 4.0,
+      "Median": 7.0,
+      "Mean": 7.24951393389501,
+      "3rd Qu.": 11.0,
+      "Max.": 15.0,
+      "valid": 4629,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_call",
+    "dataset": "dips3_calls",
+    "label": "Call Count ID",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Call Count ID",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 1.0,
+      "Median": 2.0,
+      "Mean": 2.82350399654353,
+      "3rd Qu.": 3.0,
+      "Max.": 32.0,
+      "valid": 4629,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_diary",
+    "dataset": "dips3_calls",
+    "label": "Questionnaire Count",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Questionnaire Count",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 3.0,
+      "Median": 6.0,
+      "Mean": 6.768857010643221,
+      "3rd Qu.": 10.0,
+      "Max.": 14.0,
+      "valid": 4322,
+      "invalid": 307
+    }
+  },
+  {
+    "name": "day",
+    "dataset": "dips3_calls",
+    "label": "Day of the Week",
+    "categories": {
+      "values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[0] Monday",
+        "[1] Tuesday",
+        "[2] Wednesday",
+        "[3] Thursday",
+        "[4] Friday",
+        "[5] Saturday",
+        "[6] Sunday"
+      ],
+      "labels_de": [
+        "[0] Monday",
+        "[1] Tuesday",
+        "[2] Wednesday",
+        "[3] Thursday",
+        "[4] Friday",
+        "[5] Saturday",
+        "[6] Sunday"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        788,
+        736,
+        671,
+        708,
+        669,
+        440,
+        310
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Day of the Week",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4322,
+      "invalid": 307
+    }
+  },
+  {
+    "name": "weekend",
+    "dataset": "dips3_calls",
+    "label": "Weekend",
+    "categories": {
+      "values": [
+        0,
+        1
+      ],
+      "labels": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "labels_de": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        3572,
+        750
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Weekend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4322,
+      "invalid": 307
+    }
+  },
+  {
+    "name": "trig_partner",
+    "dataset": "dips3_calls",
+    "label": "Type of Interaction Partner",
+    "categories": {
+      "values": [
+        -2,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-2] Does not apply",
+        "[1] Partner",
+        "[2] Children",
+        "[3] Other family members",
+        "[4] Friends",
+        "[5] Coworkers",
+        "[6] Strangers",
+        "[7] Others"
+      ],
+      "labels_de": [
+        "[-2] Does not apply",
+        "[1] Partner",
+        "[2] Children",
+        "[3] Other family members",
+        "[4] Friends",
+        "[5] Coworkers",
+        "[6] Strangers",
+        "[7] Others"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        340,
+        885,
+        485,
+        714,
+        725,
+        499,
+        411,
+        570
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Type of Interaction Partner",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4289,
+      "invalid": 340
+    }
+  },
+  {
+    "name": "trig_valence",
+    "dataset": "dips3_calls",
+    "label": "Valence of Call",
+    "categories": {
+      "values": [
+        -2,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "labels": [
+        "[-2] Does not apply",
+        "[1] 1 = unpleasant",
+        "[2] 2",
+        "[3] 3",
+        "[4] 4",
+        "[5] 5",
+        "[6] 6",
+        "[7] 7 = pleasant"
+      ],
+      "labels_de": [
+        "[-2] Does not apply",
+        "[1] 1 = unpleasant",
+        "[2] 2",
+        "[3] 3",
+        "[4] 4",
+        "[5] 5",
+        "[6] 6",
+        "[7] 7 = pleasant"
+      ],
+      "missings": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        378,
+        86,
+        95,
+        139,
+        388,
+        663,
+        1067,
+        1813
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Valence of Call",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 4251,
+      "invalid": 378
+    }
+  }
+]

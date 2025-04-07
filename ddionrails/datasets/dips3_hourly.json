@@ -1,0 +1,1545 @@
+[
+  {
+    "name": "pid",
+    "dataset": "dips3_hourly",
+    "label": "Person ID",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Person ID",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1233703.0,
+      "1st Qu.": 9359902.0,
+      "Median": 40854301.0,
+      "Mean": 29503621.58141641,
+      "3rd Qu.": 41685001.0,
+      "Max.": 41833601.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "subsample",
+    "dataset": "dips3_hourly",
+    "label": "Subsample",
+    "categories": {
+      "values": [
+        0,
+        1
+      ],
+      "labels": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "labels_de": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        109559,
+        25162
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Subsample",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "syear",
+    "dataset": "dips3_hourly",
+    "label": "Survey Year",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Survey Year",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 2022.0,
+      "1st Qu.": 2022.0,
+      "Median": 2022.0,
+      "Mean": 2022.0,
+      "3rd Qu.": 2022.0,
+      "Max.": 2022.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "day",
+    "dataset": "dips3_hourly",
+    "label": "Day of the Week",
+    "categories": {
+      "values": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "labels": [
+        "[0] Monday",
+        "[1] Tuesday",
+        "[2] Wednesday",
+        "[3] Thursday",
+        "[4] Friday",
+        "[5] Saturday",
+        "[6] Sunday"
+      ],
+      "labels_de": [
+        "[0] Monday",
+        "[1] Tuesday",
+        "[2] Wednesday",
+        "[3] Thursday",
+        "[4] Friday",
+        "[5] Saturday",
+        "[6] Sunday"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        19103,
+        19083,
+        19338,
+        19648,
+        19307,
+        19135,
+        19107
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Day of the Week",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "weekend",
+    "dataset": "dips3_hourly",
+    "label": "Weekend",
+    "categories": {
+      "values": [
+        0,
+        1
+      ],
+      "labels": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "labels_de": [
+        "[0] no",
+        "[1] yes"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "frequencies": [
+        96479,
+        38242
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Weekend",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_days",
+    "dataset": "dips3_hourly",
+    "label": "Study Day Count",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Study Day Count",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 4.0,
+      "Median": 7.0,
+      "Mean": 7.215485258264306,
+      "3rd Qu.": 11.0,
+      "Max.": 16.0,
+      "valid": 132074,
+      "invalid": 2647
+    }
+  },
+  {
+    "name": "n_hour",
+    "dataset": "dips3_hourly",
+    "label": "Hour of the day",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Hour of the day",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 1.0,
+      "1st Qu.": 6.0,
+      "Median": 12.0,
+      "Mean": 12.240007125837842,
+      "3rd Qu.": 18.0,
+      "Max.": 24.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_aware",
+    "dataset": "dips3_hourly",
+    "label": "AWARE Conversations: Samplings",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "AWARE Conversations: Samplings",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 1.0,
+      "Mean": 6.13273357531491,
+      "3rd Qu.": 9.0,
+      "Max.": 81.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "n_voice",
+    "dataset": "dips3_hourly",
+    "label": "AWARE Conversations: Conv. Detected",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "AWARE Conversations: Conv. Detected",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 1.0415748101632263,
+      "3rd Qu.": 0.0,
+      "Max.": 61.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "prop_voice",
+    "dataset": "dips3_hourly",
+    "label": "Proportion of Conversations",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Proportion of Conversations",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.03473244193691458,
+      "3rd Qu.": 0.0,
+      "Max.": 1.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "comm_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Communication Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Communication Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 1.4923908109274653,
+      "3rd Qu.": 2.0,
+      "Max.": 109.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "comm_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Communication Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Communication Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.8442922030291677,
+      "3rd Qu.": 0.3106500029563904,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "socmed_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Social Media Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Social Media Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.4584192235278359,
+      "3rd Qu.": 0.0,
+      "Max.": 62.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "socmed_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Social Media Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Social Media Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.4242298390593032,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "audio_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Audio Entertainment Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Audio Entertainment Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.09191305059645624,
+      "3rd Qu.": 0.0,
+      "Max.": 41.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "audio_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Audio Entertainment Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Audio Entertainment Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0392827740851239,
+      "3rd Qu.": 0.0,
+      "Max.": 47.83230000336965,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "career_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Career Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Career Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.012777484242095,
+      "3rd Qu.": 0.0,
+      "Max.": 17.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "career_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Career Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Career Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.004575186850911779,
+      "3rd Qu.": 0.0,
+      "Max.": 13.791266667842866,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "create_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Creativity Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Creativity Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0032892533692521785,
+      "3rd Qu.": 0.0,
+      "Max.": 13.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "create_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Creativity Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Creativity Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.004648215096488164,
+      "3rd Qu.": 0.0,
+      "Max.": 33.53573333024978,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "dating_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Dating Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Dating Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.01705649032200451,
+      "3rd Qu.": 0.0,
+      "Max.": 38.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "dating_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Dating Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Dating Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.012406234697108965,
+      "3rd Qu.": 0.0,
+      "Max.": 48.19768333037694,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "finance_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Finance Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Finance Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.06445299418799348,
+      "3rd Qu.": 0.0,
+      "Max.": 33.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "finance_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Finance Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Finance Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.03251831228896513,
+      "3rd Qu.": 0.0,
+      "Max.": 42.15794999599457,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "food_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Food Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Food Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.021581074142152303,
+      "3rd Qu.": 0.0,
+      "Max.": 20.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "food_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Food Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Food Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.012883724273718585,
+      "3rd Qu.": 0.0,
+      "Max.": 17.818049999078116,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "game_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Game Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Game Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.09761343086986612,
+      "3rd Qu.": 0.0,
+      "Max.": 66.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "game_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Game Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Game Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0895429793292448,
+      "3rd Qu.": 0.0,
+      "Max.": 51.35296667019526,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "health_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Health Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Health Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.04971832977369639,
+      "3rd Qu.": 0.0,
+      "Max.": 45.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "health_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Health Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Health Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.02891990072449575,
+      "3rd Qu.": 0.0,
+      "Max.": 42.70180000464122,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "internet_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Internet Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Internet Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.39334856411439456,
+      "3rd Qu.": 0.0,
+      "Max.": 46.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "internet_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Internet Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Internet Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.3128566282400716,
+      "3rd Qu.": 0.0,
+      "Max.": 59.48856666485469,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "know_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Knowledge Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Knowledge Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.015657441377616706,
+      "3rd Qu.": 0.0,
+      "Max.": 26.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "know_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Knowledge Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Knowledge Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.01422585412781517,
+      "3rd Qu.": 0.0,
+      "Max.": 44.4092666665713,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "news_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "News Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "News Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.07586863823422163,
+      "3rd Qu.": 0.0,
+      "Max.": 18.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "news_app_time",
+    "dataset": "dips3_hourly",
+    "label": "News Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "News Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.066038269569977,
+      "3rd Qu.": 0.0,
+      "Max.": 41.39405000209808,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "orientat_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Orientation Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Orientation Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.050737849483170484,
+      "3rd Qu.": 0.0,
+      "Max.": 26.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "orientat_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Orientation Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Orientation Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.027592554530641415,
+      "3rd Qu.": 0.0,
+      "Max.": 54.87571666638056,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "photo_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Photography Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Photography Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.19271155033971588,
+      "3rd Qu.": 0.0,
+      "Max.": 63.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "photo_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Photography Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Photography Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.06808758542606948,
+      "3rd Qu.": 0.0,
+      "Max.": 51.983333333333334,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "read_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Reading Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Reading Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.003497622360969511,
+      "3rd Qu.": 0.0,
+      "Max.": 11.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "read_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Reading Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Reading Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0016681015598679948,
+      "3rd Qu.": 0.0,
+      "Max.": 31.563150000572204,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "security_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Security Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Security Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.05544103529621885,
+      "3rd Qu.": 0.0,
+      "Max.": 120.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "security_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Security Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Security Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.09998133733256223,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "settings_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Settings Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Settings Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.06782410680399176,
+      "3rd Qu.": 0.0,
+      "Max.": 162.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "settings_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Settings Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Settings Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.04056865795374672,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "shop_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Shopping Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Shopping Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.10529331656459066,
+      "3rd Qu.": 0.0,
+      "Max.": 51.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "shop_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Shopping Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Shopping Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.07802724064887269,
+      "3rd Qu.": 0.0,
+      "Max.": 59.649200002352394,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "spirit_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Spirituality Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Spirituality Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0005506894781100932,
+      "3rd Qu.": 0.0,
+      "Max.": 4.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "spirit_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Spirituality Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Spirituality Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.0005575677634233563,
+      "3rd Qu.": 0.0,
+      "Max.": 9.145133328437804,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "time_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Time Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Time Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.10972115763858398,
+      "3rd Qu.": 0.0,
+      "Max.": 21.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "time_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Time Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Time Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.028029948453445138,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "tools_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Tools Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Tools Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.197131949664005,
+      "3rd Qu.": 0.0,
+      "Max.": 52.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "tools_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Tools Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Tools Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.10731991226738993,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "transport_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Transport Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Transport Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.019869471710188498,
+      "3rd Qu.": 0.0,
+      "Max.": 16.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "transport_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Transport Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Transport Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.009418364253969896,
+      "3rd Qu.": 0.0,
+      "Max.": 15.867766670385997,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "visual_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Visual Entertainment Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Visual Entertainment Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.08720986478340788,
+      "3rd Qu.": 0.0,
+      "Max.": 21.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "visual_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Visual Entertainment Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Visual Entertainment Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.08808553187528971,
+      "3rd Qu.": 0.0,
+      "Max.": 60.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "weather_app_freq",
+    "dataset": "dips3_hourly",
+    "label": "Weather Apps: Frequency",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Weather Apps: Frequency",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.02453544877471591,
+      "3rd Qu.": 0.0,
+      "Max.": 17.0,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "weather_app_time",
+    "dataset": "dips3_hourly",
+    "label": "Weather Apps: Duration",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Weather Apps: Duration",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.011316152317018987,
+      "3rd Qu.": 0.0,
+      "Max.": 43.132066667079926,
+      "valid": 134377,
+      "invalid": 344
+    }
+  },
+  {
+    "name": "texts_outgoing_freq",
+    "dataset": "dips3_hourly",
+    "label": "Number of Texts Sent",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Number of Texts Sent",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 0.31690679255646853,
+      "3rd Qu.": 0.0,
+      "Max.": 50.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  },
+  {
+    "name": "texts_outgoing_length",
+    "dataset": "dips3_hourly",
+    "label": "Character Count of Texts Sent",
+    "categories": {
+      "values": [],
+      "labels": [],
+      "missings": [],
+      "frequencies": []
+    },
+    "scale": "number",
+    "label_de": "Character Count of Texts Sent",
+    "study": "soep-is",
+    "statistics": {
+      "Min.": 0.0,
+      "1st Qu.": 0.0,
+      "Median": 0.0,
+      "Mean": 17.605072705814237,
+      "3rd Qu.": 0.0,
+      "Max.": 49830.0,
+      "valid": 134721,
+      "invalid": 0
+    }
+  }
+]

@@ -50,12 +50,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 863637.0,
-      "Median": 953997.0,
-      "Mean": 2209991.1978123384,
-      "3rd Qu.": 4102300.0,
-      "Max.": 4905976.0,
-      "valid": 44431,
+      "1st Qu.": 866954.0,
+      "Median": 964484.0,
+      "Mean": 2405752.351198048,
+      "3rd Qu.": 4117013.0,
+      "Max.": 6945510.0,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -110,12 +110,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 865656.0,
-      "Median": 946842.0,
-      "Mean": 2177586.804078234,
-      "3rd Qu.": 4101296.5,
-      "Max.": 5566650.0,
-      "valid": 44431,
+      "1st Qu.": 868965.0,
+      "Median": 958867.0,
+      "Mean": 2375475.7304443936,
+      "3rd Qu.": 4116530.0,
+      "Max.": 6945510.0,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -170,12 +170,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1998.0,
-      "1st Qu.": 2012.0,
-      "Median": 2015.0,
-      "Mean": 2014.3498908419797,
-      "3rd Qu.": 2018.0,
-      "Max.": 2022.0,
-      "valid": 44431,
+      "1st Qu.": 2013.0,
+      "Median": 2016.0,
+      "Mean": 2014.9852146893834,
+      "3rd Qu.": 2019.0,
+      "Max.": 2023.0,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -232,10 +232,10 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 2.255542301546218,
+      "Mean": 2.2509123516776843,
       "3rd Qu.": 3.0,
       "Max.": 9.0,
-      "valid": 44431,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -281,7 +281,7 @@
         0,
         0,
         0,
-        35205,
+        38173,
         0
       ]
     },
@@ -292,11 +292,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.5892044305801392,
+      "Mean": 1.585480572597137,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 9226,
-      "invalid": 35205
+      "valid": 9780,
+      "invalid": 38173
     }
   },
   {
@@ -341,7 +341,7 @@
         0,
         0,
         0,
-        33628,
+        36506,
         0
       ]
     },
@@ -352,11 +352,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 1.6674071550369263,
+      "Mean": 1.6612212806848956,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 10803,
-      "invalid": 33628
+      "valid": 11447,
+      "invalid": 36506
     }
   },
   {
@@ -395,14 +395,14 @@
         true
       ],
       "frequencies": [
-        1640,
+        2818,
         0,
         0,
         1009,
         0,
         16,
-        2086,
-        1011
+        3805,
+        1480
       ]
     },
     "scale": "number",
@@ -410,13 +410,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1917.0,
-      "1st Qu.": 1985.0,
+      "1st Qu.": 1986.0,
       "Median": 2001.0,
-      "Mean": 1996.2036515037885,
+      "Mean": 1996.3069671603348,
       "3rd Qu.": 2010.0,
-      "Max.": 2022.0,
-      "valid": 38669,
-      "invalid": 5762
+      "Max.": 2023.0,
+      "valid": 38825,
+      "invalid": 9128
     }
   },
   {
@@ -501,31 +501,31 @@
         false
       ],
       "frequencies": [
-        1457,
+        2458,
         0,
         0,
         4100,
         0,
         0,
-        2127,
-        1836,
-        4488,
-        4904,
-        10669,
-        5582,
-        3591,
-        3543,
-        1486,
-        637,
-        11
+        2408,
+        2266,
+        4697,
+        5090,
+        11121,
+        5827,
+        3765,
+        3768,
+        1625,
+        777,
+        51
       ]
     },
     "scale": "cat",
     "label_de": "Baujahr des Hauses",
     "study": "soep-is",
     "statistics": {
-      "valid": 34911,
-      "invalid": 9520
+      "valid": 36721,
+      "invalid": 11232
     }
   },
   {
@@ -593,7 +593,7 @@
         0,
         0,
         0,
-        34738,
+        38260,
         0,
         0,
         0,
@@ -609,7 +609,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9680,
-      "invalid": 34751
+      "invalid": 38273
     }
   },
   {
@@ -681,7 +681,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -698,7 +698,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8636,
-      "invalid": 35795
+      "invalid": 39317
     }
   },
   {
@@ -758,7 +758,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -772,7 +772,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 35796
+      "invalid": 39318
     }
   },
   {
@@ -832,7 +832,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -846,7 +846,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 35796
+      "invalid": 39318
     }
   },
   {
@@ -906,7 +906,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -920,7 +920,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5895,
-      "invalid": 38536
+      "invalid": 42058
     }
   },
   {
@@ -980,7 +980,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -994,7 +994,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8633,
-      "invalid": 35798
+      "invalid": 39320
     }
   },
   {
@@ -1054,7 +1054,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -1068,7 +1068,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8610,
-      "invalid": 35821
+      "invalid": 39343
     }
   },
   {
@@ -1128,7 +1128,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -1142,7 +1142,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8621,
-      "invalid": 35810
+      "invalid": 39332
     }
   },
   {
@@ -1202,7 +1202,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -1216,7 +1216,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8626,
-      "invalid": 35805
+      "invalid": 39327
     }
   },
   {
@@ -1276,7 +1276,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -1290,7 +1290,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8628,
-      "invalid": 35803
+      "invalid": 39325
     }
   },
   {
@@ -1350,7 +1350,7 @@
         0,
         0,
         0,
-        34738,
+        38260,
         0,
         0,
         0,
@@ -1364,7 +1364,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9393,
-      "invalid": 35038
+      "invalid": 38560
     }
   },
   {
@@ -1424,7 +1424,7 @@
         0,
         0,
         0,
-        38173,
+        41695,
         0,
         0,
         0,
@@ -1438,7 +1438,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5835,
-      "invalid": 38596
+      "invalid": 42118
     }
   },
   {
@@ -1498,7 +1498,7 @@
         0,
         0,
         0,
-        39499,
+        43021,
         0,
         0,
         0,
@@ -1512,7 +1512,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 39506
+      "invalid": 43028
     }
   },
   {
@@ -1572,7 +1572,7 @@
         0,
         0,
         0,
-        39499,
+        43021,
         0,
         0,
         0,
@@ -1586,7 +1586,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 39506
+      "invalid": 43028
     }
   },
   {
@@ -1646,7 +1646,7 @@
         0,
         0,
         0,
-        40397,
+        43919,
         0,
         0,
         0,
@@ -1660,7 +1660,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4020,
-      "invalid": 40411
+      "invalid": 43933
     }
   },
   {
@@ -1720,7 +1720,7 @@
         0,
         0,
         0,
-        40397,
+        43919,
         0,
         0,
         0,
@@ -1734,7 +1734,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4021,
-      "invalid": 40410
+      "invalid": 43932
     }
   },
   {
@@ -1811,18 +1811,18 @@
         0,
         0,
         7,
-        20056,
-        20316,
-        598,
+        21819,
+        21947,
+        722,
         0,
-        33
+        37
       ]
     },
     "scale": "cat",
     "label_de": "Eigentümer, Mieter",
     "study": "soep-is",
     "statistics": {
-      "valid": 41003,
+      "valid": 44525,
       "invalid": 3428
     }
   },
@@ -1891,7 +1891,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         4313,
@@ -1907,7 +1907,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2590,
-      "invalid": 41841
+      "invalid": 45363
     }
   },
   {
@@ -1967,7 +1967,7 @@
         0,
         0,
         0,
-        43675,
+        47197,
         0,
         0,
         478,
@@ -1981,7 +1981,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 164,
-      "invalid": 44267
+      "invalid": 47789
     }
   },
   {
@@ -2041,7 +2041,7 @@
         0,
         0,
         0,
-        36534,
+        40056,
         0,
         0,
         4464,
@@ -2055,7 +2055,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3389,
-      "invalid": 41042
+      "invalid": 44564
     }
   },
   {
@@ -2127,7 +2127,7 @@
         0,
         0,
         0,
-        36635,
+        40157,
         0,
         0,
         4101,
@@ -2144,7 +2144,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3633,
-      "invalid": 40798
+      "invalid": 44320
     }
   },
   {
@@ -2208,7 +2208,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         4340,
@@ -2223,7 +2223,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4294,
-      "invalid": 40137
+      "invalid": 43659
     }
   },
   {
@@ -2283,7 +2283,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         4340,
@@ -2297,7 +2297,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4074,
-      "invalid": 40357
+      "invalid": 43879
     }
   },
   {
@@ -2336,28 +2336,28 @@
         true
       ],
       "frequencies": [
-        1601,
+        2733,
         0,
         0,
         3421,
         0,
         4,
-        5639,
-        588
+        5734,
+        1068
       ]
     },
     "scale": "number",
     "label_de": "Wohnfläche in qm",
     "study": "soep-is",
     "statistics": {
-      "Min.": 8.0,
-      "1st Qu.": 67.25,
+      "Min.": 7.0,
+      "1st Qu.": 68.0,
       "Median": 90.0,
-      "Mean": 99.3305503646995,
+      "Mean": 99.68293658731746,
       "3rd Qu.": 120.0,
       "Max.": 754.0,
-      "valid": 33178,
-      "invalid": 11253
+      "valid": 34993,
+      "invalid": 12960
     }
   },
   {
@@ -2399,7 +2399,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -2417,7 +2417,7 @@
       "3rd Qu.": 5.0,
       "Max.": 12.0,
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -2459,7 +2459,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         4553,
@@ -2477,7 +2477,7 @@
       "3rd Qu.": 100.0,
       "Max.": 493.0,
       "valid": 4095,
-      "invalid": 40336
+      "invalid": 43858
     }
   },
   {
@@ -2522,8 +2522,8 @@
         3683,
         0,
         0,
-        23259,
-        3893
+        25072,
+        4434
       ]
     },
     "scale": "number",
@@ -2531,13 +2531,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1.0,
-      "1st Qu.": 44.0,
-      "Median": 65.0,
-      "Mean": 75.64570461900558,
+      "1st Qu.": 45.0,
+      "Median": 66.0,
+      "Mean": 77.42976158222704,
       "3rd Qu.": 100.0,
       "Max.": 1213.0,
-      "valid": 13596,
-      "invalid": 30835
+      "valid": 14764,
+      "invalid": 33189
     }
   },
   {
@@ -2582,8 +2582,8 @@
         3421,
         0,
         4,
-        21347,
-        8
+        23292,
+        36
       ]
     },
     "scale": "number",
@@ -2591,13 +2591,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 8.0,
-      "1st Qu.": 380.0,
-      "Median": 500.0,
-      "Mean": 547.8015877054603,
-      "3rd Qu.": 650.0,
-      "Max.": 3300.0,
-      "valid": 19651,
-      "invalid": 24780
+      "1st Qu.": 390.0,
+      "Median": 504.0,
+      "Mean": 564.7184905660378,
+      "3rd Qu.": 672.0,
+      "Max.": 14500.0,
+      "valid": 21200,
+      "invalid": 26753
     }
   },
   {
@@ -2639,7 +2639,7 @@
         0,
         0,
         0,
-        42339,
+        45861,
         0,
         0,
         1143,
@@ -2657,7 +2657,7 @@
       "3rd Qu.": 73.0,
       "Max.": 279.0,
       "valid": 945,
-      "invalid": 43486
+      "invalid": 47008
     }
   },
   {
@@ -2724,19 +2724,19 @@
         3421,
         0,
         0,
-        39814,
-        116,
+        43130,
+        144,
         464,
-        435,
-        181
+        563,
+        231
       ]
     },
     "scale": "cat",
     "label_de": "Zahle keine Miete",
     "study": "soep-is",
     "statistics": {
-      "valid": 1080,
-      "invalid": 43351
+      "valid": 1258,
+      "invalid": 46695
     }
   },
   {
@@ -2796,7 +2796,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -2810,7 +2810,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -2870,7 +2870,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -2884,7 +2884,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -2944,7 +2944,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -2958,7 +2958,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -3018,7 +3018,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -3032,7 +3032,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -3100,7 +3100,7 @@
         0,
         0,
         0,
-        35778,
+        39300,
         0,
         0,
         0,
@@ -3116,7 +3116,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 35778
+      "invalid": 39300
     }
   },
   {
@@ -3176,7 +3176,7 @@
         0,
         0,
         0,
-        42339,
+        45861,
         0,
         0,
         0,
@@ -3190,7 +3190,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2092,
-      "invalid": 42339
+      "invalid": 45861
     }
   },
   {
@@ -3279,21 +3279,21 @@
         0,
         0,
         14,
-        13925,
-        14457,
-        3675,
-        6758,
-        2947,
-        1751,
-        266,
-        638
+        15098,
+        15719,
+        3838,
+        7217,
+        3216,
+        1847,
+        288,
+        716
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (1-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 44417,
+      "valid": 47939,
       "invalid": 14
     }
   },
@@ -3314,9 +3314,6 @@
         11,
         12,
         13,
-        14,
-        15,
-        16,
         21,
         31,
         32,
@@ -3341,25 +3338,22 @@
       "labels": [
         "Question not part of the survey program this year",
         "Only available in less restricted edition",
-        "Version of questionnaire with modified filtering",
-        "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Questionnaire Version With Modified Filter",
+        "Not Included In Questionnaire Version",
+        "Forbidden Multiple Response",
+        "Not valid",
         "Does not apply",
-        "No Answer",
-        "[11] 1-Person HH - Male LE 35 Y.",
-        "[12] 1-Person HH - Male 35- LT 60 Y.",
-        "[13] 1-Person HH - Male GE 60 Y.",
-        "[14] 1-Person HH - Female LE 35 Y.",
-        "[15] 1-Person HH - Female 35- LT 60 Y.",
-        "[16] 1-Person HH - Female GE 60 Y.",
-        "[21] Couple without children",
-        "[31] Single Parent, 1 child LE 16",
-        "[32] Single Parent, 2 or more children LE 16",
-        "[33] Single Parent, 1 child GT 16",
-        "[34] Single Parent, 2 or more children GT 16",
-        "[35] Single Parent, 2 children LE and GT 16",
-        "[36] Single Parent, 3 children or more LE and GT 16",
+        "No answer",
+        "[11] 1-Person HH LE 35 Y.",
+        "[12] 1-Person HH 35- LT 60 Y.",
+        "[13] 1-Person HH GE 60 Y.",
+        "[21] Couple Without Children",
+        "[31] Single Parent,1 Child, LE 16",
+        "[32] Single Parent,2 Or More Children, LE 16",
+        "[33] Single Parent,1 Children, GT 16",
+        "[34] Single Parent,2 Or More Children, GT 16",
+        "[35] Single Parent,2 Children, LE and GT 16",
+        "[36] Single Parent,3 Or More Children, LE and GT 16",
         "[41] Couple, 1 Child, LE 16",
         "[42] Couple, 2 Children, LE 16",
         "[43] Couple, 3 Or More Children, LE 16",
@@ -3368,27 +3362,24 @@
         "[53] Couple, 3 Or More Children, GT 16",
         "[61] Couple, 2 Children, LE and GT 16",
         "[62] Couple, 3 Or More Children, LE and GT 16",
-        "[71] 3-generation hh",
-        "[72] 4-generation hh",
+        "[71] 3-Generation-HH",
+        "[72] 4-Generation-HH",
         "[73] GrandParents-GrandChildren-HH",
-        "[81] Other combination without K. LE 16",
-        "[82] Other combination with K. LE 16"
+        "[81] Other Combination Without K. LE 16",
+        "[82] Other Combination With K. LE 16"
       ],
       "labels_de": [
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
         "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
         "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
+        "Unzulaessige Mehrfachantwort",
         "nicht valide",
         "trifft nicht zu",
         "keine Angabe",
-        "[11] 1-P-HH Mann LE 35 J.",
-        "[12] 1-P-HH Mann 35- LT 60 J.",
-        "[13] 1-P-HH Mann GE 60 J.",
-        "[14] 1-P-HH Frau LE 35 J.",
-        "[15] 1-P-HH Frau 35- LT 60 J.",
-        "[16] 1-P-HH Frau GE 60 J.",
+        "[11] 1-P-HH LE 35 J.",
+        "[12] 1-P-HH 35- LT 60 J.",
+        "[13] 1-P-HH GE 60 J.",
         "[21] (Ehe-)Paar ohne K.",
         "[31] Alleinerz.+1 K. LE 16",
         "[32] Alleinerz.+2 u.m K. LE 16",
@@ -3441,9 +3432,6 @@
         false,
         false,
         false,
-        false,
-        false,
-        false,
         false
       ],
       "frequencies": [
@@ -3455,39 +3443,36 @@
         0,
         0,
         14,
-        1211,
-        2459,
-        2412,
-        1049,
-        1869,
-        4925,
-        14457,
-        1208,
-        845,
-        920,
-        230,
-        302,
-        170,
-        2476,
-        3064,
-        1218,
-        1997,
-        819,
-        131,
-        961,
-        790,
-        227,
+        2474,
+        4698,
+        7926,
+        15719,
+        1257,
+        863,
+        983,
+        249,
+        311,
+        175,
+        2685,
+        3257,
+        1275,
+        2177,
+        900,
+        139,
+        1018,
+        829,
+        248,
         3,
-        36,
-        574,
-        64
+        37,
+        644,
+        72
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (2-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 44417,
+      "valid": 47939,
       "invalid": 14
     }
   },
@@ -3597,13 +3582,13 @@
         3157,
         1835,
         1063,
-        695,
-        645,
-        1105,
-        824,
-        8324,
-        13921,
-        7239,
+        899,
+        1817,
+        1808,
+        1368,
+        8502,
+        14460,
+        7421,
         2731
       ]
     },
@@ -3611,7 +3596,7 @@
     "label_de": "Monat des Interviews",
     "study": "soep-is",
     "statistics": {
-      "valid": 44431,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -3741,13 +3726,13 @@
         1586,
         949,
         0,
-        88,
+        89,
         85,
         0,
         0,
         0,
-        38859,
-        474,
+        39902,
+        2952,
         801,
         0,
         117,
@@ -3760,7 +3745,7 @@
     "label_de": "Interviewmethode",
     "study": "soep-is",
     "statistics": {
-      "valid": 44431,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -3807,7 +3792,7 @@
         0,
         151,
         0,
-        2668
+        2882
       ]
     },
     "scale": "number",
@@ -3815,13 +3800,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1580.0,
-      "Median": 2400.0,
-      "Mean": 2752.5414784196864,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 41612,
-      "invalid": 2819
+      "1st Qu.": 1600.0,
+      "Median": 2500.0,
+      "Mean": 2837.5071682991984,
+      "3rd Qu.": 3600.0,
+      "Max.": 400000.0,
+      "valid": 44920,
+      "invalid": 3033
     }
   },
   {
@@ -3863,7 +3848,7 @@
         0,
         0,
         0,
-        36953,
+        40475,
         0,
         3,
         0,
@@ -3881,7 +3866,7 @@
       "3rd Qu.": 3068.0,
       "Max.": 30000.0,
       "valid": 6904,
-      "invalid": 37527
+      "invalid": 41049
     }
   },
   {
@@ -4002,29 +3987,29 @@
         0,
         0,
         0,
-        4423,
-        6522,
-        1733,
-        1303,
-        396,
-        748,
-        2800,
-        1117,
-        4731,
-        11845,
-        1749,
-        461,
-        2417,
-        1420,
-        1450,
-        1316
+        4881,
+        7058,
+        1919,
+        1441,
+        415,
+        823,
+        3066,
+        1212,
+        5117,
+        12533,
+        1905,
+        489,
+        2626,
+        1516,
+        1554,
+        1398
       ]
     },
     "scale": "cat",
     "label_de": "NUTS-Systematik-1(Bundesland)",
     "study": "soep-is",
     "statistics": {
-      "valid": 44431,
+      "valid": 47953,
       "invalid": 0
     }
   },
@@ -4079,12 +4064,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1570.0,
-      "Median": 2400.0,
-      "Mean": 2741.485215828167,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 43391,
+      "1st Qu.": 1600.0,
+      "Median": 2490.0,
+      "Mean": 2825.8200711956174,
+      "3rd Qu.": 3550.0,
+      "Max.": 400000.0,
+      "valid": 46913,
       "invalid": 1040
     }
   },
@@ -4139,12 +4124,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1579.0,
-      "Median": 2400.0,
-      "Mean": 2741.104030789795,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 43391,
+      "1st Qu.": 1600.0,
+      "Median": 2490.0,
+      "Mean": 2826.1483384136595,
+      "3rd Qu.": 3550.0,
+      "Max.": 400000.0,
+      "valid": 46913,
       "invalid": 1040
     }
   },
@@ -4199,12 +4184,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1560.0,
-      "Median": 2400.0,
-      "Mean": 2740.4843170242675,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 43391,
+      "1st Qu.": 1600.0,
+      "Median": 2480.0,
+      "Mean": 2825.672095154861,
+      "3rd Qu.": 3550.0,
+      "Max.": 400000.0,
+      "valid": 46913,
       "invalid": 1040
     }
   },
@@ -4259,12 +4244,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1550.0,
-      "Median": 2400.0,
-      "Mean": 2739.772902214745,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 43391,
+      "1st Qu.": 1600.0,
+      "Median": 2470.0,
+      "Mean": 2824.8375503591756,
+      "3rd Qu.": 3550.0,
+      "Max.": 400000.0,
+      "valid": 46913,
       "invalid": 1040
     }
   },
@@ -4319,12 +4304,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1565.5,
-      "Median": 2400.0,
-      "Mean": 2742.042266829527,
-      "3rd Qu.": 3500.0,
-      "Max.": 30000.0,
-      "valid": 43391,
+      "1st Qu.": 1600.0,
+      "Median": 2500.0,
+      "Mean": 2826.9722891309443,
+      "3rd Qu.": 3530.0,
+      "Max.": 400000.0,
+      "valid": 46913,
       "invalid": 1040
     }
   },
@@ -4379,12 +4364,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1980.0,
-      "Median": 2993.0,
-      "Mean": 3278.6423829176388,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "1st Qu.": 2000.0,
+      "Median": 3000.0,
+      "Mean": 3510.341396371633,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4439,12 +4424,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1966.0,
+      "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3277.4419522698727,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3508.10874106652,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4499,12 +4484,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1980.0,
+      "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3281.155750942042,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3509.9345794392525,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4559,12 +4544,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1966.0,
-      "Median": 2993.0,
-      "Mean": 3276.482863807644,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "1st Qu.": 2000.0,
+      "Median": 3000.0,
+      "Mean": 3507.765915338098,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4619,12 +4604,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1970.0,
+      "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3275.845146240804,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3508.132380428807,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4679,12 +4664,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1970.0,
-      "Median": 2971.0,
-      "Mean": 3276.9684191638257,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "1st Qu.": 2000.0,
+      "Median": 3000.0,
+      "Mean": 3506.0018691588784,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4741,10 +4726,10 @@
       "Min.": 0.0,
       "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3278.5370536515343,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3510.6050577240244,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4799,12 +4784,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1980.0,
+      "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3278.578324062444,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3510.59417262232,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4859,12 +4844,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1980.0,
-      "Median": 2971.0,
-      "Mean": 3276.1471379867216,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "1st Qu.": 2000.0,
+      "Median": 3000.0,
+      "Mean": 3506.696316657504,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4919,12 +4904,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 1980.0,
+      "1st Qu.": 2000.0,
       "Median": 3000.0,
-      "Mean": 3279.5594832226807,
-      "3rd Qu.": 4200.0,
-      "Max.": 30000.0,
-      "valid": 5573,
+      "Mean": 3510.2212204507973,
+      "3rd Qu.": 4500.0,
+      "Max.": 400000.0,
+      "valid": 9095,
       "invalid": 38858
     }
   },
@@ -4990,15 +4975,15 @@
         0,
         0,
         0,
-        41612,
-        2819
+        44920,
+        3033
       ]
     },
     "scale": "cat",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen",
     "study": "soep-is",
     "statistics": {
-      "valid": 44431,
+      "valid": 47953,
       "invalid": 0
     }
   }

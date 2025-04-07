@@ -14,12 +14,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 878998.25,
-      "Median": 4009869.0,
-      "Mean": 2510400.995477922,
-      "3rd Qu.": 4118111.0,
-      "Max.": 4905976.0,
-      "valid": 67668,
+      "1st Qu.": 888648.0,
+      "Median": 4048020.0,
+      "Mean": 3066072.682905708,
+      "3rd Qu.": 4154375.0,
+      "Max.": 6945570.0,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -38,12 +38,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 883689.0,
-      "Median": 4003089.0,
-      "Mean": 2474655.9418336586,
-      "3rd Qu.": 4117530.0,
-      "Max.": 5566780.0,
-      "valid": 67668,
+      "1st Qu.": 894919.0,
+      "Median": 4043826.0,
+      "Mean": 3038206.7360516614,
+      "3rd Qu.": 4155101.0,
+      "Max.": 6945570.0,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -63,11 +63,11 @@
     "statistics": {
       "Min.": 1998.0,
       "1st Qu.": 2013.0,
-      "Median": 2015.0,
-      "Mean": 2014.8524117751374,
-      "3rd Qu.": 2018.0,
-      "Max.": 2022.0,
-      "valid": 67668,
+      "Median": 2016.0,
+      "Mean": 2016.1794665611005,
+      "3rd Qu.": 2020.0,
+      "Max.": 2023.0,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -121,6 +121,7 @@
         39,
         40,
         41,
+        46,
         60,
         61,
         62,
@@ -174,6 +175,7 @@
         "[39] M7 Refreshment 2020",
         "[40] M8 Refreshment 2020",
         "[41] M6 Persons in Need of Protection Refreshment, 2020",
+        "[46] Refreshment Innovative Sample, 2023 (CAWI)",
         "[60] L2/3 FiD Screening, Low Income, 2010/11",
         "[61] L2/3 FiD Screening, Single Parent, 2010/11",
         "[62] L2/3 FiD Screening, Families with Several Children, 2010/11",
@@ -227,6 +229,7 @@
         "[39] Aufstockung 2020/Stichprobe M7",
         "[40] Aufstockung 2020/Stichprobe M8",
         "[41] Schutzsuchende 2020/Stichprobe M6",
+        "[46] Aufstockung 2023/Innovationssample (CAWI)",
         "[60] FiD Screening 2010/11 - Niedrigeinkommen/Stichprobe L2/3",
         "[61] FiD Screening 2010/11 - Alleinerziehende/Stichprobe L2/3",
         "[62] FiD Screening 2010/11 - Mehrkindfamilien/Stichprobe L2/3",
@@ -244,6 +247,7 @@
         true,
         true,
         true,
+        false,
         false,
         false,
         false,
@@ -306,33 +310,34 @@
         0,
         0,
         0,
-        4849,
-        4547,
+        4941,
+        4628,
         0,
         0,
         0,
         0,
-        13219,
+        13721,
         0,
         0,
-        10039,
+        10523,
         0,
-        11627,
-        8584,
+        12139,
+        8994,
         3973,
         0,
         0,
         0,
-        8810,
+        9307,
         0,
         0,
         0,
         0,
         0,
-        2020,
+        2682,
         0,
         0,
         0,
+        9926,
         0,
         0,
         0,
@@ -346,7 +351,7 @@
     "label_de": "Ursprungsstichprobe",
     "study": "soep-is",
     "statistics": {
-      "valid": 67668,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -416,8 +421,8 @@
         0,
         0,
         0,
-        46989,
-        20679,
+        50839,
+        29995,
         0
       ]
     },
@@ -425,7 +430,7 @@
     "label_de": "Aktueller Befragungsstatus",
     "study": "soep-is",
     "statistics": {
-      "valid": 67668,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -489,18 +494,18 @@
         0,
         0,
         0,
-        67,
+        76,
         0,
-        53139,
-        11904
+        64041,
+        14159
       ]
     },
     "scale": "cat",
     "label_de": "Aktuelle Stichprobenregion",
     "study": "soep-is",
     "statistics": {
-      "valid": 65043,
-      "invalid": 2625
+      "valid": 78200,
+      "invalid": 2634
     }
   },
   {
@@ -571,20 +576,20 @@
         0,
         0,
         0,
-        22932,
+        32228,
         0,
-        42518,
-        2037,
-        167,
-        14
+        46156,
+        2180,
+        244,
+        26
       ]
     },
     "scale": "cat",
     "label_de": "Aktuelle Populationszugehoerigkeit",
     "study": "soep-is",
     "statistics": {
-      "valid": 44736,
-      "invalid": 22932
+      "valid": 48606,
+      "invalid": 32228
     }
   },
   {
@@ -604,10 +609,10 @@
       "Min.": 0.0,
       "1st Qu.": 0.0,
       "Median": 0.0,
-      "Mean": 0.5141129784471227,
-      "3rd Qu.": 1.100000023841858,
+      "Mean": 0.4946358939480814,
+      "3rd Qu.": 1.1,
       "Max.": 7.72,
-      "valid": 67668,
+      "valid": 80834,
       "invalid": 0
     }
   },
@@ -628,10 +633,10 @@
       "Min.": 0.0,
       "1st Qu.": 0.0,
       "Median": 0.0,
-      "Mean": 6662.080230656657,
-      "3rd Qu.": 10218.383539176779,
-      "Max.": 136236.4193574908,
-      "valid": 67668,
+      "Mean": 6097.246878079301,
+      "3rd Qu.": 9337.975611182257,
+      "Max.": 139518.9091040755,
+      "valid": 80834,
       "invalid": 0
     }
   }
