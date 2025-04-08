@@ -4,6 +4,9 @@ soep-is,biobirth,Birth Biography of Female and Male Respondents,[en] ,,,p,track,
 soep-is,biol,Variables from the Life Course Question Module,[en] ,,,p,org/net,0,pid syear,,,eu
 soep-is,bioparen,Biography Information for Respondents‘ Parents,[en] ,,,p,org/net,0,,,,eu
 soep-is,cognit,Data on cognitive potential,[en] ,,,p,org/net,0,,,,eu
+soep-is,dips3_daily,DIPS Daily-Level Data,[en] ,,,p,gen,0,,,,eu
+soep-is,dips3_hourly,DIPS Hourly-Level Data,[en] ,,,p,gen,0,,,,eu
+soep-is,dips3_calls,DIPS Call Data,[en] ,,,p,gen,0,,,,eu
 soep-is,fgz,FGZ exclusive Variables,[en] ,,,p,org/net,0,pid syear,,,eu
 soep-is,hbrutto,Household-related Gross File,[en] ,,,h,org/gross,0,hid syear,,,eu
 soep-is,hgen,Household-related Status and Generated Variables,[en] ,,,h,gen,0,hid syear,,,eu
@@ -19,7 +22,7 @@ soep-is,ilanguage,Innovative Language Modules,[en] ,,,p,org/net,0,,,,eu
 soep-is,ilottery,Innovative Lottery Experiment,[en] ,,,p,org/net,0,,,,eu
 soep-is,inno,Variables from the Innovation Modules,[en] ,,,p,org/net,0,pid syear,,,eu
 soep-is,inno_h,Variables from the Innovation Modules on Household Level,[en] ,,,h,org/net,0,hid syear,,,eu
-soep-is,intv,Information on Interviewers,[en] ,,,p,org/net,0,intid syear,,,eu
+soep-is,interviewer,Information on Interviewers,[en] ,,,p,org/net,0,intid syear,,,eu
 soep-is,irisk,Person-related Data from Innovative RISK Module,[en] ,,,p,org/net,0,,,,eu
 soep-is,kidlong,Pooled Dataset on Children,[en] ,,,p,track,0,pid syear,,,eu
 soep-is,pbrutto,Person-related Gross File,[en] ,,,p,org/gross,0,pid syear,,,eu

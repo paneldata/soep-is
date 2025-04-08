@@ -1,4 +1,2271 @@
 study,instrument,answer_list,value,label,label_de
+soep-is,soep-is-2023,11329+4652,2023,2023,2023
+soep-is,soep-is-2023,11329+4652,2022,2022,2022
+soep-is,soep-is-2023,11329+4652,2021,2021,2021
+soep-is,soep-is-2023,11329+4652,2020,2020,2020
+soep-is,soep-is-2023,11329+4652,2019,2019,2019
+soep-is,soep-is-2023,11329+4652,2018,2018,2018
+soep-is,soep-is-2023,11329+4652,2017,2017,2017
+soep-is,soep-is-2023,11329+4652,2016,2016,2016
+soep-is,soep-is-2023,11329+4652,2015,2015,2015
+soep-is,soep-is-2023,11329+4652,2014,2014,2014
+soep-is,soep-is-2023,11329+4652,2013,2013,2013
+soep-is,soep-is-2023,11329+4652,2012,2012,2012
+soep-is,soep-is-2023,11329+4652,2011,2011,2011
+soep-is,soep-is-2023,11329+4652,2010,2010,2010
+soep-is,soep-is-2023,11329+4652,2009,2009,2009
+soep-is,soep-is-2023,11329+4652,2008,2008,2008
+soep-is,soep-is-2023,11329+4652,2007,2007,2007
+soep-is,soep-is-2023,11329+4652,2006,2006,2006
+soep-is,soep-is-2023,11329+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1+4652,1,Yes,Ja
+soep-is,soep-is-2023,1+4652,2,No,Nein
+soep-is,soep-is-2023,1+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4233+,10,Sample E1,Sample E1
+soep-is,soep-is-2023,4233+,11,Sample E2,Sample E2
+soep-is,soep-is-2023,4233+,19,Sample I1,Sample I1
+soep-is,soep-is-2023,4233+,22,Sample I2 (Supplementary SOEP-IS 2012),Sample I2 (Aufwuchs SOEP-IS 2012)
+soep-is,soep-is-2023,4233+,25,Sample I3 (Supplementary SOEP-IS 2013),Sample I3 (Aufwuchs SOEP-IS 2013)
+soep-is,soep-is-2023,4233+,26,Sample I4 (Supplementary SOEP-IS 2014),Sample I4 (Aufwuchs SOEP-IS 2014)
+soep-is,soep-is-2023,4233+,32,Sample I5 (Supplementary SOEP-IS 2016),Sample I5 (Aufwuchs SOEP-IS 2016)
+soep-is,soep-is-2023,4233+,38,Sample I6 (Supplementary SOEP-IS 2020 ESS),Sample I6 (Aufwuchs SOEP-IS 2020 ESS)
+soep-is,soep-is-2023,4233+,46,Sample I7 (Supplementary SOEP-IS 2020 CAWI),Sample I7 (Aufwuchs SOEP-IS 2023 CAWI)
+soep-is,soep-is-2023,4234+,0,Skip questions about the houshold,Fragen zum Haushalt überspringen
+soep-is,soep-is-2023,4234+,1,Answer questions about the houshold (again),Fragen zum Haushalt (erneut) beantworten
+soep-is,soep-is-2023,4235,0,Biography Questionnaire already answered,Lebenslauffragebogen liegt bereits vor
+soep-is,soep-is-2023,4235,1,Biography Questionnaire not answered,Lebenslauffragebogen liegt noch nicht vor
+soep-is,soep-is-2023,4676+,1,Main tenant,Hauptmieter
+soep-is,soep-is-2023,4676+,2,Subtenant,Untermieter
+soep-is,soep-is-2023,4676+,3,Owner,Eigentümer
+soep-is,soep-is-2023,4676+,4,Nursing home / retirement home,Altersheim / Seniorenwohnheim
+soep-is,soep-is-2023,1595+4652,2,Don't pay rent but do pay utilities,Zahle keine Miete aber Nebenkosten
+soep-is,soep-is-2023,1595+4652,3,Don't pay either rent or utilities,Zahle weder Miete noch Nebenkosten
+soep-is,soep-is-2023,1595+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,17+4652,1,Less than 250 euros,unter 250 Euro
+soep-is,soep-is-2023,17+4652,2,"From 250 to less than 1,000 euros",250 bis unter 1.000 Euro
+soep-is,soep-is-2023,17+4652,3,"From 1,000 to less than 2,500 euros",1.000 bis unter 2.500 Euro
+soep-is,soep-is-2023,17+4652,4,"From 2,500 to less than 5,000 euros",2.500 bis unter 5.000 Euro
+soep-is,soep-is-2023,17+4652,5,"From 5,000 to less than 10,000 euros",5.000 bis unter 10.000 Euro
+soep-is,soep-is-2023,17+4652,6,"10,000 euros and more",10.000 Euro und mehr
+soep-is,soep-is-2023,17+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4479+,1,Correct my answer,Angabe korrigieren
+soep-is,soep-is-2023,4479+,2,Response is correct,Angabe ist richtig
+soep-is,soep-is-2023,2718+4652,1,Care level 1,Pflegegrad 1
+soep-is,soep-is-2023,2718+4652,2,Care level 2,Pflegegrad 2
+soep-is,soep-is-2023,2718+4652,3,Care level 3,Pflegegrad 3
+soep-is,soep-is-2023,2718+4652,4,Care level 4,Pflegegrad 4
+soep-is,soep-is-2023,2718+4652,5,Care level 5,Pflegegrad 5
+soep-is,soep-is-2023,2718+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,915+4652,1,separation,Trennung
+soep-is,soep-is-2023,915+4652,2,death,Tod
+soep-is,soep-is-2023,915+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4881+4652,1,Yes,Ja
+soep-is,soep-is-2023,4881+4652,2,"No, divorce","Nein, Scheidung"
+soep-is,soep-is-2023,4881+4652,3,"No, deceased","Nein, Tod"
+soep-is,soep-is-2023,4881+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4267+4652,1,I am still attending school,Gehe noch zur Schule
+soep-is,soep-is-2023,4267+4652,2,I have never attended school,Habe nie eine Schule besucht
+soep-is,soep-is-2023,4267+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,904+4652,1,Left school without graduating,Schule ohne Abschluss verlassen
+soep-is,soep-is-2023,904+4652,2,Graduated from mandatory schooling with school-leaving certificate,Pflichtschule mit Abschluss beendet
+soep-is,soep-is-2023,904+4652,3,Graduated from higher-level secondary school with school-leaving certificate,Weiterführende Schule mit Abschluss beendet
+soep-is,soep-is-2023,904+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4738+4652,8,Baden-Wuerttemberg,Baden-Württemberg
+soep-is,soep-is-2023,4738+4652,9,Bavaria,Bayern
+soep-is,soep-is-2023,4738+4652,11,Berlin,Berlin
+soep-is,soep-is-2023,4738+4652,12,Brandenburg,Brandenburg
+soep-is,soep-is-2023,4738+4652,4,Bremen,Bremen
+soep-is,soep-is-2023,4738+4652,2,Hamburg,Hamburg
+soep-is,soep-is-2023,4738+4652,6,Hesse,Hessen
+soep-is,soep-is-2023,4738+4652,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern
+soep-is,soep-is-2023,4738+4652,3,Lower Saxony,Niedersachsen
+soep-is,soep-is-2023,4738+4652,5,North Rhine-Westphalia,Nordrhein-Westfalen
+soep-is,soep-is-2023,4738+4652,7,Rhineland-Palatinate,Rheinland-Pfalz
+soep-is,soep-is-2023,4738+4652,10,Saarland,Saarland
+soep-is,soep-is-2023,4738+4652,14,Saxony,Sachsen
+soep-is,soep-is-2023,4738+4652,15,Saxony-Anhalt,Sachsen-Anhalt
+soep-is,soep-is-2023,4738+4652,1,Schleswig-Holstein,Schleswig-Holstein
+soep-is,soep-is-2023,4738+4652,16,Thuringia,Thüringen
+soep-is,soep-is-2023,4738+4652,17,School location no longer part of Germany,Schulort liegt heute nicht mehr in Deutschland
+soep-is,soep-is-2023,4738+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,905+4652,1,Left school without graduating,Schule ohne Abschluss verlassen
+soep-is,soep-is-2023,905+4652,2,Lower secondary (Volksschule / Hauptschule / 8th grade GDR),Volks- / Hauptschulabschluss (DDR: 8. Klasse)
+soep-is,soep-is-2023,905+4652,3,Intermediate secondary (Realschule / Mittlere Reife / 10th grade GDR),Realschulabschluss / Mittlere Reife (DDR: 10. Klasse)
+soep-is,soep-is-2023,905+4652,4,Vocational school (Fachoberschule),Fachhochschulreife (Abschluss einer Fachoberschule)
+soep-is,soep-is-2023,905+4652,5,Upper secondary (Abitur / Hochschulreife),Abitur / Hochschulreife
+soep-is,soep-is-2023,905+4652,6,Other school-leaving certificate,Sonstiger Schulabschluss
+soep-is,soep-is-2023,905+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1145+4652,1,In GDR (including East Berlin),In der DDR (einschließlich Berlin-Ost)
+soep-is,soep-is-2023,1145+4652,2,In Germany (including West Berlin),In der Bundesrepublik (einschließlich Berlin-West)
+soep-is,soep-is-2023,1145+4652,3,In another country,In einem anderen Land
+soep-is,soep-is-2023,1145+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4873+4652,1,This one,"Die, in der der Befragungshaushalt lebt"
+soep-is,soep-is-2023,4873+4652,2,The other one / one of the others,Die andere / eine der anderen
+soep-is,soep-is-2023,4873+4652,3,This one and another approximately equally,Diese hier und eine andere etwa gleich
+soep-is,soep-is-2023,4873+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4875+4652,1,In one of the Bundesländer (federal states) of the Federal Republic of Germany,In einem Bundesland der Bundesrepublik Deutschland
+soep-is,soep-is-2023,4875+4652,2,in the former East Germany,In der DDR
+soep-is,soep-is-2023,4875+4652,3,in a different country,In einem anderen Land
+soep-is,soep-is-2023,4875+4652,4,In Germany up to 1949,In Deutschland bis 1949
+soep-is,soep-is-2023,4875+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4878+4652,2023,2023,2023
+soep-is,soep-is-2023,4878+4652,2022,2022,2022
+soep-is,soep-is-2023,4878+4652,2021,2021,2021
+soep-is,soep-is-2023,4878+4652,2020,2020,2020
+soep-is,soep-is-2023,4878+4652,2019,2019,2019
+soep-is,soep-is-2023,4878+4652,2018,2018,2018
+soep-is,soep-is-2023,4878+4652,2017,2017,2017
+soep-is,soep-is-2023,4878+4652,2016,2016,2016
+soep-is,soep-is-2023,4878+4652,2015,2015,2015
+soep-is,soep-is-2023,4878+4652,2014,2014,2014
+soep-is,soep-is-2023,4878+4652,2013,2013,2013
+soep-is,soep-is-2023,4878+4652,2012,2012,2012
+soep-is,soep-is-2023,4878+4652,2011,2011,2011
+soep-is,soep-is-2023,4878+4652,2010,2010,2010
+soep-is,soep-is-2023,4878+4652,2009,2009,2009
+soep-is,soep-is-2023,4878+4652,2008,2008,2008
+soep-is,soep-is-2023,4878+4652,2007,2007,2007
+soep-is,soep-is-2023,4878+4652,2006,2006,2006
+soep-is,soep-is-2023,4878+4652,2005,2005,2005
+soep-is,soep-is-2023,4878+4652,2004,2004,2004
+soep-is,soep-is-2023,4878+4652,2003,2003,2003
+soep-is,soep-is-2023,4878+4652,2002,2002,2002
+soep-is,soep-is-2023,4878+4652,2001,2001,2001
+soep-is,soep-is-2023,4878+4652,2000,2000,2000
+soep-is,soep-is-2023,4878+4652,1999,1999,1999
+soep-is,soep-is-2023,4878+4652,1998,1998,1998
+soep-is,soep-is-2023,4878+4652,1997,1997,1997
+soep-is,soep-is-2023,4878+4652,1996,1996,1996
+soep-is,soep-is-2023,4878+4652,1995,1995,1995
+soep-is,soep-is-2023,4878+4652,1994,1994,1994
+soep-is,soep-is-2023,4878+4652,1993,1993,1993
+soep-is,soep-is-2023,4878+4652,1992,1992,1992
+soep-is,soep-is-2023,4878+4652,1991,1991,1991
+soep-is,soep-is-2023,4878+4652,1990,1990,1990
+soep-is,soep-is-2023,4878+4652,1989,1989,1989
+soep-is,soep-is-2023,4878+4652,1988,1988,1988
+soep-is,soep-is-2023,4878+4652,1987,1987,1987
+soep-is,soep-is-2023,4878+4652,1986,1986,1986
+soep-is,soep-is-2023,4878+4652,1985,1985,1985
+soep-is,soep-is-2023,4878+4652,1984,1984,1984
+soep-is,soep-is-2023,4878+4652,1983,1983,1983
+soep-is,soep-is-2023,4878+4652,1982,1982,1982
+soep-is,soep-is-2023,4878+4652,1981,1981,1981
+soep-is,soep-is-2023,4878+4652,1980,1980,1980
+soep-is,soep-is-2023,4878+4652,1979,1979,1979
+soep-is,soep-is-2023,4878+4652,1978,1978,1978
+soep-is,soep-is-2023,4878+4652,1977,1977,1977
+soep-is,soep-is-2023,4878+4652,1976,1976,1976
+soep-is,soep-is-2023,4878+4652,1975,1975,1975
+soep-is,soep-is-2023,4878+4652,1974,1974,1974
+soep-is,soep-is-2023,4878+4652,1973,1973,1973
+soep-is,soep-is-2023,4878+4652,1972,1972,1972
+soep-is,soep-is-2023,4878+4652,1971,1971,1971
+soep-is,soep-is-2023,4878+4652,1970,1970,1970
+soep-is,soep-is-2023,4878+4652,1969,1969,1969
+soep-is,soep-is-2023,4878+4652,1968,1968,1968
+soep-is,soep-is-2023,4878+4652,1967,1967,1967
+soep-is,soep-is-2023,4878+4652,1966,1966,1966
+soep-is,soep-is-2023,4878+4652,1965,1965,1965
+soep-is,soep-is-2023,4878+4652,1964,1964,1964
+soep-is,soep-is-2023,4878+4652,1963,1963,1963
+soep-is,soep-is-2023,4878+4652,1962,1962,1962
+soep-is,soep-is-2023,4878+4652,1961,1961,1961
+soep-is,soep-is-2023,4878+4652,1960,1960,1960
+soep-is,soep-is-2023,4878+4652,1959,1959,1959
+soep-is,soep-is-2023,4878+4652,1958,1958,1958
+soep-is,soep-is-2023,4878+4652,1957,1957,1957
+soep-is,soep-is-2023,4878+4652,1956,1956,1956
+soep-is,soep-is-2023,4878+4652,1955,1955,1955
+soep-is,soep-is-2023,4878+4652,1954,1954,1954
+soep-is,soep-is-2023,4878+4652,1953,1953,1953
+soep-is,soep-is-2023,4878+4652,1952,1952,1952
+soep-is,soep-is-2023,4878+4652,1951,1951,1951
+soep-is,soep-is-2023,4878+4652,1950,1950,1950
+soep-is,soep-is-2023,4878+4652,1949,1949,1949
+soep-is,soep-is-2023,4878+4652,1948,1948,1948
+soep-is,soep-is-2023,4878+4652,1947,1947,1947
+soep-is,soep-is-2023,4878+4652,1946,1946,1946
+soep-is,soep-is-2023,4878+4652,1945,1945,1945
+soep-is,soep-is-2023,4878+4652,1944,1944,1944
+soep-is,soep-is-2023,4878+4652,1943,1943,1943
+soep-is,soep-is-2023,4878+4652,1942,1942,1942
+soep-is,soep-is-2023,4878+4652,1941,1941,1941
+soep-is,soep-is-2023,4878+4652,1940,1940,1940
+soep-is,soep-is-2023,4878+4652,1939,1939,1939
+soep-is,soep-is-2023,4878+4652,1938,1938,1938
+soep-is,soep-is-2023,4878+4652,1937,1937,1937
+soep-is,soep-is-2023,4878+4652,1936,1936,1936
+soep-is,soep-is-2023,4878+4652,1935,1935,1935
+soep-is,soep-is-2023,4878+4652,1934,1934,1934
+soep-is,soep-is-2023,4878+4652,1933,1933,1933
+soep-is,soep-is-2023,4878+4652,1932,1932,1932
+soep-is,soep-is-2023,4878+4652,1931,1931,1931
+soep-is,soep-is-2023,4878+4652,1930,1930,1930
+soep-is,soep-is-2023,4878+4652,1929,1929,1929
+soep-is,soep-is-2023,4878+4652,1928,1928,1928
+soep-is,soep-is-2023,4878+4652,1927,1927,1927
+soep-is,soep-is-2023,4878+4652,1926,1926,1926
+soep-is,soep-is-2023,4878+4652,1925,1925,1925
+soep-is,soep-is-2023,4878+4652,1924,1924,1924
+soep-is,soep-is-2023,4878+4652,1923,1923,1923
+soep-is,soep-is-2023,4878+4652,1922,1922,1922
+soep-is,soep-is-2023,4878+4652,1921,1921,1921
+soep-is,soep-is-2023,4878+4652,1920,1920,1920
+soep-is,soep-is-2023,4878+4652,1919,1919,1919
+soep-is,soep-is-2023,4878+4652,1918,1918,1918
+soep-is,soep-is-2023,4878+4652,1917,1917,1917
+soep-is,soep-is-2023,4878+4652,1916,1916,1916
+soep-is,soep-is-2023,4878+4652,1915,1915,1915
+soep-is,soep-is-2023,4878+4652,1914,1914,1914
+soep-is,soep-is-2023,4878+4652,1913,1913,1913
+soep-is,soep-is-2023,4878+4652,1912,1912,1912
+soep-is,soep-is-2023,4878+4652,1911,1911,1911
+soep-is,soep-is-2023,4878+4652,1910,1910,1910
+soep-is,soep-is-2023,4878+4652,1909,1909,1909
+soep-is,soep-is-2023,4878+4652,1908,1908,1908
+soep-is,soep-is-2023,4878+4652,1907,1907,1907
+soep-is,soep-is-2023,4878+4652,1906,1906,1906
+soep-is,soep-is-2023,4878+4652,1905,1905,1905
+soep-is,soep-is-2023,4878+4652,1904,1904,1904
+soep-is,soep-is-2023,4878+4652,1903,1903,1903
+soep-is,soep-is-2023,4878+4652,1902,1902,1902
+soep-is,soep-is-2023,4878+4652,1901,1901,1901
+soep-is,soep-is-2023,4878+4652,1900,1900,1900
+soep-is,soep-is-2023,4878+4652,1899,1899,1899
+soep-is,soep-is-2023,4878+4652,1898,1898,1898
+soep-is,soep-is-2023,4878+4652,1897,1897,1897
+soep-is,soep-is-2023,4878+4652,1896,1896,1896
+soep-is,soep-is-2023,4878+4652,1895,1895,1895
+soep-is,soep-is-2023,4878+4652,1894,1894,1894
+soep-is,soep-is-2023,4878+4652,1893,1893,1893
+soep-is,soep-is-2023,4878+4652,1892,1892,1892
+soep-is,soep-is-2023,4878+4652,1891,1891,1891
+soep-is,soep-is-2023,4878+4652,1890,1890,1890
+soep-is,soep-is-2023,4878+4652,1889,1889,1889
+soep-is,soep-is-2023,4878+4652,1888,1888,1888
+soep-is,soep-is-2023,4878+4652,1887,1887,1887
+soep-is,soep-is-2023,4878+4652,1886,1886,1886
+soep-is,soep-is-2023,4878+4652,1885,1885,1885
+soep-is,soep-is-2023,4878+4652,1884,1884,1884
+soep-is,soep-is-2023,4878+4652,1883,1883,1883
+soep-is,soep-is-2023,4878+4652,1882,1882,1882
+soep-is,soep-is-2023,4878+4652,1881,1881,1881
+soep-is,soep-is-2023,4878+4652,1880,1880,1880
+soep-is,soep-is-2023,4878+4652,1879,1879,1879
+soep-is,soep-is-2023,4878+4652,1878,1878,1878
+soep-is,soep-is-2023,4878+4652,1877,1877,1877
+soep-is,soep-is-2023,4878+4652,1876,1876,1876
+soep-is,soep-is-2023,4878+4652,1875,1875,1875
+soep-is,soep-is-2023,4878+4652,1874,1874,1874
+soep-is,soep-is-2023,4878+4652,1873,1873,1873
+soep-is,soep-is-2023,4878+4652,1872,1872,1872
+soep-is,soep-is-2023,4878+4652,1871,1871,1871
+soep-is,soep-is-2023,4878+4652,1870,1870,1870
+soep-is,soep-is-2023,4878+4652,1869,1869,1869
+soep-is,soep-is-2023,4878+4652,1868,1868,1868
+soep-is,soep-is-2023,4878+4652,1867,1867,1867
+soep-is,soep-is-2023,4878+4652,1866,1866,1866
+soep-is,soep-is-2023,4878+4652,1865,1865,1865
+soep-is,soep-is-2023,4878+4652,1864,1864,1864
+soep-is,soep-is-2023,4878+4652,1863,1863,1863
+soep-is,soep-is-2023,4878+4652,1862,1862,1862
+soep-is,soep-is-2023,4878+4652,1861,1861,1861
+soep-is,soep-is-2023,4878+4652,1860,1860,1860
+soep-is,soep-is-2023,4878+4652,1859,1859,1859
+soep-is,soep-is-2023,4878+4652,1858,1858,1858
+soep-is,soep-is-2023,4878+4652,1857,1857,1857
+soep-is,soep-is-2023,4878+4652,1856,1856,1856
+soep-is,soep-is-2023,4878+4652,1855,1855,1855
+soep-is,soep-is-2023,4878+4652,1854,1854,1854
+soep-is,soep-is-2023,4878+4652,1853,1853,1853
+soep-is,soep-is-2023,4878+4652,1852,1852,1852
+soep-is,soep-is-2023,4878+4652,1851,1851,1851
+soep-is,soep-is-2023,4878+4652,1850,1850,1850
+soep-is,soep-is-2023,4878+4652,1849,1849,1849
+soep-is,soep-is-2023,4878+4652,1848,1848,1848
+soep-is,soep-is-2023,4878+4652,1847,1847,1847
+soep-is,soep-is-2023,4878+4652,1846,1846,1846
+soep-is,soep-is-2023,4878+4652,1845,1845,1845
+soep-is,soep-is-2023,4878+4652,1844,1844,1844
+soep-is,soep-is-2023,4878+4652,1843,1843,1843
+soep-is,soep-is-2023,4878+4652,1842,1842,1842
+soep-is,soep-is-2023,4878+4652,1841,1841,1841
+soep-is,soep-is-2023,4878+4652,1840,1840,1840
+soep-is,soep-is-2023,4878+4652,1839,1839,1839
+soep-is,soep-is-2023,4878+4652,1838,1838,1838
+soep-is,soep-is-2023,4878+4652,1837,1837,1837
+soep-is,soep-is-2023,4878+4652,1836,1836,1836
+soep-is,soep-is-2023,4878+4652,1835,1835,1835
+soep-is,soep-is-2023,4878+4652,1834,1834,1834
+soep-is,soep-is-2023,4878+4652,1833,1833,1833
+soep-is,soep-is-2023,4878+4652,1832,1832,1832
+soep-is,soep-is-2023,4878+4652,1831,1831,1831
+soep-is,soep-is-2023,4878+4652,1830,1830,1830
+soep-is,soep-is-2023,4878+4652,1829,1829,1829
+soep-is,soep-is-2023,4878+4652,1828,1828,1828
+soep-is,soep-is-2023,4878+4652,1827,1827,1827
+soep-is,soep-is-2023,4878+4652,1826,1826,1826
+soep-is,soep-is-2023,4878+4652,1825,1825,1825
+soep-is,soep-is-2023,4878+4652,1824,1824,1824
+soep-is,soep-is-2023,4878+4652,1823,1823,1823
+soep-is,soep-is-2023,4878+4652,1822,1822,1822
+soep-is,soep-is-2023,4878+4652,1821,1821,1821
+soep-is,soep-is-2023,4878+4652,1820,1820,1820
+soep-is,soep-is-2023,4878+4652,1819,1819,1819
+soep-is,soep-is-2023,4878+4652,1818,1818,1818
+soep-is,soep-is-2023,4878+4652,1817,1817,1817
+soep-is,soep-is-2023,4878+4652,1816,1816,1816
+soep-is,soep-is-2023,4878+4652,1815,1815,1815
+soep-is,soep-is-2023,4878+4652,1814,1814,1814
+soep-is,soep-is-2023,4878+4652,1813,1813,1813
+soep-is,soep-is-2023,4878+4652,1812,1812,1812
+soep-is,soep-is-2023,4878+4652,1811,1811,1811
+soep-is,soep-is-2023,4878+4652,1810,1810,1810
+soep-is,soep-is-2023,4878+4652,1809,1809,1809
+soep-is,soep-is-2023,4878+4652,1808,1808,1808
+soep-is,soep-is-2023,4878+4652,1807,1807,1807
+soep-is,soep-is-2023,4878+4652,1806,1806,1806
+soep-is,soep-is-2023,4878+4652,1805,1805,1805
+soep-is,soep-is-2023,4878+4652,1804,1804,1804
+soep-is,soep-is-2023,4878+4652,1803,1803,1803
+soep-is,soep-is-2023,4878+4652,1802,1802,1802
+soep-is,soep-is-2023,4878+4652,1801,1801,1801
+soep-is,soep-is-2023,4878+4652,1800,1800,1800
+soep-is,soep-is-2023,4878+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4731+4652,8,Baden-Wuerttemberg,Baden-Württemberg
+soep-is,soep-is-2023,4731+4652,9,Bavaria,Bayern
+soep-is,soep-is-2023,4731+4652,11,Berlin,Berlin
+soep-is,soep-is-2023,4731+4652,12,Brandenburg,Brandenburg
+soep-is,soep-is-2023,4731+4652,4,Bremen,Bremen
+soep-is,soep-is-2023,4731+4652,2,Hamburg,Hamburg
+soep-is,soep-is-2023,4731+4652,6,Hesse,Hessen
+soep-is,soep-is-2023,4731+4652,13,Mecklenburg-Western Pomerania,Mecklenburg-Vorpommern
+soep-is,soep-is-2023,4731+4652,3,Lower Saxony,Niedersachsen
+soep-is,soep-is-2023,4731+4652,5,North Rhine-Westphalia,Nordrhein-Westfalen
+soep-is,soep-is-2023,4731+4652,7,Rhineland-Palatinate,Rheinland-Pfalz
+soep-is,soep-is-2023,4731+4652,10,Saarland,Saarland
+soep-is,soep-is-2023,4731+4652,14,Saxony,Sachsen
+soep-is,soep-is-2023,4731+4652,15,Saxony-Anhalt,Sachsen-Anhalt
+soep-is,soep-is-2023,4731+4652,1,Schleswig-Holstein,Schleswig-Holstein
+soep-is,soep-is-2023,4731+4652,16,Thuringia,Thüringen
+soep-is,soep-is-2023,4731+4652,17,Birthplace no longer part of Germany,Geburtsort liegt heute nicht mehr in Deutschland
+soep-is,soep-is-2023,4731+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4355+4652,1,In this town/location but in a different household,"Hier am Ort, aber in einem anderen Haushalt"
+soep-is,soep-is-2023,4355+4652,5,Elsewhere in Germany,Woanders in Deutschland
+soep-is,soep-is-2023,4355+4652,4,In another country,In einem anderen Land
+soep-is,soep-is-2023,4355+4652,6,Is deceased,Ist bereits verstorben
+soep-is,soep-is-2023,4355+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4356+4652,1,Yes,Ja
+soep-is,soep-is-2023,4356+4652,2,"No, already deceased","Nein, ist bereits verstorben"
+soep-is,soep-is-2023,4356+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4357+4652,1,"Yes, since birth","Ja, seit Geburt"
+soep-is,soep-is-2023,4357+4652,2,"Yes, through recogntion as an ethnic German (Spät-)Aussiedler","Ja, durch Anerkennung als (Spät-)Aussiedler"
+soep-is,soep-is-2023,4357+4652,3,"Yes, through naturalization","Ja, durch Einbürgerung"
+soep-is,soep-is-2023,4357+4652,4,No,Nein
+soep-is,soep-is-2023,4357+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1094+4652,1,"Yes, member of the Catholic church","Ja, der katholischen Kirche"
+soep-is,soep-is-2023,1094+4652,2,"Yes, member of the Protestant church","Ja, der evangelischen Kirche"
+soep-is,soep-is-2023,1094+4652,3,"Yes, member of another Christian religious group","Ja, einer anderen christlichen Religionsgemeinschaft"
+soep-is,soep-is-2023,1094+4652,4,"Yes, member of an Islamic religious group","Ja, einer islamischen Religionsgemeinschaft"
+soep-is,soep-is-2023,1094+4652,5,"Yes, member of another religious group","Ja, einer anderen Religionsgemeinschaft"
+soep-is,soep-is-2023,1094+4652,6,"No, no religious affiliation","Nein, konfessionslos"
+soep-is,soep-is-2023,1094+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,97+4652,1,"Yes, vocational training","Ja, berufliche Ausbildung"
+soep-is,soep-is-2023,97+4652,2,"Yes, university degree","Ja, Hochschulstudium"
+soep-is,soep-is-2023,97+4652,3,"No, no completed training","Nein, keine abgeschlossene Ausbildung"
+soep-is,soep-is-2023,97+4652,4,Don't know,Weiß nicht
+soep-is,soep-is-2023,97+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4358+4652,1,Self-employed farmer without employees,Selbständige Landwirte / Landwirtinnen ohne Beschäftigte
+soep-is,soep-is-2023,4358+4652,2,Self-employed farmer with employees,Selbständige Landwirte / Landwirtinnen mit Beschäftigten
+soep-is,soep-is-2023,4358+4652,3,"Freelance professional, self-employed academic (selbständiger Akademiker) without employees","Freie Berufe, selbständige Akademiker / Akademikerinnen ohne Beschäftigte"
+soep-is,soep-is-2023,4358+4652,4,"Freelance professional, self-employed academic (selbständiger Akademiker) with employees","Freie Berufe, selbständige Akademiker / Akademikerinnen mit Beschäftigten  "
+soep-is,soep-is-2023,4358+4652,5,Other self-employed / entrepreneur without employees,Andere Selbständige / Unternehmer / Unternehmerinnen ohne Beschäftigte
+soep-is,soep-is-2023,4358+4652,6,Other self-employed / entrepreneur with employees,Andere Selbständige / Unternehmer / Unternehmerinnen mit Beschäftigten
+soep-is,soep-is-2023,4358+4652,7,Working for self-employed family member(s),Mithelfende Familienangehörige
+soep-is,soep-is-2023,4358+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4687+,1,"Yes, correct","Ja, Angabe ist richtig"
+soep-is,soep-is-2023,4687+,2,"No, not correct","Nein, Angabe korrigieren"
+soep-is,soep-is-2023,4561+,1,Correct my answer,Angabe korrigieren
+soep-is,soep-is-2023,4561+,2,Don't correct my answer,Angabe nicht korrigieren
+soep-is,soep-is-2023,4680+,1,... and no one has joined or left the household since then,... und es ist seitdem keine Person zum Haushalt hinzugekommen oder hat den Haushalt verlassen
+soep-is,soep-is-2023,4680+,2,... but since then at least one person has joined or left the household,... aber seitdem ist mindestens eine Person zum Haushalt hinzugekommen oder hat den Haushalt verlassen
+soep-is,soep-is-2023,4681+,3,"... after the household moved or after one or more participants in ""Living in Germany” moved into the household","... nach Umzug des Haushalts, durch Zuzug eines oder mehrerer Teilnehmer von „Leben in Deutschland“"
+soep-is,soep-is-2023,4681+,4,... after new household formation,... nach Neugründung eines Haushalts
+soep-is,soep-is-2023,+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,46+4652,1,January,Januar
+soep-is,soep-is-2023,46+4652,2,February,Februar
+soep-is,soep-is-2023,46+4652,3,March,März
+soep-is,soep-is-2023,46+4652,4,April,April
+soep-is,soep-is-2023,46+4652,5,May,Mai
+soep-is,soep-is-2023,46+4652,6,June,Juni
+soep-is,soep-is-2023,46+4652,7,July,Juli
+soep-is,soep-is-2023,46+4652,8,August,August
+soep-is,soep-is-2023,46+4652,9,September,September
+soep-is,soep-is-2023,46+4652,10,October,Oktober
+soep-is,soep-is-2023,46+4652,11,November,November
+soep-is,soep-is-2023,46+4652,12,December,Dezember
+soep-is,soep-is-2023,46+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4677+4652,1,Yes,Ja
+soep-is,soep-is-2023,4677+4652,2,"No, my income and expenses are the same","Nein, Einnahmen und Ausgaben sind gleich hoch"
+soep-is,soep-is-2023,4677+4652,3,"No, my expenses are higher than my income","Nein, die Ausgaben sind höher als die Einnahmen"
+soep-is,soep-is-2023,4677+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11330+4652,2023,2023,2023
+soep-is,soep-is-2023,11330+4652,2022,2022,2022
+soep-is,soep-is-2023,11330+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11307+,12,2012,2012
+soep-is,soep-is-2023,11307+,11,2013,2013
+soep-is,soep-is-2023,11307+,10,2014,2014
+soep-is,soep-is-2023,11307+,9,2015,2015
+soep-is,soep-is-2023,11307+,8,2016,2016
+soep-is,soep-is-2023,11307+,7,2017,2017
+soep-is,soep-is-2023,11307+,6,2018,2018
+soep-is,soep-is-2023,11307+,5,2019,2019
+soep-is,soep-is-2023,11307+,4,2020,2020
+soep-is,soep-is-2023,11307+,3,2021,2021
+soep-is,soep-is-2023,11307+,2,2022,2022
+soep-is,soep-is-2023,11307+,1,2023,2023
+soep-is,soep-is-2023,2091+4652,1,No longer attends school,Besucht keine Schule mehr
+soep-is,soep-is-2023,2091+4652,2,Does not yet attend school,Besucht noch keine Schule
+soep-is,soep-is-2023,2091+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1287+4652,1,"Primary school (Grundschule), including special needs school (Förderschule)",Grundschule (inkl. Förderschule)
+soep-is,soep-is-2023,1287+4652,2,Lower secondary school (Hauptschule),"Hauptschule, Mittelschule"
+soep-is,soep-is-2023,1287+4652,3,Middle secondary school (Realschule),Realschule
+soep-is,soep-is-2023,1287+4652,4,Upper secondary school (Gymnasium),Gymnasium
+soep-is,soep-is-2023,1287+4652,5,Comprehensive school (Gesamtschule),Gesamtschule
+soep-is,soep-is-2023,1287+4652,6,Vocational school (Berufsschule),Berufsschule
+soep-is,soep-is-2023,1287+4652,7,Another kind of school,Sonstige Schule
+soep-is,soep-is-2023,1287+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4694+4652,1,"... Waldorf school, Montessori school, etc.?","... Waldorfschule, Montessorischule, o. Ä.?"
+soep-is,soep-is-2023,4694+4652,2,"… School for children with special needs, speech defects, etc.?","... Förder-, Sonder-, Sprachheilschule?"
+soep-is,soep-is-2023,4694+4652,3,"No, none of the above","Nein, nichts davon."
+soep-is,soep-is-2023,4694+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,24+4652,0,0,0
+soep-is,soep-is-2023,24+4652,1,1,1
+soep-is,soep-is-2023,24+4652,2,2,2
+soep-is,soep-is-2023,24+4652,3,3,3
+soep-is,soep-is-2023,24+4652,4,4,4
+soep-is,soep-is-2023,24+4652,5,5,5
+soep-is,soep-is-2023,24+4652,6,6,6
+soep-is,soep-is-2023,24+4652,7,7,7
+soep-is,soep-is-2023,24+4652,8,8,8
+soep-is,soep-is-2023,24+4652,9,9,9
+soep-is,soep-is-2023,24+4652,10,10,10
+soep-is,soep-is-2023,24+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,451+4652,1,1 Not at all,1 überhaupt nicht
+soep-is,soep-is-2023,451+4652,2,2,2
+soep-is,soep-is-2023,451+4652,3,3,3
+soep-is,soep-is-2023,451+4652,4,4,4
+soep-is,soep-is-2023,451+4652,5,5,5
+soep-is,soep-is-2023,451+4652,6,6,6
+soep-is,soep-is-2023,451+4652,7,7 Completely,7 voll und ganz
+soep-is,soep-is-2023,451+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1840+4652,1,Extremely unlikely 1,1 ausgeschlossen
+soep-is,soep-is-2023,1840+4652,2,2,2
+soep-is,soep-is-2023,1840+4652,3,3,3
+soep-is,soep-is-2023,1840+4652,4,4,4
+soep-is,soep-is-2023,1840+4652,5,5,5
+soep-is,soep-is-2023,1840+4652,6,6,6
+soep-is,soep-is-2023,1840+4652,7,Extremely likely 7,7 ganz sicher
+soep-is,soep-is-2023,1840+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4796+4652,2023,2023,2023
+soep-is,soep-is-2023,4796+4652,2022,2022,2022
+soep-is,soep-is-2023,4796+4652,2021,2021,2021
+soep-is,soep-is-2023,4796+4652,2020,2020,2020
+soep-is,soep-is-2023,4796+4652,2019,2019,2019
+soep-is,soep-is-2023,4796+4652,2018,2018,2018
+soep-is,soep-is-2023,4796+4652,2017,2017,2017
+soep-is,soep-is-2023,4796+4652,2016,2016,2016
+soep-is,soep-is-2023,4796+4652,2015,2015,2015
+soep-is,soep-is-2023,4796+4652,2014,2014,2014
+soep-is,soep-is-2023,4796+4652,2013,2013,2013
+soep-is,soep-is-2023,4796+4652,2012,2012,2012
+soep-is,soep-is-2023,4796+4652,2011,2011,2011
+soep-is,soep-is-2023,4796+4652,2010,2010,2010
+soep-is,soep-is-2023,4796+4652,2009,2009,2009
+soep-is,soep-is-2023,4796+4652,2008,2008,2008
+soep-is,soep-is-2023,4796+4652,2007,2007,2007
+soep-is,soep-is-2023,4796+4652,2006,2006,2006
+soep-is,soep-is-2023,4796+4652,2005,2005,2005
+soep-is,soep-is-2023,4796+4652,2004,2004,2004
+soep-is,soep-is-2023,4796+4652,2003,2003,2003
+soep-is,soep-is-2023,4796+4652,2002,2002,2002
+soep-is,soep-is-2023,4796+4652,2001,2001,2001
+soep-is,soep-is-2023,4796+4652,2000,2000,2000
+soep-is,soep-is-2023,4796+4652,1999,1999,1999
+soep-is,soep-is-2023,4796+4652,1998,1998,1998
+soep-is,soep-is-2023,4796+4652,1997,1997,1997
+soep-is,soep-is-2023,4796+4652,1996,1996,1996
+soep-is,soep-is-2023,4796+4652,1995,1995,1995
+soep-is,soep-is-2023,4796+4652,1994,1994,1994
+soep-is,soep-is-2023,4796+4652,1993,1993,1993
+soep-is,soep-is-2023,4796+4652,1992,1992,1992
+soep-is,soep-is-2023,4796+4652,1991,1991,1991
+soep-is,soep-is-2023,4796+4652,1990,1990,1990
+soep-is,soep-is-2023,4796+4652,1989,1989,1989
+soep-is,soep-is-2023,4796+4652,1988,1988,1988
+soep-is,soep-is-2023,4796+4652,1987,1987,1987
+soep-is,soep-is-2023,4796+4652,1986,1986,1986
+soep-is,soep-is-2023,4796+4652,1985,1985,1985
+soep-is,soep-is-2023,4796+4652,1984,1984,1984
+soep-is,soep-is-2023,4796+4652,1983,1983,1983
+soep-is,soep-is-2023,4796+4652,1982,1982,1982
+soep-is,soep-is-2023,4796+4652,1981,1981,1981
+soep-is,soep-is-2023,4796+4652,1980,1980,1980
+soep-is,soep-is-2023,4796+4652,1979,1979,1979
+soep-is,soep-is-2023,4796+4652,1978,1978,1978
+soep-is,soep-is-2023,4796+4652,1977,1977,1977
+soep-is,soep-is-2023,4796+4652,1976,1976,1976
+soep-is,soep-is-2023,4796+4652,1975,1975,1975
+soep-is,soep-is-2023,4796+4652,1974,1974,1974
+soep-is,soep-is-2023,4796+4652,1973,1973,1973
+soep-is,soep-is-2023,4796+4652,1972,1972,1972
+soep-is,soep-is-2023,4796+4652,1971,1971,1971
+soep-is,soep-is-2023,4796+4652,1970,1970,1970
+soep-is,soep-is-2023,4796+4652,1969,1969,1969
+soep-is,soep-is-2023,4796+4652,1968,1968,1968
+soep-is,soep-is-2023,4796+4652,1967,1967,1967
+soep-is,soep-is-2023,4796+4652,1966,1966,1966
+soep-is,soep-is-2023,4796+4652,1965,1965,1965
+soep-is,soep-is-2023,4796+4652,1964,1964,1964
+soep-is,soep-is-2023,4796+4652,1963,1963,1963
+soep-is,soep-is-2023,4796+4652,1962,1962,1962
+soep-is,soep-is-2023,4796+4652,1961,1961,1961
+soep-is,soep-is-2023,4796+4652,1960,1960,1960
+soep-is,soep-is-2023,4796+4652,1959,1959,1959
+soep-is,soep-is-2023,4796+4652,1958,1958,1958
+soep-is,soep-is-2023,4796+4652,1957,1957,1957
+soep-is,soep-is-2023,4796+4652,1956,1956,1956
+soep-is,soep-is-2023,4796+4652,1955,1955,1955
+soep-is,soep-is-2023,4796+4652,1954,1954,1954
+soep-is,soep-is-2023,4796+4652,1953,1953,1953
+soep-is,soep-is-2023,4796+4652,1952,1952,1952
+soep-is,soep-is-2023,4796+4652,1951,1951,1951
+soep-is,soep-is-2023,4796+4652,1950,1950,1950
+soep-is,soep-is-2023,4796+4652,1949,1949,1949
+soep-is,soep-is-2023,4796+4652,1948,1948,1948
+soep-is,soep-is-2023,4796+4652,1947,1947,1947
+soep-is,soep-is-2023,4796+4652,1946,1946,1946
+soep-is,soep-is-2023,4796+4652,1945,1945,1945
+soep-is,soep-is-2023,4796+4652,1944,1944,1944
+soep-is,soep-is-2023,4796+4652,1943,1943,1943
+soep-is,soep-is-2023,4796+4652,1942,1942,1942
+soep-is,soep-is-2023,4796+4652,1941,1941,1941
+soep-is,soep-is-2023,4796+4652,1940,1940,1940
+soep-is,soep-is-2023,4796+4652,1939,1939,1939
+soep-is,soep-is-2023,4796+4652,1938,1938,1938
+soep-is,soep-is-2023,4796+4652,1937,1937,1937
+soep-is,soep-is-2023,4796+4652,1936,1936,1936
+soep-is,soep-is-2023,4796+4652,1935,1935,1935
+soep-is,soep-is-2023,4796+4652,1934,1934,1934
+soep-is,soep-is-2023,4796+4652,1933,1933,1933
+soep-is,soep-is-2023,4796+4652,1932,1932,1932
+soep-is,soep-is-2023,4796+4652,1931,1931,1931
+soep-is,soep-is-2023,4796+4652,1930,1930,1930
+soep-is,soep-is-2023,4796+4652,1929,1929,1929
+soep-is,soep-is-2023,4796+4652,1928,1928,1928
+soep-is,soep-is-2023,4796+4652,1927,1927,1927
+soep-is,soep-is-2023,4796+4652,1926,1926,1926
+soep-is,soep-is-2023,4796+4652,1925,1925,1925
+soep-is,soep-is-2023,4796+4652,1924,1924,1924
+soep-is,soep-is-2023,4796+4652,1923,1923,1923
+soep-is,soep-is-2023,4796+4652,1922,1922,1922
+soep-is,soep-is-2023,4796+4652,1921,1921,1921
+soep-is,soep-is-2023,4796+4652,1920,1920,1920
+soep-is,soep-is-2023,4796+4652,1919,1919,1919
+soep-is,soep-is-2023,4796+4652,1918,1918,1918
+soep-is,soep-is-2023,4796+4652,1917,1917,1917
+soep-is,soep-is-2023,4796+4652,1916,1916,1916
+soep-is,soep-is-2023,4796+4652,1915,1915,1915
+soep-is,soep-is-2023,4796+4652,1914,1914,1914
+soep-is,soep-is-2023,4796+4652,1913,1913,1913
+soep-is,soep-is-2023,4796+4652,1912,1912,1912
+soep-is,soep-is-2023,4796+4652,1911,1911,1911
+soep-is,soep-is-2023,4796+4652,1910,1910,1910
+soep-is,soep-is-2023,4796+4652,1909,1909,1909
+soep-is,soep-is-2023,4796+4652,1908,1908,1908
+soep-is,soep-is-2023,4796+4652,1907,1907,1907
+soep-is,soep-is-2023,4796+4652,1906,1906,1906
+soep-is,soep-is-2023,4796+4652,1905,1905,1905
+soep-is,soep-is-2023,4796+4652,1904,1904,1904
+soep-is,soep-is-2023,4796+4652,1903,1903,1903
+soep-is,soep-is-2023,4796+4652,1902,1902,1902
+soep-is,soep-is-2023,4796+4652,1901,1901,1901
+soep-is,soep-is-2023,4796+4652,1900,1900,1900
+soep-is,soep-is-2023,4796+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4740+4652,1,Male,Männlich
+soep-is,soep-is-2023,4740+4652,2,Female,Weiblich
+soep-is,soep-is-2023,4740+4652,3,Nonbinary (divers),Divers
+soep-is,soep-is-2023,4740+4652,4,No entry,Kein Eintrag
+soep-is,soep-is-2023,4740+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4265+4652,1,Here in this household,Hier im Haushalt
+soep-is,soep-is-2023,4265+4652,2,Here in this city or town,Hier am Ort
+soep-is,soep-is-2023,4265+4652,7,Elsewhere in Germany,Woanders in Deutschland
+soep-is,soep-is-2023,4265+4652,5,In a different country,Im Ausland
+soep-is,soep-is-2023,4265+4652,6,Has died,Ist verstorben
+soep-is,soep-is-2023,4265+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,9090+,4,Afghanistan,Afghanistan
+soep-is,soep-is-2023,9090+,818,Egypt,Ägypten
+soep-is,soep-is-2023,9090+,248,Åland Islands,Åland
+soep-is,soep-is-2023,9090+,8,Albania,Albanien
+soep-is,soep-is-2023,9090+,12,Algeria,Algerien
+soep-is,soep-is-2023,9090+,850,American Virgin Islands,Amerikanische Jungferninseln
+soep-is,soep-is-2023,9090+,16,American Samoa,Amerikanisch-Samoa
+soep-is,soep-is-2023,9090+,20,Andorra,Andorra
+soep-is,soep-is-2023,9090+,24,Angola,Angola
+soep-is,soep-is-2023,9090+,660,Anguilla,Anguilla
+soep-is,soep-is-2023,9090+,10,Antarctica,Antarktis
+soep-is,soep-is-2023,9090+,28,Antigua and Barbuda,Antigua und Barbuda
+soep-is,soep-is-2023,9090+,226,Equatorial Guinea,Äquatorialguinea
+soep-is,soep-is-2023,9090+,32,Argentina,Argentinien
+soep-is,soep-is-2023,9090+,51,Armenia,Armenien
+soep-is,soep-is-2023,9090+,533,Aruba,Aruba
+soep-is,soep-is-2023,9090+,31,Azerbaijan,Aserbaidschan
+soep-is,soep-is-2023,9090+,231,Ethiopia,Äthiopien
+soep-is,soep-is-2023,9090+,36,Australia,Australien
+soep-is,soep-is-2023,9090+,44,Bahamas,Bahamas
+soep-is,soep-is-2023,9090+,48,Bahrain,Bahrain
+soep-is,soep-is-2023,9090+,50,Bangladesh,Bangladesch
+soep-is,soep-is-2023,9090+,52,Barbados,Barbados
+soep-is,soep-is-2023,9090+,56,Belgium,Belgien
+soep-is,soep-is-2023,9090+,84,Belize,Belize
+soep-is,soep-is-2023,9090+,204,Benin,Benin
+soep-is,soep-is-2023,9090+,60,Bermuda,Bermuda
+soep-is,soep-is-2023,9090+,64,Bhutan,Bhutan
+soep-is,soep-is-2023,9090+,68,Bolivia,Bolivien
+soep-is,soep-is-2023,9090+,535,"Bonaire, Saba, St. Eustatius","Bonaire, Saba, St. Eustatius"
+soep-is,soep-is-2023,9090+,70,Bosnia-Herzegovina,Bosnien und Herzegowina
+soep-is,soep-is-2023,9090+,72,Botswana,Botsuana
+soep-is,soep-is-2023,9090+,74,Bouvet Island,Bouvetinsel
+soep-is,soep-is-2023,9090+,76,Brazil,Brasilien
+soep-is,soep-is-2023,9090+,92,British Virgin Islands,Britische Jungferninseln
+soep-is,soep-is-2023,9090+,86,British Indian Ocean Territory,Britisches Territorium im Indischen Ozean
+soep-is,soep-is-2023,9090+,96,Brunei Darussalam,Brunei Darussalam
+soep-is,soep-is-2023,9090+,100,Bulgaria,Bulgarien
+soep-is,soep-is-2023,9090+,854,Burkina Faso,Burkina Faso
+soep-is,soep-is-2023,9090+,108,Burundi,Burundi
+soep-is,soep-is-2023,9090+,132,Cape Verde,Cabo Verde
+soep-is,soep-is-2023,9090+,152,Chile,Chile
+soep-is,soep-is-2023,9090+,156,China,China
+soep-is,soep-is-2023,9090+,184,Cook Islands,Cookinseln
+soep-is,soep-is-2023,9090+,188,Costa Rica,Costa Rica
+soep-is,soep-is-2023,9090+,384,Ivory Coast,Côte d’Ivoire
+soep-is,soep-is-2023,9090+,531,Curaçao,Curaçao
+soep-is,soep-is-2023,9090+,208,Denmark,Dänemark
+soep-is,soep-is-2023,9090+,276,Germany,Deutschland
+soep-is,soep-is-2023,9090+,212,Dominica,Dominica
+soep-is,soep-is-2023,9090+,214,dschibutisch,Dominikanische Republik
+soep-is,soep-is-2023,9090+,262,Djibouti,Dschibuti
+soep-is,soep-is-2023,9090+,218,Ecuador,Ecuador
+soep-is,soep-is-2023,9090+,222,El Salvador,El Salvador
+soep-is,soep-is-2023,9090+,232,Eritrea,Eritrea
+soep-is,soep-is-2023,9090+,233,Estonia,Estland
+soep-is,soep-is-2023,9090+,748,Eswatini (formerly Swaziland),Eswatini
+soep-is,soep-is-2023,9090+,238,Falkland Islands,Falklandinseln
+soep-is,soep-is-2023,9090+,234,Faroe Islands,Färöer
+soep-is,soep-is-2023,9090+,242,Fiji,Fidschi
+soep-is,soep-is-2023,9090+,246,Finland,Finnland
+soep-is,soep-is-2023,9090+,250,France,Frankreich
+soep-is,soep-is-2023,9090+,260,French Southern and Antarctic Lands,Französische Süd- und Antarktisgebiete
+soep-is,soep-is-2023,9090+,254,French Guiana,Französisch-Guayana
+soep-is,soep-is-2023,9090+,258,French Polynesia,Französisch-Polynesien
+soep-is,soep-is-2023,9090+,266,Gabon,Gabun
+soep-is,soep-is-2023,9090+,270,Gambia,Gambia
+soep-is,soep-is-2023,9090+,268,Georgia,Georgien
+soep-is,soep-is-2023,9090+,288,Ghana,Ghana
+soep-is,soep-is-2023,9090+,292,Gibraltar,Gibraltar
+soep-is,soep-is-2023,9090+,308,Grenada,Grenada
+soep-is,soep-is-2023,9090+,300,Greece,Griechenland
+soep-is,soep-is-2023,9090+,304,Greenland,Grönland
+soep-is,soep-is-2023,9090+,312,Guadeloupe,Guadeloupe
+soep-is,soep-is-2023,9090+,316,Guam,Guam
+soep-is,soep-is-2023,9090+,320,Guatemala,Guatemala
+soep-is,soep-is-2023,9090+,831,Guernsey,Guernsey
+soep-is,soep-is-2023,9090+,324,Guinea,Guinea
+soep-is,soep-is-2023,9090+,624,Guinea-Bissau,Guinea-Bissau
+soep-is,soep-is-2023,9090+,328,Guyana,Guyana
+soep-is,soep-is-2023,9090+,332,Haiti,Haiti
+soep-is,soep-is-2023,9090+,334,Heard Island and McDonald Islands,Heard und McDonaldinseln
+soep-is,soep-is-2023,9090+,340,Honduras,Honduras
+soep-is,soep-is-2023,9090+,344,Hong Kong,Hongkong
+soep-is,soep-is-2023,9090+,356,India,Indien
+soep-is,soep-is-2023,9090+,360,Indonesia,Indonesien
+soep-is,soep-is-2023,9090+,833,Isle of Man,Insel Man
+soep-is,soep-is-2023,9090+,368,Iraq,Irak
+soep-is,soep-is-2023,9090+,364,Iran,Iran
+soep-is,soep-is-2023,9090+,372,"Ireland, Republic of",Irland
+soep-is,soep-is-2023,9090+,352,Iceland,Island
+soep-is,soep-is-2023,9090+,376,Israel,Israel
+soep-is,soep-is-2023,9090+,380,Italy,Italien
+soep-is,soep-is-2023,9090+,388,Jamaica,Jamaika
+soep-is,soep-is-2023,9090+,392,Japan,Japan
+soep-is,soep-is-2023,9090+,887,Yemen,Jemen
+soep-is,soep-is-2023,9090+,832,Jersey,Jersey
+soep-is,soep-is-2023,9090+,400,Jordan,Jordanien
+soep-is,soep-is-2023,9090+,136,Cayman Islands,Kaimaninseln
+soep-is,soep-is-2023,9090+,116,Cambodia,Kambodscha
+soep-is,soep-is-2023,9090+,120,Cameroon,Kamerun
+soep-is,soep-is-2023,9090+,124,Canada,Kanada
+soep-is,soep-is-2023,9090+,398,Kazakhstan,Kasachstan
+soep-is,soep-is-2023,9090+,634,Qatar,Katar
+soep-is,soep-is-2023,9090+,404,Kenya,Kenia
+soep-is,soep-is-2023,9090+,417,Kyrgyzstan,Kirgisistan
+soep-is,soep-is-2023,9090+,296,Kiribati,Kiribati
+soep-is,soep-is-2023,9090+,900,Kosovo,Kosovo
+soep-is,soep-is-2023,9090+,581,United States Minor Outlying Islands,Kleinere Amerikanische Überseeinseln
+soep-is,soep-is-2023,9090+,166,Cocos Islands,Kokosinseln
+soep-is,soep-is-2023,9090+,170,Colombia,Kolumbien
+soep-is,soep-is-2023,9090+,174,Comoros,Komoren
+soep-is,soep-is-2023,9090+,178,Congo,Kongo
+soep-is,soep-is-2023,9090+,180,"Congo, Democratic Republic","Kongo, Demokratische Republik"
+soep-is,soep-is-2023,9090+,408,"Korea, Democratic People’s Republic of","Korea, Demokratische Volksrepublik"
+soep-is,soep-is-2023,9090+,410,"Korea, Republic of","Korea, Republik"
+soep-is,soep-is-2023,9090+,191,Croatia,Kroatien
+soep-is,soep-is-2023,9090+,192,Cuba,Kuba
+soep-is,soep-is-2023,9090+,414,Kuwait,Kuwait
+soep-is,soep-is-2023,9090+,418,Laos,Laos
+soep-is,soep-is-2023,9090+,426,Lesotho,Lesotho
+soep-is,soep-is-2023,9090+,428,Latvia,Lettland
+soep-is,soep-is-2023,9090+,422,Lebanon,Libanon
+soep-is,soep-is-2023,9090+,430,Liberia,Liberia
+soep-is,soep-is-2023,9090+,434,Libya,Libyen
+soep-is,soep-is-2023,9090+,438,Liechtenstein,Liechtenstein
+soep-is,soep-is-2023,9090+,440,Lithuania,Litauen
+soep-is,soep-is-2023,9090+,442,Luxembourg,Luxemburg
+soep-is,soep-is-2023,9090+,446,Macau,Macau
+soep-is,soep-is-2023,9090+,450,Madagascar,Madagaskar
+soep-is,soep-is-2023,9090+,454,Malawi,Malawi
+soep-is,soep-is-2023,9090+,458,Malaysia,Malaysia
+soep-is,soep-is-2023,9090+,462,Maldives,Malediven
+soep-is,soep-is-2023,9090+,466,Mali,Mali
+soep-is,soep-is-2023,9090+,470,Malta,Malta
+soep-is,soep-is-2023,9090+,504,Morocco,Marokko
+soep-is,soep-is-2023,9090+,584,Marshall Islands,Marshallinseln
+soep-is,soep-is-2023,9090+,474,Martinique,Martinique
+soep-is,soep-is-2023,9090+,478,Mauritania,Mauretanien
+soep-is,soep-is-2023,9090+,480,Mauritius,Mauritius
+soep-is,soep-is-2023,9090+,175,Mayotte,Mayotte
+soep-is,soep-is-2023,9090+,484,Mexico,Mexiko
+soep-is,soep-is-2023,9090+,583,Micronesia,Mikronesien
+soep-is,soep-is-2023,9090+,498,Moldova,Moldau
+soep-is,soep-is-2023,9090+,492,Monaco,Monaco
+soep-is,soep-is-2023,9090+,496,Mongolia,Mongolei
+soep-is,soep-is-2023,9090+,499,Montenegro,Montenegro
+soep-is,soep-is-2023,9090+,500,Montserrat,Montserrat
+soep-is,soep-is-2023,9090+,508,Mozambique,Mosambik
+soep-is,soep-is-2023,9090+,104,Myanma,Myanmar
+soep-is,soep-is-2023,9090+,516,Namibia,Namibia
+soep-is,soep-is-2023,9090+,520,Nauru,Nauru
+soep-is,soep-is-2023,9090+,524,Nepal,Nepal
+soep-is,soep-is-2023,9090+,540,New Caledonia,Neukaledonien
+soep-is,soep-is-2023,9090+,554,New Zealand,Neuseeland
+soep-is,soep-is-2023,9090+,558,Nicaragua,Nicaragua
+soep-is,soep-is-2023,9090+,528,The Netherlands,Niederlande
+soep-is,soep-is-2023,9090+,562,Niger,Niger
+soep-is,soep-is-2023,9090+,566,Nigeria,Nigeria
+soep-is,soep-is-2023,9090+,570,Niue,Niue
+soep-is,soep-is-2023,9090+,580,Northern Mariana Islands,Nördliche Marianen
+soep-is,soep-is-2023,9090+,807,North Macedonia,Nordmazedonien
+soep-is,soep-is-2023,9090+,574,Norfolk Island,Norfolkinsel
+soep-is,soep-is-2023,9090+,578,Norway,Norwegen
+soep-is,soep-is-2023,9090+,512,Oman,Oman
+soep-is,soep-is-2023,9090+,40,Austria,Österreich
+soep-is,soep-is-2023,9090+,586,Pakistan,Pakistan
+soep-is,soep-is-2023,9090+,275,Palestina,Palästina
+soep-is,soep-is-2023,9090+,585,Palau,Palau
+soep-is,soep-is-2023,9090+,591,Panama,Panama
+soep-is,soep-is-2023,9090+,598,Papua New Guinea,Papua-Neuguinea
+soep-is,soep-is-2023,9090+,600,Paraguay,Paraguay
+soep-is,soep-is-2023,9090+,604,Peru,Peru
+soep-is,soep-is-2023,9090+,608,Philippines,Philippinen
+soep-is,soep-is-2023,9090+,612,Pitcairn Islands,Pitcairninseln
+soep-is,soep-is-2023,9090+,616,Poland,Polen
+soep-is,soep-is-2023,9090+,620,Portugal,Portugal
+soep-is,soep-is-2023,9090+,630,Puerto Rico,Puerto Rico
+soep-is,soep-is-2023,9090+,638,Réunion,Réunion
+soep-is,soep-is-2023,9090+,646,Rwanda,Ruanda
+soep-is,soep-is-2023,9090+,642,Romania,Rumänien
+soep-is,soep-is-2023,9090+,643,Russian Federation,Russische Föderation
+soep-is,soep-is-2023,9090+,90,Solomon Islands,Salomonen
+soep-is,soep-is-2023,9090+,894,Zambia,Sambia
+soep-is,soep-is-2023,9090+,882,Samoa,Samoa
+soep-is,soep-is-2023,9090+,674,San Marino,San Marino
+soep-is,soep-is-2023,9090+,678,São Tomé and Príncipe,São Tomé und Príncipe
+soep-is,soep-is-2023,9090+,682,Saudi-Arabia,Saudi-Arabien
+soep-is,soep-is-2023,9090+,752,Sweden,Schweden
+soep-is,soep-is-2023,9090+,756,Switzerland,Schweiz
+soep-is,soep-is-2023,9090+,686,Senegal,Senegal
+soep-is,soep-is-2023,9090+,688,Serbia,Serbien
+soep-is,soep-is-2023,9090+,690,Seychelles,Seychellen
+soep-is,soep-is-2023,9090+,694,Sierra Leone,Sierra Leone
+soep-is,soep-is-2023,9090+,716,Zimbabwe,Simbabwe
+soep-is,soep-is-2023,9090+,702,Singapore,Singapur
+soep-is,soep-is-2023,9090+,703,Slovakia,Slowakei
+soep-is,soep-is-2023,9090+,705,Slovenia,Slowenien
+soep-is,soep-is-2023,9090+,706,Somalia,Somalia
+soep-is,soep-is-2023,9090+,724,Spain,Spanien
+soep-is,soep-is-2023,9090+,144,Sri Lanka,Sri Lanka
+soep-is,soep-is-2023,9090+,652,St. Barthélemy,St. Barthélemy
+soep-is,soep-is-2023,9090+,654,"St. Helena, Ascension and Tristan da Cunha","St. Helena, Ascension und Tristan da Cunha"
+soep-is,soep-is-2023,9090+,659,St Kitts and Nevis,St. Kitts und Nevis
+soep-is,soep-is-2023,9090+,662,St. Lucia,St. Lucia
+soep-is,soep-is-2023,9090+,663,St. Martin (French part),St. Martin (französischer Teil)
+soep-is,soep-is-2023,9090+,534,St. Martin (Dutch part),St. Martin (niederländischer Teil)
+soep-is,soep-is-2023,9090+,666,St. Pierre and Miquelon,St. Pierre und Miquelon
+soep-is,soep-is-2023,9090+,670,St. Vincent and the Grenadines,St. Vincent und die Grenadinen
+soep-is,soep-is-2023,9090+,710,South Africa,Südafrika
+soep-is,soep-is-2023,9090+,729,Sudan,Sudan
+soep-is,soep-is-2023,9090+,239,South Georgia and the South Sandwich Islands,Südgeorgien und die südlichen Sandwichinseln
+soep-is,soep-is-2023,9090+,728,South Sudan,Südsudan
+soep-is,soep-is-2023,9090+,740,Suriname,Suriname
+soep-is,soep-is-2023,9090+,744,Svalbard and Jan Mayen,Svalbard und Jan Mayen
+soep-is,soep-is-2023,9090+,760,Syria,Syrien
+soep-is,soep-is-2023,9090+,762,Tajikistan,Tadschikistan
+soep-is,soep-is-2023,9090+,158,Taiwan,Taiwan
+soep-is,soep-is-2023,9090+,834,Tanzania,Tansania
+soep-is,soep-is-2023,9090+,764,Thailand,Thailand
+soep-is,soep-is-2023,9090+,626,Timor-Leste,Timor-Leste
+soep-is,soep-is-2023,9090+,768,Togo,Togo
+soep-is,soep-is-2023,9090+,772,Tokelau,Tokelau
+soep-is,soep-is-2023,9090+,776,Tonga,Tonga
+soep-is,soep-is-2023,9090+,780,Trinidad and Tobago,Trinidad und Tobago
+soep-is,soep-is-2023,9090+,148,Chad,Tschad
+soep-is,soep-is-2023,9090+,203,Czech Republic,Tschechien
+soep-is,soep-is-2023,9090+,788,Tunisia,Tunesien
+soep-is,soep-is-2023,9090+,792,Turkey,Türkei
+soep-is,soep-is-2023,9090+,795,Turkmenistan,Turkmenistan
+soep-is,soep-is-2023,9090+,796,Turks and Caicos Islands,Turks- und Caicosinseln
+soep-is,soep-is-2023,9090+,798,Tuvalu,Tuvalu
+soep-is,soep-is-2023,9090+,800,Uganda,Uganda
+soep-is,soep-is-2023,9090+,804,Ukraine,Ukraine
+soep-is,soep-is-2023,9090+,348,Hungary,Ungarn
+soep-is,soep-is-2023,9090+,858,Uruguay,Uruguay
+soep-is,soep-is-2023,9090+,860,Uzbekistan,Usbekistan
+soep-is,soep-is-2023,9090+,548,Vanuatu,Vanuatu
+soep-is,soep-is-2023,9090+,336,Vatican City,Vatikanstadt
+soep-is,soep-is-2023,9090+,862,Venezuela,Venezuela
+soep-is,soep-is-2023,9090+,784,United Arab Emirates,Vereinigte Arabische Emirate
+soep-is,soep-is-2023,9090+,840,United States,Vereinigte Staaten
+soep-is,soep-is-2023,9090+,826,United Kingdom,Vereinigtes Königreich
+soep-is,soep-is-2023,9090+,704,Vietnam,Vietnam
+soep-is,soep-is-2023,9090+,876,Wallis and Futuna,Wallis und Futuna
+soep-is,soep-is-2023,9090+,162,Christmas Island,Weihnachtsinsel
+soep-is,soep-is-2023,9090+,112,Belarus,Weißrussland
+soep-is,soep-is-2023,9090+,732,Western Sahara,Westsahara
+soep-is,soep-is-2023,9090+,140,Central African Republic,Zentralafrikanische Republik
+soep-is,soep-is-2023,9090+,196,Cyprus,Zypern
+soep-is,soep-is-2023,9091+,4,Afghan,afghanisch
+soep-is,soep-is-2023,9091+,818,Egyptan,ägyptisch
+soep-is,soep-is-2023,9091+,8,Albanian,albanisch
+soep-is,soep-is-2023,9091+,12,Algerian,algerisch
+soep-is,soep-is-2023,9091+,840,American,amerikanisch
+soep-is,soep-is-2023,9091+,20,Andorran,andorranisch
+soep-is,soep-is-2023,9091+,24,Angolan,angolanisch
+soep-is,soep-is-2023,9091+,28,Antiguan,antiguanisch
+soep-is,soep-is-2023,9091+,226,Equatorial Guinean,äquatorialguineisch
+soep-is,soep-is-2023,9091+,32,Argentinian,argentinisch
+soep-is,soep-is-2023,9091+,51,Armenian,armenisch
+soep-is,soep-is-2023,9091+,31,Azerbaijani,aserbaidschanisch
+soep-is,soep-is-2023,9091+,231,Ethiopian,äthiopisch
+soep-is,soep-is-2023,9091+,36,Australian,australisch
+soep-is,soep-is-2023,9091+,44,Bahamian,bahamaisch
+soep-is,soep-is-2023,9091+,48,Bahraini,bahrainisch
+soep-is,soep-is-2023,9091+,50,Bangladeshi,bangladeschisch
+soep-is,soep-is-2023,9091+,52,Barbadian,barbadisch
+soep-is,soep-is-2023,9091+,56,Belgian,belgisch
+soep-is,soep-is-2023,9091+,84,Belizean,belizisch
+soep-is,soep-is-2023,9091+,204,Beninese,beninisch
+soep-is,soep-is-2023,9091+,64,Bhutanese,bhutanisch
+soep-is,soep-is-2023,9091+,68,Bolivian,bolivianisch
+soep-is,soep-is-2023,9091+,70,Bosnian-Herzegovinian,bosnisch-herzegowinisch
+soep-is,soep-is-2023,9091+,72,Botswanan,botsuanisch
+soep-is,soep-is-2023,9091+,76,Brazilian,brasilianisch
+soep-is,soep-is-2023,9091+,826,British,britisch
+soep-is,soep-is-2023,9091+,96,Bruneian,bruneiisch
+soep-is,soep-is-2023,9091+,100,Bulgarian,bulgarisch
+soep-is,soep-is-2023,9091+,854,Burkinabe,burkinisch
+soep-is,soep-is-2023,9091+,108,Burundian,burundisch
+soep-is,soep-is-2023,9091+,132,Cape Verdean,cabo-verdisch
+soep-is,soep-is-2023,9091+,152,Chilean,chilenisch
+soep-is,soep-is-2023,9091+,446,Chinese (Macau),chineisch (Macau)
+soep-is,soep-is-2023,9091+,156,Chinese,chinesisch
+soep-is,soep-is-2023,9091+,344,Chinese (Hong Kong),chinesisch (Hongkong)
+soep-is,soep-is-2023,9091+,188,Costa Rican,costa-ricanisch
+soep-is,soep-is-2023,9091+,208,Danish,dänisch
+soep-is,soep-is-2023,9091+,180,Congolese (Democratic Republic of the Congo),der Demokratischen Republik Kongo
+soep-is,soep-is-2023,9091+,408,North Korean,der Demokratischen Volksrepublik Korea
+soep-is,soep-is-2023,9091+,410,South Korean,der Republik Korea
+soep-is,soep-is-2023,9091+,784,Emirati,der Vereinigten Arabischen Emirate
+soep-is,soep-is-2023,9091+,276,German,deutsch
+soep-is,soep-is-2023,9091+,212,Dominican,dominicanisch
+soep-is,soep-is-2023,9091+,214,Dominican,dominikanisch
+soep-is,soep-is-2023,9091+,262,Djiboutian,dschibutisch
+soep-is,soep-is-2023,9091+,218,Ecuadorian,ecuadorianisch
+soep-is,soep-is-2023,9091+,232,Eritrean,eritreisch
+soep-is,soep-is-2023,9091+,233,Estonian,estnisch
+soep-is,soep-is-2023,9091+,748,Swazi,eswatinisch
+soep-is,soep-is-2023,9091+,242,Fijian,fidschianisch
+soep-is,soep-is-2023,9091+,246,Finnish,finnisch
+soep-is,soep-is-2023,9091+,250,French,französisch
+soep-is,soep-is-2023,9091+,266,Gabonese,gabunisch
+soep-is,soep-is-2023,9091+,270,Gambian,gambisch
+soep-is,soep-is-2023,9091+,268,Georgian,georgisch
+soep-is,soep-is-2023,9091+,288,Ghanaian,ghanaisch
+soep-is,soep-is-2023,9091+,308,Grenadian,grenadisch
+soep-is,soep-is-2023,9091+,300,Greek,griechisch
+soep-is,soep-is-2023,9091+,320,Guatemalan,guatemaltekisch
+soep-is,soep-is-2023,9091+,624,Bissau-Guinean,guinea-bissauisch
+soep-is,soep-is-2023,9091+,324,Guinean,guineisch
+soep-is,soep-is-2023,9091+,328,Guyanese,guyanisch
+soep-is,soep-is-2023,9091+,332,Haitian,haitianisch
+soep-is,soep-is-2023,9091+,340,Honduran,honduranisch
+soep-is,soep-is-2023,9091+,356,Indian,indisch
+soep-is,soep-is-2023,9091+,360,Indonesian,indonesisch
+soep-is,soep-is-2023,9091+,368,Iraqi,irakisch
+soep-is,soep-is-2023,9091+,364,Iranian,iranisch
+soep-is,soep-is-2023,9091+,372,Irish,irisch
+soep-is,soep-is-2023,9091+,352,Icelandic,isländisch
+soep-is,soep-is-2023,9091+,376,Israeli,israelisch
+soep-is,soep-is-2023,9091+,380,Italian,italienisch
+soep-is,soep-is-2023,9091+,384,Ivorian,ivorisch
+soep-is,soep-is-2023,9091+,388,Jamaican,jamaikanisch
+soep-is,soep-is-2023,9091+,392,Japanese,japanisch
+soep-is,soep-is-2023,9091+,887,Yemeni,jemenitisch
+soep-is,soep-is-2023,9091+,400,Jordanian,jordanisch
+soep-is,soep-is-2023,9091+,116,Cambodian,kambodschanisch
+soep-is,soep-is-2023,9091+,120,Cameroonian,kamerunisch
+soep-is,soep-is-2023,9091+,124,Canadian,kanadisch
+soep-is,soep-is-2023,9091+,398,Kazakh,kasachisch
+soep-is,soep-is-2023,9091+,634,Qatari,katarisch
+soep-is,soep-is-2023,9091+,404,Kenyan,kenianisch
+soep-is,soep-is-2023,9091+,417,Kyrgyz,kirgisisch
+soep-is,soep-is-2023,9091+,296,Kiribati,kiribatisch
+soep-is,soep-is-2023,9091+,170,Colombian,kolumbianisch
+soep-is,soep-is-2023,9091+,174,Comorian,komorisch
+soep-is,soep-is-2023,9091+,178,Congolese (Republic of the Congo),kongolesisch
+soep-is,soep-is-2023,9091+,900,Kosovar,kosovar
+soep-is,soep-is-2023,9091+,191,Croatian,kroatisch
+soep-is,soep-is-2023,9091+,192,Cuban,kubanisch
+soep-is,soep-is-2023,9091+,414,Kuwaiti,kuwaitisch
+soep-is,soep-is-2023,9091+,418,Laotian,laotisch
+soep-is,soep-is-2023,9091+,426,Basotho,lesothisch
+soep-is,soep-is-2023,9091+,428,Latvian,lettisch
+soep-is,soep-is-2023,9091+,422,Lebanese,libanesisch
+soep-is,soep-is-2023,9091+,430,Liberian,liberianisch
+soep-is,soep-is-2023,9091+,434,Libyan,libysch
+soep-is,soep-is-2023,9091+,438,Liechtensteiner,liechtensteinisch
+soep-is,soep-is-2023,9091+,440,Lithuanian,litauisch
+soep-is,soep-is-2023,9091+,662,Saint Lucian,lucianisch
+soep-is,soep-is-2023,9091+,442,Luxembourgish,luxemburgisch
+soep-is,soep-is-2023,9091+,450,Malagasy,madagassisch
+soep-is,soep-is-2023,9091+,454,Malawian,malawisch
+soep-is,soep-is-2023,9091+,458,Malaysian,malaysisch
+soep-is,soep-is-2023,9091+,462,Maldivian,maledivisch
+soep-is,soep-is-2023,9091+,466,Malian,malisch
+soep-is,soep-is-2023,9091+,470,Maltese,maltesisch
+soep-is,soep-is-2023,9091+,504,Moroccan,marokkanisch
+soep-is,soep-is-2023,9091+,584,Marshallese,marshallisch
+soep-is,soep-is-2023,9091+,478,Mauritanian,mauretanisch
+soep-is,soep-is-2023,9091+,480,Mauritian,mauritisch
+soep-is,soep-is-2023,9091+,807,Macedonian / of the Republic of Northern Macedonia,mazedonisch/der Republik Nordmazedonien
+soep-is,soep-is-2023,9091+,484,Mexican,mexikanisch
+soep-is,soep-is-2023,9091+,583,Micronesian,mikronesisch
+soep-is,soep-is-2023,9091+,498,Moldovan,moldauisch
+soep-is,soep-is-2023,9091+,492,Monegasque,monegassisch
+soep-is,soep-is-2023,9091+,496,Mongolian,mongolisch
+soep-is,soep-is-2023,9091+,499,Montenegrin,montenegrinisch
+soep-is,soep-is-2023,9091+,508,Mozambican,mosambikanisch
+soep-is,soep-is-2023,9091+,104,Namibian,myanmarisch
+soep-is,soep-is-2023,9091+,516,Namibian,namibisch
+soep-is,soep-is-2023,9091+,520,Nauruan,nauruisch
+soep-is,soep-is-2023,9091+,524,Nepalese,nepalesisch
+soep-is,soep-is-2023,9091+,554,New Zealand,neuseeländisch
+soep-is,soep-is-2023,9091+,558,Nicaraguan,nicaraguanisch
+soep-is,soep-is-2023,9091+,528,Dutch,niederländisch
+soep-is,soep-is-2023,9091+,566,Nigerian,nigerianisch
+soep-is,soep-is-2023,9091+,562,Nigerien,nigrisch
+soep-is,soep-is-2023,9091+,578,Norwegian,norwegisch
+soep-is,soep-is-2023,9091+,512,Omani,omanisch
+soep-is,soep-is-2023,9091+,40,Austrian,österreichisch
+soep-is,soep-is-2023,9091+,586,Pakistani,pakistanisch
+soep-is,soep-is-2023,9091+,275,Palestinian,palästinensisch
+soep-is,soep-is-2023,9091+,585,Palauan,palauisch
+soep-is,soep-is-2023,9091+,591,Panamanian,panamaisch
+soep-is,soep-is-2023,9091+,598,Papua New Guinean,papua-neuguineisch
+soep-is,soep-is-2023,9091+,600,Paraguayan,paraguayisch
+soep-is,soep-is-2023,9091+,604,Peruvian,peruanisch
+soep-is,soep-is-2023,9091+,608,Filipino,philippinisch
+soep-is,soep-is-2023,9091+,616,Polish,polnisch
+soep-is,soep-is-2023,9091+,620,Portuguese,portugiesisch
+soep-is,soep-is-2023,9091+,646,Rwandan,ruandisch
+soep-is,soep-is-2023,9091+,642,Romanian,rumänisch
+soep-is,soep-is-2023,9091+,643,Russian,russisch
+soep-is,soep-is-2023,9091+,90,Solomon Island,salomonisch
+soep-is,soep-is-2023,9091+,222,Salvadoran,salvadorianisch
+soep-is,soep-is-2023,9091+,894,Zambian,sambisch
+soep-is,soep-is-2023,9091+,882,Samoan,samoanisch
+soep-is,soep-is-2023,9091+,674,Sammarinese,san-marinesisch
+soep-is,soep-is-2023,9091+,678,São Toméan,são-toméisch
+soep-is,soep-is-2023,9091+,682,Saudi Arabian,saudi-arabisch
+soep-is,soep-is-2023,9091+,752,Swedish,schwedisch
+soep-is,soep-is-2023,9091+,756,Swiss,schweizerisch
+soep-is,soep-is-2023,9091+,686,Senegalese,senegalesisch
+soep-is,soep-is-2023,9091+,688,Serbian,serbisch
+soep-is,soep-is-2023,9091+,690,Seychellois,seychellisch
+soep-is,soep-is-2023,9091+,694,Sierra Leonean,sierra-leonisch
+soep-is,soep-is-2023,9091+,716,Zimbabwean,simbabwisch
+soep-is,soep-is-2023,9091+,702,Singaporean,singapurisch
+soep-is,soep-is-2023,9091+,703,Slovakian,slowakisch
+soep-is,soep-is-2023,9091+,705,Slovenian,slowenisch
+soep-is,soep-is-2023,9091+,706,Somali,somalisch
+soep-is,soep-is-2023,9091+,724,Spanish,spanisch
+soep-is,soep-is-2023,9091+,144,Sri Lankan,sri-lankisch
+soep-is,soep-is-2023,9091+,710,South African,südafrikanisch
+soep-is,soep-is-2023,9091+,729,Sudanese,sudanesisch
+soep-is,soep-is-2023,9091+,728,South Sudanese,südsudanesisch
+soep-is,soep-is-2023,9091+,740,Surinamese,surinamisch
+soep-is,soep-is-2023,9091+,760,Syrian,syrisch
+soep-is,soep-is-2023,9091+,762,Tajik,tadschikisch
+soep-is,soep-is-2023,9091+,158,Taiwanese,taiwanisch
+soep-is,soep-is-2023,9091+,834,Tanzanian,tansanisch
+soep-is,soep-is-2023,9091+,764,Thai,thailändisch
+soep-is,soep-is-2023,9091+,768,Togolese,togoisch
+soep-is,soep-is-2023,9091+,776,Tongan,tongaisch
+soep-is,soep-is-2023,9091+,148,Chadian,tschadisch
+soep-is,soep-is-2023,9091+,203,Czech,tschechisch
+soep-is,soep-is-2023,9091+,788,Tunisian,tunesisch
+soep-is,soep-is-2023,9091+,792,Turkish,türkisch
+soep-is,soep-is-2023,9091+,795,Turkmen,turkmenisch
+soep-is,soep-is-2023,9091+,798,Tuvaluan,tuvaluisch
+soep-is,soep-is-2023,9091+,800,Ugandan,ugandisch
+soep-is,soep-is-2023,9091+,804,Ukrainian,ukrainisch
+soep-is,soep-is-2023,9091+,348,Hungarian,ungarisch
+soep-is,soep-is-2023,9091+,858,Uruguayan,uruguayisch
+soep-is,soep-is-2023,9091+,860,Uzbek,usbekisch
+soep-is,soep-is-2023,9091+,548,Vanuatu,vanuatuisch
+soep-is,soep-is-2023,9091+,336,Vatican,vatikanisch
+soep-is,soep-is-2023,9091+,862,Venezuelan,venezolanisch
+soep-is,soep-is-2023,9091+,704,Vietnamese,vietnamesisch
+soep-is,soep-is-2023,9091+,670,Vincentian,vincentisch
+soep-is,soep-is-2023,9091+,659,from Saint Kitts and Nevis,von St. Kitts und Nevis
+soep-is,soep-is-2023,9091+,626,from East Timor,von Timor-Leste
+soep-is,soep-is-2023,9091+,780,from Trinidad and Tobago,von Trinidad und Tobago
+soep-is,soep-is-2023,9091+,112,Belarusian,weißrussisch
+soep-is,soep-is-2023,9091+,140,Central African,zentralafrikanisch
+soep-is,soep-is-2023,9091+,196,Cypriot,zyprisch
+soep-is,soep-is-2023,4715+4652,0,0 Completely dissatisfied,0 Ganz und gar unzufrieden
+soep-is,soep-is-2023,4715+4652,1,1,1
+soep-is,soep-is-2023,4715+4652,2,2,2
+soep-is,soep-is-2023,4715+4652,3,3,3
+soep-is,soep-is-2023,4715+4652,4,4,4
+soep-is,soep-is-2023,4715+4652,5,5,5
+soep-is,soep-is-2023,4715+4652,6,6,6
+soep-is,soep-is-2023,4715+4652,7,7,7
+soep-is,soep-is-2023,4715+4652,8,8,8
+soep-is,soep-is-2023,4715+4652,9,9,9
+soep-is,soep-is-2023,4715+4652,10,10 Completely satisfied,10 Ganz und gar zufrieden
+soep-is,soep-is-2023,4715+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4784+4652,0,0 Completely dissatisfied,0 Ganz und gar unzufrieden
+soep-is,soep-is-2023,4784+4652,1,1,1
+soep-is,soep-is-2023,4784+4652,2,2,2
+soep-is,soep-is-2023,4784+4652,3,3,3
+soep-is,soep-is-2023,4784+4652,4,4,4
+soep-is,soep-is-2023,4784+4652,5,5,5
+soep-is,soep-is-2023,4784+4652,6,6,6
+soep-is,soep-is-2023,4784+4652,7,7,7
+soep-is,soep-is-2023,4784+4652,8,8,8
+soep-is,soep-is-2023,4784+4652,9,9,9
+soep-is,soep-is-2023,4784+4652,10,10 Completely satisfied,10 Ganz und gar zufrieden
+soep-is,soep-is-2023,4784+4652,11,Does not apply,Trifft nicht zu
+soep-is,soep-is-2023,4784+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,27+4652,1,Very rarely,Sehr selten
+soep-is,soep-is-2023,27+4652,2,Rarely,Selten
+soep-is,soep-is-2023,27+4652,3,Occasionally,Manchmal
+soep-is,soep-is-2023,27+4652,4,Often,Oft
+soep-is,soep-is-2023,27+4652,5,Very often,Sehr oft
+soep-is,soep-is-2023,27+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,392+4652,0,0 Not at all willing to take risks,0 Gar nicht risikobereit
+soep-is,soep-is-2023,392+4652,1,1,1
+soep-is,soep-is-2023,392+4652,2,2,2
+soep-is,soep-is-2023,392+4652,3,3,3
+soep-is,soep-is-2023,392+4652,4,4,4
+soep-is,soep-is-2023,392+4652,5,5,5
+soep-is,soep-is-2023,392+4652,6,6,6
+soep-is,soep-is-2023,392+4652,7,7,7
+soep-is,soep-is-2023,392+4652,8,8,8
+soep-is,soep-is-2023,392+4652,9,9,9
+soep-is,soep-is-2023,392+4652,10,10 Very willing to take risks,10 Sehr risikobereit
+soep-is,soep-is-2023,392+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,135+4652,1,Very much,Sehr stark
+soep-is,soep-is-2023,135+4652,2,Interested,Stark
+soep-is,soep-is-2023,135+4652,3,Not very interested,Nicht so stark
+soep-is,soep-is-2023,135+4652,4,Not interested at all,Überhaupt nicht
+soep-is,soep-is-2023,135+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,2014+4652,1,SPD ('Social Democrats'),SPD
+soep-is,soep-is-2023,2014+4652,2,CDU ('Christian Democratic Union'),CDU
+soep-is,soep-is-2023,2014+4652,3,CSU ('Christian Social Union'),CSU
+soep-is,soep-is-2023,2014+4652,4,FDP ('Free Democratic Party'),FDP
+soep-is,soep-is-2023,2014+4652,5,Bündnis 90 / Die Grünen,Bündnis 90 / Die Grünen
+soep-is,soep-is-2023,2014+4652,6,Die Linke ('The Socialist Left Party'),Die Linke
+soep-is,soep-is-2023,2014+4652,27,AfD (the 'Alternative for Germany' party),AfD
+soep-is,soep-is-2023,2014+4652,7,NPD / Republikaner / Die Rechte ('National Democratic Party' / 'Republican Party' / 'The Neo-National Socialist Party'),NPD / Republikaner / Die Rechte
+soep-is,soep-is-2023,2014+4652,8,A different party,Andere
+soep-is,soep-is-2023,2014+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,371+4652,1,An extreme amount,Sehr stark
+soep-is,soep-is-2023,371+4652,2,quiet strong,Ziemlich stark
+soep-is,soep-is-2023,371+4652,3,moderate,Mäßig
+soep-is,soep-is-2023,371+4652,4,quiet weak,Ziemlich schwach
+soep-is,soep-is-2023,371+4652,5,very weak,Sehr schwach
+soep-is,soep-is-2023,371+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1078+4652,1,Since birth,Seit Geburt
+soep-is,soep-is-2023,1078+4652,2,At a later date,Erst später
+soep-is,soep-is-2023,1078+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4518+4652,1,"Yes, both of my parents were born in Germany","Ja, meine Eltern sind beide in Deutschland geboren."
+soep-is,soep-is-2023,4518+4652,2,"No, at least one of my parents was born outside Germany","Nein, mindestens ein Elternteil ist außerhalb Deutschlands geboren."
+soep-is,soep-is-2023,4518+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4259+4652,1,Yes,Ja
+soep-is,soep-is-2023,4259+4652,2,We are a couple but we live in different dwellings,"Wir sind zusammen, leben aber in unterschiedlichen Wohnungen"
+soep-is,soep-is-2023,4259+4652,3,"No, we separated","Nein, wir haben uns getrennt"
+soep-is,soep-is-2023,4259+4652,4,We separated but we are still living together,"Wir haben uns getrennt, wohnen aber (noch) zusammen"
+soep-is,soep-is-2023,4259+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1+,1,Yes,Ja
+soep-is,soep-is-2023,1+,2,No,Nein
+soep-is,soep-is-2023,60+4652,1,"Yes, maternity leave","Ja, Mutterschutz"
+soep-is,soep-is-2023,60+4652,2,"Yes, parental leave","Ja, Elternzeit"
+soep-is,soep-is-2023,60+4652,3,No,Nein
+soep-is,soep-is-2023,60+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4625+4652,1,Answer the question,Frage beantworten
+soep-is,soep-is-2023,4625+4652,2,Do not answer the question,Frage nicht beantworten
+soep-is,soep-is-2023,4625+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,504+4652,1,Germany,Deutschland
+soep-is,soep-is-2023,504+4652,2,In another country,In einem anderen Land
+soep-is,soep-is-2023,504+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4794+4652,1,Once,1 mal
+soep-is,soep-is-2023,4794+4652,2,Several times,Mehrmals
+soep-is,soep-is-2023,4794+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4790+,1,I am currently on maternity leave,Ich bin zurzeit im Mutterschutz oder Elternzeit
+soep-is,soep-is-2023,4790+,2,I am employed full-time,Ich bin voll erwerbstätig
+soep-is,soep-is-2023,4790+,3,Both is correct,Beides trifft zu
+soep-is,soep-is-2023,4792+,1,I am currently unemployed,Ich bin zurzeit arbeitslos
+soep-is,soep-is-2023,4792+,2,I am currently employed full-time.,Ich bin voll erwerbstätig
+soep-is,soep-is-2023,4792+,3,Both are correct,Beides trifft zu
+soep-is,soep-is-2023,4631+,1,I am currently undergoing In-service retraining,Ich bin derzeit in betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung
+soep-is,soep-is-2023,4631+,2,I am currently NOT undergoing In-service retraining,Ich bin derzeit NICHT in Ausbildung
+soep-is,soep-is-2023,79+4652,1,Lower grade civil servant,Einfacher Dienst
+soep-is,soep-is-2023,79+4652,2,Middle grade civil servant,Mittlerer Dienst
+soep-is,soep-is-2023,79+4652,3,Upper grade civil servant,Gehobener Dienst
+soep-is,soep-is-2023,79+4652,4,Senior grade civil servant,Höherer Dienst
+soep-is,soep-is-2023,79+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4797+,1,I have not changed or started a new job since last year,Ich habe seit dem letzten Jahr die Stelle nicht gewechselt
+soep-is,soep-is-2023,4797+,2,I am employed by my current employer since *?,Ich bin seit *? bei meinem jetzigen Arbeitgeber beschäftigt
+soep-is,soep-is-2023,4797+,3,Both correct,Beides trifft zu
+soep-is,soep-is-2023,4798+,1,I started my corrent job in *?(pwexl2)|(pwexl3),Ich habe meine jetzige Stelle im *?(pwexl2)|(pwexl3)  aufgenommen
+soep-is,soep-is-2023,4798+,2,I work since  *?(pseitm)&(pseitj) in my current job,Ich übe seit *?(pseitm)&(pseitj) meine jetzige Tätigkeit aus
+soep-is,soep-is-2023,4798+,3,Both incorrect,Beide Angaben sind falsch
+soep-is,soep-is-2023,4798+,4,Both correct,Beide Angaben sind richtig
+soep-is,soep-is-2023,940+4652,1,Permanent employment contract,Unbefristeten Arbeitsvertrag
+soep-is,soep-is-2023,940+4652,2,Fixed-term employment contract,Befristetes Arbeitsverhältnis
+soep-is,soep-is-2023,940+4652,3,Not applicable / have no employment contract,Trifft nicht zu / habe keinen Arbeitsvertrag
+soep-is,soep-is-2023,940+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,87+4652,1,Fewer than 5 Â employees,Unter 5 Beschäftigte
+soep-is,soep-is-2023,87+4652,2,5-10 employees,5 bis 10 Beschäftigte
+soep-is,soep-is-2023,87+4652,3,11-19 employees,11 bis unter 20 Beschäftigte
+soep-is,soep-is-2023,87+4652,4,20-99 employeesÂ ,20 bis unter 100 Beschäftigte
+soep-is,soep-is-2023,87+4652,5,100-199 employees,100 bis unter 200 Beschäftigte
+soep-is,soep-is-2023,87+4652,6,"200-1,999 employees",200 bis unter 2000 Beschäftigte
+soep-is,soep-is-2023,87+4652,7,2000 or more employees,2000 und mehr Beschäftigte
+soep-is,soep-is-2023,87+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,3369+4652,1,No fixed working hours,Keine festgelegte Arbeitszeit
+soep-is,soep-is-2023,3369+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4807+4652,1,Less than 15 hours,Weniger als 15 Stunden
+soep-is,soep-is-2023,4807+4652,2,Between 15 -20 hours,Mehr als 15 bis einschließlich 20 Stunden
+soep-is,soep-is-2023,4807+4652,3,Between 20-30 hours,Mehr als 20 bis einschließlich 30 Stunden
+soep-is,soep-is-2023,4807+4652,4,Between 30-35 hours,Mehr als 30 bis einschließlich 35 Stunden
+soep-is,soep-is-2023,4807+4652,5,Between 35-40 hours,Mehr als 35 bis einschließlich 40 Stunden
+soep-is,soep-is-2023,4807+4652,6,More than 40 hours,Mehr als 40 Stunden
+soep-is,soep-is-2023,4807+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4572+,1,"Yes, correct my income","Ja, Arbeitsverdienst korrigieren"
+soep-is,soep-is-2023,4572+,2,"No, entry is correct","Nein, Angabe ist richtig"
+soep-is,soep-is-2023,4811+4652,1,Change gross / net earnings,Brutto / Netto Betrag korrigieren
+soep-is,soep-is-2023,4811+4652,2,Change actual working time *? hours per week,Tatsächliche Arbeitszeit von *? Stunden pro Woche korrigieren
+soep-is,soep-is-2023,4811+4652,3,All entries are correct,Alle Angaben sind richtig
+soep-is,soep-is-2023,4811+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4640+,1,"Yes, the amounts are correct","Ja, beide Beträge sind richtig"
+soep-is,soep-is-2023,4640+,2,"No, at least one entry must be changed","Nein, mindestens ein Betrag muss korrigiert werden"
+soep-is,soep-is-2023,4641+4652,1,"0 – 1,000 euros",0 – 1.000 Euro
+soep-is,soep-is-2023,4641+4652,2,1.001 – 1.800 Euro,1.001 – 1.800 Euro
+soep-is,soep-is-2023,4641+4652,3,"1,801 – 2,500 euros",1.801 – 2.500 Euro
+soep-is,soep-is-2023,4641+4652,4,"2,501 – 3,500 euros",2.501 – 3.500 Euro
+soep-is,soep-is-2023,4641+4652,5,"3,501 euros or more",3.501 Euro und mehr
+soep-is,soep-is-2023,4641+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4642+4652,1,0 – 700 euros,0 – 700 Euro
+soep-is,soep-is-2023,4642+4652,2,"701 – 1,250 euros",701 – 1.250 Euro
+soep-is,soep-is-2023,4642+4652,3,"1,251 – 1,700 euros",1.251 – 1.700 Euro
+soep-is,soep-is-2023,4642+4652,4,"1,701 – 2,300 euros",1.701 – 2.300 Euro
+soep-is,soep-is-2023,4642+4652,5,"2,301 euros or more",2.301 Euro und mehr
+soep-is,soep-is-2023,4642+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,108+4652,1,Very good,Sehr gut
+soep-is,soep-is-2023,108+4652,2,Good,Gut
+soep-is,soep-is-2023,108+4652,3,Satisfactory,Zufriedenstellend
+soep-is,soep-is-2023,108+4652,4,Poor,Weniger gut
+soep-is,soep-is-2023,108+4652,5,Bad,Schlecht
+soep-is,soep-is-2023,108+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4815+4652,10,10,10
+soep-is,soep-is-2023,4815+4652,20,20,20
+soep-is,soep-is-2023,4815+4652,30,30,30
+soep-is,soep-is-2023,4815+4652,40,40,40
+soep-is,soep-is-2023,4815+4652,50,50,50
+soep-is,soep-is-2023,4815+4652,60,60,60
+soep-is,soep-is-2023,4815+4652,70,70,70
+soep-is,soep-is-2023,4815+4652,80,80,80
+soep-is,soep-is-2023,4815+4652,90,90,90
+soep-is,soep-is-2023,4815+4652,100,100,100
+soep-is,soep-is-2023,4815+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,178+4652,1,Lower secondary school,Hauptschule
+soep-is,soep-is-2023,178+4652,2,Intermediate secondary school,Realschule
+soep-is,soep-is-2023,178+4652,3,Upper secondary school,Gymnasium
+soep-is,soep-is-2023,178+4652,4,Comprehensive school,Gesamtschule
+soep-is,soep-is-2023,178+4652,5,Evening intermediate / upper secondary school,"Abendrealschule, Abendgymnasium"
+soep-is,soep-is-2023,178+4652,6,Specialized upper secondary school,Fachoberschule
+soep-is,soep-is-2023,178+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,2932+4652,4,Dual degree college / university of cooperative education,Duale Hochschule / Berufsakademie
+soep-is,soep-is-2023,2932+4652,1,Vocational university / university of applied sciences,Fachhochschule
+soep-is,soep-is-2023,2932+4652,5,Other college / university (art or music college / university),Sonstige Hochschule (z.B. Kunst- oder Musikhochschule)
+soep-is,soep-is-2023,2932+4652,2,University / Technical university,Universität / Technische Hochschule
+soep-is,soep-is-2023,2932+4652,3,Doctoral studies,Promotion
+soep-is,soep-is-2023,2932+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,505+4652,1,Secondary school-leaving certificate,Allgemeinbildender Schulabschluss
+soep-is,soep-is-2023,505+4652,2,University degree,Hochschulabschluss
+soep-is,soep-is-2023,505+4652,3,Vocational degree,Beruflicher Ausbildungsabschluss
+soep-is,soep-is-2023,505+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4725+4652,1,Lower secondary school-leaving certificate (Hauptschulabschluss),Hauptschulabschluss
+soep-is,soep-is-2023,4725+4652,2,"Intermediate secondary school-leaving certificate (Realschulabschluss, Mittlere Reife)",Mittlerer Schulabschluss (z. B. Realschulabschluss)
+soep-is,soep-is-2023,4725+4652,3,Specialized upper secondary school-leaving certificate (Fachoberschule),Fachhochschulreife (Abschluss Fachoberschule)
+soep-is,soep-is-2023,4725+4652,4,Upper secondary school-leaving certificate (Abitur),Abitur (Hochschulreife)
+soep-is,soep-is-2023,4725+4652,5,Other school-leaving certificate,Anderer Schulabschluss
+soep-is,soep-is-2023,4725+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4726+4652,4,Dual university / college of advanced vocational studies (Duale Hochschule / Berufsakademie),Duale Hochschule / Berufsakademie
+soep-is,soep-is-2023,4726+4652,1,Specialized technical university / university of applied sciences (Fachhochschule),Fachhochschule
+soep-is,soep-is-2023,4726+4652,5,"Other university (for example, university of arts or music)",Sonstige Hochschule (z. B. Kunst- oder Musikhochschule)
+soep-is,soep-is-2023,4726+4652,2,University / technical university,Universität / Technische Hochschule
+soep-is,soep-is-2023,4726+4652,3,Doctorate / postdoctoral dissertation (Habilitation),Promotion / Habilitation
+soep-is,soep-is-2023,4726+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4880+4652,1,Biological brother / sister (without a twin),Leiblich (ohne Zwillingsgeschwister)
+soep-is,soep-is-2023,4880+4652,2,Twin/multiple(identical),Zwilling / Mehrling (eineiig)
+soep-is,soep-is-2023,4880+4652,3,Twin/multiple(fraternal),Zwilling / Mehrling (zweieiig)
+soep-is,soep-is-2023,4880+4652,4,Half-brother / half- sister,Halbgeschwister
+soep-is,soep-is-2023,4880+4652,5,Step-brother / step-sister,Stiefgeschwister
+soep-is,soep-is-2023,4880+4652,6,Adoptive brother / sister,Adoptivgeschwister
+soep-is,soep-is-2023,4880+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11306+,1,One child in household born 2012 or later,1 Kind ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,2,[de] 2 Kinder ab Jahrgang 2012 im HH,2 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,3,[de] 3 Kinder ab Jahrgang 2012 im HH,3 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,4,[de] 4 Kinder ab Jahrgang 2012 im HH,4 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,5,[de] 5 Kinder ab Jahrgang 2012 im HH,5 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,6,[de] 6 Kinder ab Jahrgang 2012 im HH,6 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,7,[de] 7 Kinder ab Jahrgang 2012 im HH,7 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,8,[de] 8 Kinder ab Jahrgang 2012 im HH,8 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,9,[de] 9 Kinder ab Jahrgang 2012 im HH,9 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,11306+,10,[de] 10 Kinder ab Jahrgang 2012 im HH,10 Kinder ab Jahrgang 2012 im HH
+soep-is,soep-is-2023,8882+,1,"Very good, in upscale condition","Sehr gut, in gehobenem Zustand"
+soep-is,soep-is-2023,8882+,2,"No special features, good condition","Keine besonderen Auffälligkeiten, guter Zustand"
+soep-is,soep-is-2023,8882+,3,"Mixed impression, partly unkempt condition","Gemischter Eindruck, teilweise ungepflegter Zustand"
+soep-is,soep-is-2023,8882+,4,"Rather run down, makes neglected impression","Eher heruntergekommen, macht verwahrlosten Eindruck"
+soep-is,soep-is-2023,8882+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8883+,1,Dormitory for pupils / young people / students,Schüler- / Jugendlichen- / Studentenwohnheim
+soep-is,soep-is-2023,8883+,2,Residence for professionals,Wohnheim für Berufstätige
+soep-is,soep-is-2023,8883+,3,Old people's home / nursing home / senior citizens' residence,Altenheim / Pflegeheim / Seniorenresidenz
+soep-is,soep-is-2023,8883+,4,Other / home / accommodation,Sonstige/s Heim / Unterkunft
+soep-is,soep-is-2023,8883+,5,No,Nein
+soep-is,soep-is-2023,8883+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8884+,1,Very safe and pleasant,Sehr sicher und angenehm
+soep-is,soep-is-2023,8884+,2,Mostly safe and pleasant,Überwiegend sicher und angenehm
+soep-is,soep-is-2023,8884+,3,"Rather not safe, rather unpleasant","Eher nicht sicher, eher unangenehm"
+soep-is,soep-is-2023,8884+,4,"Very unpleasant, partly threatening","Sehr unangenehm, teilweise bedrohlich"
+soep-is,soep-is-2023,8884+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8885+,1,A pure residential area with predominantly old buildings,Ein reines Wohngebiet mit überwiegend Altbauten
+soep-is,soep-is-2023,8885+,2,A pure residential area with predominantly new buildings,Ein reines Wohngebiet mit überwiegend Neubauten
+soep-is,soep-is-2023,8885+,3,A mixed area with apartments and stores or businesses,Ein Mischgebiet mit Wohnungen und Geschäften bzw. Gewerbebetrieben
+soep-is,soep-is-2023,8885+,4,"A business center (stores, banks, administrations) with few apartments","Ein Geschäftszentrum (Läden, Banken, Verwaltungen) mit wenigen Wohnungen"
+soep-is,soep-is-2023,8885+,5,A commercial or industrial area with few apartments,Ein Gewerbe- bzw. Industriegebiet mit wenigen Wohnungen
+soep-is,soep-is-2023,8885+,6,Other,Sonstiges
+soep-is,soep-is-2023,8885+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8886+,1,Agricultural residential building,Landwirtschaftliches Wohngebäude
+soep-is,soep-is-2023,8886+,2,Detached one- / two-family house,Freistehendes Ein- / Zweifamilienhaus
+soep-is,soep-is-2023,8886+,3,One- / two-family house as row house or semi-detached house,Ein- / Zweifamilienhaus als Reihenhaus oder Doppelhaus
+soep-is,soep-is-2023,8886+,4,Residential house with 3 to 4 apartments,Wohnhaus mit 3 bis 4 Wohnungen
+soep-is,soep-is-2023,8886+,5,Residential building with 5 to 8 apartments,Wohnhaus mit 5 bis 8 Wohnungen
+soep-is,soep-is-2023,8886+,6,Residential building with 9 and more apartments (but no more than 8 floors; i.e. not a high-rise building),Wohnhaus mit 9 und mehr Wohnungen (aber höchstens 8 Stockwerken; also kein Hochhaus)
+soep-is,soep-is-2023,8886+,7,High-rise building (9 and more floors),Hochhaus (9 und mehr Stockwerke)
+soep-is,soep-is-2023,8886+,8,Other,Sonstiges
+soep-is,soep-is-2023,8886+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8887+,1,Yes,Ja
+soep-is,soep-is-2023,8887+,2,No,Nein
+soep-is,soep-is-2023,8887+,3,Don't know,Weiß nicht
+soep-is,soep-is-2023,8887+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,8888+,1,"Yes, as a villa without a park-like plot","Ja, als Villa ohne parkähnliches Grundstück"
+soep-is,soep-is-2023,8888+,2,"Yes, as a villa with a park-like plot","Ja, als Villa mit parkähnlichem Grundstück"
+soep-is,soep-is-2023,8888+,3,"Yes, as a castle / manor house","Ja, als Schloss / Burg / Herrenhaus"
+soep-is,soep-is-2023,8888+,4,No,Nein
+soep-is,soep-is-2023,8888+,5,Does not know,Weiß nicht
+soep-is,soep-is-2023,8888+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11100+,1,[de] Panelfall,Panelfall
+soep-is,soep-is-2023,11100+,2,[de] Auffrischerfall,Auffrischerfall
+soep-is,soep-is-2023,11101+,1,[de] Die erfasste Anzahl der Haushaltsmitglieder ist geprüft und richtig,Die erfasste Anzahl der Haushaltsmitglieder ist geprüft und richtig
+soep-is,soep-is-2023,11101+,2,[de] Die erfasste Anzahl der Haushaltsmitglieder muss korrigiert werden,Die erfasste Anzahl der Haushaltsmitglieder muss korrigiert werden
+soep-is,soep-is-2023,11103+4652,1,Before 1919,vor 1919
+soep-is,soep-is-2023,11103+4652,2,1919 to 1948,1919 bis 1948
+soep-is,soep-is-2023,11103+4652,3,1949 to 1971,1949 bis 1971
+soep-is,soep-is-2023,11103+4652,4,1972 to 1980,1972 bis 1980
+soep-is,soep-is-2023,11103+4652,5,1981 to 1990,1981 bis 1990
+soep-is,soep-is-2023,11103+4652,6,1991 to 2000,1991 bis 2000
+soep-is,soep-is-2023,11103+4652,7,2001 to 2010,2001 bis 2010
+soep-is,soep-is-2023,11103+4652,8,2011 to 2020,2011 bis 2020
+soep-is,soep-is-2023,11103+4652,9,2021 to 2023,2021 bis 2023
+soep-is,soep-is-2023,11103+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11075+4652,1,Male,Männlich
+soep-is,soep-is-2023,11075+4652,2,Female,Weiblich
+soep-is,soep-is-2023,11075+4652,3,Other gender not listed here,"Weiteres, hier nicht aufgelistetes Geschlecht"
+soep-is,soep-is-2023,11075+4652,4,No gender,Keinem Geschlecht
+soep-is,soep-is-2023,11075+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11258+,1,Questions are ony asked in uneven years (starting with 2022),Fragen werden in geraden Jahren gestellt (beginnend mit 2022)
+soep-is,soep-is-2023,11258+,2,Questions are ony asked in uneven years (starting with 2023),Fragen werden in ungeraden Jahren gestellt (beginnend mit 2023)
+soep-is,soep-is-2023,11109+4652,1,Yes,Ja
+soep-is,soep-is-2023,11109+4652,2,"No, does not go to any of these facilities","Nein, besucht keine dieser Einrichtungen"
+soep-is,soep-is-2023,11109+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,2911+4652,1,"No, definitely not","Nein, ganz sicher nicht"
+soep-is,soep-is-2023,2911+4652,2,Probably not,Eher unwahrscheinlich
+soep-is,soep-is-2023,2911+4652,3,Probably,Wahrscheinlich
+soep-is,soep-is-2023,2911+4652,4,Definitely,Ganz sicher
+soep-is,soep-is-2023,2911+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11082+4652,1,Apprentice / trainee in industry or technology,Gewerblich-technische Ausbildung
+soep-is,soep-is-2023,11082+4652,2,Apprentice / trainee in trade or commerce,Kaufmännische Ausbildung
+soep-is,soep-is-2023,11082+4652,3,"Volunteer, intern, etc.","Volontariat, Praktikum u.Ä."
+soep-is,soep-is-2023,11082+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11083+4652,1,I am not self-employed,Ich bin nicht selbständig
+soep-is,soep-is-2023,11083+4652,2,I am self-employed,Ich bin selbständig
+soep-is,soep-is-2023,11083+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11084+4652,1,12 euros or more per hour,12 Euro und darüber
+soep-is,soep-is-2023,11084+4652,2,Below 12 euros per hour,Unter 12 Euro
+soep-is,soep-is-2023,11084+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11073+4652,1,No school leaving certificate,Keinen Schulabschluss
+soep-is,soep-is-2023,11073+4652,2,Lower secondary (Volksschule / Hauptschule / 8th grade GDR),Volks- / Hauptschulabschluss (DDR: 8. Klasse POS)
+soep-is,soep-is-2023,11073+4652,3,Intermediate secondary (Mittlere Reife / Realschule / 10th grade GDR),"Mittlere Reife, Realschulabschluss (DDR: 10. Klasse POS)"
+soep-is,soep-is-2023,11073+4652,7,Vocational school,Fachhochschulreife
+soep-is,soep-is-2023,11073+4652,4,Upper secondary (Abitur / Hochschulreife / EOS),Abitur / Hochschulreife (DDR: EOS)
+soep-is,soep-is-2023,11073+4652,5,Other type of school,Anderen Schulabschluss
+soep-is,soep-is-2023,11073+4652,6,Don't know,Weiß nicht
+soep-is,soep-is-2023,11073+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,53+4652,1,1 Does not describe me at all,1 Trifft überhaupt nicht zu
+soep-is,soep-is-2023,53+4652,2,2,2
+soep-is,soep-is-2023,53+4652,3,3,3
+soep-is,soep-is-2023,53+4652,4,4,4
+soep-is,soep-is-2023,53+4652,5,5,5
+soep-is,soep-is-2023,53+4652,6,6,6
+soep-is,soep-is-2023,53+4652,7,7 Describes me perfectly,7 Trifft voll zu
+soep-is,soep-is-2023,53+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11292+4652,1,"[QIS_154;lb0011_v1<1938] In Germany, in an area which was before the war German territory until 1937","[QIS_154;lb0011_v1<1938] In Deutschland, in den Vorkriegsgrenzen bis 1937"
+soep-is,soep-is-2023,11292+4652,2,[(QIS_154;lb0011_v1>1937)&(QIS_154;lb0011_v1<1950)] On german territory between 1938 and 1949,[(QIS_154;lb0011_v1>1937)&(QIS_154;lb0011_v1<1950)] Auf deutschem Gebiet zwischen 1938 und 1949
+soep-is,soep-is-2023,11292+4652,3,[(QIS_154;lb0011_v1>=1949)&(QIS_154;lb0011_v1<1990)] In West Germany (including West-Berlin),[(QIS_154;lb0011_v1>=1949)&(QIS_154;lb0011_v1<1990)] In der BRD (einschließlich Westberlin)
+soep-is,soep-is-2023,11292+4652,4,"[(QIS_154;lb0011_v1>=1949)&(QIS_154;lb0011_v1<1990)] In East Germany (German Democratic Republic), including East-Berlin",[(QIS_154;lb0011_v1>=1949)&(QIS_154;lb0011_v1<1990)] In der DDR (einschließlich Ostberlin)
+soep-is,soep-is-2023,11292+4652,5,[(QIS_154;lb0011_v1>1946)&(QIS_154;lb0011_v1<1957) In the Saarland between 1947 and 1956,[(QIS_154;lb0011_v1>1946)&(QIS_154;lb0011_v1<1957)] Im Saarland zwischen 1947 und 1956
+soep-is,soep-is-2023,11292+4652,6,"[QIS_154;lb0011_v1>1989] In Germany, 1990 or later","[QIS_154;lb0011_v1>1989] In Deutschland, ab 1990 oder später"
+soep-is,soep-is-2023,11292+4652,7,In another country,In einem anderen Land
+soep-is,soep-is-2023,11292+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11293+4652,1,Before 1945,[QIS_154;lb0011_v1<1945] Vor 1945
+soep-is,soep-is-2023,11293+4652,2,[(QIS_154;lb0011_v1>1944)&(QIS_154;lb0011_v1<1950)] Between 1945 and 1949 due to forced displacement or fleeing war,[(QIS_154;lb0011_v1>1944)&(QIS_154;lb0011_v1<1950)] 1945 bis 1949 wegen Flucht oder Vertreibung
+soep-is,soep-is-2023,11293+4652,3,[(QIS_154;lb0011_v1>1944)&(QIS_154;lb0011_v1<1950)] Between 1945 and 1949 for other reasons,[(QIS_154;lb0011_v1>1944)&(QIS_154;lb0011_v1<1950)] 1945 bis 1949 aus anderen Gründen
+soep-is,soep-is-2023,11293+4652,4,[(QIS_154;lb0011_v1>1949)&(QIS_154;lb0011_v1<1980)] Between 1950 and 1979,[(QIS_154;lb0011_v1>1949)&(QIS_154;lb0011_v1<1980)] 1950 bis 1979
+soep-is,soep-is-2023,11293+4652,5,[(QIS_154;lb0011_v1>1979)&(QIS_154;lb0011_v1<2000)] Between 1980 and 1999,[(QIS_154;lb0011_v1>1979)&(QIS_154;lb0011_v1<2000)] 1980 bis 1999
+soep-is,soep-is-2023,11293+4652,6,[(QIS_154;lb0011_v1>1999)&(QIS_154;lb0011_v1<2004)] Between 2000 and 2003,[(QIS_154;lb0011_v1>1999)&(QIS_154;lb0011_v1<2004)] 2000 bis 2003
+soep-is,soep-is-2023,11293+4652,7,[(QIS_154;lb0011_v1>2003)&(QIS_154;lb0011_v1<2010)] Between 2004 and 2009,[(QIS_154;lb0011_v1>2003)&(QIS_154;lb0011_v1<2010)] 2004 bis 2009
+soep-is,soep-is-2023,11293+4652,8,[QIS_154;lb0011_v1>2009] 2010 or later,[QIS_154;lb0011_v1>2009] 2010 oder später
+soep-is,soep-is-2023,11293+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11298+4652,1,"[QIS_190;lb0082_v1<1938] In Germany, in an area which was before the war German territory until 1937","[QIS_190;lb0082_v1<1938] In Deutschland, in den Vorkriegsgrenzen bis 1937"
+soep-is,soep-is-2023,11298+4652,2,[(QIS_190;lb0082_v1>1937)&(QIS_190;lb0082_v1<1950)] On german territory between 1938 and 1949,[(QIS_190;lb0082_v1>1937)&(QIS_190;lb0082_v1<1950)] Auf deutschem Gebiet zwischen 1938 und 1949
+soep-is,soep-is-2023,11298+4652,3,[(QIS_190;lb0082_v1>=1949)&(QIS_190;lb0082_v1<1990)] In West Germany (including West-Berlin),[(QIS_190;lb0082_v1>=1949)&(QIS_190;lb0082_v1<1990)] In der BRD (einschließlich Westberlin)
+soep-is,soep-is-2023,11298+4652,4,"[(QIS_190;lb0082_v1>=1949)&(QIS_190;lb0082_v1<1990)] In East Germany (German Democratic Republic), including East-Berlin",[(QIS_190;lb0082_v1>=1949)&(QIS_190;lb0082_v1<1990)] In der DDR (einschließlich Ostberlin)
+soep-is,soep-is-2023,11298+4652,5,[(QIS_190;lb0082_v1>1946)&(QIS_190;lb0082_v1<1957) In the Saarland between 1947 and 1956,[(QIS_190;lb0082_v1>1946)&(QIS_190;lb0082_v1<1957)] Im Saarland zwischen 1947 und 1956
+soep-is,soep-is-2023,11298+4652,6,"[QIS_190;lb0082_v1>1989] In Germany, 1990 or later","[QIS_190;lb0082_v1>1989] In Deutschland, ab 1990 oder später"
+soep-is,soep-is-2023,11298+4652,7,In another country,In einem anderen Land
+soep-is,soep-is-2023,11298+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11299+4652,1,Blue-collar worker (including agricultural workers),Arbeiter / Arbeiterinnen (auch in der Landwirtschaft)
+soep-is,soep-is-2023,11299+4652,2,White-collar worker,Angestellte
+soep-is,soep-is-2023,11299+4652,3,Civil servant or public administration employee (including judges and professional soldiers),Beamte / Beamtinnen / Staatsverwaltung (einschl. Richter / Richterinnen und Berufssoldaten / Berufssoldatinnen)
+soep-is,soep-is-2023,11299+4652,4,Self-employed (including family members working for the self-employed),Selbständige (einschließlich mithelfende Familienangehörige)
+soep-is,soep-is-2023,11299+4652,5,Was not working (when I was 15),War nicht erwerbstätig (als ich 15 Jahre alt war)
+soep-is,soep-is-2023,11299+4652,6,Was deceased (when I was 15),War verstorben (als ich 15 Jahre alt war)
+soep-is,soep-is-2023,11299+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11289+4652,1,Unskilled worker,Ungelernte Arbeiter / Arbeiterinnen
+soep-is,soep-is-2023,11289+4652,2,Semi-skilled worker,Angelernte Arbeiter / Arbeiterinnen
+soep-is,soep-is-2023,11289+4652,3,Skilled worker,Gelernte und Facharbeiter / Facharbeiterinnen
+soep-is,soep-is-2023,11289+4652,4,Foreman / forewoman,"Vorarbeiter / Vorarbeiterinnen, Kolonnenführer / Kolonnenführerinnen"
+soep-is,soep-is-2023,11289+4652,5,Master craftsperson,"Meister / Meisterinnen, Polier / Poliererinnen"
+soep-is,soep-is-2023,11289+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11290+4652,2,Salaried employee engaged in unskilled work without completed training / education,Angestellte mit einfacher Tätigkeit ohne Ausbildungsabschluss
+soep-is,soep-is-2023,11290+4652,3,Salaried employee engaged in unskilled work with completed training / education,Angestellte mit einfacher Tätigkeit mit Ausbildungsabschluss
+soep-is,soep-is-2023,11290+4652,4,"Salaried employee engaged in skilled work (administration, bookkeeping, technical drafting)","Angestellte mit qualifizierter Tätigkeit (z.B. Sachbearbeiter / Sachbearbeiterin, Buchhalter / Buchhalterin, technischer Zeichner / Zeichnerin)   "
+soep-is,soep-is-2023,11290+4652,5,"Salaried employee engaged in highly skilled work or managerial activities (university research, engineering, production supervision, etc.)","Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z.B. wissenschaftlicher Mitarbeiter / Mitarbeiterin, Ingenieur / Ingenieurin, Abteilungsleiter / Abteilungsleiterin, Industrie- und Werkmeister / -meisterin)"
+soep-is,soep-is-2023,11290+4652,6,"Salaried employee in senior management role (managing director, business manager, head of a large firm or organization, etc.)","Angestellte mit umfassenden Führungsaufgaben (z.B. Direktor / Direktorin, Geschäftsführer / Geschäftsführerin, Vorstand größerer Betriebe und Verbände)   "
+soep-is,soep-is-2023,11290+4652,7,Managing partner or similar white-collar employee in self-owned business / company,Geschäftsführende Gesellschafter und vergleichbare Angestellte im eigenen Betrieb / Unternehmen
+soep-is,soep-is-2023,11290+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11300+4652,1,Self-employed farmer without employees,Selbständige Landwirte / Landwirtinnen ohne Beschäftigte
+soep-is,soep-is-2023,11300+4652,2,Self-employed farmer with employees,Selbständige Landwirte / Landwirtinnen mit Beschäftigten
+soep-is,soep-is-2023,11300+4652,3,"Freelance professional, self-employed academic (selbständiger Akademiker) without employees","Freie Berufe, selbständige Akademiker / Akademikerinnen ohne Beschäftigte"
+soep-is,soep-is-2023,11300+4652,4,"Freelance professional, self-employed academic (selbständiger Akademiker) with employees","Freie Berufe, selbständige Akademiker / Akademikerinnen mit Beschäftigten  "
+soep-is,soep-is-2023,11300+4652,5,Other self-employed / entrepreneur without employees,Andere Selbständige / Unternehmer / Unternehmerinnen ohne Beschäftigte
+soep-is,soep-is-2023,11300+4652,6,Other self-employed / entrepreneur with employees,Andere Selbständige / Unternehmer / Unternehmerinnen mit Beschäftigten
+soep-is,soep-is-2023,11300+4652,7,Working for self-employed family member(s),Mithelfende Familienangehörige
+soep-is,soep-is-2023,11300+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11301+4652,1,"[QIS_190_m;lb0083_v1<1938] In Germany, in an area which was before the war German territory until 1937","[QIS_190_m;lb0083_v1<1938] In Deutschland, in den Vorkriegsgrenzen bis 1937"
+soep-is,soep-is-2023,11301+4652,2,[(QIS_190_m;lb0083_v1>1937)&(QIS_190_m;lb0083_v1<1950)] On german territory between 1938 and 1949,[(QIS_190_m;lb0083_v1>1937)&(QIS_190_m;lb0083_v1<1950)] Auf deutschem Gebiet zwischen 1938 und 1949
+soep-is,soep-is-2023,11301+4652,3,[(QIS_190_m;lb0083_v1=>1949)&(QIS_190_m;lb0083_v1<=1990)] In West Germany (including West-Berlin),[(QIS_190_m;lb0083_v1>=1949)&(QIS_190_m;lb0083_v1<=1990)] In der BRD (einschließlich Westberlin)
+soep-is,soep-is-2023,11301+4652,4,"[(QIS_190_m;lb0083_v1>=1949)&(QIS_190_m;lb0083_v1<=1990)] In East Germany (German Democratic Republic), including East-Berlin",[(QIS_190_m;lb0083_v1>=1949)&(QIS_190_m;lb0083_v1<=1990)] In der DDR (einschließlich Ostberlin)
+soep-is,soep-is-2023,11301+4652,5,[(QIS_190_m;lb0083_v1>1946)&(QIS_190_m;lb0083_v1<1957) In the Saarland between 1947 and 1956,[(QIS_190_m;lb0083_v1>1946)&(QIS_190_m;lb0083_v1<1957)] Im Saarland zwischen 1947 und 1956
+soep-is,soep-is-2023,11301+4652,6,"[QIS_190_m;lb0083_v1>1989] In Germany, 1990 or later","[QIS_190_m;lb0083_v1>1989] In Deutschland, ab 1990 oder später"
+soep-is,soep-is-2023,11301+4652,7,In another country,In einem anderen Land
+soep-is,soep-is-2023,11301+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11332+4652,1,"... less than 1,500 euros",... weniger als 1.500 Euro
+soep-is,soep-is-2023,11332+4652,2,"... from 1,500 to less than 3,000 euros",... 1.500 bis unter 3.000 Euro
+soep-is,soep-is-2023,11332+4652,3,"... 3,000 euros or more",… 3.000 Euro und mehr
+soep-is,soep-is-2023,11332+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11333+4652,1,... less than 500 euros,... weniger als 500 Euro
+soep-is,soep-is-2023,11333+4652,2,"... from 500 to less than 1,000 euros",... 500 bis unter 1.000 Euro
+soep-is,soep-is-2023,11333+4652,3,"... from 1,000 to less than 1,500 euros",… 1.000 bis unter 1.500 Euro
+soep-is,soep-is-2023,11333+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11334+4652,1,"... from 1,500 to less than 2,000 euros",... 1.500 bis unter 2.000 Euro
+soep-is,soep-is-2023,11334+4652,2,"... from 2,000 to less than 2,500 euros",... 2.000 bis unter 2.500 Euro
+soep-is,soep-is-2023,11334+4652,3,"... from 2,500 to less than 3,000 euros",… 2.500 Euro bis unter 3.000 Euro
+soep-is,soep-is-2023,11334+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11335+4652,1,"... from 3,000 to less than 4,000 euros",... 3.000 bis unter 4.000 Euro
+soep-is,soep-is-2023,11335+4652,2,"... from 4,000 to less than 5,000 euros",... 4.000 bis unter 5.000 Euro
+soep-is,soep-is-2023,11335+4652,3,"... 5,000 euros or more",… 5.000 Euro und mehr
+soep-is,soep-is-2023,11335+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11341+4652,1,General education,Allgemeinbildende Schule
+soep-is,soep-is-2023,11341+4652,2,Higher education,Hochschule
+soep-is,soep-is-2023,11341+4652,3,Vocational training,Berufliche Ausbildung / Vorbereitung
+soep-is,soep-is-2023,11341+4652,4,Further training / retraining,Fortbildung / Umschulung
+soep-is,soep-is-2023,11341+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11343+,1,Employed full-time,Vollzeit erwerbstätig
+soep-is,soep-is-2023,11343+,2,Employed part-time,In Teilzeitbeschäftigung
+soep-is,soep-is-2023,11343+,10,Working reduced hours (short-time work),In Kurzarbeit
+soep-is,soep-is-2023,11343+,3,Completing in-service training / apprenticeship / in-service retraining,In betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung
+soep-is,soep-is-2023,11343+,4,In marginal or irregular employment,Geringfügig oder unregelmäßig erwerbstätig
+soep-is,soep-is-2023,11343+,5,"In partial retirement, phase with zero working hours",In Altersteilzeit mit Arbeitszeit Null
+soep-is,soep-is-2023,11343+,7,"Voluntary social / ecological year, federal volunteer service","Im Freiwilligen Sozialen / Ökologischen Jahr, im Bundesfreiwilligendienst"
+soep-is,soep-is-2023,11343+,9,Not employed,Nicht erwerbstätig
+soep-is,soep-is-2023,11344+4652,1,Self-employed (including family members working for the self-employed),Selbständige (einschl. mithelfende Familienangehörige)
+soep-is,soep-is-2023,11344+4652,2,Blue-collar worker (also in agriculture),Arbeiter / Arbeiterinnen (auch in der Landwirtschaft)
+soep-is,soep-is-2023,11344+4652,3,Civil servant (including judges and professional soldiers),Beamte / Beamtinnen (einschl. Richter / Richterinnen und Berufssoldaten / Berufssoldatinnen)
+soep-is,soep-is-2023,11344+4652,4,Apprentice / vocational trainee / intern,Auszubildende und Praktikanten / Praktikantinnen
+soep-is,soep-is-2023,11344+4652,5,White-collar worker,Angestellte
+soep-is,soep-is-2023,11344+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11345+4652,1,Self-employed farmers,Selbständige Landwirte / Landwirtinnen
+soep-is,soep-is-2023,11345+4652,2,"Freelancers, independent academics","Freie Berufe, selbständige Akademiker / Akademikerinnen"
+soep-is,soep-is-2023,11345+4652,3,Other self-employed workers / entepreneurs,Andere Selbständige (z. B. gewerblich) / Unternehmer / Unternehmerinnen
+soep-is,soep-is-2023,11345+4652,4,Assisting family members in their business,Mithelfende Familienangehörige
+soep-is,soep-is-2023,11345+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11346+4652,2,Salaried employee engaged in unskilled work without completed training / education,Angestellte mit einfacher Tätigkeit ohne Ausbildungsabschluss
+soep-is,soep-is-2023,11346+4652,3,Salaried employee engaged in unskilled work with completed training / education,Angestellte mit einfacher Tätigkeit mit Ausbildungsabschluss
+soep-is,soep-is-2023,11346+4652,4,"Salaried employee engaged in skilled work (administration, bookkeeping, technical drafting, etc.)","Angestellte mit qualifizierter Tätigkeit (z. B. Sachbearbeiter / Sachbearbeiterin, Buchhalter / Buchhalterin, technischer Zeichner / technische Zeichnerin)"
+soep-is,soep-is-2023,11346+4652,5,"Salaried employee engaged in highly skilled work or managerial activities (university research, engineering, production supervision, etc.)","Angestellte mit hochqualifizierter Tätigkeit oder Leitungsfunktion (z. B. wissenschaftlicher Mitarbeiter / Mitarbeiterin, Ingenieur / Ingenieurin, Abteilungsleiter / Abteilungsleiterin, Industrie- und Werkmeister / -meisterin)"
+soep-is,soep-is-2023,11346+4652,6,"Salaried employee in senior management role (managing director, business manager, head of a large firm or organisation, etc.)","Angestellte mit umfassenden Führungsaufgaben (z. B. Direktor / Direktorin, Geschäftsführer / Geschäftsführerin, Vorstand größerer Betriebe und Verbände)"
+soep-is,soep-is-2023,11346+4652,7,Managing partner or similar white-collar employee in self-owned business / company,Geschäftsführende Gesellschafter / Gesellschafterinnen und vergleichbare Angestellte im eigenen Betrieb / Unternehmen
+soep-is,soep-is-2023,11346+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11379+4652,1,I started working for the first time in my life,Habe erstmals in meinem Leben eine Erwerbstätigkeit aufgenommen
+soep-is,soep-is-2023,11379+4652,2,I returned to a previous employer after a break in employment,Bin nach einer Unterbrechung jetzt wieder zum früheren Arbeitgeber zurückgekehrt
+soep-is,soep-is-2023,11379+4652,3,I started a new job with a different employer (for temporary workers this includes working in a temporary job),Habe eine Stelle bei einem neuen Arbeitgeber angetreten (bei Zeitarbeitnehmerinnen und Zeitarbeitnehmern: einschl. Tätigkeit in einem Entleihbetrieb)
+soep-is,soep-is-2023,11379+4652,4,I was hired by the company (in which I previously worked as an apprentice / in a job creation measure (ABM) / on a freelance basis),Bin vom Betrieb übernommen worden (war vorher dort in Ausbildung / in ABM / oder als freie Mitarbeiterin oder freier Mitarbeiter tätig)
+soep-is,soep-is-2023,11379+4652,5,I changed positions within the same company,Habe innerhalb des Unternehmens die Stelle gewechselt
+soep-is,soep-is-2023,11379+4652,6,I became self-employed,Habe eine neue Tätigkeit als Selbständige oder Selbständiger aufgenommen
+soep-is,soep-is-2023,11379+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11347+4652,1,"Yes, Mini-Job (up to 520 euros)","Ja, Mini-Job (bis 520 Euro) "
+soep-is,soep-is-2023,11347+4652,2,"Yes, Midi-Job (520.01 to 1600 euros)","Ja, Midi-Job (520,01 bis 1600 Euro) "
+soep-is,soep-is-2023,11347+4652,3,No,Nein
+soep-is,soep-is-2023,11347+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,11381+4652,1,Married,Verheiratet
+soep-is,soep-is-2023,11381+4652,2,Registered same-sex partnership (Registration was possible until September 2017. It may still be valid.),"Eingetragene gleichgeschlechtliche Partnerschaft
+(Eintragung war bis September 2017 möglich. Sie kann weiterhin gültig sein.)"
+soep-is,soep-is-2023,11381+4652,3,"Single, I've never been married","Ledig, war nie verheiratet"
+soep-is,soep-is-2023,11381+4652,4,Divorced,Geschieden
+soep-is,soep-is-2023,11381+4652,5,Registered same-sex partnership terminated,Eingetragene gleichgeschlechtliche Partnerschaft aufgehoben
+soep-is,soep-is-2023,11381+4652,6,Widowed,Verwitwet
+soep-is,soep-is-2023,11381+4652,7,Life partner from registered same-sex partnership deceased,Lebenspartnerin oder Lebenspartner aus eingetragener gleichgeschlechtlicher Partnerschaft verstorben
+soep-is,soep-is-2023,11381+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1061+4652,1,"No, never","Nein, nie"
+soep-is,soep-is-2023,1061+4652,2,[Yes] Every day,"[Ja, und zwar:] täglich"
+soep-is,soep-is-2023,1061+4652,3,[Yes] Several times a week,"[Ja, und zwar:] mehrmals in der Woche"
+soep-is,soep-is-2023,1061+4652,4,[Yes] On a weekly basis (changing shifts),"[Ja, und zwar:] wochenweise (Wechselschicht)"
+soep-is,soep-is-2023,1061+4652,5,[Yes] Rarely (as needed),"[Ja, und zwar:] seltener, nur bei Bedarf"
+soep-is,soep-is-2023,1061+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1062+4652,1,"No, never","Nein, nie"
+soep-is,soep-is-2023,1062+4652,2,[Yes] Every week,"[Ja, und zwar:] jede Woche"
+soep-is,soep-is-2023,1062+4652,3,[Yes] Every other week,"[Ja, und zwar:] alle 2 Wochen"
+soep-is,soep-is-2023,1062+4652,4,[Yes] Every 3-4 weeks,"[Ja, und zwar:] alle 3 – 4 Wochen"
+soep-is,soep-is-2023,1062+4652,5,[Yes] Rarely,"[Ja, und zwar:] seltener"
+soep-is,soep-is-2023,1062+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1937+4652,1,Not interested at all,Überhaupt nicht
+soep-is,soep-is-2023,1937+4652,2,On some days,An einzelnen Tagen
+soep-is,soep-is-2023,1937+4652,3,On more than half of the days,An mehr als der Hälfte der Tage
+soep-is,soep-is-2023,1937+4652,4,(Almost) every day,(Fast) jeden Tag
+soep-is,soep-is-2023,1937+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,782+4652,1,Every day,Täglich
+soep-is,soep-is-2023,782+4652,2,4-6 days a week,An vier bis sechs Tagen in der Woche
+soep-is,soep-is-2023,782+4652,3,2-3 days a week,An zwei bis drei Tagen in der Woche
+soep-is,soep-is-2023,782+4652,4,2-4 days a month,An zwei bis vier Tagen im Monat
+soep-is,soep-is-2023,782+4652,5,Once a month or less,Einmal im Monat oder seltener
+soep-is,soep-is-2023,782+4652,6,Never,Nie
+soep-is,soep-is-2023,782+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,784+4652,1,"Yes, vegetarian","Ja, vegetarisch"
+soep-is,soep-is-2023,784+4652,2,"Yes, vegan","Ja, vegan"
+soep-is,soep-is-2023,784+4652,3,"No, neither of the above","Nein, nichts davon"
+soep-is,soep-is-2023,784+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,2762+4652,1,Daily,Täglich
+soep-is,soep-is-2023,2762+4652,2,At least once per week,Mindestens einmal pro Woche
+soep-is,soep-is-2023,2762+4652,3,At least once per month,Mindestens einmal pro Monat
+soep-is,soep-is-2023,2762+4652,4,Seldom,Seltener
+soep-is,soep-is-2023,2762+4652,5,Never,Nie
+soep-is,soep-is-2023,2762+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,3047+4652,0,0 Very impatient,0 Sehr ungeduldig
+soep-is,soep-is-2023,3047+4652,1,1,1
+soep-is,soep-is-2023,3047+4652,2,2,2
+soep-is,soep-is-2023,3047+4652,3,3,3
+soep-is,soep-is-2023,3047+4652,4,4,4
+soep-is,soep-is-2023,3047+4652,5,5,5
+soep-is,soep-is-2023,3047+4652,6,6,6
+soep-is,soep-is-2023,3047+4652,7,7,7
+soep-is,soep-is-2023,3047+4652,8,8,8
+soep-is,soep-is-2023,3047+4652,9,9,9
+soep-is,soep-is-2023,3047+4652,10,10 Very patient,10 Sehr geduldig
+soep-is,soep-is-2023,3047+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1030+4652,7,"Yes, a Christian religious community","Ja, einer christlichen Religionsgemeinschaft"
+soep-is,soep-is-2023,1030+4652,4,"Yes, to an Islamic religious community","Ja, einer islamischen Religionsgemeinschaft"
+soep-is,soep-is-2023,1030+4652,5,"Yes, to another religious community","Ja, einer anderen Religionsgemeinschaft"
+soep-is,soep-is-2023,1030+4652,6,"No, I do not belong to any religious community","Nein, konfessionslos"
+soep-is,soep-is-2023,1030+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1031+4652,1,the Catholic Church,der katholischen Kirche
+soep-is,soep-is-2023,1031+4652,2,a protestant church,der evangelischen Kirche
+soep-is,soep-is-2023,1031+4652,3,the Eastern Orthodox Church,der christlich orthodoxen Kirche
+soep-is,soep-is-2023,1031+4652,4,another Christian religious community,einer anderen christlichen Religionsgemeinschaft
+soep-is,soep-is-2023,1031+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,1032+4652,1,the Shiite religious community,der schiitischen Religionsgemeinschaft
+soep-is,soep-is-2023,1032+4652,2,the Sunni religious community,der sunnitischen Religionsgemeinschaft
+soep-is,soep-is-2023,1032+4652,3,the Alevi religious community,der alevitischen Religionsgemeinschaft
+soep-is,soep-is-2023,1032+4652,4,another Islamic religious community,einer anderen islamischen Religionsgemeinschaft
+soep-is,soep-is-2023,1032+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,185+4652,1,Yes,Ja
+soep-is,soep-is-2023,185+4652,2,No,Nein
+soep-is,soep-is-2023,185+4652,3,Don't know,Weiß nicht
+soep-is,soep-is-2023,185+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4812+4652,1,"Yes, ... hours","Ja, und zwar (Euro pro Stunde):"
+soep-is,soep-is-2023,4812+4652,2,No,Nein
+soep-is,soep-is-2023,4812+4652,3,Don't know,Weiß nicht
+soep-is,soep-is-2023,4812+4652,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,583+,0,0 far left,0 ganz links
+soep-is,soep-is-2023,583+,1,1,1
+soep-is,soep-is-2023,583+,2,2,2
+soep-is,soep-is-2023,583+,3,3,3
+soep-is,soep-is-2023,583+,4,4,4
+soep-is,soep-is-2023,583+,5,5,5
+soep-is,soep-is-2023,583+,6,6,6
+soep-is,soep-is-2023,583+,7,7,7
+soep-is,soep-is-2023,583+,8,8,8
+soep-is,soep-is-2023,583+,9,9,9
+soep-is,soep-is-2023,583+,10,10 far right,10 ganz rechts
+soep-is,soep-is-2023,583+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,693+,1,Do not agree at all 1,Stimme überhaupt nicht zu 1
+soep-is,soep-is-2023,693+,2,2,2
+soep-is,soep-is-2023,693+,3,3,3
+soep-is,soep-is-2023,693+,4,4,4
+soep-is,soep-is-2023,693+,5,5,5
+soep-is,soep-is-2023,693+,6,6,6
+soep-is,soep-is-2023,693+,7,Completely agree 7,Stimme voll zu 7
+soep-is,soep-is-2023,693+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,139+,1,Me,Ich selbst
+soep-is,soep-is-2023,139+,2,My Partner,Partner/in
+soep-is,soep-is-2023,139+,3,Both equally,Beide in gleichem Maße
+soep-is,soep-is-2023,139+,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i34,1,Yes,Ja
+soep-is,soep-is-2023,i34,2,No,Nein
+soep-is,soep-is-2023,i34,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i34,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i35,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i35,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i36,1,<30 minutes,<30 Minuten
+soep-is,soep-is-2023,i36,2,30 minutes to <1 hour,30 Minuten bis <1 Stunde
+soep-is,soep-is-2023,i36,3,1 to <2 hours,1 bis <2 Stunden
+soep-is,soep-is-2023,i36,4,2 to <3 hours,2 bis <3 Stunden
+soep-is,soep-is-2023,i36,5,3 to <4 hours,3 bis <4 Stunden
+soep-is,soep-is-2023,i36,6,>4 hours,>4 Stunden
+soep-is,soep-is-2023,i36,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i36,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i37,1,very active,sehr aktiv
+soep-is,soep-is-2023,i37,2,rather active,eher aktiv
+soep-is,soep-is-2023,i37,3,"sometimes active, sometimes passive","mal aktiv, mal passiv"
+soep-is,soep-is-2023,i37,4,rather passive,eher passiv
+soep-is,soep-is-2023,i37,5,very passive,sehr passiv
+soep-is,soep-is-2023,i37,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i37,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i38,1,Fully agree,stimme voll und ganz zu
+soep-is,soep-is-2023,i38,2,Rather agree,stimme eher zu
+soep-is,soep-is-2023,i38,3,Neither agree nor disagree,stimme weder zu noch nicht zu
+soep-is,soep-is-2023,i38,4,Disagree,stimme nicht zu
+soep-is,soep-is-2023,i38,5,Completely Disagree,stimme überhaupt nicht zu
+soep-is,soep-is-2023,i38,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i38,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i39,1,very much,sehr viel
+soep-is,soep-is-2023,i39,2,rather much,eher viel
+soep-is,soep-is-2023,i39,3,neither much nor little,weder viel noch wenig
+soep-is,soep-is-2023,i39,4,rather little,eher wenig
+soep-is,soep-is-2023,i39,5,very little,sehr wenig
+soep-is,soep-is-2023,i39,6,none,keines
+soep-is,soep-is-2023,i39,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i39,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i41,1,"yes, often","ja, öfters"
+soep-is,soep-is-2023,i41,2,"yes, sometimes","ja, manchmal"
+soep-is,soep-is-2023,i41,3,"yes, once","ja, einmal"
+soep-is,soep-is-2023,i41,4,no,nein
+soep-is,soep-is-2023,i41,98,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i41,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i58,1,At least one platform picked,Mindestens eine Plattform angegeben
+soep-is,soep-is-2023,i58,2,No platform picked,Keine Plattform angegeben
+soep-is,soep-is-2023,i51,1,Treatment,Treatment
+soep-is,soep-is-2023,i51,2,No treatment,Kein Treatment
+soep-is,soep-is-2023,i1,0,0%,0%
+soep-is,soep-is-2023,i1,1,1%,1%
+soep-is,soep-is-2023,i1,2,2%,2%
+soep-is,soep-is-2023,i1,3,3%,3%
+soep-is,soep-is-2023,i1,4,4%,4%
+soep-is,soep-is-2023,i1,5,5%,5%
+soep-is,soep-is-2023,i1,6,6%,6%
+soep-is,soep-is-2023,i1,7,7%,7%
+soep-is,soep-is-2023,i1,8,8%,8%
+soep-is,soep-is-2023,i1,9,9%,9%
+soep-is,soep-is-2023,i1,10,10%,10%
+soep-is,soep-is-2023,i1,11,11%,11%
+soep-is,soep-is-2023,i1,12,12%,12%
+soep-is,soep-is-2023,i1,13,13%,13%
+soep-is,soep-is-2023,i1,14,14%,14%
+soep-is,soep-is-2023,i1,15,15%,15%
+soep-is,soep-is-2023,i1,16,16%,16%
+soep-is,soep-is-2023,i1,17,17%,17%
+soep-is,soep-is-2023,i1,18,18%,18%
+soep-is,soep-is-2023,i1,19,19%,19%
+soep-is,soep-is-2023,i1,20,20%,20%
+soep-is,soep-is-2023,i1,21,21%,21%
+soep-is,soep-is-2023,i1,22,22%,22%
+soep-is,soep-is-2023,i1,23,23%,23%
+soep-is,soep-is-2023,i1,24,24%,24%
+soep-is,soep-is-2023,i1,25,25%,25%
+soep-is,soep-is-2023,i1,26,26%,26%
+soep-is,soep-is-2023,i1,27,27%,27%
+soep-is,soep-is-2023,i1,28,28%,28%
+soep-is,soep-is-2023,i1,29,29%,29%
+soep-is,soep-is-2023,i1,30,30%,30%
+soep-is,soep-is-2023,i1,31,31%,31%
+soep-is,soep-is-2023,i1,32,32%,32%
+soep-is,soep-is-2023,i1,33,33%,33%
+soep-is,soep-is-2023,i1,34,34%,34%
+soep-is,soep-is-2023,i1,35,35%,35%
+soep-is,soep-is-2023,i1,36,36%,36%
+soep-is,soep-is-2023,i1,37,37%,37%
+soep-is,soep-is-2023,i1,38,38%,38%
+soep-is,soep-is-2023,i1,39,39%,39%
+soep-is,soep-is-2023,i1,40,40%,40%
+soep-is,soep-is-2023,i1,41,41%,41%
+soep-is,soep-is-2023,i1,42,42%,42%
+soep-is,soep-is-2023,i1,43,43%,43%
+soep-is,soep-is-2023,i1,44,44%,44%
+soep-is,soep-is-2023,i1,45,45%,45%
+soep-is,soep-is-2023,i1,46,46%,46%
+soep-is,soep-is-2023,i1,47,47%,47%
+soep-is,soep-is-2023,i1,48,48%,48%
+soep-is,soep-is-2023,i1,49,49%,49%
+soep-is,soep-is-2023,i1,50,50%,50%
+soep-is,soep-is-2023,i1,51,51%,51%
+soep-is,soep-is-2023,i1,52,52%,52%
+soep-is,soep-is-2023,i1,53,53%,53%
+soep-is,soep-is-2023,i1,54,54%,54%
+soep-is,soep-is-2023,i1,55,55%,55%
+soep-is,soep-is-2023,i1,56,56%,56%
+soep-is,soep-is-2023,i1,57,57%,57%
+soep-is,soep-is-2023,i1,58,58%,58%
+soep-is,soep-is-2023,i1,59,59%,59%
+soep-is,soep-is-2023,i1,60,60%,60%
+soep-is,soep-is-2023,i1,61,61%,61%
+soep-is,soep-is-2023,i1,62,62%,62%
+soep-is,soep-is-2023,i1,63,63%,63%
+soep-is,soep-is-2023,i1,64,64%,64%
+soep-is,soep-is-2023,i1,65,65%,65%
+soep-is,soep-is-2023,i1,66,66%,66%
+soep-is,soep-is-2023,i1,67,67%,67%
+soep-is,soep-is-2023,i1,68,68%,68%
+soep-is,soep-is-2023,i1,69,69%,69%
+soep-is,soep-is-2023,i1,70,70%,70%
+soep-is,soep-is-2023,i1,71,71%,71%
+soep-is,soep-is-2023,i1,72,72%,72%
+soep-is,soep-is-2023,i1,73,73%,73%
+soep-is,soep-is-2023,i1,74,74%,74%
+soep-is,soep-is-2023,i1,75,75%,75%
+soep-is,soep-is-2023,i1,76,76%,76%
+soep-is,soep-is-2023,i1,77,77%,77%
+soep-is,soep-is-2023,i1,78,78%,78%
+soep-is,soep-is-2023,i1,79,79%,79%
+soep-is,soep-is-2023,i1,80,80%,80%
+soep-is,soep-is-2023,i1,81,81%,81%
+soep-is,soep-is-2023,i1,82,82%,82%
+soep-is,soep-is-2023,i1,83,83%,83%
+soep-is,soep-is-2023,i1,84,84%,84%
+soep-is,soep-is-2023,i1,85,85%,85%
+soep-is,soep-is-2023,i1,86,86%,86%
+soep-is,soep-is-2023,i1,87,87%,87%
+soep-is,soep-is-2023,i1,88,88%,88%
+soep-is,soep-is-2023,i1,89,89%,89%
+soep-is,soep-is-2023,i1,90,90%,90%
+soep-is,soep-is-2023,i1,91,91%,91%
+soep-is,soep-is-2023,i1,92,92%,92%
+soep-is,soep-is-2023,i1,93,93%,93%
+soep-is,soep-is-2023,i1,94,94%,94%
+soep-is,soep-is-2023,i1,95,95%,95%
+soep-is,soep-is-2023,i1,96,96%,96%
+soep-is,soep-is-2023,i1,97,97%,97%
+soep-is,soep-is-2023,i1,98,98%,98%
+soep-is,soep-is-2023,i1,99,99%,99%
+soep-is,soep-is-2023,i1,100,100%,100%
+soep-is,soep-is-2023,i1,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i2,1,Far exceeds expectations,Übersteigt die Erwartungen weit
+soep-is,soep-is-2023,i2,2,exceeds expectations,Übertriftt die Erwartungen
+soep-is,soep-is-2023,i2,3,equals expectations,Entspricht den Erwartungen
+soep-is,soep-is-2023,i2,4,short of expectations,Bleibt hinter den Erwartungen zurück
+soep-is,soep-is-2023,i2,5,far short of expectations,Bleibt weit hinter den Erwartungen zurück
+soep-is,soep-is-2023,i2,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i3,1,Never,Niemals
+soep-is,soep-is-2023,i3,2,Rarely,Selten
+soep-is,soep-is-2023,i3,3,Sometimes,Manchmal
+soep-is,soep-is-2023,i3,4,Often,Häufig
+soep-is,soep-is-2023,i3,5,All the time,Die ganze Zeit
+soep-is,soep-is-2023,i3,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i4,1,Strongly Disagree,Widerspreche entschieden
+soep-is,soep-is-2023,i4,2,Somewhat Disagree,Widerspreche etwas
+soep-is,soep-is-2023,i4,3,Neither Agree Nor Disagree,"Weder Zustimmung, noch Widerspruch"
+soep-is,soep-is-2023,i4,4,Somewhat Agree,Stimme etwas zu
+soep-is,soep-is-2023,i4,5,Strongly Agree,Stimme entschieden zu
+soep-is,soep-is-2023,i4,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i5,1,Much Less,Viel weniger
+soep-is,soep-is-2023,i5,2,Less,Weniger
+soep-is,soep-is-2023,i5,3,About the Same,Ungefähr gleich
+soep-is,soep-is-2023,i5,4,More,Mehr
+soep-is,soep-is-2023,i5,5,Much More,Viel mehr
+soep-is,soep-is-2023,i5,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,100011,1,I would not like to participate in the coin toss,Ich möchte am Münzwurf nicht teilnehmen
+soep-is,soep-is-2023,100011,2,I would like to participate in the coin toss,Ich möchte am Münzwurf teilnehmen
+soep-is,soep-is-2023,100011,-1,Can not / Prefer not to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i6,1,Group 1,Gruppe 1
+soep-is,soep-is-2023,i6,2,Group 2,Gruppe 2
+soep-is,soep-is-2023,i7,1,0,0
+soep-is,soep-is-2023,i7,2,1,1
+soep-is,soep-is-2023,i7,3,2,2
+soep-is,soep-is-2023,i7,4,3,3
+soep-is,soep-is-2023,i7,5,4,4
+soep-is,soep-is-2023,i7,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i8,1,0,0
+soep-is,soep-is-2023,i8,2,1,1
+soep-is,soep-is-2023,i8,3,2,2
+soep-is,soep-is-2023,i8,4,3,3
+soep-is,soep-is-2023,i8,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i10,13,There is no climate change,Es gibt keinen Klimawandel
+soep-is,soep-is-2023,i10,1,1 (exclusively result of natural processes),1 (ausschließlich Folge natürlicher Prozesse)
+soep-is,soep-is-2023,i10,2,2,2
+soep-is,soep-is-2023,i10,3,3,3
+soep-is,soep-is-2023,i10,4,4,4
+soep-is,soep-is-2023,i10,5,5,5
+soep-is,soep-is-2023,i10,6,6 (in equal parts the result of natural processes and human activity),6 (zu gleichen Teilen Folge natürlicher Prozesse und menschlichen Handelns)
+soep-is,soep-is-2023,i10,7,7,7
+soep-is,soep-is-2023,i10,8,8,8
+soep-is,soep-is-2023,i10,9,9,9
+soep-is,soep-is-2023,i10,10,10,10
+soep-is,soep-is-2023,i10,11,11 (exclusively the result of human action),11 (ausschließlich Folge menschlichen Handelns)
+soep-is,soep-is-2023,i10,12,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i10,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i12,1,(Policies to combat climate change are not enough),1 (Die Politik muss viel mehr zur Bekämpfung des Klimawandels tun)
+soep-is,soep-is-2023,i12,2,2,2
+soep-is,soep-is-2023,i12,3,3,3
+soep-is,soep-is-2023,i12,4,4,4
+soep-is,soep-is-2023,i12,5,5,5
+soep-is,soep-is-2023,i12,6,6 (Policies to combat climate change are spot on),6 (Die Politik zur Bekämpfung des Klimawandels ist genau richtig)
+soep-is,soep-is-2023,i12,7,7,7
+soep-is,soep-is-2023,i12,8,8,8
+soep-is,soep-is-2023,i12,9,9,9
+soep-is,soep-is-2023,i12,10,10,10
+soep-is,soep-is-2023,i12,11,11 (Policies to combat climate change already go far too far),11 (Die Politik zur Bekämpfung des Klimawandels geht schon viel zu weit)
+soep-is,soep-is-2023,i12,12,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i12,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i13,1,Completely disagree,Stimme komplett nicht zu
+soep-is,soep-is-2023,i13,2,Rather disagree,Stimme eher nicht zu
+soep-is,soep-is-2023,i13,3,Partly agree / partly disagree,Teils/teils
+soep-is,soep-is-2023,i13,4,Rather agree,Stimme eher zu
+soep-is,soep-is-2023,i13,5,Completely agree,Stimme komplett zu
+soep-is,soep-is-2023,i13,6,Don’t know,Weiß nicht
+soep-is,soep-is-2023,i13,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i14,1,Very positive,Sehr positiv
+soep-is,soep-is-2023,i14,2,Rather positive,Eher positiv
+soep-is,soep-is-2023,i14,3,Equally positive and negative,Gleichermaßen positiv wie negativ
+soep-is,soep-is-2023,i14,4,Rather negative,Eher negativ
+soep-is,soep-is-2023,i14,5,Very negative,Sehr negativ
+soep-is,soep-is-2023,i14,6,Not at all,Gar nicht
+soep-is,soep-is-2023,i14,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i15,1,"1 Economic growth, even if this has a negative impact on the climate.","Wirtschaftswachstum, auch wenn dies negative Auswirkungen auf das Klima hat."
+soep-is,soep-is-2023,i15,2,"7 Combating climate change, even if this has a negative impact on economic growth.","Bekämpfung des Klimawandels, auch wenn dies negative Auswirkungen auf das Wirtschaftswachstum hat."
+soep-is,soep-is-2023,i15,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i54,1,Not at all,Gar nicht
+soep-is,soep-is-2023,i54,2,Very weak,Sehr schwach
+soep-is,soep-is-2023,i54,3,Rather weak,Eher schwach
+soep-is,soep-is-2023,i54,4,Rather strong,Eher stark
+soep-is,soep-is-2023,i54,5,Very strong,Sehr stark
+soep-is,soep-is-2023,i54,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i0,1,Yes,Ja
+soep-is,soep-is-2023,i0,2,No,Nein
+soep-is,soep-is-2023,i0,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i53,1,Would only have advantages for me financially,Hätte finanziell nur Vorteile für mich
+soep-is,soep-is-2023,i53,2,Would have more advantages than disadvantages for me financially,Hätte finanziell mehr Vorteile als Nachteile für mich
+soep-is,soep-is-2023,i53,3,Would have equal advantages and disadvantages for me financially,Hätte finanziell gleichermaßen Vor- und Nachteile für mich
+soep-is,soep-is-2023,i53,4,Would have more disadvantages than advantages for me financially,Hätte finanziell mehr Nachteile als Vorteile für mich
+soep-is,soep-is-2023,i53,5,Would have only disadvantages for me financially,Hätte finanziell nur Nachteile für mich
+soep-is,soep-is-2023,i53,6,Would have neither financial advantages nor financial disadvantages for me,Hätte weder finanzielle Vorteile noch finanzielle Nachteile für mich
+soep-is,soep-is-2023,i53,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i55,1,Not effective at all,1 (Überhaupt nicht effektiv)
+soep-is,soep-is-2023,i55,2,2,2
+soep-is,soep-is-2023,i55,3,3,3
+soep-is,soep-is-2023,i55,4,4,4
+soep-is,soep-is-2023,i55,5,Very effective,5 (Sehr effektiv)
+soep-is,soep-is-2023,i55,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i59,1,"1: „climate change and its possible consequences“, 2: „explicitly about the policies that are currently being made in Germany“","1: „Klimawandel und seine möglichen Folgen“, 2: „Explizit die Politik, die derzeit in Deutschland in Sachen Klimawandel gemacht wird“"
+soep-is,soep-is-2023,i59,2,"1: „explicitly about the policies that are currently being made in Germany“, 2: „climate change and its possible consequences“, ","1: „Explizit die Politik, die derzeit in Deutschland in Sachen Klimawandel gemacht wird“, 2: „Klimawandel und seine möglichen Folgen“, "
+soep-is,soep-is-2023,i18,1,1 Completely disagree,1 Stimme überhaupt nicht zu
+soep-is,soep-is-2023,i18,2,2,2
+soep-is,soep-is-2023,i18,3,3,3
+soep-is,soep-is-2023,i18,4,4,4
+soep-is,soep-is-2023,i18,5,5,5
+soep-is,soep-is-2023,i18,6,6,6
+soep-is,soep-is-2023,i18,7,7 Completely agree,7 Stimme voll zu
+soep-is,soep-is-2023,i18,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i19,1,1 month ago,Vor einem Monat
+soep-is,soep-is-2023,i19,2,2 months ago,Vor 2 Monaten
+soep-is,soep-is-2023,i19,3,3 months ago,Vor 3 Monaten
+soep-is,soep-is-2023,i19,4,4 months ago,Vor 4 Monaten
+soep-is,soep-is-2023,i19,5,5 months ago,Vor 5 Monaten
+soep-is,soep-is-2023,i19,6,6 months ago,Vor 6 Monaten
+soep-is,soep-is-2023,i19,7,7 months ago,Vor 7 Monaten
+soep-is,soep-is-2023,i19,8,8 months ago,Vor 8 Monaten
+soep-is,soep-is-2023,i19,9,9 months ago,Vor 9 Monaten
+soep-is,soep-is-2023,i19,10,10 months ago,Vor 10 Monaten
+soep-is,soep-is-2023,i19,11,11 months ago,Vor 11 Monaten
+soep-is,soep-is-2023,i19,12,12 months ago,Vor 12 Monaten
+soep-is,soep-is-2023,i19,13,13 months ago,Vor 13 Monaten
+soep-is,soep-is-2023,i19,14,14 months ago,Vor 14 Monaten
+soep-is,soep-is-2023,i19,15,15 months ago,Vor 15 Monaten
+soep-is,soep-is-2023,i19,16,16 months ago,Vor 16 Monaten
+soep-is,soep-is-2023,i19,17,17 months ago,Vor 17 Monaten
+soep-is,soep-is-2023,i19,18,18 months ago,Vor 18 Monaten
+soep-is,soep-is-2023,i19,19,19 months ago,Vor 19 Monaten
+soep-is,soep-is-2023,i19,20,20 months ago,Vor 20 Monaten
+soep-is,soep-is-2023,i19,21,21 months ago,Vor 21 Monaten
+soep-is,soep-is-2023,i19,22,22 months ago,Vor 22 Monaten
+soep-is,soep-is-2023,i19,23,23 months ago,Vor 23 Monaten
+soep-is,soep-is-2023,i19,24,24 months ago,Vor 24 Monaten
+soep-is,soep-is-2023,i19,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i56,1,Experienced,Erlebt
+soep-is,soep-is-2023,i56,2,Not experienced,Nicht erlebt
+soep-is,soep-is-2023,i56,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i20,1,Group 1,Gruppe 1
+soep-is,soep-is-2023,i20,2,Group 2,Gruppe 2
+soep-is,soep-is-2023,i21,1,1 no criticism,1 gar kein Tadel
+soep-is,soep-is-2023,i21,2,2,2
+soep-is,soep-is-2023,i21,3,3,3
+soep-is,soep-is-2023,i21,4,4,4
+soep-is,soep-is-2023,i21,5,5,5
+soep-is,soep-is-2023,i21,6,6 most severe criticism,6 strengsten Tadel
+soep-is,soep-is-2023,i21,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i23,1,1 no compliment,1 gar kein Lob
+soep-is,soep-is-2023,i23,2,2,2
+soep-is,soep-is-2023,i23,3,3,3
+soep-is,soep-is-2023,i23,4,4,4
+soep-is,soep-is-2023,i23,5,5,5
+soep-is,soep-is-2023,i23,6,6 highest compliment,6 größtes Lob
+soep-is,soep-is-2023,i23,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i24,1,Lottery,Lotterie
+soep-is,soep-is-2023,i24,2,Secure payout,Sichere Auszahlung
+soep-is,soep-is-2023,i24,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i57,300,Split1 - Calculation basis 300,Split1 – Berechnugsgrundlage 300
+soep-is,soep-is-2023,i57,90,Split2 - Calculation basis 90,Split2 – Berechnugsgrundlage 90
+soep-is,soep-is-2023,i25,0,0,0
+soep-is,soep-is-2023,i25,1,1,1
+soep-is,soep-is-2023,i25,2,2,2
+soep-is,soep-is-2023,i25,3,3,3
+soep-is,soep-is-2023,i25,4,4,4
+soep-is,soep-is-2023,i25,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i27,1,Daily,Täglich
+soep-is,soep-is-2023,i27,2,On four to six days weekly,An vier bis sechs Tagen in der Woche
+soep-is,soep-is-2023,i27,3,On two to three days weekly,An zwei bis drei Tagen in der Woche
+soep-is,soep-is-2023,i27,4,On two to four days monthly,An zwei bis vier Tagen im Monat
+soep-is,soep-is-2023,i27,5,Once a month or less often,Einmal im Monat oder seltener
+soep-is,soep-is-2023,i27,6,Never,Nie
+soep-is,soep-is-2023,i27,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i28,1,One to two drinks,Ein bis zwei Getränke
+soep-is,soep-is-2023,i28,2,Three to four drinks,Drei bis vier Getränke
+soep-is,soep-is-2023,i28,3,Five to six drinks,Fünf bis sechs Getränke
+soep-is,soep-is-2023,i28,4,Seven to nine drinks,Sieben bis neun Getränke
+soep-is,soep-is-2023,i28,5,Ten or more drinks,Zehn oder mehr Getränke
+soep-is,soep-is-2023,i28,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i30,1,Often,Oft
+soep-is,soep-is-2023,i30,2,Once in a while,Ab und zu
+soep-is,soep-is-2023,i30,3,Rarely,Selten
+soep-is,soep-is-2023,i30,4,Never,Nie
+soep-is,soep-is-2023,i30,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i31,1,Multiple days,Mehrere Tage
+soep-is,soep-is-2023,i31,2,Multiple weeks,Mehrere Wochen
+soep-is,soep-is-2023,i31,3,Multiple months,Mehrere Monate
+soep-is,soep-is-2023,i31,4,More than one year,Mehr als ein Jahr
+soep-is,soep-is-2023,i31,5,Multiple years,Mehrere Jahre
+soep-is,soep-is-2023,i31,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i32,1,1 completely disagree,1 Stimme überhaupt nicht zu
+soep-is,soep-is-2023,i32,2,2,2
+soep-is,soep-is-2023,i32,3,3,3
+soep-is,soep-is-2023,i32,4,4,4
+soep-is,soep-is-2023,i32,5,5 completely agree,5 Stimme voll zu
+soep-is,soep-is-2023,i32,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i33,1,1 very masculine,1 sehr maskulin
+soep-is,soep-is-2023,i33,2,2,2
+soep-is,soep-is-2023,i33,3,3,3
+soep-is,soep-is-2023,i33,4,4,4
+soep-is,soep-is-2023,i33,5,5,5
+soep-is,soep-is-2023,i33,6,6,6
+soep-is,soep-is-2023,i33,7,7 very feminine,7 sehr feminin
+soep-is,soep-is-2023,i33,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i42,1,Not at all true for me,Trifft überhaupt nicht zu
+soep-is,soep-is-2023,i42,2,Not very true of me,Trifft eher nicht zu
+soep-is,soep-is-2023,i42,3,Neither true nor untrue of me,Trifft teils zu und teils nicht zu
+soep-is,soep-is-2023,i42,4,Mostly true of me,Trifft eher zu
+soep-is,soep-is-2023,i42,5,Very true of me,Trifft voll und ganz zu
+soep-is,soep-is-2023,i42,6,I do not understand what you mean by this,"Ich weiß nicht, was damit gemeint ist"
+soep-is,soep-is-2023,i42,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i43,1,1 Risks prevail,1 Risiken überwiegen
+soep-is,soep-is-2023,i43,2,2,2
+soep-is,soep-is-2023,i43,3,3 Neutral,3 Neutral
+soep-is,soep-is-2023,i43,4,4,4
+soep-is,soep-is-2023,i43,5,5 Opportunities prevail,5 Chancen überwiegen
+soep-is,soep-is-2023,i43,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i44,1,Treatment 1,Treatment 1
+soep-is,soep-is-2023,i44,2,Treatment 2,Treatment 2
+soep-is,soep-is-2023,i44,3,Treatment 3,Treatment 3
+soep-is,soep-is-2023,i44,4,Control Group,Kontrollgruppe
+soep-is,soep-is-2023,i47,1,-5 Extremely Bad,-5 Extrem schlecht
+soep-is,soep-is-2023,i47,2,-4,-4
+soep-is,soep-is-2023,i47,3,-3,-3
+soep-is,soep-is-2023,i47,4,-2,-2
+soep-is,soep-is-2023,i47,5,-1,-1
+soep-is,soep-is-2023,i47,6,0 Neutral,0 Neutral
+soep-is,soep-is-2023,i47,7,1,1
+soep-is,soep-is-2023,i47,8,2,2
+soep-is,soep-is-2023,i47,9,3,3
+soep-is,soep-is-2023,i47,10,4,4
+soep-is,soep-is-2023,i47,11,5 Extremely Good,5 Extrem gut
+soep-is,soep-is-2023,i47,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i48,1,-5 Strongly Oppose,-5 Starke Ablehnung
+soep-is,soep-is-2023,i48,2,-4,-4
+soep-is,soep-is-2023,i48,3,-3,-3
+soep-is,soep-is-2023,i48,4,-2,-2
+soep-is,soep-is-2023,i48,5,-1,-1
+soep-is,soep-is-2023,i48,6,0 Neutral,0 Neutral
+soep-is,soep-is-2023,i48,7,1,1
+soep-is,soep-is-2023,i48,8,2,2
+soep-is,soep-is-2023,i48,9,3,3
+soep-is,soep-is-2023,i48,10,4,4
+soep-is,soep-is-2023,i48,11,5 Strongly Support,5 Starke Unterstützung
+soep-is,soep-is-2023,i48,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i49,1,Proposal A,Vorschlag A
+soep-is,soep-is-2023,i49,2,Proposal B,Vorschlag B
+soep-is,soep-is-2023,i49,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i64,1,-5 [viga_un_1] low,-5 [viga_un_1] niedrig
+soep-is,soep-is-2023,i64,2,4,-4
+soep-is,soep-is-2023,i64,3,3,-3
+soep-is,soep-is-2023,i64,4,2,-2
+soep-is,soep-is-2023,i64,5,1,-1
+soep-is,soep-is-2023,i64,6,0 [viga_1],0 [viga_1]
+soep-is,soep-is-2023,i64,7,2,1
+soep-is,soep-is-2023,i64,8,3,2
+soep-is,soep-is-2023,i64,9,4,3
+soep-is,soep-is-2023,i64,10,5,4
+soep-is,soep-is-2023,i64,11,5 [viga_un_1] high,5 [viga_un_1] hoch
+soep-is,soep-is-2023,i64,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i65,1,-5 [viga_un_2] low,-5 [viga_un_2] niedrig
+soep-is,soep-is-2023,i65,2,4,-4
+soep-is,soep-is-2023,i65,3,3,-3
+soep-is,soep-is-2023,i65,4,2,-2
+soep-is,soep-is-2023,i65,5,1,-1
+soep-is,soep-is-2023,i65,6,0 [viga_2],0 [viga_2]
+soep-is,soep-is-2023,i65,7,2,1
+soep-is,soep-is-2023,i65,8,3,2
+soep-is,soep-is-2023,i65,9,4,3
+soep-is,soep-is-2023,i65,10,5,4
+soep-is,soep-is-2023,i65,11,5 [viga_un_2] high,5 [viga_un_2] hoch
+soep-is,soep-is-2023,i65,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i66,1,Completely disagree,Stimme überhaupt nicht zu
+soep-is,soep-is-2023,i66,2,Rather disagree,Stimme eher nicht zu
+soep-is,soep-is-2023,i66,3,Neither agree nor disagree,Stimme weder zu noch lehne ich ab
+soep-is,soep-is-2023,i66,4,Rather agree,Stimme eher zu
+soep-is,soep-is-2023,i66,5,Completely agree,Stimme voll und ganz zu
+soep-is,soep-is-2023,i66,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,day,1,1,1
+soep-is,soep-is-2023,day,2,2,2
+soep-is,soep-is-2023,day,3,3,3
+soep-is,soep-is-2023,day,4,4,4
+soep-is,soep-is-2023,day,5,5,5
+soep-is,soep-is-2023,day,6,6,6
+soep-is,soep-is-2023,day,7,7,7
+soep-is,soep-is-2023,day,8,8,8
+soep-is,soep-is-2023,day,9,9,9
+soep-is,soep-is-2023,day,10,10,10
+soep-is,soep-is-2023,day,11,11,11
+soep-is,soep-is-2023,day,12,12,12
+soep-is,soep-is-2023,day,13,13,13
+soep-is,soep-is-2023,day,14,14,14
+soep-is,soep-is-2023,day,15,15,15
+soep-is,soep-is-2023,day,16,16,16
+soep-is,soep-is-2023,day,17,17,17
+soep-is,soep-is-2023,day,18,18,18
+soep-is,soep-is-2023,day,19,19,19
+soep-is,soep-is-2023,day,20,20,20
+soep-is,soep-is-2023,day,21,21,21
+soep-is,soep-is-2023,day,22,22,22
+soep-is,soep-is-2023,day,23,23,23
+soep-is,soep-is-2023,day,24,24,24
+soep-is,soep-is-2023,day,25,25,25
+soep-is,soep-is-2023,day,26,26,26
+soep-is,soep-is-2023,day,27,27,27
+soep-is,soep-is-2023,day,28,28,28
+soep-is,soep-is-2023,day,29,29,29
+soep-is,soep-is-2023,day,30,30,30
+soep-is,soep-is-2023,day,31,31,31
+soep-is,soep-is-2023,day,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,sex,1,...male,...männlich
+soep-is,soep-is-2023,sex,2,...female,...weiblich
+soep-is,soep-is-2023,sex,3,...diverse,...divers
+soep-is,soep-is-2023,sex,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,Y_o_B,2005,2005,2005
+soep-is,soep-is-2023,Y_o_B,2004,2004,2004
+soep-is,soep-is-2023,Y_o_B,2003,2003,2003
+soep-is,soep-is-2023,Y_o_B,2002,2002,2002
+soep-is,soep-is-2023,Y_o_B,2001,2001,2001
+soep-is,soep-is-2023,Y_o_B,2000,2000,2000
+soep-is,soep-is-2023,Y_o_B,1999,1999,1999
+soep-is,soep-is-2023,Y_o_B,1998,1998,1998
+soep-is,soep-is-2023,Y_o_B,1997,1997,1997
+soep-is,soep-is-2023,Y_o_B,1996,1996,1996
+soep-is,soep-is-2023,Y_o_B,1995,1995,1995
+soep-is,soep-is-2023,Y_o_B,1994,1994,1994
+soep-is,soep-is-2023,Y_o_B,1993,1993,1993
+soep-is,soep-is-2023,Y_o_B,1992,1992,1992
+soep-is,soep-is-2023,Y_o_B,1991,1991,1991
+soep-is,soep-is-2023,Y_o_B,1990,1990,1990
+soep-is,soep-is-2023,Y_o_B,1989,1989,1989
+soep-is,soep-is-2023,Y_o_B,1988,1988,1988
+soep-is,soep-is-2023,Y_o_B,1987,1987,1987
+soep-is,soep-is-2023,Y_o_B,1986,1986,1986
+soep-is,soep-is-2023,Y_o_B,1985,1985,1985
+soep-is,soep-is-2023,Y_o_B,1984,1984,1984
+soep-is,soep-is-2023,Y_o_B,1983,1983,1983
+soep-is,soep-is-2023,Y_o_B,1982,1982,1982
+soep-is,soep-is-2023,Y_o_B,1981,1981,1981
+soep-is,soep-is-2023,Y_o_B,1980,1980,1980
+soep-is,soep-is-2023,Y_o_B,1979,1979,1979
+soep-is,soep-is-2023,Y_o_B,1978,1978,1978
+soep-is,soep-is-2023,Y_o_B,1977,1977,1977
+soep-is,soep-is-2023,Y_o_B,1976,1976,1976
+soep-is,soep-is-2023,Y_o_B,1975,1975,1975
+soep-is,soep-is-2023,Y_o_B,1974,1974,1974
+soep-is,soep-is-2023,Y_o_B,1973,1973,1973
+soep-is,soep-is-2023,Y_o_B,1972,1972,1972
+soep-is,soep-is-2023,Y_o_B,1971,1971,1971
+soep-is,soep-is-2023,Y_o_B,1970,1970,1970
+soep-is,soep-is-2023,Y_o_B,1969,1969,1969
+soep-is,soep-is-2023,Y_o_B,1968,1968,1968
+soep-is,soep-is-2023,Y_o_B,1967,1967,1967
+soep-is,soep-is-2023,Y_o_B,1966,1966,1966
+soep-is,soep-is-2023,Y_o_B,1965,1965,1965
+soep-is,soep-is-2023,Y_o_B,1964,1964,1964
+soep-is,soep-is-2023,Y_o_B,1963,1963,1963
+soep-is,soep-is-2023,Y_o_B,1962,1962,1962
+soep-is,soep-is-2023,Y_o_B,1961,1961,1961
+soep-is,soep-is-2023,Y_o_B,1960,1960,1960
+soep-is,soep-is-2023,Y_o_B,1959,1959,1959
+soep-is,soep-is-2023,Y_o_B,1958,1958,1958
+soep-is,soep-is-2023,Y_o_B,1957,1957,1957
+soep-is,soep-is-2023,Y_o_B,1956,1956,1956
+soep-is,soep-is-2023,Y_o_B,1955,1955,1955
+soep-is,soep-is-2023,Y_o_B,1954,1954,1954
+soep-is,soep-is-2023,Y_o_B,1953,1953,1953
+soep-is,soep-is-2023,Y_o_B,1952,1952,1952
+soep-is,soep-is-2023,Y_o_B,1951,1951,1951
+soep-is,soep-is-2023,Y_o_B,1950,1950,1950
+soep-is,soep-is-2023,Y_o_B,1949,1949,1949
+soep-is,soep-is-2023,Y_o_B,1948,1948,1948
+soep-is,soep-is-2023,Y_o_B,1947,1947,1947
+soep-is,soep-is-2023,Y_o_B,1946,1946,1946
+soep-is,soep-is-2023,Y_o_B,1945,1945,1945
+soep-is,soep-is-2023,Y_o_B,1944,1944,1944
+soep-is,soep-is-2023,Y_o_B,1943,1943,1943
+soep-is,soep-is-2023,Y_o_B,1942,1942,1942
+soep-is,soep-is-2023,Y_o_B,1941,1941,1941
+soep-is,soep-is-2023,Y_o_B,1940,1940,1940
+soep-is,soep-is-2023,Y_o_B,1939,1939,1939
+soep-is,soep-is-2023,Y_o_B,1938,1938,1938
+soep-is,soep-is-2023,Y_o_B,1937,1937,1937
+soep-is,soep-is-2023,Y_o_B,1936,1936,1936
+soep-is,soep-is-2023,Y_o_B,1935,1935,1935
+soep-is,soep-is-2023,Y_o_B,1934,1934,1934
+soep-is,soep-is-2023,Y_o_B,1933,1933,1933
+soep-is,soep-is-2023,Y_o_B,1932,1932,1932
+soep-is,soep-is-2023,Y_o_B,1931,1931,1931
+soep-is,soep-is-2023,Y_o_B,1930,1930,1930
+soep-is,soep-is-2023,Y_o_B,1929,1929,1929
+soep-is,soep-is-2023,Y_o_B,1928,1928,1928
+soep-is,soep-is-2023,Y_o_B,1927,1927,1927
+soep-is,soep-is-2023,Y_o_B,1926,1926,1926
+soep-is,soep-is-2023,Y_o_B,1925,1925,1925
+soep-is,soep-is-2023,Y_o_B,1924,1924,1924
+soep-is,soep-is-2023,Y_o_B,1923,1923,1923
+soep-is,soep-is-2023,Y_o_B,1922,1922,1922
+soep-is,soep-is-2023,Y_o_B,1921,1921,1921
+soep-is,soep-is-2023,Y_o_B,1920,1920,1920
+soep-is,soep-is-2023,Y_o_B,1919,1919,1919
+soep-is,soep-is-2023,Y_o_B,1918,1918,1918
+soep-is,soep-is-2023,Y_o_B,1917,1917,1917
+soep-is,soep-is-2023,Y_o_B,1916,1916,1916
+soep-is,soep-is-2023,Y_o_B,1915,1915,1915
+soep-is,soep-is-2023,Y_o_B,1914,1914,1914
+soep-is,soep-is-2023,Y_o_B,1913,1913,1913
+soep-is,soep-is-2023,Y_o_B,1912,1912,1912
+soep-is,soep-is-2023,Y_o_B,1911,1911,1911
+soep-is,soep-is-2023,Y_o_B,1910,1910,1910
+soep-is,soep-is-2023,Y_o_B,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i68,1,"Group 1 - first ""spa23_01"" then ""spa23_02"".","Gruppe 1 - zuerst ""spa23_01"" danach ""spa23_02"""
+soep-is,soep-is-2023,i68,2,"Group 2 - first ""spa23_02"" then ""spa23_01""","Gruppe 2 - zuerst ""spa23_02"" danach ""spa23_01"""
+soep-is,soep-is-2023,i69,1,Not at all willing,Überhaupt nicht bereit
+soep-is,soep-is-2023,i69,2,2,2
+soep-is,soep-is-2023,i69,3,3,3
+soep-is,soep-is-2023,i69,4,4,4
+soep-is,soep-is-2023,i69,5,5,5
+soep-is,soep-is-2023,i69,6,6,6
+soep-is,soep-is-2023,i69,7,7,7
+soep-is,soep-is-2023,i69,8,8,8
+soep-is,soep-is-2023,i69,9,9,9
+soep-is,soep-is-2023,i69,10,Extremely willing,Äußerst bereit
+soep-is,soep-is-2023,i69,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,pre1,1,1 Does not apply at all,1 Trifft überhaupt nicht zu
+soep-is,soep-is-2023,pre1,2,2,2
+soep-is,soep-is-2023,pre1,3,3,3
+soep-is,soep-is-2023,pre1,4,4,4
+soep-is,soep-is-2023,pre1,5,5 Fully applies,5 Trifft voll und ganz zu
+soep-is,soep-is-2023,pre1,-1,Can't / don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,pre2,1,Very much in favour,Sehr dafür
+soep-is,soep-is-2023,pre2,2,Rather in favour,Eher dafür
+soep-is,soep-is-2023,pre2,3,Rather against,Eher dagegen
+soep-is,soep-is-2023,pre2,4,Very much against,Sehr dagegen
+soep-is,soep-is-2023,pre2,-1,Can't / don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,pre3,1,Yes,Ja
+soep-is,soep-is-2023,pre3,2,No,Nein
+soep-is,soep-is-2023,pre3,-1,Can't / don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,pre4,1,"Modified community of accrued gains
+(Explanation: Modified community of accrued gains means that certain partial aspects of community of accrued gains have been modified in the marriage contract, e.g. in the form of an exclusion of certain assets or an equalization of accrued gains only in the event of death.)","Modifizierte Zugewinngemeinschaft
+(Eine modifizierte Zugewinngemeinschaft bedeutet, dass bestimmte Teilaspekte der Zugewinngemeinschaft im Ehevertrag abgeändert wurden, z.B. in Form eines Ausschlusses bestimmter Vermögenswerte oder eines Zugewinnausgleiches nur im Todesfall.)"
+soep-is,soep-is-2023,pre4,2,Separation of property,Gütertrennung
+soep-is,soep-is-2023,pre4,3,Full community of property,Gütergemeinschaft
+soep-is,soep-is-2023,pre4,4,Other matrimonial property regime,Anderer Güterstand
+soep-is,soep-is-2023,pre4,-1,Can't / don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i01,1,CAPI,CAPI
+soep-is,soep-is-2023,i01,2,CAWI,CAWI
+soep-is,soep-is-2023,i01,3,CATI,CATI
+soep-is,soep-is-2023,i01,4,PAPI,PAPI
+soep-is,soep-is-2023,i01,5,CAPI per Telefon,CAPI per Telefon
+soep-is,soep-is-2023,i01,6,CASI,CASI
+soep-is,soep-is-2023,i72,1,Woman in full-time (40 hours per week),Frau in Vollzeit (40 Wochenstunden)
+soep-is,soep-is-2023,i72,2,Woman part-time (20 hours per week),Frau in Teilzeit (20 Wochenstunden)
+soep-is,soep-is-2023,i72,3,Man in full-time employment (40 hours per week),Mann in Vollzeit (40 Wochenstunden)
+soep-is,soep-is-2023,i72,4,Man part-time (20 hours per week),Mann in Teilzeit (20 Wochenstunden)
+soep-is,soep-is-2023,i72,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i73,1,Manager,Manager/in
+soep-is,soep-is-2023,i73,2,Management Consultant,Unternehmensberater/in
+soep-is,soep-is-2023,i73,3,General physician,Allgemeinarzt/ärztin
+soep-is,soep-is-2023,i73,4,Electrical Engineer,Elektroingenieur/in
+soep-is,soep-is-2023,i73,5,Social pedagogue,Sozialpädagog/in
+soep-is,soep-is-2023,i73,6,Nurse,Krankenpfleger/in
+soep-is,soep-is-2023,i73,7,Retail shop assistant,Verkäufer/in in Einzelhandelsgeschäft
+soep-is,soep-is-2023,i73,8,Mechanic,Mechaniker/in
+soep-is,soep-is-2023,i73,9,Nursing assistant,Pflegehelfer/in
+soep-is,soep-is-2023,i73,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i74,1,In West Germany,In Westdeutschland
+soep-is,soep-is-2023,i74,2,In Eastern Germany,In Ostdeutschland
+soep-is,soep-is-2023,i74,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i75,1,Single or single parent,Alleinstehend bzw. Alleinerziehend
+soep-is,soep-is-2023,i75,2,Married to a partner with lower earnings,Verheiratet mit Partner/in mit geringerem Verdienst
+soep-is,soep-is-2023,i75,3,Married to a partner with similar earnings,Verheiratet mit Partner/in mit ähnlich hohem Verdienst
+soep-is,soep-is-2023,i75,4,Married to a partner with higher earnings,Verheiratet mit Partner/in mit höherem Verdienst
+soep-is,soep-is-2023,i75,5,Married without information on partner's earnings,Verheiratet ohne Information zum Verdienst des/der Partner/in
+soep-is,soep-is-2023,i75,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i76,1,No child,Kein Kind
+soep-is,soep-is-2023,i76,2,1 year old child,1-jähriges Kind
+soep-is,soep-is-2023,i76,3,4 year old child,4-jähriges Kind
+soep-is,soep-is-2023,i76,4,12 year old child,12-jähriges Kind
+soep-is,soep-is-2023,i76,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i77,10,Top,Oben
+soep-is,soep-is-2023,i77,9,,
+soep-is,soep-is-2023,i77,8,,
+soep-is,soep-is-2023,i77,7,,
+soep-is,soep-is-2023,i77,6,,
+soep-is,soep-is-2023,i77,5,,
+soep-is,soep-is-2023,i77,4,,
+soep-is,soep-is-2023,i77,3,,
+soep-is,soep-is-2023,i77,2,,
+soep-is,soep-is-2023,i77,1,Bottom,Unten
+soep-is,soep-is-2023,i77,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,213,1,1 Does not apply at all,1 Trifft überhaupt nicht zu
+soep-is,soep-is-2023,213,2,2,2
+soep-is,soep-is-2023,213,3,3,3
+soep-is,soep-is-2023,213,4,4,4
+soep-is,soep-is-2023,213,5,5,5
+soep-is,soep-is-2023,213,6,6,6
+soep-is,soep-is-2023,213,7,7 Fully applies,7 Trifft voll zu
+soep-is,soep-is-2023,213,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,4052+4817,10,10,10
+soep-is,soep-is-2023,4052+4817,9,9,9
+soep-is,soep-is-2023,4052+4817,8,8,8
+soep-is,soep-is-2023,4052+4817,7,7,7
+soep-is,soep-is-2023,4052+4817,6,6,6
+soep-is,soep-is-2023,4052+4817,5,5,5
+soep-is,soep-is-2023,4052+4817,4,4,4
+soep-is,soep-is-2023,4052+4817,3,3,3
+soep-is,soep-is-2023,4052+4817,2,2,2
+soep-is,soep-is-2023,4052+4817,1,1,1
+soep-is,soep-is-2023,4052+4817,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i70,1,"[de] Zuerst men23_41, dann men23_42","Zuerst men23_41, dann men23_42"
+soep-is,soep-is-2023,i70,2,"[de] Zuerst men23_42, dann men23_41","Zuerst men23_42, dann men23_41"
+soep-is,soep-is-2023,i78,1,"[de] Ja, das Kind hat das Modul selbständig gelesen","Ja, das Kind hat das Modul selbständig gelesen"
+soep-is,soep-is-2023,i78,2,"[de] Nein, das Kind hat teilweise Hilfe benötigt um das Modul zu lesen","Nein, das Kind hat teilweise Hilfe benötigt um das Modul zu lesen"
+soep-is,soep-is-2023,i78,3,"[de] Nein, dem Kind wurde das Modul komplett vorgelesen","Nein, dem Kind wurde das Modul komplett vorgelesen"
+soep-is,soep-is-2023,i79,1,not present,nicht anwesend
+soep-is,soep-is-2023,i79,2,does not wish to,möchte nicht
+soep-is,soep-is-2023,i79,3,ill,erkrankt
+soep-is,soep-is-2023,i79,4,other,sonstiges
+soep-is,soep-is-2023,i80,1,"Yes, I would like to answer the questions and will receive an additional 5€.","Ja, ich möchte diese Fragen beantworten und erhalte zusätzlich 5 €."
+soep-is,soep-is-2023,i80,2,"No, I would like to skip the questions and will not receive an additional 5€.","Nein, ich möchte die Befragung beenden und erhalte nicht zusätzlich 5 €."
+soep-is,soep-is-2023,i81,1,"Yes, namely:","Ja, und zwar:"
+soep-is,soep-is-2023,i81,2,No,Nein
+soep-is,soep-is-2023,i81,-1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten
+soep-is,soep-is-2023,i00,1,svar=1,svar=1
+soep-is,soep-is-2023,i00,2,svar=2,svar=2
+soep-is,soep-is-2023,asubm,1,Autosubmit on,Autosubmit on
+soep-is,soep-is-2023,asubm,2,Autosubmit off,Autosubmit off
 soep-is,soep-is-2022,1M4652,1,Yes,Ja
 soep-is,soep-is-2022,1M4652,2,No,Nein
 soep-is,soep-is-2022,1M4652,-1,Can't / don't want to answer,Kann / möchte ich nicht beantworten
