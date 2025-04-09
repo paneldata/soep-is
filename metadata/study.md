@@ -28,9 +28,10 @@ include earnings, employment, education, health and more.
 
 Collection period: 1998-2020, 2022-2023
 
-Data collector: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since 2022: infas - Institut für angewandte Sozialwissenschaft<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;until 2020: Kantar Public Deutschland GmbH
+Data collector:
+
+- since 2022: infas - Institut für angewandte Sozialwissenschaft
+- until 2020: Kantar Public Deutschland GmbH
 
 
 ## Method
