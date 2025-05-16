@@ -22,6 +22,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -77,6 +86,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -207,6 +225,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -422,6 +449,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -477,6 +513,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -534,6 +579,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -589,6 +643,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -646,6 +709,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -701,6 +773,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -758,6 +839,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -813,6 +903,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -870,6 +969,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -925,6 +1033,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -982,6 +1099,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1037,6 +1163,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1094,6 +1229,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1149,6 +1293,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1206,6 +1359,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1261,6 +1423,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1318,6 +1489,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1373,6 +1553,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1430,6 +1619,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1485,6 +1683,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1542,6 +1749,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1597,6 +1813,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,
@@ -1654,6 +1879,15 @@
         "Does not apply",
         "No Answer"
       ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1709,6 +1943,15 @@
         "Answer improbable",
         "Does not apply",
         "No Answer"
+      ],
+      "labels_de": [
+        "Nur in weniger eingeschränkter Edition verfügbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "In Fragebogenversion nicht enthalten",
+        "Unzulaessige Mehrfachantwort",
+        "nicht valide",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
         true,

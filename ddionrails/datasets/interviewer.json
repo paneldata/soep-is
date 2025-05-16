@@ -24,6 +24,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -83,6 +93,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -213,6 +233,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -274,6 +304,17 @@
         "[-2] Does not apply",
         "[-1] No Answer",
         "[0] Not permanently employed"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Nicht dauerhaft angestellt"
       ],
       "missings": [
         true,
@@ -415,6 +456,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -1363,6 +1414,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1422,6 +1483,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -1607,6 +1678,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1666,6 +1747,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -1727,6 +1818,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1786,6 +1887,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -1847,6 +1958,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -1906,6 +2027,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -1967,6 +2098,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -2026,6 +2167,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -4520,6 +4671,16 @@
         "[-2] Does not apply",
         "[-1] No Answer"
       ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -4658,6 +4819,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -5551,6 +5722,16 @@
         "[-3] Answer improbable",
         "[-2] Does not apply",
         "[-1] No Answer"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] Nur in weniger eingeschränkter Edition verfügbar",
+        "[-6] Fragebogenversion mit geänderter Filterführung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulässige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
