@@ -23,10 +23,10 @@ The SOEP group at DIW Berlin introduced the SOEP-IS panel for short-term experim
 core SOEP - for instance, because they require instruments that are not yet well established or that deal with very specific research topics. In 
 addition to Samples E and I from the core SOEP, which were started in 1998 and 2009, respectively, new samples were drawn over the years 
 to achieve a number of about 5,000 respondents. The annual interviews since 2011 (except 2021) have contained not only questions from the core SOEP but also innovative 
-modules, which are selected in a peer-reviewed competition as of the 2013 survey year to identify the “best” research questions. Some of the many topics 
+modules, which are selected in a peer-reviewed competition as of the 2013 survey year to identify the "best" research questions. Some of the many topics 
 include earnings, employment, education, health and more.
 
-Collection period: 1998-2020, 2022-2023
+Collection period: 1998-2020, 2022-2024
 
 Data collector:
 
@@ -38,12 +38,12 @@ Data collector:
 
 All samples of SOEP-IS are multi-stage random samples with regional clustering. In the past, households were selected by random-walk. Since 2023 SOEP-IS uses register-based sampling.
 
-Until 2020, data collection was exclusively conducted via CAPI (Computer Assisted Personal Interviewing). No data was collected in 2021. In 2022, infas shifted data collection to 
-CATI (Computer Assisted Telephone Interviewing) and CAWI (Computer Assisted Web Interviewing) with CAPI only available by request or if the telephone number was missing. In 2023, 
-the CATI mode was dropped, and the interviews were conducted by CAPI or CAWI. Generally, all household members of age 18 and older within a sampled household are asked to participate 
-in the surveys. In addition, one household member (head of household / anchor person) is asked to complete a household questionnaire covering information on living conditions, housing 
-costs, and different sources of income. This questionnaire also includes some questions about children in the household up to age 16 (until 2022) or 18 (since 2023), for example, their 
-kindergarten or school attendance.
+Until 2020, data collection was exclusively conducted via CAPI (Computer Assisted Personal Interviewing). No data was collected in 2021. In 2022, infas shifted data collection to CATI 
+(Computer Assisted Telephone Interviewing) and CAWI (Computer Assisted Web Interviewing) with CAPI only available by request or if the telephone number was missing. From 2023 on, the CATI 
+mode was dropped, and the interviews were conducted by CAPI or CAWI. In 2024, CALVI (Computer-Assisted Live Video Interviewing) was tested as an additional survey mode for this year. 
+Generally, all household members of age 18 and older within a sampled household are asked to participate in the surveys. In addition, one household member (head of household / anchor person) 
+is asked to complete a household questionnaire covering information on living conditions, housing costs, and different sources of income. This questionnaire also includes some questions about 
+children in the household up to age 16 (until 2022) or 18 (since 2023), for example, their kindergarten or school attendance.
 
 ## Data access
 
