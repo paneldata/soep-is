@@ -4,22 +4,73 @@
     "dataset": "hpath",
     "label": "Original Houshold Number, Case ID",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-9] Missing due to a terminated interview",
+        "[-8] Question this year not part of survey",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Ursprungshaushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 4033638.0,
-      "Median": 4136348.0,
-      "Mean": 4394638.958374048,
-      "3rd Qu.": 6868817.5,
+      "1st Qu.": 4033530.25,
+      "Median": 4136391.0,
+      "Mean": 4393224.455796443,
+      "3rd Qu.": 6868812.5,
       "Max.": 6945570.0,
-      "valid": 30702,
+      "valid": 30812,
       "invalid": 0
     }
   },
@@ -28,22 +79,73 @@
     "dataset": "hpath",
     "label": "Current Wave HH Number",
     "categories": {
-      "values": [],
-      "labels": [],
-      "missings": [],
-      "frequencies": []
+      "values": [
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1
+      ],
+      "labels": [
+        "[-9] Missing due to a terminated interview",
+        "[-8] Question this year not part of survey",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
     "scale": "number",
     "label_de": "Aktuelle Haushaltsnummer",
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 4030699.5,
-      "Median": 4137096.5,
-      "Mean": 4381598.776170934,
-      "3rd Qu.": 6868817.5,
+      "1st Qu.": 4031252.25,
+      "Median": 4137646.0,
+      "Mean": 4385875.592171881,
+      "3rd Qu.": 6868542.5,
       "Max.": 6945570.0,
-      "valid": 30702,
+      "valid": 30812,
       "invalid": 0
     }
   },
@@ -53,6 +155,7 @@
     "label": "Subsample Identifier",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -107,6 +210,7 @@
         66
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -161,6 +265,7 @@
         "[66] L1 FiD Birth Cohort 2010, 2010/11"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -215,6 +320,7 @@
         "[66] FiD Geburtskohorte 2010/Stichprobe L1"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -286,34 +392,35 @@
         0,
         0,
         0,
-        352,
-        326,
+        0,
+        355,
+        328,
         0,
         0,
         0,
         0,
-        2034,
+        2051,
         0,
         0,
-        3203,
+        3211,
         0,
-        4673,
-        3820,
+        4687,
+        3826,
         598,
         0,
         0,
         0,
-        4691,
+        4699,
         0,
         0,
         0,
         0,
         0,
-        1079,
+        1100,
         0,
         0,
         0,
-        9926,
+        9957,
         0,
         0,
         0,
@@ -327,7 +434,7 @@
     "label_de": "Ursprungsstichprobe",
     "study": "soep-is",
     "statistics": {
-      "valid": 30702,
+      "valid": 30812,
       "invalid": 0
     }
   }

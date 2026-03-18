@@ -5,6 +5,7 @@
     "label": "Original Household Number",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -15,16 +16,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -35,6 +49,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -50,12 +65,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 866954.0,
-      "Median": 964484.0,
-      "Mean": 2405752.351198048,
-      "3rd Qu.": 4117013.0,
+      "1st Qu.": 868566.0,
+      "Median": 973459.0,
+      "Mean": 2522913.525059666,
+      "3rd Qu.": 4124358.5,
       "Max.": 6945510.0,
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -65,6 +80,7 @@
     "label": "Current Wave HH Number",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -75,16 +91,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -95,6 +124,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -110,12 +140,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 868965.0,
-      "Median": 958867.0,
-      "Mean": 2375475.7304443936,
-      "3rd Qu.": 4116530.0,
+      "1st Qu.": 872679.0,
+      "Median": 965189.0,
+      "Mean": 2495171.0441231583,
+      "3rd Qu.": 4124451.0,
       "Max.": 6945510.0,
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -125,6 +155,7 @@
     "label": "Survey Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -135,16 +166,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -155,6 +199,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -172,10 +217,10 @@
       "Min.": 1998.0,
       "1st Qu.": 2013.0,
       "Median": 2016.0,
-      "Mean": 2014.9852146893834,
+      "Mean": 2015.4734807392651,
       "3rd Qu.": 2019.0,
-      "Max.": 2023.0,
-      "valid": 47953,
+      "Max.": 2024.0,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -185,6 +230,7 @@
     "label": "Number Of Persons In HH",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -195,16 +241,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -215,6 +274,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -232,10 +292,10 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 2.2509123516776843,
+      "Mean": 2.24513304009941,
       "3rd Qu.": 3.0,
       "Max.": 9.0,
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -245,6 +305,7 @@
     "label": "Number Of Children Under 14 In HH",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -255,16 +316,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -281,7 +355,8 @@
         0,
         0,
         0,
-        38173,
+        0,
+        40509,
         0
       ]
     },
@@ -292,11 +367,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 1.0,
-      "Mean": 1.585480572597137,
+      "Mean": 1.5841020608439647,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 9780,
-      "invalid": 38173
+      "valid": 10190,
+      "invalid": 40509
     }
   },
   {
@@ -305,6 +380,7 @@
     "label": "Number Of Children Under 16 In HH",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -315,16 +391,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -341,7 +430,8 @@
         0,
         0,
         0,
-        36506,
+        0,
+        38780,
         0
       ]
     },
@@ -352,11 +442,11 @@
       "Min.": 1.0,
       "1st Qu.": 1.0,
       "Median": 2.0,
-      "Mean": 1.6612212806848956,
+      "Mean": 1.6584445003775485,
       "3rd Qu.": 2.0,
       "Max.": 6.0,
-      "valid": 11447,
-      "invalid": 36506
+      "valid": 11919,
+      "invalid": 38780
     }
   },
   {
@@ -365,6 +455,7 @@
     "label": "Year Moved Into Dwelling",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -375,16 +466,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -395,14 +499,15 @@
         true
       ],
       "frequencies": [
-        2818,
+        0,
+        3682,
         0,
         0,
         1009,
         0,
         16,
-        3805,
-        1480
+        4885,
+        2051
       ]
     },
     "scale": "number",
@@ -412,11 +517,11 @@
       "Min.": 1917.0,
       "1st Qu.": 1986.0,
       "Median": 2001.0,
-      "Mean": 1996.3069671603348,
+      "Mean": 1996.4646149119214,
       "3rd Qu.": 2010.0,
-      "Max.": 2023.0,
-      "valid": 38825,
-      "invalid": 9128
+      "Max.": 2025.0,
+      "valid": 39056,
+      "invalid": 11643
     }
   },
   {
@@ -425,6 +530,7 @@
     "label": "Year House Was Built",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -444,14 +550,15 @@
         9
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Before 1919",
         "[2] 1919 To 1948",
         "[3] 1949 To 1971",
@@ -463,12 +570,13 @@
         "[9] 2021 Or Later"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] vor 1919",
@@ -490,6 +598,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -501,31 +610,32 @@
         false
       ],
       "frequencies": [
-        2458,
+        0,
+        3150,
         0,
         0,
         4100,
         0,
         0,
-        2408,
-        2266,
-        4697,
-        5090,
-        11121,
-        5827,
-        3765,
-        3768,
-        1625,
-        777,
-        51
+        2806,
+        2744,
+        4822,
+        5213,
+        11418,
+        5980,
+        3877,
+        3914,
+        1711,
+        864,
+        100
       ]
     },
     "scale": "cat",
     "label_de": "Baujahr des Hauses",
     "study": "soep-is",
     "statistics": {
-      "valid": 36721,
-      "invalid": 11232
+      "valid": 37899,
+      "invalid": 12800
     }
   },
   {
@@ -534,6 +644,7 @@
     "label": "Condition Of House",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -548,26 +659,28 @@
         4
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] In A Good Condition",
         "[2] Partial Renovation",
         "[3] Full Renovations",
         "[4] Dilapidated"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] in gutem Zustand",
@@ -584,6 +697,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -593,7 +707,8 @@
         0,
         0,
         0,
-        38260,
+        0,
+        41006,
         0,
         0,
         0,
@@ -609,7 +724,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9680,
-      "invalid": 38273
+      "invalid": 41019
     }
   },
   {
@@ -618,6 +733,7 @@
     "label": "Adequacy Of Living Space In Housing Unit",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -633,14 +749,15 @@
         5
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Much Too Small",
         "[2] A Bit Too Small",
         "[3] Just Right",
@@ -648,12 +765,13 @@
         "[5] Much Too Large"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] viel zu klein",
@@ -671,6 +789,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -681,7 +800,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -698,7 +818,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8636,
-      "invalid": 39317
+      "invalid": 42063
     }
   },
   {
@@ -707,6 +827,7 @@
     "label": "Dwelling Has Kitchen",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -719,30 +840,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -758,7 +882,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -772,7 +897,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 39318
+      "invalid": 42064
     }
   },
   {
@@ -781,6 +906,7 @@
     "label": "Dwelling Has Indoor Bath,Shower",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -793,30 +919,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -832,7 +961,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -846,7 +976,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8635,
-      "invalid": 39318
+      "invalid": 42064
     }
   },
   {
@@ -855,6 +985,7 @@
     "label": "Dwelling Has Indoor Toilet",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -867,30 +998,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -906,7 +1040,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -920,7 +1055,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5895,
-      "invalid": 42058
+      "invalid": 44804
     }
   },
   {
@@ -929,6 +1064,7 @@
     "label": "Dwelling Has Central,Floor Heat",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -941,30 +1077,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -980,7 +1119,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -994,7 +1134,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8633,
-      "invalid": 39320
+      "invalid": 42066
     }
   },
   {
@@ -1003,6 +1143,7 @@
     "label": "Dwelling Has Balcony,Terrace",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1015,30 +1156,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1054,7 +1198,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -1068,7 +1213,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8610,
-      "invalid": 39343
+      "invalid": 42089
     }
   },
   {
@@ -1077,6 +1222,7 @@
     "label": "Dwelling Has Basement",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1089,30 +1235,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1128,7 +1277,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -1142,7 +1292,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8621,
-      "invalid": 39332
+      "invalid": 42078
     }
   },
   {
@@ -1151,6 +1301,7 @@
     "label": "Dwelling Has Garden",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1163,30 +1314,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1202,7 +1356,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -1216,7 +1371,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8626,
-      "invalid": 39327
+      "invalid": 42073
     }
   },
   {
@@ -1225,6 +1380,7 @@
     "label": "Dwelling Has Water Boiler",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1237,30 +1393,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1276,7 +1435,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -1290,7 +1450,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8628,
-      "invalid": 39325
+      "invalid": 42071
     }
   },
   {
@@ -1299,6 +1459,7 @@
     "label": "Dwelling Has Telephone",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1311,30 +1472,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1350,7 +1514,8 @@
         0,
         0,
         0,
-        38260,
+        0,
+        41006,
         0,
         0,
         0,
@@ -1364,7 +1529,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 9393,
-      "invalid": 38560
+      "invalid": 41306
     }
   },
   {
@@ -1373,6 +1538,7 @@
     "label": "Dwelling Has Alarm System",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1385,30 +1551,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1424,7 +1593,8 @@
         0,
         0,
         0,
-        41695,
+        0,
+        44441,
         0,
         0,
         0,
@@ -1438,7 +1608,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5835,
-      "invalid": 42118
+      "invalid": 44864
     }
   },
   {
@@ -1447,6 +1617,7 @@
     "label": "Dwelling Has Solar System",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1459,30 +1630,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1498,7 +1672,8 @@
         0,
         0,
         0,
-        43021,
+        0,
+        45767,
         0,
         0,
         0,
@@ -1512,7 +1687,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 43028
+      "invalid": 45774
     }
   },
   {
@@ -1521,6 +1696,7 @@
     "label": "Dwelling Has Air Conditioner",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1533,30 +1709,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1572,7 +1751,8 @@
         0,
         0,
         0,
-        43021,
+        0,
+        45767,
         0,
         0,
         0,
@@ -1586,7 +1766,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4925,
-      "invalid": 43028
+      "invalid": 45774
     }
   },
   {
@@ -1595,6 +1775,7 @@
     "label": "Dwelling Has An Elevator",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1607,30 +1788,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1646,7 +1830,8 @@
         0,
         0,
         0,
-        43919,
+        0,
+        46665,
         0,
         0,
         0,
@@ -1660,7 +1845,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4020,
-      "invalid": 43933
+      "invalid": 46679
     }
   },
   {
@@ -1669,6 +1854,7 @@
     "label": "Dwelling Has Alternative Energy Source",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1681,30 +1867,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1720,7 +1909,8 @@
         0,
         0,
         0,
-        43919,
+        0,
+        46665,
         0,
         0,
         0,
@@ -1734,7 +1924,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4021,
-      "invalid": 43932
+      "invalid": 46678
     }
   },
   {
@@ -1743,6 +1933,7 @@
     "label": "Tenant Or Owner Of Dwelling",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1758,14 +1949,15 @@
         5
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Owner",
         "[2] Main Tenant",
         "[3] Sub-tenant",
@@ -1773,12 +1965,13 @@
         "[5] Home Occupant"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] Eigentümer",
@@ -1796,6 +1989,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -1806,23 +2000,24 @@
         0,
         0,
         0,
+        0,
         3421,
         0,
         0,
         0,
         7,
-        21819,
-        21947,
-        722,
+        23231,
+        23205,
+        797,
         0,
-        37
+        38
       ]
     },
     "scale": "cat",
     "label_de": "Eigentümer, Mieter",
     "study": "soep-is",
     "statistics": {
-      "valid": 44525,
+      "valid": 47271,
       "invalid": 3428
     }
   },
@@ -1832,6 +2027,7 @@
     "label": "Means Of Acquiring Dwelling",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1846,26 +2042,28 @@
         4
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Bought From Owner",
         "[2] Inheritance, Gift",
         "[3] Bought, Built New",
         "[4] Got back from public property"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] vom Vorbesitzer gekauft",
@@ -1882,6 +2080,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -1891,7 +2090,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         4313,
@@ -1907,7 +2107,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2590,
-      "invalid": 45363
+      "invalid": 48109
     }
   },
   {
@@ -1916,6 +2116,7 @@
     "label": "Government Subsidizes Housing Payments",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1928,30 +2129,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1967,7 +2171,8 @@
         0,
         0,
         0,
-        47197,
+        0,
+        49943,
         0,
         0,
         478,
@@ -1981,7 +2186,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 164,
-      "invalid": 47789
+      "invalid": 50535
     }
   },
   {
@@ -1990,6 +2195,7 @@
     "label": "Amount Of Subsidies Last Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2002,30 +2208,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2041,7 +2250,8 @@
         0,
         0,
         0,
-        40056,
+        0,
+        42802,
         0,
         0,
         4464,
@@ -2055,7 +2265,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3389,
-      "invalid": 44564
+      "invalid": 47310
     }
   },
   {
@@ -2064,6 +2274,7 @@
     "label": "Rent Of Dwelling Vs Comparable Dwellings",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2079,14 +2290,15 @@
         5
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Very Inexpensive",
         "[2] Inexpensive",
         "[3] Reasonable",
@@ -2094,12 +2306,13 @@
         "[5] Too Expensive"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] sehr günstig",
@@ -2117,6 +2330,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -2127,7 +2341,8 @@
         0,
         0,
         0,
-        40157,
+        0,
+        42903,
         0,
         0,
         4101,
@@ -2144,7 +2359,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3633,
-      "invalid": 44320
+      "invalid": 47066
     }
   },
   {
@@ -2153,6 +2368,7 @@
     "label": "Government Subsidized Housing",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2166,25 +2382,27 @@
         3
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes, With due diligence",
         "[2] Yes, Exp.Subsidy",
         "[3] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja, mit bestehender Sozialbindung",
@@ -2200,6 +2418,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false
@@ -2208,7 +2427,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         4340,
@@ -2223,7 +2443,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4294,
-      "invalid": 43659
+      "invalid": 46405
     }
   },
   {
@@ -2232,6 +2452,7 @@
     "label": "Dwelling At A Reduced Prize",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2244,30 +2465,33 @@
         2
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Yes",
         "[2] No"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] ja",
         "[2] nein"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2283,7 +2507,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         4340,
@@ -2297,7 +2522,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 4074,
-      "invalid": 43879
+      "invalid": 46625
     }
   },
   {
@@ -2306,6 +2531,7 @@
     "label": "Size of Housing Unit in Square Meters",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2316,16 +2542,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2336,14 +2575,15 @@
         true
       ],
       "frequencies": [
-        2733,
+        0,
+        3566,
         0,
         0,
         3421,
         0,
         4,
-        5734,
-        1068
+        5964,
+        1633
       ]
     },
     "scale": "number",
@@ -2353,11 +2593,11 @@
       "Min.": 7.0,
       "1st Qu.": 68.0,
       "Median": 90.0,
-      "Mean": 99.68293658731746,
+      "Mean": 99.91166126665006,
       "3rd Qu.": 120.0,
       "Max.": 754.0,
-      "valid": 34993,
-      "invalid": 12960
+      "valid": 36111,
+      "invalid": 14588
     }
   },
   {
@@ -2366,6 +2606,7 @@
     "label": "Number Of Rooms Larger than 6 Square Meters",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2376,16 +2617,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2399,7 +2653,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -2417,7 +2672,7 @@
       "3rd Qu.": 5.0,
       "Max.": 12.0,
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -2426,6 +2681,7 @@
     "label": "Costs Of Warm Water (gen)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2436,16 +2692,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2459,7 +2728,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         4553,
@@ -2477,7 +2747,7 @@
       "3rd Qu.": 100.0,
       "Max.": 493.0,
       "valid": 4095,
-      "invalid": 43858
+      "invalid": 46604
     }
   },
   {
@@ -2486,6 +2756,7 @@
     "label": "Cost Allocation (gen)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2496,16 +2767,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2519,11 +2803,12 @@
         0,
         0,
         0,
+        0,
         3683,
         0,
         0,
-        25072,
-        4434
+        26535,
+        4788
       ]
     },
     "scale": "number",
@@ -2532,12 +2817,12 @@
     "statistics": {
       "Min.": 1.0,
       "1st Qu.": 45.0,
-      "Median": 66.0,
-      "Mean": 77.42976158222704,
+      "Median": 68.0,
+      "Mean": 79.05639457082776,
       "3rd Qu.": 100.0,
       "Max.": 1213.0,
-      "valid": 14764,
-      "invalid": 33189
+      "valid": 15693,
+      "invalid": 35006
     }
   },
   {
@@ -2546,6 +2831,7 @@
     "label": "Amount of Rent Minus Heating Costs (EUR)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2556,16 +2842,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2579,11 +2878,12 @@
         0,
         0,
         0,
+        0,
         3421,
         0,
         4,
-        23292,
-        36
+        24843,
+        48
       ]
     },
     "scale": "number",
@@ -2591,13 +2891,13 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 8.0,
-      "1st Qu.": 390.0,
-      "Median": 504.0,
-      "Mean": 564.7184905660378,
-      "3rd Qu.": 672.0,
+      "1st Qu.": 395.0,
+      "Median": 515.0,
+      "Mean": 575.9622928115087,
+      "3rd Qu.": 690.0,
       "Max.": 14500.0,
-      "valid": 21200,
-      "invalid": 26753
+      "valid": 22383,
+      "invalid": 28316
     }
   },
   {
@@ -2606,6 +2906,7 @@
     "label": "Costs of Electricity (gen)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2616,16 +2917,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2639,7 +2953,8 @@
         0,
         0,
         0,
-        45861,
+        0,
+        48607,
         0,
         0,
         1143,
@@ -2657,7 +2972,7 @@
       "3rd Qu.": 73.0,
       "Max.": 279.0,
       "valid": 945,
-      "invalid": 47008
+      "invalid": 49754
     }
   },
   {
@@ -2666,6 +2981,7 @@
     "label": "Does Not Pay Rent",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2679,25 +2995,27 @@
         3
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] Pays No Rent",
         "[2] Pay No Rent But Utilities",
         "[3] Pays Neither Rent Nor Utilities"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] zahle keine Miete",
@@ -2713,6 +3031,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false
@@ -2721,22 +3040,23 @@
         0,
         0,
         0,
+        0,
         3421,
         0,
         0,
-        43130,
+        45738,
         144,
         464,
-        563,
-        231
+        650,
+        282
       ]
     },
     "scale": "cat",
     "label_de": "Zahle keine Miete",
     "study": "soep-is",
     "statistics": {
-      "valid": 1258,
-      "invalid": 46695
+      "valid": 1396,
+      "invalid": 49303
     }
   },
   {
@@ -2745,6 +3065,7 @@
     "label": "Imputation Flag, Size Of Housing",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2757,24 +3078,26 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] Not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
@@ -2789,6 +3112,7 @@
         true,
         true,
         true,
+        true,
         false,
         false
       ],
@@ -2796,7 +3120,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -2810,7 +3135,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -2819,6 +3144,7 @@
     "label": "Imputation Flag, Number Of Rooms Lager than 6 Square Meters",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2831,30 +3157,33 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] Not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
         "[1] imputiert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2870,7 +3199,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -2884,7 +3214,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -2893,6 +3223,7 @@
     "label": "Imputation Flag, Costs Of Heating And Warm Water",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2905,30 +3236,33 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] Not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
         "[1] imputiert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2944,7 +3278,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -2958,7 +3293,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -2967,6 +3302,7 @@
     "label": "Imputation Flag, Cost Allocation",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2979,30 +3315,33 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] Not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
         "[1] imputiert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3018,7 +3357,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -3032,7 +3372,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -3041,6 +3381,7 @@
     "label": "Imputation Flag, Amount Of Rent Minus Heating Costs",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3055,26 +3396,28 @@
         3
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] not imputed",
         "[1] Imputed",
         "[2] imputed cost allocation",
         "[3] Imputed Costs Of Heating And Warm Water"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
@@ -3091,6 +3434,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3100,7 +3444,8 @@
         0,
         0,
         0,
-        39300,
+        0,
+        42046,
         0,
         0,
         0,
@@ -3116,7 +3461,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 8653,
-      "invalid": 39300
+      "invalid": 42046
     }
   },
   {
@@ -3125,6 +3470,7 @@
     "label": "Imputation Flag, Costs of Electricity",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3137,30 +3483,33 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
         "[1] imputiert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3176,7 +3525,8 @@
         0,
         0,
         0,
-        45861,
+        0,
+        48607,
         0,
         0,
         0,
@@ -3190,7 +3540,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2092,
-      "invalid": 45861
+      "invalid": 48607
     }
   },
   {
@@ -3199,6 +3549,7 @@
     "label": "Household Typology, One Digit",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3217,14 +3568,15 @@
         8
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] 1-Pers.-HH",
         "[2] Couple without children",
         "[3] Single Parent",
@@ -3235,12 +3587,13 @@
         "[8] Other combination"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] 1-Pers.-HH",
@@ -3261,6 +3614,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3278,22 +3632,23 @@
         0,
         0,
         0,
+        0,
         14,
-        15098,
-        15719,
-        3838,
-        7217,
-        3216,
-        1847,
-        288,
-        716
+        16036,
+        16710,
+        3969,
+        7566,
+        3419,
+        1912,
+        305,
+        768
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (1-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 47939,
+      "valid": 50685,
       "invalid": 14
     }
   },
@@ -3303,6 +3658,7 @@
     "label": "Household Typology, Two Digit",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3336,12 +3692,13 @@
         82
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
-        "Questionnaire Version With Modified Filter",
-        "Not Included In Questionnaire Version",
-        "Forbidden Multiple Response",
-        "Not valid",
+        "Version of questionnaire with modified filtering",
+        "Not included in this version of the questionnaire",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
         "No answer",
         "[11] 1-Person HH LE 35 Y.",
@@ -3369,12 +3726,13 @@
         "[82] Other Combination With K. LE 16"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
         "Fragebogenversion mit geaenderter Filterfuehrung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulaessige Mehrfachantwort",
-        "nicht valide",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[11] 1-P-HH LE 35 J.",
@@ -3410,6 +3768,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3442,37 +3801,38 @@
         0,
         0,
         0,
+        0,
         14,
-        2474,
-        4698,
-        7926,
-        15719,
-        1257,
-        863,
-        983,
-        249,
-        311,
-        175,
-        2685,
-        3257,
-        1275,
-        2177,
-        900,
-        139,
-        1018,
-        829,
-        248,
+        2609,
+        4994,
+        8433,
+        16710,
+        1298,
+        883,
+        1026,
+        268,
+        318,
+        176,
+        2839,
+        3407,
+        1320,
+        2318,
+        955,
+        146,
+        1065,
+        847,
+        257,
         3,
-        37,
-        644,
-        72
+        45,
+        694,
+        74
       ]
     },
     "scale": "cat",
     "label_de": "HH-Typologie (2-Steller)",
     "study": "soep-is",
     "statistics": {
-      "valid": 47939,
+      "valid": 50685,
       "invalid": 14
     }
   },
@@ -3482,6 +3842,7 @@
     "label": "Month Of Interview",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3504,14 +3865,15 @@
         12
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] January",
         "[2] February",
         "[3] March",
@@ -3526,12 +3888,13 @@
         "[12] December"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] Januar",
@@ -3556,6 +3919,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3578,25 +3942,26 @@
         0,
         0,
         0,
-        2892,
-        3157,
-        1835,
-        1063,
-        899,
+        0,
+        3149,
+        3511,
+        2021,
+        1283,
+        936,
         1817,
         1808,
         1368,
         8502,
         14460,
-        7421,
-        2731
+        8639,
+        3205
       ]
     },
     "scale": "cat",
     "label_de": "Monat des Interviews",
     "study": "soep-is",
     "statistics": {
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -3606,6 +3971,7 @@
     "label": "Interview Method",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3626,6 +3992,8 @@
         140,
         150,
         160,
+        170,
+        180,
         200,
         210,
         220,
@@ -3633,14 +4001,15 @@
         300
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[100] With Interviewer Assistance",
         "[110] Oral Interview",
         "[120] Written Ques. Interviewer",
@@ -3653,6 +4022,8 @@
         "[140] CAPI - Wave O Onwards",
         "[150] CAWI Since 2014 (BE)",
         "[160] CATI since 2021",
+        "[170] CASI since 2021 ",
+        "[180] CALVI since 2024 (SOEP-IS)",
         "[200] Telephone Assistance",
         "[210] Written, By Mail",
         "[220] Phone interview",
@@ -3660,12 +4031,13 @@
         "[300] Web-based Interview"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[100] mit Interviewerbetreuung",
@@ -3680,6 +4052,8 @@
         "[140] CAPI - ab Welle O",
         "[150] CAWI - seit 2014(BE)",
         "[160] CATI - seit 2021",
+        "[170] CASI - seit 2021",
+        "[180] CALVI - seit 2024 (SOEP-IS)",
         "[200] mit telefonischer Betreuung",
         "[210] schriftlich-postalisch",
         "[220] Telefon-Interview",
@@ -3695,6 +4069,9 @@
         true,
         true,
         true,
+        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -3722,6 +4099,7 @@
         0,
         0,
         0,
+        0,
         15,
         1586,
         949,
@@ -3731,9 +4109,11 @@
         0,
         0,
         0,
-        39902,
-        2952,
+        40758,
+        4531,
         801,
+        0,
+        311,
         0,
         117,
         814,
@@ -3745,7 +4125,7 @@
     "label_de": "Interviewmethode",
     "study": "soep-is",
     "statistics": {
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -3755,6 +4135,7 @@
     "label": "Monthly Household Net Income (EUR)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3765,16 +4146,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3785,6 +4179,7 @@
         true
       ],
       "frequencies": [
+        1,
         0,
         0,
         0,
@@ -3792,7 +4187,7 @@
         0,
         151,
         0,
-        2882
+        2977
       ]
     },
     "scale": "number",
@@ -3802,11 +4197,11 @@
       "Min.": 0.0,
       "1st Qu.": 1600.0,
       "Median": 2500.0,
-      "Mean": 2837.5071682991984,
-      "3rd Qu.": 3600.0,
+      "Mean": 2912.547340760984,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 44920,
-      "invalid": 3033
+      "valid": 47570,
+      "invalid": 3129
     }
   },
   {
@@ -3815,6 +4210,7 @@
     "label": "Adjusted Monthly Household Net Income (EUR)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3825,16 +4221,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -3848,7 +4257,8 @@
         0,
         0,
         0,
-        40475,
+        0,
+        43221,
         0,
         3,
         0,
@@ -3866,7 +4276,7 @@
       "3rd Qu.": 3068.0,
       "Max.": 30000.0,
       "valid": 6904,
-      "invalid": 41049
+      "invalid": 43795
     }
   },
   {
@@ -3875,6 +4285,7 @@
     "label": "NUTS-Systematic-1 (Federal State)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3901,14 +4312,15 @@
         16
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[1] [DE100] Baden-Württemberg",
         "[2] [DE200] Bavaria",
         "[3] [DE300] Berlin",
@@ -3927,12 +4339,13 @@
         "[16] [DEG00] Thuringia"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[1] [DE100] Baden-Württemberg",
@@ -3961,6 +4374,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3987,29 +4401,30 @@
         0,
         0,
         0,
-        4881,
-        7058,
-        1919,
-        1441,
-        415,
-        823,
-        3066,
-        1212,
-        5117,
-        12533,
-        1905,
-        489,
-        2626,
-        1516,
-        1554,
-        1398
+        0,
+        5238,
+        7467,
+        2076,
+        1550,
+        431,
+        872,
+        3278,
+        1286,
+        5401,
+        13050,
+        2034,
+        513,
+        2806,
+        1596,
+        1635,
+        1466
       ]
     },
     "scale": "cat",
     "label_de": "NUTS-Systematik-1(Bundesland)",
     "study": "soep-is",
     "statistics": {
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   },
@@ -4019,6 +4434,7 @@
     "label": "1. Imputed Monthly Net Household Income (EUR) [1/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4029,16 +4445,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4049,6 +4478,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4065,11 +4495,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 1600.0,
-      "Median": 2490.0,
-      "Mean": 2825.8200711956174,
-      "3rd Qu.": 3550.0,
+      "Median": 2500.0,
+      "Mean": 2899.409895487223,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 46913,
+      "valid": 49659,
       "invalid": 1040
     }
   },
@@ -4079,6 +4509,7 @@
     "label": "2. Imputed Monthly Net Household Income (EUR) [2/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4089,16 +4520,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4109,6 +4553,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4125,11 +4570,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 1600.0,
-      "Median": 2490.0,
-      "Mean": 2826.1483384136595,
-      "3rd Qu.": 3550.0,
+      "Median": 2500.0,
+      "Mean": 2901.0792404196623,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 46913,
+      "valid": 49659,
       "invalid": 1040
     }
   },
@@ -4139,6 +4584,7 @@
     "label": "3. Imputed Monthly Net Household Income (EUR) [3/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4149,16 +4595,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4169,6 +4628,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4185,11 +4645,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 1600.0,
-      "Median": 2480.0,
-      "Mean": 2825.672095154861,
-      "3rd Qu.": 3550.0,
+      "Median": 2500.0,
+      "Mean": 2899.457661249723,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 46913,
+      "valid": 49659,
       "invalid": 1040
     }
   },
@@ -4199,6 +4659,7 @@
     "label": "4. Imputed Monthly Net Household Income (EUR) [4/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4209,16 +4670,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4229,6 +4703,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4245,11 +4720,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 1600.0,
-      "Median": 2470.0,
-      "Mean": 2824.8375503591756,
-      "3rd Qu.": 3550.0,
+      "Median": 2500.0,
+      "Mean": 2899.2299683843817,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 46913,
+      "valid": 49659,
       "invalid": 1040
     }
   },
@@ -4259,6 +4734,7 @@
     "label": "5. Imputed Monthly Net Household Income (EUR) [5/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4269,16 +4745,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4289,6 +4778,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4306,10 +4796,10 @@
       "Min.": 0.0,
       "1st Qu.": 1600.0,
       "Median": 2500.0,
-      "Mean": 2826.9722891309443,
-      "3rd Qu.": 3530.0,
+      "Mean": 2900.7958476811855,
+      "3rd Qu.": 3700.0,
       "Max.": 400000.0,
-      "valid": 46913,
+      "valid": 49659,
       "invalid": 1040
     }
   },
@@ -4319,6 +4809,7 @@
     "label": "6. Imputed Monthly Net Household Income (EUR) [6/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4329,16 +4820,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4349,6 +4853,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4364,12 +4869,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3510.341396371633,
-      "3rd Qu.": 4500.0,
+      "1st Qu.": 2005.0,
+      "Median": 3100.0,
+      "Mean": 3664.7060546875,
+      "3rd Qu.": 4645.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4379,6 +4884,7 @@
     "label": "7. Imputed Monthly Net Household Income (EUR) [7/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4389,16 +4895,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4409,6 +4928,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4425,11 +4945,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3508.10874106652,
-      "3rd Qu.": 4500.0,
+      "Median": 3105.0,
+      "Mean": 3661.09765625,
+      "3rd Qu.": 4700.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4439,6 +4959,7 @@
     "label": "8. Imputed Monthly Net Household Income (EUR) [8/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4449,16 +4970,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4469,6 +5003,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4484,12 +5019,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3509.9345794392525,
-      "3rd Qu.": 4500.0,
+      "1st Qu.": 2005.0,
+      "Median": 3100.0,
+      "Mean": 3660.8740234375,
+      "3rd Qu.": 4650.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4499,6 +5034,7 @@
     "label": "9. Imputed Monthly Net Household Income (EUR) [9/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4509,16 +5045,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4529,6 +5078,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4545,11 +5095,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3507.765915338098,
-      "3rd Qu.": 4500.0,
+      "Median": 3100.0,
+      "Mean": 3660.58349609375,
+      "3rd Qu.": 4700.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4559,6 +5109,7 @@
     "label": "10. Imputed Monthly Net Household Income (EUR) [10/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4569,16 +5120,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4589,6 +5153,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4605,11 +5170,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3508.132380428807,
-      "3rd Qu.": 4500.0,
+      "Median": 3100.0,
+      "Mean": 3659.82861328125,
+      "3rd Qu.": 4650.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4619,6 +5184,7 @@
     "label": "11. Imputed Monthly Net Household Income (EUR) [11/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4629,16 +5195,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4649,6 +5228,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4665,11 +5245,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3506.0018691588784,
-      "3rd Qu.": 4500.0,
+      "Median": 3100.0,
+      "Mean": 3658.20751953125,
+      "3rd Qu.": 4650.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4679,6 +5259,7 @@
     "label": "12. Imputed Monthly Net Household Income (EUR) [12/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4689,16 +5270,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4709,6 +5303,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4725,11 +5320,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3510.6050577240244,
-      "3rd Qu.": 4500.0,
+      "Median": 3100.0,
+      "Mean": 3662.494140625,
+      "3rd Qu.": 4640.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4739,6 +5334,7 @@
     "label": "13. Imputed Monthly Net Household Income (EUR) [13/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4749,16 +5345,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4769,6 +5378,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4784,12 +5394,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3510.59417262232,
-      "3rd Qu.": 4500.0,
+      "1st Qu.": 2001.0,
+      "Median": 3150.0,
+      "Mean": 3663.884521484375,
+      "3rd Qu.": 4700.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4799,6 +5409,7 @@
     "label": "14. Imputed Monthly Net Household Income (EUR) [14/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4809,16 +5420,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4829,6 +5453,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4844,12 +5469,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
-      "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3506.696316657504,
-      "3rd Qu.": 4500.0,
+      "1st Qu.": 2016.0,
+      "Median": 3100.0,
+      "Mean": 3659.189208984375,
+      "3rd Qu.": 4640.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4859,6 +5484,7 @@
     "label": "15. Imputed Monthly Net Household Income (EUR) [15/15]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4869,16 +5495,29 @@
         -1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer"
+        "No answer"
+      ],
+      "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
+        "Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
+        "trifft nicht zu",
+        "keine Angabe"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4889,6 +5528,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -4905,11 +5545,11 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2000.0,
-      "Median": 3000.0,
-      "Mean": 3510.2212204507973,
-      "3rd Qu.": 4500.0,
+      "Median": 3134.0,
+      "Mean": 3662.333251953125,
+      "3rd Qu.": 4679.0,
       "Max.": 400000.0,
-      "valid": 9095,
+      "valid": 11841,
       "invalid": 38858
     }
   },
@@ -4919,6 +5559,7 @@
     "label": "Imputation Flag, Monthly Net Household Income (EUR)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4931,30 +5572,33 @@
         1
       ],
       "labels": [
-        "Question not part of the survey program this year",
+        "Missing due to a terminated interview",
+        "Question this year not part of survey",
         "Only available in less restricted edition",
         "Version of questionnaire with modified filtering",
         "Not included in this version of the questionnaire",
-        "Inadmissible multiple response",
-        "Answer improbable",
+        "Inadmissable multiple response",
+        "Implausible value",
         "Does not apply",
-        "No Answer",
+        "No answer",
         "[0] Not imputed",
         "[1] Imputed"
       ],
       "labels_de": [
+        "fehlend aufgrund eines abgebrochenen Interviews",
         "Frage in diesem Jahr nicht Teil des Frageprogramms",
-        "Nur in weniger eingeschränkter Edition verfügbar",
-        "Fragebogenversion mit geänderter Filterführung",
-        "In Fragebogenversion nicht enthalten",
-        "Unzulässige Mehrfachantwort",
-        "nicht valide",
+        "nur in weniger eingeschraenkter Edition verfuegbar",
+        "Fragebogenversion mit geaenderter Filterfuehrung",
+        "in Fragebogenversion nicht enthalten",
+        "unzulaessige Mehrfachantwort",
+        "unplausibler Wert",
         "trifft nicht zu",
         "keine Angabe",
         "[0] nicht imputiert",
         "[1] imputiert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -4975,15 +5619,16 @@
         0,
         0,
         0,
-        44920,
-        3033
+        0,
+        47570,
+        3129
       ]
     },
     "scale": "cat",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen",
     "study": "soep-is",
     "statistics": {
-      "valid": 47953,
+      "valid": 50699,
       "invalid": 0
     }
   }

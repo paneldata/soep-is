@@ -18,6 +18,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -65,6 +72,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -114,6 +128,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -161,6 +182,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -654,6 +682,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -701,6 +736,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -750,6 +792,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -797,6 +846,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -846,6 +902,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -893,6 +956,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -4198,6 +4268,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -4245,6 +4322,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -4294,6 +4378,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -4341,6 +4432,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -4390,6 +4488,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -4437,6 +4542,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -4486,6 +4598,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -4533,6 +4652,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -5727,6 +5853,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -5774,6 +5907,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -5823,6 +5963,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -5870,6 +6017,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -5919,6 +6073,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -5967,6 +6128,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -6014,6 +6182,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -6598,6 +6773,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -7535,6 +7717,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -7582,6 +7771,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -7631,6 +7827,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -7678,6 +7881,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -7727,6 +7937,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -7774,6 +7991,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -7823,6 +8047,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -7870,6 +8101,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -7919,6 +8157,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -7966,6 +8211,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -8015,6 +8267,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -8062,6 +8321,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -11114,6 +11380,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -11161,6 +11434,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -11210,6 +11490,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -11257,6 +11544,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -11306,6 +11600,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -11353,6 +11654,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -11402,6 +11710,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -11449,6 +11764,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -12018,6 +12340,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -12065,6 +12394,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -12114,6 +12450,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -12161,6 +12504,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -12506,6 +12856,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -12553,6 +12910,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -12602,6 +12966,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -12649,6 +13020,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -13507,6 +13885,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -13554,6 +13939,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -13603,6 +13995,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -13650,6 +14049,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -13699,6 +14105,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -13746,6 +14159,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -13795,6 +14215,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -13843,6 +14270,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -13890,6 +14324,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -14309,6 +14750,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -14356,6 +14804,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -14405,6 +14860,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -14453,6 +14915,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -14500,6 +14969,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -14845,6 +15321,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -14892,6 +15375,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -14941,6 +15431,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -14988,6 +15485,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -25482,6 +25986,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -25745,6 +26256,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -26296,6 +26814,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -27936,6 +28461,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -27983,6 +28515,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -28032,6 +28571,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -28079,6 +28625,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
@@ -28992,6 +29545,13 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
         true,
         true,
@@ -29039,6 +29599,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer"
+      ],
+      "labels_de": [
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulässige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
       ],
       "missings": [
         true,
