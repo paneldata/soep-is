@@ -1,7 +1,7 @@
 type,study,dataset,variable,instrument,question,url,url_text
 study,soep-is,,,,,https://doi.org/10.5684/soep.is.2023,doi:10.5684/soep.is.2023
 dataset,soep-is,biol,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945950.de/diw_ssp1468.pdf,PDF Codebook (en)
-dataset,soep-is,bioage,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945937.de/diw_ssp1466.pdf,PDF Codebook (en)
+dataset,soep-is,bioagel,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945937.de/diw_ssp1466.pdf,PDF Codebook (en)
 dataset,soep-is,biobirth,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945947.de/diw_ssp1467.pdf,PDF Codebook (en)
 dataset,soep-is,bioparen,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945952.de/diw_ssp1469.pdf,PDF Codebook (en)
 dataset,soep-is,cognit,,,,https://www.diw.de/documents/publikationen/73/diw_01.c.945954.de/diw_ssp1470.pdf,PDF Codebook (en)
