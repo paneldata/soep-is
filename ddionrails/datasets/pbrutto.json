@@ -5,6 +5,7 @@
     "label": "Original Houshold Number, Case ID",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -15,6 +16,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -24,7 +26,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -35,6 +49,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -50,12 +65,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 200034.0,
-      "1st Qu.": 873845.0,
-      "Median": 980307.0,
-      "Mean": 2579158.8398873727,
-      "3rd Qu.": 4139980.0,
+      "1st Qu.": 876526.0,
+      "Median": 4012203.0,
+      "Mean": 2716722.1424144804,
+      "3rd Qu.": 4151980.0,
       "Max.": 6945510.0,
-      "valid": 136379,
+      "valid": 146516,
       "invalid": 0
     }
   },
@@ -65,6 +80,7 @@
     "label": "Current Wave HH Number",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -75,6 +91,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -84,7 +101,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -95,6 +124,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -110,12 +140,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 115380.0,
-      "1st Qu.": 876410.0,
-      "Median": 975532.0,
-      "Mean": 2552650.8089881875,
-      "3rd Qu.": 4140607.0,
+      "1st Qu.": 879460.0,
+      "Median": 4006637.0,
+      "Mean": 2693749.699896257,
+      "3rd Qu.": 4153133.0,
       "Max.": 6945510.0,
-      "valid": 136379,
+      "valid": 146516,
       "invalid": 0
     }
   },
@@ -125,6 +155,7 @@
     "label": "Never Changing Person ID",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -135,6 +166,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -144,7 +176,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -155,6 +199,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -170,12 +215,12 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1153802.0,
-      "1st Qu.": 8746103.0,
-      "Median": 9781701.0,
-      "Mean": 25695221.400552873,
-      "3rd Qu.": 41399801.0,
+      "1st Qu.": 8773401.0,
+      "Median": 40105205.0,
+      "Mean": 27067574.27105572,
+      "3rd Qu.": 41520201.0,
       "Max.": 69455105.0,
-      "valid": 136379,
+      "valid": 146516,
       "invalid": 0
     }
   },
@@ -185,6 +230,7 @@
     "label": "Survey Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -195,6 +241,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -204,7 +251,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -215,6 +274,7 @@
         true
       ],
       "frequencies": [
+        0,
         0,
         0,
         0,
@@ -231,11 +291,11 @@
     "statistics": {
       "Min.": 1998.0,
       "1st Qu.": 2013.0,
-      "Median": 2016.0,
-      "Mean": 2015.6621620630742,
+      "Median": 2017.0,
+      "Mean": 2016.2390319146032,
       "3rd Qu.": 2020.0,
-      "Max.": 2023.0,
-      "valid": 136379,
+      "Max.": 2024.0,
+      "valid": 146516,
       "invalid": 0
     }
   },
@@ -245,6 +305,7 @@
     "label": "Subsample Identifier",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -291,7 +352,15 @@
         41,
         42,
         43,
+        44,
+        45,
         46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
         60,
         61,
         62,
@@ -301,6 +370,7 @@
         66
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -327,27 +397,35 @@
         "[19] I Refreshment, Incentivation 2009",
         "[20] J Refreshment, 2011",
         "[21] K Refreshment, 2012",
-        "[22] Refreshment Innovative Sample, 2012",
+        "[22] Refreshment SOEP-IS, Supplementary Sample 2012",
         "[24] M1 IAB-SOEP 2013 Migration (1995-2011)",
-        "[25] Refreshment Innovative Sample, 2013",
-        "[26] Refreshment Innovative Sample, 2014",
-        "[28] Bonn Intervention Panel 2014",
+        "[25] Refreshment SOEP-IS, S2 Supplementary 2013",
+        "[26] Refreshment SOEP-IS, S3 Supplementary 2014",
+        "[28] SOEP- IS, Bonn Intervention Panel 2014",
         "[29] M2 IAB-SOEP Migration (2009-2013), 2015",
         "[30] M3 IAB-BAMF-SOEP 2016 Refugee (2013-2015)",
         "[31] M4 IAB-BAMF-SOEP 2016 Refugee/ Families (2013-2015)",
-        "[32] Refreshment Innovative Sample, 2016",
+        "[32] Refreshment SOEP-IS, S4 Supplementary 2016",
         "[33] N Refreshment (from PIAAC-L), 2017",
         "[34] M5 IAB-BAMF-SOEP 2017 Refugee",
         "[35] O 2018 Social City",
         "[36] P 2019 High Net-Worth Individuals",
         "[37] Q 2019 LGB",
-        "[38] Refreshment Innovative Sample, 2020 (ESS)",
+        "[38] SOEP-IS, S5 Supplementary 2020 ESS",
         "[39] M7 IAB-SOEP 2020 Migration",
         "[40] M8 IAB-SOEP 2020 Migration",
         "[41] M6 IAB-BAMF-SOEP 2020 Refugee",
         "[42] R Refreshment 2022",
         "[43] M8b IAB-SOEP 2020 Migration",
-        "[46] Refreshment Innovative Sample, 2023 (CAWI)",
+        "[44] M9 Persons in Need of Protection (Ukraine), 2022",
+        "[45] M8c IAB-SOEP Refreshment non-EU countries, 2023",
+        "[46] Refreshment SOEP-IS 2023 (CAWI)",
+        "[47] M9 IAB-BAMF-SOEP Persons in Need of Protection (other countries), 2023",
+        "[48] M9 IAB-BAMF-SOEP Persons in Need of Protection (Ukraine), 2023",
+        "[49] S Refreshement, 2024",
+        "[50] M8d IAB-SOEP Migration, non-EU countries, 2024",
+        "[51] M10 IAB-SOEP Migration, 2024",
+        "[52] Refreshment SOEP-IS 2025",
         "[60] L2/3 FiD Screening, Low Income, 2010/11",
         "[61] L2/3 FiD Screening, Single Parent, 2010/11",
         "[62] L2/3 FiD Screening, Families with Several Children, 2010/11",
@@ -357,6 +435,7 @@
         "[66] L1 FiD Birth Cohort 2010, 2010/11"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -383,27 +462,35 @@
         "[19] Aufstockung 2009/ Incentivierung I",
         "[20] Aufstockung 2011/Stichprobe J",
         "[21] Aufstockung 2012/Stichprobe K",
-        "[22] Aufstockung 2012/Innovationssample",
+        "[22] Innovationssample 2012 Aufstockung",
         "[24] M1 IAB-SOEP 2013 Migration (1995-2011)",
-        "[25] Aufstockung 2013/Innovationssample",
-        "[26] Aufstockung 2014/Innovationssample",
+        "[25] Innovationssample 2013 Aufstockung",
+        "[26] Innovationssample 2014 Aufstockung",
         "[28] Bonn Intervention Panel 2014",
         "[29] M2 IAB-SOEP Migration 2015 (2009-2013)",
         "[30] M3 IAB-BAMF-SOEP 2016 Flucht (2013-2015)",
         "[31] M4 IAB-BAMF-SOEP 2016 Flucht/Familien (2013-2015)",
-        "[32] Aufstockung 2016/Innovationssample",
+        "[32] Innovationssample 2016 Aufstockung",
         "[33] Aufstockung 2017/Stichprobe N",
         "[34] M5 IAB-BAMF-SOEP 2017 Refugee",
         "[35] Soziale Stadt 2018/Stichprobe O",
         "[36] Top-Gesellschafter 2019/ Stichprobe P",
         "[37] Lesbisch-Schwul-Bisexuelle (LGB) 2019/Stichprobe Q",
-        "[38] Aufstockung 2020/Innovationssample (ESS)",
+        "[38] Innovationssample 2020 Aufstockung ESS",
         "[39] M7 IAB-SOEP 2020 Migration",
         "[40] M8 IAB-SOEP 2020 Migration",
         "[41] M6 IAB-BAMF-SOEP 2020 Flucht",
         "[42] Aufstockung 2022/Stichprobe R",
         "[43] M8b IAB-SOEP 2020 Migration",
-        "[46] Aufstockung 2023/Innovationssample (CAWI)",
+        "[44] Schutzsuchende 2022 (Ukraine)/Stichprobe M9",
+        "[45] M8c IAB-SOEP 2023 Migration Nicht-EU-Länder",
+        "[46] Aufstockung SOEP-IS 2023 (CAWI)",
+        "[47] M9 IAB-BAMF-SOEP 2023 Schutzsuchende (andere Länder)",
+        "[48] M9 IAB-BAMF-SOEP 2023 Schutzsuchende (Ukraine)",
+        "[49] Aufstockung 2024/Stichprobe S",
+        "[50] M8d IAB-SOEP 2024 Migration Nicht-EU-Länder",
+        "[51] M10 IAB-SOEP 2024 Migration",
+        "[52] Aufstockung SOEP-IS 2025",
         "[60] FiD Screening 2010/11 - Niedrigeinkommen/Stichprobe L2/3",
         "[61] FiD Screening 2010/11 - Alleinerziehende/Stichprobe L2/3",
         "[62] FiD Screening 2010/11 - Mehrkindfamilien/Stichprobe L2/3",
@@ -421,6 +508,15 @@
         true,
         true,
         true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -486,36 +582,45 @@
         0,
         0,
         0,
-        10740,
-        10038,
+        0,
+        10902,
+        10183,
         0,
         0,
         0,
         0,
-        29240,
+        30120,
         0,
         0,
-        18726,
+        19629,
         0,
-        18146,
-        12051,
+        19042,
+        12783,
         14310,
         0,
         0,
         0,
-        12039,
+        12906,
         0,
         0,
         0,
         0,
         0,
-        5710,
+        7150,
         0,
         0,
         0,
         0,
         0,
-        5379,
+        0,
+        0,
+        9491,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -529,16 +634,17 @@
     "label_de": "Ursprungsstichprobe",
     "study": "soep-is",
     "statistics": {
-      "valid": 136379,
+      "valid": 146516,
       "invalid": 0
     }
   },
   {
     "name": "auszugj_h",
     "dataset": "pbrutto",
-    "label": "Year Moved Out Of Dwelling",
+    "label": "Year Moved Out Of Dwelling [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -549,6 +655,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -558,7 +665,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -569,14 +688,15 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        128851,
-        9
+        138872,
+        10
       ]
     },
     "scale": "number",
@@ -586,19 +706,20 @@
       "Min.": 1990.0,
       "1st Qu.": 2013.0,
       "Median": 2016.0,
-      "Mean": 2014.6857798165138,
-      "3rd Qu.": 2018.0,
-      "Max.": 2023.0,
-      "valid": 2180,
-      "invalid": 134199
+      "Mean": 2015.116339869281,
+      "3rd Qu.": 2019.0,
+      "Max.": 2025.0,
+      "valid": 2295,
+      "invalid": 144221
     }
   },
   {
     "name": "auszugj_v6",
     "dataset": "pbrutto",
-    "label": "Year Moved Out Of Dwelling",
+    "label": "Year Moved Out Of Dwelling [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -609,6 +730,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -618,7 +740,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -629,28 +763,29 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        128851,
-        9
+        138872,
+        10
       ]
     },
     "scale": "number",
-    "label_de": "Jahr des Auszugs einer Person [1998-2020, 2022-2023]",
+    "label_de": "Jahr des Auszugs einer Person [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 1990.0,
       "1st Qu.": 2013.0,
       "Median": 2016.0,
-      "Mean": 2014.6857798165138,
-      "3rd Qu.": 2018.0,
-      "Max.": 2023.0,
-      "valid": 2180,
-      "invalid": 134199
+      "Mean": 2015.116339869281,
+      "3rd Qu.": 2019.0,
+      "Max.": 2025.0,
+      "valid": 2295,
+      "invalid": 144221
     }
   },
   {
@@ -659,6 +794,7 @@
     "label": "Month Moved Out Of Dwelling",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -666,9 +802,22 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -676,7 +825,42 @@
         "[-4] Inadmissable multiple response",
         "[-3] Implausible value",
         "[-2] Does not apply",
-        "[-1] No answer"
+        "[-1] No answer",
+        "[1] January",
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
+        "[8] August",
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Januar",
+        "[2] Februar",
+        "[3] März",
+        "[4] April",
+        "[5] Mai",
+        "[6] Juni",
+        "[7] Juli",
+        "[8] August",
+        "[9] September",
+        "[10] Oktober",
+        "[11] November",
+        "[12] Dezember"
       ],
       "missings": [
         true,
@@ -686,39 +870,60 @@
         true,
         true,
         true,
-        true
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         9,
-        128944,
-        72
+        138965,
+        73,
+        184,
+        140,
+        176,
+        148,
+        184,
+        150,
+        172,
+        210,
+        247,
+        237,
+        144,
+        138
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Monat des Auszugs einer Person",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 4.0,
-      "Median": 7.0,
-      "Mean": 6.620843672456576,
-      "3rd Qu.": 9.0,
-      "Max.": 12.0,
-      "valid": 2015,
-      "invalid": 134364
+      "valid": 2130,
+      "invalid": 144386
     }
   },
   {
     "name": "einzugj_h",
     "dataset": "pbrutto",
-    "label": "Year Moved Into Dwelling",
+    "label": "Year Moved Into Dwelling [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -729,6 +934,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -738,7 +944,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -749,14 +967,15 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        122564,
-        423
+        132516,
+        429
       ]
     },
     "scale": "number",
@@ -764,21 +983,22 @@
     "study": "soep-is",
     "statistics": {
       "Min.": 1921.0,
-      "1st Qu.": 2001.0,
+      "1st Qu.": 2002.0,
       "Median": 2012.0,
-      "Mean": 2007.2233950080715,
+      "Mean": 2007.5127551020407,
       "3rd Qu.": 2017.0,
-      "Max.": 2023.0,
-      "valid": 8053,
-      "invalid": 128326
+      "Max.": 2025.0,
+      "valid": 8232,
+      "invalid": 138284
     }
   },
   {
     "name": "einzugj_v4",
     "dataset": "pbrutto",
-    "label": "Year Moved Into Dwelling",
+    "label": "Year Moved Into Dwelling [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -789,6 +1009,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -798,7 +1019,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -809,28 +1042,29 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        122564,
-        423
+        132516,
+        429
       ]
     },
     "scale": "number",
-    "label_de": "Jahr des Einzugs einer Person [1998-2020, 2022-2023]",
+    "label_de": "Jahr des Einzugs einer Person [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 1921.0,
-      "1st Qu.": 2001.0,
+      "1st Qu.": 2002.0,
       "Median": 2012.0,
-      "Mean": 2007.2233950080715,
+      "Mean": 2007.5127551020407,
       "3rd Qu.": 2017.0,
-      "Max.": 2023.0,
-      "valid": 8053,
-      "invalid": 128326
+      "Max.": 2025.0,
+      "valid": 8232,
+      "invalid": 138284
     }
   },
   {
@@ -839,6 +1073,7 @@
     "label": "Month Moved Into Dwelling",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -846,9 +1081,22 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -856,7 +1104,42 @@
         "[-4] Inadmissable multiple response",
         "[-3] Implausible value",
         "[-2] Does not apply",
-        "[-1] No answer"
+        "[-1] No answer",
+        "[1] January",
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
+        "[8] August",
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Januar",
+        "[2] Februar",
+        "[3] März",
+        "[4] April",
+        "[5] Mai",
+        "[6] Juni",
+        "[7] Juli",
+        "[8] August",
+        "[9] September",
+        "[10] Oktober",
+        "[11] November",
+        "[12] Dezember"
       ],
       "missings": [
         true,
@@ -866,31 +1149,51 @@
         true,
         true,
         true,
-        true
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         2,
-        122691,
-        542
+        132643,
+        548,
+        699,
+        485,
+        551,
+        628,
+        685,
+        712,
+        662,
+        848,
+        868,
+        758,
+        510,
+        578
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Monat des Einzugs einer Person",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 4.0,
-      "Median": 7.0,
-      "Mean": 6.62011531069827,
-      "3rd Qu.": 9.0,
-      "Max.": 12.0,
-      "valid": 7805,
-      "invalid": 128574
+      "valid": 7984,
+      "invalid": 138532
     }
   },
   {
@@ -899,6 +1202,7 @@
     "label": "Person Number Surveyed",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -909,6 +1213,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -918,7 +1223,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -929,7 +1246,8 @@
         true
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -950,15 +1268,16 @@
       "3rd Qu.": 3.0,
       "Max.": 10.0,
       "valid": 111366,
-      "invalid": 25013
+      "invalid": 35150
     }
   },
   {
     "name": "pnrold_h",
     "dataset": "pbrutto",
-    "label": "Last Year Serial Person ID",
+    "label": "Last Year Serial Person ID [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -969,6 +1288,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -978,7 +1298,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -989,7 +1321,8 @@
         true
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -1005,20 +1338,21 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 8840490.0,
-      "Median": 90272551.0,
-      "Mean": 184337331.24134085,
-      "3rd Qu.": 407484501.25,
-      "Max.": 490597604.0,
+      "Median": 90272552.0,
+      "Mean": 184337328.0,
+      "3rd Qu.": 407484512.0,
+      "Max.": 490597600.0,
       "valid": 76220,
-      "invalid": 60159
+      "invalid": 70296
     }
   },
   {
     "name": "pnrold_v2",
     "dataset": "pbrutto",
-    "label": "Last Year Serial Person ID",
+    "label": "Last Year Serial Person ID [1998-2020]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1029,6 +1363,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -1038,7 +1373,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -1049,7 +1396,8 @@
         true
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -1070,7 +1418,7 @@
       "3rd Qu.": 407484501.25,
       "Max.": 490597604.0,
       "valid": 76220,
-      "invalid": 60159
+      "invalid": 70296
     }
   },
   {
@@ -1079,6 +1427,7 @@
     "label": "Member Of Household",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1113,6 +1462,7 @@
         24,
         25,
         26,
+        27,
         28,
         30,
         31,
@@ -1134,6 +1484,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -1148,11 +1499,11 @@
         "[3] Absent For Job",
         "[4] Absent In Hospital",
         "[5] Absent For Longer",
-        "[6] other",
-        "[7] Has Died",
-        "[8] [de] Verzogen, jedoch keine Weiterverfolgung",
-        "[9] Miscoded In Prior Year",
-        "[11] born",
+        "[6] Absent: Other",
+        "[7] Deceased",
+        "[8] Moved without follow-up",
+        "[9] Mistakenly household member in previous wave",
+        "[11] Born",
         "[12] Moved From Germany",
         "[13] Moved From Abroad",
         "[14] Moved Back To HH",
@@ -1167,16 +1518,17 @@
         "[23] Absent For Job",
         "[24] Absent In Hospital",
         "[25] Absent For Longer",
-        "[26] Lives In New HH, Temporary Absence",
+        "[26] Lives In New household, Temporary Absence",
+        "[27] Lived in new household, deceased",
         "[28] Has Moved",
-        "[30] Already Lives in HH for some time",
-        "[31] born",
+        "[30] Already Lives in household for some time",
+        "[31] Born into new household",
         "[32] Moved From Germany Since Survey",
         "[33] Moved From Abroad During Yr",
         "[37] Child Mentioned For the First Time in HH, But Was Already Born in Old HH",
         "[38] moved f.former GDR since Jan.prev.year",
         "[39] no answer",
-        "[40] Currently In HH",
+        "[40] Lives currently in household",
         "[41] Absent Military, Community Service",
         "[42] Absent Schooling",
         "[43] Absent For Job",
@@ -1189,6 +1541,7 @@
         "[99] No Answer When Added"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -1198,33 +1551,34 @@
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
         "[0] Lebt noch im Haushalt",
-        "[1] Voruebergehend abwesend: Bundeswehr",
-        "[2] Voruebergehend abwesend: Ausbildung/Studium",
-        "[3] Voruebergehend abwesend: Beruf/Montage",
-        "[4] Voruebergehend abwesend: Krankenhaus/Kur",
-        "[5] Voruebergehend abwesend: Laengere Zeit verreist",
-        "[6] Voruebergehend abwesend: Sonstiges",
+        "[1] Vorübergehend abwesend: Bundeswehr",
+        "[2] Vorübergehend abwesend: Ausbildung/Studium",
+        "[3] Vorübergehend abwesend: Beruf/Montage",
+        "[4] Vorübergehend abwesend: Krankenhaus/Kur",
+        "[5] Vorübergehend abwesend: Längere Zeit verreist",
+        "[6] Vorübergehend abwesend: Sonstiges",
         "[7] Verstorben",
         "[8] Verzogen, jedoch keine Weiterverfolgung",
-        "[9] Im Vorjahr irrtuemlich zugeordnet",
+        "[9] Irrtümlich in Vorwellen als Haushaltsmiglied geführt",
         "[11] Geboren",
         "[12] Zuzug aus Deutschland",
         "[13] Zuzug aus dem Ausland",
-        "[14] In den Haushalt zurueckgekehrt",
-        "[15] Zuzug a. d. Inland vor letzter Befragung, erstmals genannt",
-        "[16] Zuzug a. d. Ausland vor letzter Befragung, erstmals genannt",
+        "[14] In den Haushalt zurückgekehrt",
+        "[15] Zuzug aus Inland vor letzter Befragung, erstmals genannt",
+        "[16] Zuzug aus Ausland vor letzter Befragung, erstmals genannt",
         "[17] Geboren in Vorwelle/lebte immer im Haushalt, erstmals genannt",
         "[18] Zuzug aus Ostdeutschland",
         "[19] Keine Angabe",
         "[20] Lebt im neuen Haushalt",
-        "[21] Wehrdienst,Zivildnst",
-        "[22] Ausbildung,Studium",
-        "[23] Beruf,Montage",
+        "[21] Wehrdienst, Zivildienst",
+        "[22] Ausbildung, Studium",
+        "[23] Beruf, Montage",
         "[24] Krankenhaus",
         "[25] Lange Zeit verreist",
-        "[26] Lebt im neuen Haushalt, jedoch Voruebergehend abwesend",
+        "[26] Lebt im neuen Haushalt, jedoch vorübergehend abwesend",
+        "[27] Lebte im neuen Haushalt, jedoch verstorben",
         "[28] Verzogen",
-        "[30] Lebt in diesem Haushalt schon lnger",
+        "[30] Lebt in diesem Haushalt schon länger",
         "[31] Geboren im neuen Haushalt",
         "[32] Zuzug in neuen Haushalt aus Deutschland",
         "[33] Zuzug in neuen Haushalt aus dem Ausland",
@@ -1232,16 +1586,16 @@
         "[38] Zuzug in neuen Haushalt aus Ostdeutschland",
         "[39] Keine Angabe",
         "[40] Lebt jetzt in diesem Haushalt",
-        "[41] Wehrdienst,Zivildnst",
-        "[42] Ausbildung,Studium",
-        "[43] Beruf,Montage",
+        "[41] Wehrdienst, Zivildnst",
+        "[42] Ausbildung, Studium",
+        "[43] Beruf, Montage",
         "[44] Krankenhaus",
         "[45] Lange Zeit verreist",
         "[46] Sonstiges",
         "[47] Verstorben",
         "[48] Verzogen",
         "[77] Brutto-Angaben mit Eintrag bei pbr_exit",
-        "[99] K.Ang.z.akt.HH Zghk."
+        "[99] Aktuelle Haushaltszugehörigkeit ungeklärt"
       ],
       "missings": [
         true,
@@ -1252,6 +1606,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -1299,6 +1655,7 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -1307,26 +1664,26 @@
         0,
         0,
         0,
-        104156,
+        113824,
         17,
         106,
         30,
         30,
         45,
-        55,
-        623,
-        865,
-        44,
-        588,
-        1068,
-        55,
-        108,
+        90,
+        710,
+        886,
+        69,
+        639,
+        1156,
+        62,
+        121,
         45,
         0,
         54,
         16,
         0,
-        1204,
+        1337,
         0,
         0,
         0,
@@ -1334,9 +1691,10 @@
         1,
         0,
         0,
+        0,
         21699,
         19,
-        171,
+        179,
         4,
         0,
         16,
@@ -1351,14 +1709,14 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     "scale": "cat",
     "label_de": "Zugehoerigkeit der Person zum Haushalt",
     "study": "soep-is",
     "statistics": {
-      "valid": 131040,
+      "valid": 141177,
       "invalid": 5339
     }
   },
@@ -1368,6 +1726,7 @@
     "label": "Member Of Household In Previous Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1423,6 +1782,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -1478,6 +1838,7 @@
         "[99] No Answer When Added"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -1541,6 +1902,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -1588,7 +1950,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -1648,15 +2011,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 76220,
-      "invalid": 60159
+      "invalid": 70296
     }
   },
   {
     "name": "stell_h",
     "dataset": "pbrutto",
-    "label": "Relationship To Head of Household",
+    "label": "Relationship To Head of Household [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1684,6 +2048,7 @@
         34,
         35,
         36,
+        37,
         40,
         41,
         42,
@@ -1702,6 +2067,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -1728,7 +2094,8 @@
         "[33] Adoptive Father or Mother",
         "[34] Foster Father or Mother",
         "[35] Parent-In-Law",
-        "[36] Grandfather, -mother",
+        "[36] Ggrandmother, -father",
+        "[37] Great-grandmother, -father",
         "[40] Sibling, brother/sister in law [-2011]",
         "[41] Brother, Sister",
         "[42] Half-Brother, Half-sister",
@@ -1747,6 +2114,7 @@
         "[99] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -1774,6 +2142,7 @@
         "[34] Pflegevater,-mutter",
         "[35] Schwiegervater,-mutter,(Ehe-/LPartner v.Eltern)",
         "[36] Grossvater,-mutter",
+        "[37] Urgrossmutter, -vater",
         "[40] Geschwister, Schwager/Schwaegerin [bis 2011]",
         "[41] Leibliche/r Bruder,Schwester",
         "[42] Halbbruder,-schwester",
@@ -1800,6 +2169,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -1837,65 +2208,68 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
-        0,
-        852,
-        0,
-        58444,
-        28756,
-        115,
-        5424,
+        126,
+        1509,
+        93,
+        63125,
+        30859,
+        121,
+        5923,
         5418,
-        28199,
-        726,
-        61,
-        153,
-        282,
+        30249,
+        780,
+        73,
+        162,
+        298,
         4,
-        112,
+        119,
         88,
-        823,
-        17,
-        7,
-        1,
-        112,
-        20,
-        36,
-        318,
-        16,
-        7,
-        0,
-        0,
+        1045,
         21,
-        16,
+        9,
+        1,
+        121,
+        23,
+        0,
+        36,
+        407,
+        22,
+        9,
+        0,
+        0,
+        24,
+        17,
         8,
-        4,
-        26,
-        4,
-        19,
+        5,
+        29,
+        5,
+        22,
         57,
-        302,
-        592
+        356,
+        13
       ]
     },
     "scale": "cat",
     "label_de": "Stellung zum HV, Bezugsperson [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 130188,
-      "invalid": 6191
+      "valid": 139449,
+      "invalid": 7067
     }
   },
   {
     "name": "stell_v1",
     "dataset": "pbrutto",
-    "label": "Relationship To Head of Household",
+    "label": "Relationship To Head of Household [1998-2011]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -1921,6 +2295,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -1946,6 +2321,7 @@
         "[99] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -1979,6 +2355,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -1996,7 +2373,8 @@
         false
       ],
       "frequencies": [
-        112268,
+        0,
+        122405,
         0,
         0,
         0,
@@ -2026,15 +2404,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 23259,
-      "invalid": 113120
+      "invalid": 123257
     }
   },
   {
     "name": "stell_v2",
     "dataset": "pbrutto",
-    "label": "Relationship To Head of Household",
+    "label": "Relationship To Head of Household [2012-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2060,6 +2439,7 @@
         34,
         35,
         36,
+        37,
         41,
         42,
         43,
@@ -2075,6 +2455,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2100,6 +2481,7 @@
         "[34] Foster Father or Mother",
         "[35] Father or Mother in Law",
         "[36] Grandfather, -mother",
+        "[37] Great grandfather, -mother",
         "[41] Brother, Sister",
         "[42] Half-Brother, Half-sister",
         "[43] Stepbrother, Stepsister",
@@ -2115,6 +2497,7 @@
         "[99] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2140,6 +2523,7 @@
         "[34] Pflegemutter, -vater",
         "[35] Schwiegermutter, -vater",
         "[36] Grossmutter, -vater",
+        "[37] Urgrossmutter, -vater",
         "[41] Leibliche Schwester, leiblicher Bruder",
         "[42] Halbschwester, -bruder",
         "[43] Stiefschwester, -bruder (Kinder von verh. oder in Partnerschaft lebenden Eltern",
@@ -2163,6 +2547,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -2195,60 +2581,63 @@
         false
       ],
       "frequencies": [
+        0,
         29450,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        47771,
-        22916,
-        94,
-        4519,
-        28199,
-        625,
-        61,
-        139,
-        219,
+        126,
+        25,
+        93,
+        52452,
+        25019,
+        100,
+        5018,
+        30249,
+        679,
+        73,
+        148,
+        235,
         4,
-        95,
-        823,
-        17,
-        7,
-        1,
-        94,
-        20,
-        318,
-        16,
-        7,
-        0,
-        0,
+        102,
+        1045,
         21,
-        16,
-        4,
-        26,
-        4,
-        19,
-        302,
-        592
+        9,
+        1,
+        103,
+        23,
+        0,
+        407,
+        22,
+        9,
+        0,
+        0,
+        24,
+        17,
+        5,
+        29,
+        5,
+        22,
+        356,
+        645
       ]
     },
     "scale": "cat",
-    "label_de": "Stellung zum HV, Bezugsperson [2012-2020, 2022-2023]",
+    "label_de": "Stellung zum HV, Bezugsperson [2012-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
-      "valid": 106929,
-      "invalid": 29450
+      "valid": 116822,
+      "invalid": 29694
     }
   },
   {
     "name": "stell_v3",
     "dataset": "pbrutto",
-    "label": "Relationship To Head of Household",
+    "label": "Relationship To Head of Household (PAPI) [2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2268,6 +2657,7 @@
         99
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2287,6 +2677,7 @@
         "[99] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2314,6 +2705,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -2325,13 +2717,14 @@
         false
       ],
       "frequencies": [
+        0,
         116705,
         0,
         0,
         0,
         0,
         0,
-        19674,
+        29811,
         0,
         0,
         0,
@@ -2345,11 +2738,11 @@
       ]
     },
     "scale": "cat",
-    "label_de": "Stellung zum HV, Bezugsperson PAPI [2022-2023]",
+    "label_de": "Stellung zum HV, Bezugsperson (PAPI) [2022-2024]",
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 136379
+      "invalid": 146516
     }
   },
   {
@@ -2358,6 +2751,7 @@
     "label": "Change of pnat1 Compared to Prev. Wave",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2369,6 +2763,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2380,6 +2775,7 @@
         "[1] Change of pnat1 Compared to Prev. Wave"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2399,26 +2795,28 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130773,
+        140901,
         0,
-        267
+        276
       ]
     },
     "scale": "cat",
     "label_de": "Aenderung bei pnat1 zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 267,
-      "invalid": 136112
+      "valid": 276,
+      "invalid": 146240
     }
   },
   {
@@ -2427,6 +2825,7 @@
     "label": "Change of pnat2 Compared to Prev. Wave",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2438,6 +2837,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2449,6 +2849,7 @@
         "[1] Change of pnat2 Compared to Prev. Wave"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2468,10 +2869,12 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -2487,7 +2890,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 17,
-      "invalid": 136362
+      "invalid": 146499
     }
   },
   {
@@ -2496,6 +2899,7 @@
     "label": "Change of pvor Compared to Prev. Wave",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2507,6 +2911,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2518,6 +2923,7 @@
         "[1] Change of pvor Compared to Prev. Wave"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2537,26 +2943,28 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130862,
+        140885,
         0,
-        178
+        292
       ]
     },
     "scale": "cat",
     "label_de": "Aenderung bei pvor zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 178,
-      "invalid": 136201
+      "valid": 292,
+      "invalid": 146224
     }
   },
   {
@@ -2565,6 +2973,7 @@
     "label": "Change of Gender Compared to Prev. Wave",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2576,6 +2985,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2587,6 +2997,7 @@
         "[1] Change of Gender Compared to Prev. Wave"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2606,34 +3017,37 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130995,
+        141128,
         0,
-        45
+        49
       ]
     },
     "scale": "cat",
     "label_de": "Aenderung bei sex zur Vorwelle",
     "study": "soep-is",
     "statistics": {
-      "valid": 45,
-      "invalid": 136334
+      "valid": 49,
+      "invalid": 146467
     }
   },
   {
     "name": "geburt_h",
     "dataset": "pbrutto",
-    "label": "Year of Birth",
+    "label": "Year of Birth [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2644,6 +3058,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2653,7 +3068,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2664,6 +3091,7 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -2671,7 +3099,7 @@
         0,
         0,
         0,
-        1319
+        1466
       ]
     },
     "scale": "number",
@@ -2681,19 +3109,20 @@
       "Min.": 1907.0,
       "1st Qu.": 1954.0,
       "Median": 1970.0,
-      "Mean": 1972.6126687274998,
+      "Mean": 1973.0501320583203,
       "3rd Qu.": 1993.0,
-      "Max.": 2023.0,
-      "valid": 129721,
-      "invalid": 6658
+      "Max.": 2024.0,
+      "valid": 139711,
+      "invalid": 6805
     }
   },
   {
     "name": "geburt_v2",
     "dataset": "pbrutto",
-    "label": "Year of Birth",
+    "label": "Year of Birth [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2704,6 +3133,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2713,7 +3143,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -2724,6 +3166,7 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -2731,29 +3174,30 @@
         0,
         0,
         0,
-        1319
+        1466
       ]
     },
     "scale": "number",
-    "label_de": "Geburtsjahr [1998-2020, 2022-2023]",
+    "label_de": "Geburtsjahr [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 1907.0,
       "1st Qu.": 1954.0,
       "Median": 1970.0,
-      "Mean": 1972.6126687274998,
+      "Mean": 1973.0501320583203,
       "3rd Qu.": 1993.0,
-      "Max.": 2023.0,
-      "valid": 129721,
-      "invalid": 6658
+      "Max.": 2024.0,
+      "valid": 139711,
+      "invalid": 6805
     }
   },
   {
     "name": "pgebm",
     "dataset": "pbrutto",
-    "label": "[de] Geburtsmonat",
+    "label": "Month of birth",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -2776,6 +3220,7 @@
         12
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -2785,19 +3230,20 @@
         "[-2] Does not apply",
         "[-1] No answer",
         "[1] January",
-        "[2] January",
-        "[3] January",
-        "[4] January",
-        "[5] January",
-        "[6] January",
-        "[7] January",
-        "[8] January",
-        "[9] January",
-        "[10] January",
-        "[11] January",
-        "[12] January"
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
+        "[8] August",
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -2828,6 +3274,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -2842,6 +3289,7 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -2849,27 +3297,27 @@
         0,
         0,
         92461,
-        2900,
-        3069,
-        2707,
-        3076,
-        3037,
-        3157,
-        2926,
-        3160,
-        3076,
-        3017,
-        2950,
-        2730,
-        2774
+        3222,
+        3936,
+        3417,
+        3903,
+        3860,
+        4009,
+        3754,
+        4033,
+        3924,
+        3876,
+        3731,
+        3507,
+        3544
       ]
     },
     "scale": "cat",
     "label_de": "Geburtsmonat",
     "study": "soep-is",
     "statistics": {
-      "valid": 35679,
-      "invalid": 100700
+      "valid": 45494,
+      "invalid": 101022
     }
   },
   {
@@ -2878,6 +3326,7 @@
     "label": "2nd Nationality",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -3054,6 +3503,7 @@
         196
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -3230,6 +3680,7 @@
         "[196] [de] Kosovo"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -3414,6 +3865,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -3582,7 +4034,8 @@
         false
       ],
       "frequencies": [
-        84661,
+        0,
+        94798,
         0,
         0,
         3908,
@@ -3759,11 +4212,11 @@
       ]
     },
     "scale": "cat",
-    "label_de": "2. Staatsangehoerigkeit [2016-2020]",
+    "label_de": "2. Staatsangehoerigkeit",
     "study": "soep-is",
     "statistics": {
       "valid": 300,
-      "invalid": 136079
+      "invalid": 146216
     }
   },
   {
@@ -3772,6 +4225,7 @@
     "label": "1. Nationality [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -4034,6 +4488,7 @@
         9999
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -4296,6 +4751,7 @@
         "[9999] Others"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -4566,6 +5022,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -4820,6 +5277,7 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -4827,122 +5285,122 @@
         0,
         1,
         0,
-        2663,
-        63,
-        33,
+        2930,
+        64,
+        39,
         0,
         2,
         0,
         0,
-        6,
+        7,
         0,
-        38,
-        2,
-        9,
-        321,
+        40,
+        3,
+        10,
+        341,
         0,
         0,
         15,
-        5,
+        8,
         0,
-        74,
+        81,
         0,
         4,
-        3,
-        61,
+        4,
+        65,
         0,
         0,
-        18,
+        22,
         0,
         1,
         0,
         0,
         0,
-        59,
+        61,
         0,
         0,
         41,
         0,
         11,
-        46,
+        48,
         0,
         0,
         0,
-        93,
-        0,
-        11,
-        29,
-        4,
-        0,
+        94,
         0,
         12,
+        35,
+        6,
+        0,
+        0,
+        13,
         0,
         0,
         0,
         49,
         0,
         0,
-        148,
-        47,
+        161,
+        49,
         0,
-        21,
+        22,
         0,
         6,
         0,
         10,
-        1,
-        6,
+        2,
+        8,
         0,
         3,
-        12,
+        13,
         0,
         0,
         0,
         0,
         0,
-        23,
-        0,
-        142,
-        0,
-        0,
-        0,
-        0,
-        0,
-        10,
-        15,
-        0,
-        120718,
-        31,
-        0,
-        0,
-        313,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        76,
-        0,
-        39,
-        10,
         26,
-        70,
-        11,
-        14,
-        625,
+        0,
+        160,
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        16,
+        0,
+        130131,
+        33,
+        0,
+        0,
+        323,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         1,
-        49,
-        30,
+        81,
         0,
-        4,
+        44,
+        10,
+        30,
+        76,
+        11,
+        17,
+        656,
+        0,
+        2,
+        54,
+        32,
+        0,
+        5,
         0,
         0,
         0,
@@ -4950,12 +5408,35 @@
         0,
         31,
         0,
+        31,
+        0,
+        0,
+        0,
+        64,
         29,
         0,
         0,
         0,
-        63,
-        28,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        18,
+        0,
+        52,
+        0,
+        0,
+        0,
+        0,
+        0,
+        214,
         0,
         0,
         0,
@@ -4965,30 +5446,7 @@
         0,
         0,
         0,
-        0,
-        2,
-        0,
-        0,
-        0,
-        17,
-        0,
-        46,
-        0,
-        0,
-        0,
-        0,
-        0,
-        199,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        20,
+        21,
         0,
         0,
         8,
@@ -4997,22 +5455,22 @@
         0,
         0,
         0,
-        32,
+        33,
         0,
         0,
         0,
-        7,
-        35,
+        8,
+        40,
         0,
-        653,
-        103,
-        0,
-        0,
+        700,
+        111,
         0,
         0,
         0,
-        105,
-        327,
+        0,
+        0,
+        111,
+        348,
         0,
         0,
         0,
@@ -5026,58 +5484,58 @@
         0,
         0,
         19,
-        152,
+        164,
         0,
         0,
         0,
         14,
-        72,
-        20,
-        3,
-        4,
-        0,
-        130,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        12,
-        61,
-        118,
-        3,
         75,
-        15,
+        22,
+        3,
+        5,
+        0,
+        140,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        13,
+        64,
+        142,
+        3,
+        78,
+        17,
         0,
         0,
         0,
         0,
         32,
-        1814,
+        1879,
         0,
         0,
         0,
         2,
-        99,
-        74,
+        115,
+        75,
         25,
-        150,
+        155,
         0,
         0,
         0,
         0,
-        98,
+        104,
         0,
         4,
         0,
-        23,
+        25,
         0,
         0,
         0,
         0,
         0,
-        143,
+        144,
         0,
         23
       ]
@@ -5086,16 +5544,17 @@
     "label_de": "1. Staatsangehoerigkeit [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 128376,
-      "invalid": 8003
+      "valid": 138246,
+      "invalid": 8270
     }
   },
   {
     "name": "pnat_v2",
     "dataset": "pbrutto",
-    "label": "1. Nationality",
+    "label": "1. Nationality [1998-2020]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -5281,6 +5740,7 @@
         999
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -5466,6 +5926,7 @@
         "[999] [de] Ethnische Minderheiten (z.B. Jesiden, Roma)"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -5659,6 +6120,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -5836,7 +6298,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -6026,15 +6489,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 109832,
-      "invalid": 26547
+      "invalid": 36684
     }
   },
   {
     "name": "pnat_v3",
     "dataset": "pbrutto",
-    "label": "1. Nationality",
+    "label": "1. Nationality [2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -6296,6 +6760,7 @@
         997
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -6304,259 +6769,260 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[4] [de] Afghanistan",
-        "[8] [de] Albanien",
-        "[10] [de] Antarktis",
-        "[12] [de] Algerien",
-        "[16] [de] Amerikanisch-Samoa",
-        "[20] [de] Andorra",
-        "[24] [de] Angola",
-        "[28] [de] Antigua und Barbuda",
-        "[31] [de] Aserbaidschan",
-        "[32] [de] Argentinien",
-        "[36] [de] Australien",
-        "[40] [de] Österreich",
-        "[44] [de] Bahamas",
-        "[48] [de] Bahrain",
-        "[50] [de] Bangladesch",
-        "[51] [de] Armenien",
-        "[52] [de] Barbados",
-        "[56] [de] Belgien",
-        "[60] [de] Bermuda",
-        "[64] [de] Bhutan",
-        "[68] [de] Bolivien",
-        "[70] [de] Bosnien und Herzegowina",
-        "[72] [de] Botsuana",
-        "[74] [de] Bouvetinsel",
-        "[76] [de] Brasilien",
-        "[84] [de] Belize",
-        "[86] [de] Britisches Territorium im Indischen Ozean",
-        "[90] [de] Salomonen",
-        "[92] [de] Britische Jungferninseln",
-        "[96] [de] Brunei Darussalam",
-        "[100] [de] Bulgarien",
-        "[104] [de] Myanmar",
-        "[108] [de] Burundi",
-        "[112] [de] Weißrussland",
-        "[116] [de] Kambodscha",
-        "[120] [de] Kamerun",
-        "[124] [de] Kanada",
-        "[132] [de] Cabo Verde",
-        "[136] [de] Kaimaninseln",
-        "[140] [de] Zentralafrikanische Republik",
-        "[144] [de] Sri Lanka",
-        "[148] [de] Tschad",
-        "[152] [de] Chile",
-        "[156] [de] China",
-        "[158] [de] Taiwan",
-        "[162] [de] Weihnachtsinsel",
-        "[166] [de] Kokosinseln",
-        "[170] [de] Kolumbien",
-        "[174] [de] Komoren",
-        "[175] [de] Mayotte",
-        "[178] [de] Kongo",
-        "[180] [de] Kongo, Demokratische Republik",
-        "[184] [de] Cookinseln",
-        "[188] [de] Costa Rica",
-        "[191] [de] Kroatien",
-        "[192] [de] Kuba",
-        "[196] [de] Zypern",
-        "[203] [de] Tschechien",
-        "[204] [de] Benin",
-        "[208] [de] Dänemark",
-        "[212] [de] Dominica",
-        "[214] [de] Dominikanische Republik",
-        "[218] [de] Ecuador",
-        "[222] [de] El Salvador",
-        "[226] [de] Äquatorialguinea",
-        "[231] [de] Äthiopien",
-        "[232] [de] Eritrea",
-        "[233] [de] Estland",
-        "[234] [de] Färöer",
-        "[238] [de] Falklandinseln",
-        "[239] [de] Südgeorgien und die südlichen Sandwichinseln",
-        "[242] [de] Fidschi",
-        "[246] [de] Finnland",
-        "[248] [de] Åland",
-        "[250] [de] Frankreich",
-        "[254] [de] Französisch-Guayana",
-        "[258] [de] Französisch-Polynesien",
-        "[260] [de] Französische Süd- und Antarktisgebiete",
-        "[262] [de] Dschibuti",
-        "[266] [de] Gabun",
-        "[268] [de] Georgien",
-        "[270] [de] Gambia",
-        "[275] [de] Palästina",
-        "[276] [de] Deutschland",
-        "[288] [de] Ghana",
-        "[292] [de] Gibraltar",
-        "[296] [de] Kiribati",
-        "[300] [de] Griechenland",
-        "[304] [de] Grönland",
-        "[308] [de] Grenada",
-        "[312] [de] Guadeloupe",
-        "[316] [de] Guam",
-        "[320] [de] Guatemala",
-        "[324] [de] Guinea",
-        "[328] [de] Guyana",
-        "[332] [de] Haiti",
-        "[334] [de] Heard und McDonaldinseln",
-        "[336] [de] Vatikanstadt",
-        "[340] [de] Honduras",
-        "[344] [de] Hongkong",
-        "[348] [de] Ungarn",
-        "[352] [de] Island",
-        "[356] [de] Indien",
-        "[360] [de] Indonesien",
-        "[364] [de] Iran",
-        "[368] [de] Irak",
-        "[372] [de] Irland",
-        "[376] [de] Israel",
-        "[380] [de] Italien",
-        "[384] [de] Côte d’Ivoire",
-        "[388] [de] Jamaika",
-        "[392] [de] Japan",
-        "[398] [de] Kasachstan",
-        "[400] [de] Jordanien",
-        "[404] [de] Kenia",
-        "[408] [de] Korea, Demokratische Volksrepublik",
-        "[410] [de] Korea, Republik",
-        "[414] [de] Kuwait",
-        "[417] [de] Kirgisistan",
-        "[418] [de] Laos",
-        "[422] [de] Libanon",
-        "[426] [de] Lesotho",
-        "[428] [de] Lettland",
-        "[430] [de] Liberia",
-        "[434] [de] Libyen",
-        "[438] [de] Liechtenstein",
-        "[440] [de] Litauen",
-        "[442] [de] Luxemburg",
-        "[446] [de] Macau",
-        "[450] [de] Madagaskar",
-        "[454] [de] Malawi",
-        "[458] [de] Malaysia",
-        "[462] [de] Malediven",
-        "[466] [de] Mali",
-        "[470] [de] Malta",
-        "[474] [de] Martinique",
-        "[478] [de] Mauretanien",
-        "[480] [de] Mauritius",
-        "[484] [de] Mexiko",
-        "[492] [de] Monaco",
-        "[496] [de] Mongolei",
-        "[498] [de] Moldau",
-        "[499] [de] Montenegro",
-        "[500] [de] Montserrat",
-        "[504] [de] Marokko",
-        "[508] [de] Mosambik",
-        "[512] [de] Oman",
-        "[516] [de] Namibia",
-        "[520] [de] Nauru",
-        "[524] [de] Nepal",
-        "[528] [de] Niederlande",
-        "[531] [de] Curaçao",
-        "[533] [de] Aruba",
-        "[534] [de] St. Martin (niederländischer Teil)",
-        "[535] [de] Bonaire, Saba, St. Eustatius",
-        "[540] [de] Neukaledonien",
-        "[548] [de] Vanuatu",
-        "[554] [de] Neuseeland",
-        "[558] [de] Nicaragua",
-        "[562] [de] Niger",
-        "[566] [de] Nigeria",
-        "[570] [de] Niue",
-        "[574] [de] Norfolkinsel",
-        "[578] [de] Norwegen",
-        "[580] [de] Nördliche Marianen",
-        "[581] [de] Kleinere Amerikanische Überseeinseln",
-        "[583] [de] Mikronesien",
-        "[584] [de] Marshallinseln",
-        "[585] [de] Palau",
-        "[586] [de] Pakistan",
-        "[591] [de] Panama",
-        "[598] [de] Papua-Neuguinea",
-        "[600] [de] Paraguay",
-        "[604] [de] Peru",
-        "[608] [de] Philippinen",
-        "[612] [de] Pitcairninseln",
-        "[616] [de] Polen",
-        "[620] [de] Portugal",
-        "[624] [de] Guinea-Bissau",
-        "[626] [de] Timor-Leste",
-        "[630] [de] Puerto Rico",
-        "[634] [de] Katar",
-        "[638] [de] Réunion",
-        "[642] [de] Rumänien",
-        "[643] [de] Russische Föderation",
-        "[646] [de] Ruanda",
-        "[652] [de] St. Barthélemy",
-        "[654] [de] St. Helena, Ascension und Tristan da Cunha",
-        "[659] [de] St. Kitts und Nevis",
-        "[660] [de] Anguilla",
-        "[662] [de] St. Lucia",
-        "[663] [de] St. Martin (französischer Teil)",
-        "[666] [de] St. Pierre und Miquelon",
-        "[670] [de] St. Vincent und die Grenadinen",
-        "[674] [de] San Marino",
-        "[678] [de] São Tomé und Príncipe",
-        "[682] [de] Saudi-Arabien",
-        "[686] [de] Senegal",
-        "[688] [de] Serbien",
-        "[690] [de] Seychellen",
-        "[694] [de] Sierra Leone",
-        "[702] [de] Singapur",
-        "[703] [de] Slowakei",
-        "[704] [de] Vietnam",
-        "[705] [de] Slowenien",
-        "[706] [de] Somalia",
-        "[710] [de] Südafrika",
-        "[716] [de] Simbabwe",
-        "[724] [de] Spanien",
-        "[728] [de] Südsudan",
-        "[729] [de] Sudan",
-        "[732] [de] Westsahara",
-        "[740] [de] Suriname",
-        "[744] [de] Svalbard und Jan Mayen",
-        "[748] [de] Eswatini",
-        "[752] [de] Schweden",
-        "[756] [de] Schweiz",
-        "[760] [de] Syrien",
-        "[762] [de] Tadschikistan",
-        "[764] [de] Thailand",
-        "[768] [de] Togo",
-        "[772] [de] Tokelau",
-        "[776] [de] Tonga",
-        "[780] [de] Trinidad und Tobago",
-        "[784] [de] Vereinigte Arabische Emirate",
-        "[788] [de] Tunesien",
-        "[792] [de] Türkei",
-        "[795] [de] Turkmenistan",
-        "[796] [de] Turks- und Caicosinseln",
-        "[798] [de] Tuvalu",
-        "[800] [de] Uganda",
-        "[804] [de] Ukraine",
-        "[807] [de] Nordmazedonien",
-        "[818] [de] Ägypten",
-        "[826] [de] Vereinigtes Königreich",
-        "[831] [de] Guernsey",
-        "[832] [de] Jersey",
-        "[833] [de] Insel Man",
-        "[834] [de] Tansania",
-        "[840] [de] Vereinigte Staaten",
-        "[850] [de] Amerikanische Jungferninseln",
-        "[854] [de] Burkina Faso",
-        "[858] [de] Uruguay",
-        "[860] [de] Usbekistan",
-        "[862] [de] Venezuela",
-        "[876] [de] Wallis und Futuna",
-        "[882] [de] Samoa",
-        "[887] [de] Jemen",
-        "[894] [de] Sambia",
-        "[900] [de] Kosovo",
-        "[997] [de] Staatenlos"
+        "[4] Afghanistan",
+        "[8] Albania",
+        "[10] Antarctica",
+        "[12] Algeria",
+        "[16] American Samoa",
+        "[20] Andorra",
+        "[24] Angola",
+        "[28] Antigua and Barbuda",
+        "[31] Azerbaijan",
+        "[32] Argentina",
+        "[36] Australia",
+        "[40] Austria",
+        "[44] Bahamas",
+        "[48] Bahrain",
+        "[50] Bangladesh",
+        "[51] Armenia",
+        "[52] Barbados",
+        "[56] Belgium",
+        "[60] Bermuda",
+        "[64] Bhutan",
+        "[68] Bolivia",
+        "[70] Bosnia and Herzegovina",
+        "[72] Botswana",
+        "[74] Bouvet Island",
+        "[76] Brazil",
+        "[84] Belize",
+        "[86] British Indian Ocean Territory",
+        "[90] Solomon Islands",
+        "[92] British Virgin Islands",
+        "[96] Brunei Darussalam",
+        "[100] Bulgaria",
+        "[104] Myanma",
+        "[108] Burundi",
+        "[112] Belarus",
+        "[116] Cambodia",
+        "[120] Cameroon",
+        "[124] Canada",
+        "[132] Cape Verde",
+        "[136] Cayman Islands",
+        "[140] Central African Republic",
+        "[144] Sri Lanka",
+        "[148] Chad",
+        "[152] Chile",
+        "[156] China",
+        "[158] Taiwan",
+        "[162] Christmas Island",
+        "[166] Cocos Islands",
+        "[170] Colombia",
+        "[174] Comoros",
+        "[175] Mayotte",
+        "[178] Congo",
+        "[180] Congo, Democratic Republic",
+        "[184] Cook Islands",
+        "[188] Costa Rica",
+        "[191] Croatia",
+        "[192] Cuba",
+        "[196] Cyprus",
+        "[203] Czech Republic",
+        "[204] Benin",
+        "[208] Denmark",
+        "[212] Dominica",
+        "[214] Dschibutisch",
+        "[218] Ecuador",
+        "[222] El Salvador",
+        "[226] Equatorial Guinea",
+        "[231] Ethiopia",
+        "[232] Eritrea",
+        "[233] Estonia",
+        "[234] Faroe Islands",
+        "[238] Falkland Islands",
+        "[239] South Georgia and the South Sandwich Islands",
+        "[242] Fiji",
+        "[246] Finland",
+        "[248] Åland Islands",
+        "[250] France",
+        "[254] French Guiana",
+        "[258] French Polynesia",
+        "[260] French Southern and Antarctic Lands",
+        "[262] Djibouti",
+        "[266] Gabon",
+        "[268] Georgia",
+        "[270] The Gambia",
+        "[275] Palestina",
+        "[276] Germany",
+        "[288] Ghana",
+        "[292] Gibraltar",
+        "[296] Kiribati",
+        "[300] Greece",
+        "[304] Greenland",
+        "[308] Grenada",
+        "[312] Guadeloupe",
+        "[316] Guam",
+        "[320] Guatemala",
+        "[324] Guinea",
+        "[328] Guyana",
+        "[332] Haiti",
+        "[334] Heard Island and McDonald Islands",
+        "[336] Vatican City",
+        "[340] Honduras",
+        "[344] Hong Kong",
+        "[348] Hungary",
+        "[352] Iceland",
+        "[356] India",
+        "[360] Indonesia",
+        "[364] Iran",
+        "[368] Iraq",
+        "[372] Ireland, Republic of",
+        "[376] Israel",
+        "[380] Italy",
+        "[384] Ivory Coast",
+        "[388] Jamaica",
+        "[392] Japan",
+        "[398] Kazakhstan",
+        "[400] Jordan",
+        "[404] Kenya",
+        "[408] Korea, Democratic People’s Republic of",
+        "[410] Korea, Republic of",
+        "[414] Kuwait",
+        "[417] Kyrgyzstan",
+        "[418] Laos",
+        "[422] Lebanon",
+        "[426] Lesotho",
+        "[428] Latvia",
+        "[430] Liberia",
+        "[434] Libya",
+        "[438] Liechtenstein",
+        "[440] Lithuania",
+        "[442] Luxembourg",
+        "[446] Macau",
+        "[450] Madagascar",
+        "[454] Malawi",
+        "[458] Malaysia",
+        "[462] Maldives",
+        "[466] Mali",
+        "[470] Malta",
+        "[474] Martinique",
+        "[478] Mauritania",
+        "[480] Mauritius",
+        "[484] Mexico",
+        "[492] Monaco",
+        "[496] Mongolia",
+        "[498] Moldova",
+        "[499] Montenegro",
+        "[500] Montserrat",
+        "[504] Morocco",
+        "[508] Mozambique",
+        "[512] Oman",
+        "[516] Namibia",
+        "[520] Nauru",
+        "[524] Nepal",
+        "[528] The Netherlands",
+        "[531] Curaçao",
+        "[533] Aruba",
+        "[534] St. Martin (Dutch part)",
+        "[535] Bonaire, Saba, St. Eustatius",
+        "[540] New Caledonia",
+        "[548] Vanuatu",
+        "[554] New Zealand",
+        "[558] Nicaragua",
+        "[562] Niger",
+        "[566] Nigeria",
+        "[570] Niue",
+        "[574] Norfolk Island",
+        "[578] Norway",
+        "[580] Northern Mariana Islands",
+        "[581] United States Minor Outlying Islands",
+        "[583] Micronesia",
+        "[584] Marshall Islands",
+        "[585] Palau",
+        "[586] Pakistan",
+        "[591] Panama",
+        "[598] Papua New Guinea",
+        "[600] Paraguay",
+        "[604] Peru",
+        "[608] Philippines",
+        "[612] Pitcairn Islands",
+        "[616] Poland",
+        "[620] Portugal",
+        "[624] Guinea-Bissau",
+        "[626] Timor-Leste",
+        "[630] Puerto Rico",
+        "[634] Qatar",
+        "[638] Réunion",
+        "[642] Romania",
+        "[643] Russian Federation",
+        "[646] Rwanda",
+        "[652] St. Barthélemy",
+        "[654] St. Helena, Ascension and Tristan da Cunha",
+        "[659] St Kitts and Nevis",
+        "[660] Anguilla",
+        "[662] St. Lucia",
+        "[663] St. Martin (French part)",
+        "[666] St. Pierre and Miquelon",
+        "[670] St. Vincent and the Grenadines",
+        "[674] San Marino",
+        "[678] São Tomé and Príncipe",
+        "[682] Saudi-Arabia",
+        "[686] Senegal",
+        "[688] Serbia",
+        "[690] Seychelles",
+        "[694] Sierra Leone",
+        "[702] Singapore",
+        "[703] Slovakia",
+        "[704] Vietnam",
+        "[705] Slovenia",
+        "[706] Somalia",
+        "[710] South Africa",
+        "[716] Zimbabwe",
+        "[724] Spain",
+        "[728] South Sudan",
+        "[729] Sudan",
+        "[732] Western Sahara",
+        "[740] Suriname",
+        "[744] Svalbard and Jan Mayen",
+        "[748] Eswatini (formerly Swaziland)",
+        "[752] Sweden",
+        "[756] Switzerland",
+        "[760] Syria",
+        "[762] Tajikistan",
+        "[764] Thailand",
+        "[768] Togo",
+        "[772] Tokelau",
+        "[776] Tonga",
+        "[780] Trinidad and Tobago",
+        "[784] United Arab Emirates",
+        "[788] Tunisia",
+        "[792] Turkey",
+        "[795] Turkmenistan",
+        "[796] Turks and Caicos Islands",
+        "[798] Tuvalu",
+        "[800] Uganda",
+        "[804] Ukraine",
+        "[807] North Macedonia",
+        "[818] Egypt",
+        "[826] United Kingdom",
+        "[831] Guernsey",
+        "[832] Jersey",
+        "[833] Isle of Man",
+        "[834] Tanzania",
+        "[840] United States of America",
+        "[850] American Virgin Islands",
+        "[854] Burkina Faso",
+        "[858] Uruguay",
+        "[860] Uzbekistan",
+        "[862] Venezuela",
+        "[876] Wallis and Futuna",
+        "[882] Samoa",
+        "[887] Yemen",
+        "[894] Zambia",
+        "[900] Kosovo",
+        "[997] Stateless"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -6826,6 +7292,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -7079,6 +7546,7 @@
         false
       ],
       "frequencies": [
+        0,
         116705,
         0,
         0,
@@ -7086,82 +7554,161 @@
         0,
         1,
         0,
-        1129,
+        1396,
+        7,
+        11,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
         6,
+        3,
+        3,
+        58,
+        0,
+        0,
+        0,
+        6,
+        0,
+        19,
+        0,
+        0,
+        3,
+        12,
+        0,
+        0,
+        11,
+        0,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        4,
+        0,
+        1,
+        6,
+        0,
+        0,
+        0,
+        7,
+        0,
+        2,
+        13,
+        5,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        29,
+        8,
+        0,
+        4,
+        0,
+        1,
+        0,
+        2,
+        2,
+        6,
+        0,
+        0,
         5,
         0,
         0,
         0,
         0,
-        1,
         0,
-        4,
-        2,
-        2,
-        38,
+        7,
+        0,
+        47,
+        0,
+        0,
+        0,
         0,
         0,
         0,
         3,
         0,
-        12,
+        27108,
+        6,
         0,
+        0,
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        0,
+        14,
+        0,
+        10,
+        13,
+        2,
+        6,
+        89,
         0,
         2,
-        8,
-        0,
-        0,
+        15,
         7,
         0,
-        1,
+        2,
         0,
         0,
         0,
-        8,
         0,
         0,
-        4,
         0,
-        1,
-        4,
+        0,
+        5,
         0,
         0,
         0,
         6,
+        4,
         0,
-        1,
-        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         3,
         0,
         0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        16,
-        6,
         0,
         3,
         0,
-        1,
-        0,
-        2,
-        1,
-        4,
-        0,
-        0,
-        4,
+        15,
         0,
         0,
         0,
         0,
         0,
-        4,
+        43,
         0,
-        29,
+        0,
+        0,
         0,
         0,
         0,
@@ -7170,16 +7717,29 @@
         0,
         2,
         0,
-        17695,
-        4,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        14,
+        0,
+        138,
         20,
         0,
         0,
         0,
         0,
         0,
+        30,
+        59,
         0,
         0,
         0,
@@ -7187,38 +7747,23 @@
         0,
         0,
         0,
-        10,
         0,
-        9,
         0,
-        6,
-        7,
-        2,
-        3,
-        58,
         0,
-        1,
-        10,
+        0,
+        0,
+        0,
+        26,
+        0,
+        0,
+        0,
+        0,
+        16,
         5,
         0,
-        1,
+        2,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        3,
-        0,
-        0,
-        0,
-        5,
-        3,
-        0,
-        0,
-        0,
-        0,
+        30,
         0,
         0,
         0,
@@ -7226,134 +7771,58 @@
         0,
         0,
         2,
-        0,
-        0,
-        0,
-        2,
-        0,
-        9,
-        0,
-        0,
-        0,
-        0,
-        0,
-        28,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        1,
-        9,
-        0,
-        91,
+        11,
+        72,
+        3,
         12,
+        6,
         0,
         0,
         0,
         0,
-        0,
-        24,
-        38,
-        0,
+        2,
+        177,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        34,
+        3,
         0,
         14,
         0,
         0,
         0,
         0,
-        13,
-        3,
-        0,
-        1,
-        0,
-        20,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        8,
-        48,
-        3,
-        9,
-        4,
-        0,
-        0,
-        0,
-        0,
-        2,
-        112,
-        0,
-        0,
-        0,
-        1,
         18,
-        2,
-        0,
-        9,
         0,
         0,
         0,
-        0,
-        12,
-        0,
-        0,
-        0,
-        1,
+        3,
         0,
         0,
         0,
         0,
         0,
-        5,
+        6,
         0
       ]
     },
     "scale": "cat",
-    "label_de": "1. Staatsangehoerigkeit [2022-2023]",
+    "label_de": "1. Staatsangehoerigkeit [2022-2024]",
     "study": "soep-is",
     "statistics": {
-      "valid": 18544,
-      "invalid": 117835
+      "valid": 28414,
+      "invalid": 118102
     }
   },
   {
-    "name": "sex_v1",
+    "name": "sex_h",
     "dataset": "pbrutto",
-    "label": "[de] Geschlecht [1998-2019]",
+    "label": "Sex [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7367,6 +7836,7 @@
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7375,11 +7845,12 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] maennlich",
-        "[2] [de] weiblich",
-        "[9] [de] unbekannt"
+        "[1] Male",
+        "[2] Female",
+        "[9] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7388,11 +7859,12 @@
         "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] maennlich",
-        "[2] weiblich",
-        "[9] unbekannt"
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[9] Unbekannt"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -7406,7 +7878,92 @@
         false
       ],
       "frequencies": [
-        34839,
+        0,
+        5339,
+        0,
+        0,
+        0,
+        0,
+        0,
+        33,
+        532,
+        68598,
+        72014,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Geschlecht [harmonisiert]",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 140612,
+      "invalid": 5904
+    }
+  },
+  {
+    "name": "sex_v1",
+    "dataset": "pbrutto",
+    "label": "Sex [1998-2019]",
+    "categories": {
+      "values": [
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        9
+      ],
+      "labels": [
+        "[-9] Missing due to a terminated interview",
+        "[-8] Question this year not part of survey",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[1] Male",
+        "[2] Female",
+        "[9] Unknown"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[9] Unbekannt"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        44976,
         0,
         0,
         0,
@@ -7424,15 +7981,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 101445,
-      "invalid": 34934
+      "invalid": 45071
     }
   },
   {
     "name": "sex_v2",
     "dataset": "pbrutto",
-    "label": "[de] Geschlecht [2019-2020, 2022-2023]",
+    "label": "Sex [2019-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7447,6 +8005,7 @@
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7455,12 +8014,13 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] männlich",
-        "[2] [de] weiblich",
-        "[3] [de] divers",
-        "[9] [de] unbekannt"
+        "[1] Male",
+        "[2] Female",
+        "[3] Diverse",
+        "[9] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7469,12 +8029,13 @@
         "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] männlich",
-        "[2] weiblich",
-        "[3] divers",
-        "[9] unbekannt"
+        "[1] Männlich",
+        "[2] Weiblich",
+        "[3] Divers",
+        "[9] Unbekannt"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -7489,6 +8050,7 @@
         false
       ],
       "frequencies": [
+        0,
         97800,
         0,
         0,
@@ -7496,19 +8058,19 @@
         0,
         0,
         0,
-        369,
-        18597,
-        19593,
-        20,
+        445,
+        23543,
+        24695,
+        33,
         0
       ]
     },
     "scale": "cat",
-    "label_de": "Geschlecht [2019-2020, 2022-2023]",
+    "label_de": "Geschlecht [2019-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
-      "valid": 38210,
-      "invalid": 98169
+      "valid": 48271,
+      "invalid": 98245
     }
   },
   {
@@ -7517,6 +8079,7 @@
     "label": "Employment Status of Non-Respondents (PUNR)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7533,6 +8096,7 @@
         6
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7549,6 +8113,7 @@
         "[6] Other"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7573,6 +8138,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -7581,7 +8147,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -7602,15 +8169,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3712,
-      "invalid": 132667
+      "invalid": 142804
     }
   },
   {
     "name": "befstat_h",
     "dataset": "pbrutto",
-    "label": "[de] Befragungsstatus [harmonisiert]",
+    "label": "Survey status [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7628,9 +8196,11 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7639,18 +8209,20 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] Erneut zu befragen",
-        "[2] [de] Erstmals zu befragen, da bisher temporaerer Ausfall",
-        "[3] [de] Erstmals zu befragen, da Befragungsalter erreicht",
-        "[4] [de] Erstmals zu befragende neue Person",
-        "[5] [de] Noch nicht zu befragende alte Person",
-        "[6] [de] Noch nicht zu befragende neue Person",
-        "[7] [de] Nicht zu befragen, da harter Verweigerer in Vorwelle/n",
-        "[8] [de] Umwandlung von Code 7, da doch wieder teilgenommen",
-        "[9] [de] Erwachsenes Haushaltsmitglied, aber keine Befragungsperson",
-        "[10] [de] Jugendliche Befragungsperson"
+        "[1] Re-Survey",
+        "[2] 1st Survey Temporarily Missing",
+        "[3] 1st Survey Too Young",
+        "[4] 1st Survey New Person",
+        "[5] Not To Be Surveyed Old Person",
+        "[6] Not To Be Surveyed New Person",
+        "[7] Not To Be Surveyed Refused",
+        "[8] Converted From Category 7",
+        "[9] Adult HH member but no survey participant",
+        "[10] Youth survey participant",
+        "[11] Not To Be Surveyed, final refusal in previous year"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7668,7 +8240,8 @@
         "[7] Nicht zu befragen, da harter Verweigerer in Vorwelle/n",
         "[8] Umwandlung von Code 7, da doch wieder teilgenommen",
         "[9] Erwachsenes Haushaltsmitglied, aber keine Befragungsperson",
-        "[10] Jugendliche Befragungsperson"
+        "[10] Jugendliche Befragungsperson",
+        "[11] Nicht zu befragen, da finaler Ausfall seit Vorwelle"
       ],
       "missings": [
         true,
@@ -7679,6 +8252,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -7691,6 +8266,7 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -7699,32 +8275,34 @@
         0,
         11,
         1,
-        76605,
-        2886,
-        1222,
-        18564,
-        18587,
-        4813,
-        6433,
-        437,
+        83006,
+        4392,
+        1324,
+        18642,
+        19428,
+        4883,
+        6842,
+        445,
         0,
-        1481
+        2049,
+        154
       ]
     },
     "scale": "cat",
     "label_de": "Befragungsstatus [harmonisiert]",
     "study": "soep-is",
     "statistics": {
-      "valid": 131028,
+      "valid": 141165,
       "invalid": 5351
     }
   },
   {
     "name": "befstat_v1",
     "dataset": "pbrutto",
-    "label": "[de] Befragungsstatus [1998-2018]",
+    "label": "Survey status [1998-2018]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7744,6 +8322,7 @@
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7752,17 +8331,18 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] Erneut zu befragen",
-        "[2] [de] Erstmals zu befragen, da bisher temporaerer Ausfall",
-        "[3] [de] Erstmals zu befragen, da Befragungsalter erreicht",
-        "[4] [de] Erstmals zu befragende neue Person",
-        "[5] [de] Noch nicht zu befragende alte Person",
-        "[6] [de] Noch nicht zu befragende neue Person",
-        "[7] [de] Nicht zu befragen, da harter Verweigerer in Vorwelle/n",
-        "[8] [de] Umwandlung von Code 7, da doch wieder teilgenommen",
-        "[9] [de] Erwachsenes Haushaltsmitglied, aber keine Befragungsperson"
+        "[1] Re-Survey",
+        "[2] 1st Survey Temporarily Missing",
+        "[3] 1st Survey Too Young",
+        "[4] 1st Survey New Person",
+        "[5] Not To Be Surveyed Old Person",
+        "[6] Not To Be Surveyed New Person",
+        "[7] Not To Be Surveyed Refused",
+        "[8] Converted From Category 7",
+        "[9] Adult HH member but no survey participant"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7790,6 +8370,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -7801,7 +8382,8 @@
         false
       ],
       "frequencies": [
-        43918,
+        0,
+        54055,
         0,
         0,
         0,
@@ -7825,15 +8407,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 92449,
-      "invalid": 43930
+      "invalid": 54067
     }
   },
   {
     "name": "befstat_v2",
     "dataset": "pbrutto",
-    "label": "[de] Befragungsstatus [2019-2020, 2022-2023]",
+    "label": "Survey status [2019-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7851,9 +8434,11 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -7862,18 +8447,20 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] Erneut zu befragen",
-        "[2] [de] Erstmals zu befragen, da bisher temporaerer Ausfall",
-        "[3] [de] Erstmals zu befragen, da Befragungsalter erreicht",
-        "[4] [de] Erstmals zu befragende neue Person",
-        "[5] [de] Noch nicht zu befragende alte Person",
-        "[6] [de] Noch nicht zu befragende neue Person",
-        "[7] [de] Nicht zu befragen, da harter Verweigerer in Vorwelle/n",
-        "[8] [de] Umwandlung von Code 7, da doch wieder teilgenommen",
-        "[9] [de] Erwachsenes Haushaltsmitglied, aber keine Befragungsperson",
-        "[10] [de] Jugendliche Befragungsperson"
+        "[1] Re-Survey",
+        "[2] 1st Survey Temporarily Missing",
+        "[3] 1st Survey Too Young",
+        "[4] 1st Survey New Person",
+        "[5] Not To Be Surveyed Old Person",
+        "[6] Not To Be Surveyed New Person",
+        "[7] Not To Be Surveyed Refused",
+        "[8] Converted From Category 7",
+        "[9] Adult HH member but no survey participant",
+        "[10] Youth survey participant",
+        "[11] Not To Be Surveyed, final refusal in previous year"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -7891,7 +8478,8 @@
         "[7] Nicht zu befragen, da harter Verweigerer in Vorwelle/n",
         "[8] Umwandlung von Code 7, da doch wieder teilgenommen",
         "[9] Erwachsenes Haushaltsmitglied, aber keine Befragungsperson",
-        "[10] Jugendliche Befragungsperson"
+        "[10] Jugendliche Befragungsperson",
+        "[11] Nicht zu befragen, da finaler Ausfall seit Vorwelle"
       ],
       "missings": [
         true,
@@ -7902,6 +8490,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -7914,6 +8504,7 @@
         false
       ],
       "frequencies": [
+        0,
         97800,
         0,
         0,
@@ -7922,23 +8513,24 @@
         0,
         0,
         0,
-        21363,
-        1388,
-        285,
-        6215,
-        4301,
-        918,
-        2505,
-        123,
+        27764,
+        2894,
+        387,
+        6293,
+        5142,
+        988,
+        2914,
+        131,
         0,
-        1481
+        2049,
+        154
       ]
     },
     "scale": "cat",
-    "label_de": "Befragungsstatus [2019-2020, 2022-2023]",
+    "label_de": "Befragungsstatus [2019-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
-      "valid": 38579,
+      "valid": 48716,
       "invalid": 97800
     }
   },
@@ -7948,6 +8540,7 @@
     "label": "AAPOR Classification (person level)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -7982,12 +8575,15 @@
         3190,
         3220,
         4000,
+        4010,
+        4100,
         4200,
         4300,
         4400,
         4700
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8021,13 +8617,16 @@
         "[3180] Unable to locate address",
         "[3190] Others (no information on person)",
         "[3220] 3.22 Nothing ever returned",
-        "[4000] (4) Not Eligible ",
+        "[4000] Not Eligible, Returned",
+        "[4010] [de] Ausfall: 2 Jahre ohne jeglichen Kontakt",
+        "[4100] Attrition: 2 years without any contact",
         "[4200] Moved abroad",
         "[4300] Household dissolved (moved to another panel household)",
         "[4400] Untraceable",
         "[4700] No eligible respondent (child or adolescent)"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8061,7 +8660,9 @@
         "[3180] Adresse kann nicht gefunden werden",
         "[3190] Sonstiges (keine Angaben zur Person)",
         "[3220] 3.22 Kein Rücklauf",
-        "[4000] (4) Not Eligible",
+        "[4000] Not Eligible, Returned",
+        "[4010] Ausfall: 2 Jahre ohne jeglichen Kontakt",
+        "[4100] Haushalt gehört nicht in Stichprobe / ausgescreent",
         "[4200] Ins Ausland gezogen",
         "[4300] Haushalt aufgelöst (in anderen Panel-Haushalt verzogen)",
         "[4400] Unauffindbar",
@@ -8076,6 +8677,9 @@
         true,
         true,
         true,
+        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8108,6 +8712,7 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -8116,43 +8721,45 @@
         0,
         92461,
         0,
-        17532,
+        21274,
         0,
         0,
-        131,
-        2535,
+        163,
+        3177,
         1435,
         0,
-        154,
-        2881,
-        1304,
-        247,
-        83,
-        41,
-        145,
-        303,
-        73,
-        4149,
+        192,
+        3969,
+        2710,
+        338,
+        86,
+        45,
+        158,
+        341,
+        74,
+        5170,
         0,
         7,
-        25,
+        64,
         0,
         32,
-        324,
+        660,
         435,
         0,
         122,
-        42,
-        22,
+        124,
+        0,
+        66,
+        35,
         32,
-        6525
+        8007
       ]
     },
     "scale": "cat",
     "label_de": "AAPOR Klassifizierung (Personenebene)",
     "study": "soep-is",
     "statistics": {
-      "valid": 38579,
+      "valid": 48716,
       "invalid": 97800
     }
   },
@@ -8162,6 +8769,7 @@
     "label": "Success Obtaining Address",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8179,6 +8787,7 @@
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8196,6 +8805,7 @@
         "[9] Rejoined Panel HH"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8204,15 +8814,16 @@
         "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Umgezogen, neue Adresse ermittelt",
+        "[1] Umgezogen neue Adresse ermittelt",
         "[2] Unbekannt verzogen",
         "[3] Meldeamt meldet alte Adresse",
         "[4] Meldeamt hat die Person nicht registriert",
-        "[5] ins Ausland verzogen",
+        "[5] Ins Ausland verzogen",
         "[8] Mit Person, die weiterverfolgt wird, verzogen",
-        "[9] In bestehenden Panelhaushalt zurueckgekehrt"
+        "[9] In bestehenden Panelhaushalt zurückgekehrt"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -8230,15 +8841,16 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        129809,
+        139913,
         0,
-        869,
+        902,
         212,
         2,
         5,
@@ -8251,8 +8863,8 @@
     "label_de": "Ergebnis Adressermittlung Person",
     "study": "soep-is",
     "statistics": {
-      "valid": 1231,
-      "invalid": 135148
+      "valid": 1264,
+      "invalid": 145252
     }
   },
   {
@@ -8261,6 +8873,7 @@
     "label": "Person Supplying Address Information",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8276,6 +8889,7 @@
         6
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8291,6 +8905,7 @@
         "[6] Mail- AdressResearch"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8314,6 +8929,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -8321,18 +8937,19 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         48,
-        129761,
+        139865,
         0,
-        1007,
+        1008,
         31,
-        123,
-        52,
+        124,
+        83,
         18
       ]
     },
@@ -8340,8 +8957,8 @@
     "label_de": "Informationsquelle Adressermittlung Person",
     "study": "soep-is",
     "statistics": {
-      "valid": 1231,
-      "invalid": 135148
+      "valid": 1264,
+      "invalid": 145252
     }
   },
   {
@@ -8350,6 +8967,7 @@
     "label": "Interview Work Result, 1 Digit",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8370,6 +8988,7 @@
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8390,6 +9009,7 @@
         "[9] Address Of HH Not Found"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8418,6 +9038,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -8430,7 +9051,8 @@
         false
       ],
       "frequencies": [
-        17453,
+        0,
+        27590,
         0,
         0,
         0,
@@ -8455,7 +9077,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 89777,
-      "invalid": 46602
+      "invalid": 56739
     }
   },
   {
@@ -8464,6 +9086,7 @@
     "label": "Interview Work Result, 2 Digits",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8501,9 +9124,12 @@
         60,
         70,
         80,
+        84,
+        85,
         90
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8517,9 +9143,9 @@
         "[11] Int. CURR And Prior Wave Successful",
         "[13] Intv HH Gap Prev Year Closed",
         "[14] Intv HH Gap Prev Year Open",
-        "[16] Int. PGAP Prev Yr Closed",
-        "[17] Int. PGAP Prev Yr Open",
-        "[18] Individual Interview, No HH Interview",
+        "[16] [de] Teilgenommen mit Befragungslücke, Lückedaten nacherhoben",
+        "[17] [de] Teilgenommen mit Befragungslücke, ohne Lückedaten",
+        "[18] [de] Personeninterview, jedoch kein Haushaltsinterview",
         "[20] Unsuccessful At The Time",
         "[21] Old, Sick",
         "[22] Unreachable Until End",
@@ -8541,9 +9167,12 @@
         "[60] Has Died",
         "[70] Household dissolved (moved to other panel household).",
         "[80] HH Not Found",
+        "[84] Address problem, address under investigation",
+        "[85] Address problem, new address after the end of field period",
         "[90] Address Of HH Not Found"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8557,31 +9186,33 @@
         "[11] Real. auch in Vorwelle",
         "[13] Intv.HH-L.Vj.geschl.",
         "[14] Intv.HH-L.Vj.bl.off.",
-        "[16] Luecke Vj. nacherh.",
-        "[17] Luecke Vj. nicht nacherh.",
-        "[18] Pers.interview, kein HH.interview",
-        "[20] Derz.n.durchfuehrbar",
+        "[16] Teilgenommen mit Befragungslücke, Lückedaten nacherhoben",
+        "[17] Teilgenommen mit Befragungslücke, ohne Lückedaten",
+        "[18] Personeninterview, jedoch kein Haushaltsinterview",
+        "[20] Derzeit nicht durchführbar",
         "[21] Alt und krank",
         "[22] Ende Feldarb.n.err",
-        "[23] Ausl.l.Zt in Heima",
+        "[23] Ausländer: Längere Zeit im Heimatland",
         "[24] Krank bis Feldende",
         "[25] Nicht erreichbar",
         "[26] Nicht auswertbar",
         "[29] Sonst.unkl.Faelle",
-        "[30] Derz.n.teiln.bereit",
+        "[30] Derzeit nicht bereit",
         "[31] Kein Fragebogen",
         "[32] Keine Zeit-Lust",
         "[33] Realisiert nach Feldende",
-        "[39] Sonst.unkl.Faelle",
-        "[40] Endguelt.Verweig.",
+        "[39] Sonstige",
+        "[40] Endgültige Verweigerung",
         "[44] Endgültige Verweigerung, da eine Befragung mit Papierfragebogen nicht möglich",
         "[46] endguelt.nicht verwertbar",
         "[47] Sprachprobleme",
         "[50] Ins Ausland verzogen",
         "[60] Verstorben",
         "[70] Haushalt aufgelöst (in anderen Panel-Haushalt verzogen)",
-        "[80] in Feldz.n.auffindbar",
-        "[90] endgueltig n.auffindbar"
+        "[80] Während der Feldzeit nicht auffindbar",
+        "[84] Adr.-problem, Haushalt in Adr.-erm. über Feldende hinaus",
+        "[85] Adr.-problem, neue Adresse ermittelt, jedoch nach Feldende",
+        "[90] Endgültig nicht auffindbar"
       ],
       "missings": [
         true,
@@ -8592,6 +9223,9 @@
         true,
         true,
         true,
+        true,
+        false,
+        false,
         false,
         false,
         false,
@@ -8624,43 +9258,46 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        31390,
+        33278,
         0,
         0,
-        74628,
+        78370,
         0,
         0,
         0,
         84,
         21,
-        237,
-        2305,
+        269,
+        3701,
         3,
         22,
         2,
-        207,
-        2893,
+        210,
+        3825,
         3,
-        5,
-        4089,
-        573,
-        2028,
+        6,
+        4783,
+        694,
+        2095,
         0,
-        969,
-        9924,
+        1046,
+        10642,
         2,
-        252,
+        254,
         115,
-        128,
-        527,
-        17,
-        389,
+        152,
+        608,
+        29,
+        736,
+        0,
+        0,
         227
       ]
     },
@@ -8668,8 +9305,8 @@
     "label_de": "Bearbeitungsergebnis 2-Steller",
     "study": "soep-is",
     "statistics": {
-      "valid": 99650,
-      "invalid": 36729
+      "valid": 107899,
+      "invalid": 38617
     }
   },
   {
@@ -8678,6 +9315,7 @@
     "label": "Corresponding Last Names Married Couple",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8694,6 +9332,7 @@
         6
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8710,6 +9349,7 @@
         "[6] Unknown"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8722,10 +9362,11 @@
         "[2] Nachname mit Ehepartner identisch",
         "[3] Doppelnamen",
         "[4] Partner mit Doppelnamen",
-        "[5] identischer Nachname mit weiblicher Endungsform",
-        "[6] unbekannt"
+        "[5] Identischer Nachname mit weiblicher Endungsform",
+        "[6] Unbekannt"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -8742,7 +9383,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -8763,7 +9405,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 21932,
-      "invalid": 114447
+      "invalid": 124584
     }
   },
   {
@@ -8772,6 +9414,7 @@
     "label": "Work Result In Previous Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8810,6 +9453,7 @@
         90
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -8848,6 +9492,7 @@
         "[90] Address Of HH Not Found"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -8894,6 +9539,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -8924,7 +9570,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -8967,7 +9614,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 57763,
-      "invalid": 78616
+      "invalid": 88753
     }
   },
   {
@@ -8976,6 +9623,7 @@
     "label": "Cognitive Test - Wanna DJ",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -8992,6 +9640,7 @@
         8
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9008,6 +9657,7 @@
         "[8] Interest in dj refused in prev waves"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9032,6 +9682,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -9040,7 +9691,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -9061,7 +9713,96 @@
     "study": "soep-is",
     "statistics": {
       "valid": 92,
-      "invalid": 136287
+      "invalid": 146424
+    }
+  },
+  {
+    "name": "luecke",
+    "dataset": "pbrutto",
+    "label": "Follow-up Survey",
+    "categories": {
+      "values": [
+        -9,
+        -8,
+        -7,
+        -6,
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        6,
+        7,
+        8
+      ],
+      "labels": [
+        "[-9] Missing due to a terminated interview",
+        "[-8] Question this year not part of survey",
+        "[-7] Only available in less restricted edition",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissable multiple response",
+        "[-3] Implausible value",
+        "[-2] Does not apply",
+        "[-1] No answer",
+        "[0] Does not apply",
+        "[6] Interview Gap, person participated in current wave",
+        "[7] Not Resurvey Current Waves",
+        "[8] Missed Several Previous Waves"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Trifft nicht zu",
+        "[6] Luecke ist entstanden, da Person in aktueller Welle wieder teilgenommen hat",
+        "[7] Keine Luecke entstanden, da Person auch in aktueller Welle nicht teilgenommen",
+        "[8] Luecke ueber mehrere Vorwellen"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "frequencies": [
+        0,
+        35150,
+        0,
+        0,
+        0,
+        0,
+        0,
+        110814,
+        0,
+        0,
+        199,
+        353,
+        0
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Nachbefragung",
+    "study": "soep-is",
+    "statistics": {
+      "valid": 552,
+      "invalid": 145964
     }
   },
   {
@@ -9070,6 +9811,7 @@
     "label": "Biography",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9090,6 +9832,7 @@
         10
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9110,6 +9853,7 @@
         "[10] Biography from integrated Person-Biography-Questionaire"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9138,6 +9882,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -9150,7 +9895,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -9175,15 +9921,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 15433,
-      "invalid": 120946
+      "invalid": 131083
     }
   },
   {
     "name": "reclin_bamf_erg",
     "dataset": "pbrutto",
-    "label": "[de] Ergebnis Einverständniserklärung für Record Linkage BAMF",
+    "label": "Result record linkage BAMF",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9200,6 +9947,7 @@
         6
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9208,14 +9956,15 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] Einverständniserklärung im CAPI gegeben, Erklärung liegt vor",
-        "[2] [de] Einverständniserklärung im CAPI gegeben, Erklärung liegt nicht vor",
-        "[3] [de] Einverständniserklärung im CAPI nicht gegeben, Erklärung liegt aber vor",
-        "[4] [de] Einverständniserklärung im CAPI nicht gegeben, Erklärung liegt nicht vor",
-        "[5] [de] Einverständniserklärung sollte nicht gefragt werden, aber Erklärung liegt vor",
-        "[6] [de] Einverständniserklärung im CAPI nicht verstanden, Erklärung liegt nicht vor"
+        "[1] Consent presented in CAPI, consented",
+        "[2] Consent presented in CAPI, not consented",
+        "[3] Consent not presented in CAPI, still consented",
+        "[4] Consent not presented in CAPI, not consented",
+        "[5] Consent should not be presented in CAPI, still consented",
+        "[6] Consent not understood in CAPI, no consent given"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9240,6 +9989,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -9248,7 +9998,8 @@
         false
       ],
       "frequencies": [
-        136379,
+        0,
+        146516,
         0,
         0,
         0,
@@ -9269,7 +10020,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 0,
-      "invalid": 136379
+      "invalid": 146516
     }
   },
   {
@@ -9278,6 +10029,7 @@
     "label": "Result Record Linkage (DRV, German Pension Insurance)",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9291,6 +10043,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9304,6 +10057,7 @@
         "[4] Agreement for Record Refused"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9312,11 +10066,12 @@
         "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] Einverstaendniserklaerung gegeben",
-        "[2] Einverstaendniserklaerung liegt nicht vor",
-        "[4] Einverstaendniserklaerung verweigert"
+        "[1] Einverständniserklärung gegeben",
+        "[2] Einverständniserklärung liegt nicht vor",
+        "[4] Einverständniserklärung verweigert"
       ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -9330,7 +10085,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -9348,15 +10104,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 5241,
-      "invalid": 131138
+      "invalid": 141275
     }
   },
   {
     "name": "reclin_iab_form",
     "dataset": "pbrutto",
-    "label": "[de] Form Record Linkage IAB",
+    "label": "Form Record Linkage IAB",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9369,6 +10126,7 @@
         2
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9377,10 +10135,11 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[1] [de] Elektronische Einverständniserklärung",
-        "[2] [de] Schriftliche Einverständniserklärung"
+        "[1] Electronic consent form",
+        "[2] Written consent form"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9401,19 +10160,21 @@
         true,
         true,
         true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        0,
         25013,
         0,
         0,
         0,
         0,
         0,
-        110923,
+        119078,
         0,
-        381,
+        2363,
         62
       ]
     },
@@ -9421,16 +10182,17 @@
     "label_de": "Form Record Linkage IAB",
     "study": "soep-is",
     "statistics": {
-      "valid": 443,
-      "invalid": 135936
+      "valid": 2425,
+      "invalid": 144091
     }
   },
   {
-    "name": "luecke",
+    "name": "paneleve",
     "dataset": "pbrutto",
-    "label": "Follow-up Survey",
+    "label": "Panel Agreement Refugees",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9439,12 +10201,12 @@
         -3,
         -2,
         -1,
-        0,
-        6,
-        7,
-        8
+        1,
+        2,
+        3
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9453,12 +10215,12 @@
         "[-3] Implausible value",
         "[-2] Does not apply",
         "[-1] No answer",
-        "[0] Does not apply",
-        "[6] Interview Gap, person participated in current wave",
-        "[7] Not Resurvey Current Waves",
-        "[8] Missed Several Previous Waves"
+        "[1] Panel consent given",
+        "[2] Panel consent not available",
+        "[3] Panel consent refused"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9467,10 +10229,9 @@
         "[-3] unplausibler Wert",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[0] Trifft nicht zu",
-        "[6] Luecke ist entstanden, da Person in aktueller Welle wieder teilgenommen hat",
-        "[7] Keine Luecke entstanden, da Person auch in aktueller Welle nicht teilgenommen",
-        "[8] Luecke ueber mehrere Vorwellen"
+        "[1] Panel-Einverständniserklärung gegeben",
+        "[2] Panel-Einverständniserklärung liegt nicht vor",
+        "[3] Panel-Einverständniserklärung verweigert"
       ],
       "missings": [
         true,
@@ -9481,40 +10242,41 @@
         true,
         true,
         true,
-        false,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        146516,
         0,
         0,
         0,
         0,
         0,
-        110814,
         0,
         0,
-        199,
-        353,
+        0,
+        0,
         0
       ]
     },
     "scale": "cat",
-    "label_de": "Nachbefragung",
+    "label_de": "Panel-Einverständnis Geflüchteter",
     "study": "soep-is",
     "statistics": {
-      "valid": 552,
-      "invalid": 135827
+      "valid": 0,
+      "invalid": 146516
     }
   },
   {
     "name": "lint_h",
     "dataset": "pbrutto",
-    "label": "Year of last interview",
+    "label": "Year of last interview [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9526,6 +10288,7 @@
         0
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9536,7 +10299,20 @@
         "[-1] No answer",
         "[0] No Interview"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Noch nie interviewt"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -9548,15 +10324,16 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        21633,
+        21786,
         0,
-        15532
+        18546
       ]
     },
     "scale": "number",
@@ -9565,20 +10342,21 @@
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2009.0,
-      "Median": 2014.0,
-      "Mean": 1728.7498880327585,
-      "3rd Qu.": 2018.0,
-      "Max.": 2023.0,
-      "valid": 109407,
-      "invalid": 26972
+      "Median": 2015.0,
+      "Mean": 1702.2923670963473,
+      "3rd Qu.": 2019.0,
+      "Max.": 2025.0,
+      "valid": 119391,
+      "invalid": 27125
     }
   },
   {
     "name": "lint_v3",
     "dataset": "pbrutto",
-    "label": "Year of last interview (Four-digit)",
+    "label": "Year of last interview (Four-digit) [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9590,6 +10368,7 @@
         0
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9600,7 +10379,20 @@
         "[-1] No answer",
         "[0] No Interview"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Bisher kein Interview"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -9612,37 +10404,39 @@
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        21633,
+        21786,
         0,
-        15532
+        18546
       ]
     },
     "scale": "number",
-    "label_de": "Jahr des letzten Interviews (Viersteller) [1998-2020, 2022-2023]",
+    "label_de": "Jahr des letzten Interviews (Viersteller) [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 0.0,
       "1st Qu.": 2009.0,
-      "Median": 2014.0,
-      "Mean": 1728.7498880327585,
-      "3rd Qu.": 2018.0,
-      "Max.": 2023.0,
-      "valid": 109407,
-      "invalid": 26972
+      "Median": 2015.0,
+      "Mean": 1702.2923670963473,
+      "3rd Qu.": 2019.0,
+      "Max.": 2025.0,
+      "valid": 119391,
+      "invalid": 27125
     }
   },
   {
     "name": "pform_v1",
     "dataset": "pbrutto",
-    "label": "Interview Work Form",
+    "label": "Interview Work Form [1998-2020]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9662,6 +10456,7 @@
         10
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9681,6 +10476,7 @@
         "[10] CAWI"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9708,6 +10504,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -9719,7 +10516,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -9743,15 +10541,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 83714,
-      "invalid": 52665
+      "invalid": 62802
     }
   },
   {
     "name": "pform_v2",
     "dataset": "pbrutto",
-    "label": "Interview Work Form",
+    "label": "Interview Work Form [2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9766,9 +10565,11 @@
         4,
         5,
         6,
+        7,
         9
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9783,9 +10584,11 @@
         "[4] PAPI",
         "[5] CAPI by phone",
         "[6] CASI",
-        "[9] [de] Ausfall auf Haushaltsebene"
+        "[7] CALVI",
+        "[9] Failure at household level"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9800,6 +10603,7 @@
         "[4] PAPI",
         "[5] CAPI per Telefon",
         "[6] CASI",
+        "[7] CALVI",
         "[9] Ausfall auf Haushaltsebene"
       ],
       "missings": [
@@ -9811,6 +10615,8 @@
         true,
         true,
         true,
+        true,
+        false,
         false,
         false,
         false,
@@ -9820,29 +10626,31 @@
         false
       ],
       "frequencies": [
+        0,
         116705,
         0,
         0,
         0,
         0,
         0,
-        2728,
+        4381,
         0,
-        2900,
-        6826,
+        4461,
+        9723,
         1955,
         0,
         272,
-        6,
-        4987
+        8,
+        798,
+        8213
       ]
     },
     "scale": "cat",
-    "label_de": "Bearbeitungsform Person [2022-2023]",
+    "label_de": "Bearbeitungsform Person [2022-2024]",
     "study": "soep-is",
     "statistics": {
-      "valid": 16946,
-      "invalid": 119433
+      "valid": 25430,
+      "invalid": 121086
     }
   },
   {
@@ -9851,6 +10659,7 @@
     "label": "Work Form Previous Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9871,6 +10680,7 @@
         10
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9891,6 +10701,7 @@
         "[10] CAWI"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -9919,6 +10730,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -9931,7 +10743,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -9956,7 +10769,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 59336,
-      "invalid": 77043
+      "invalid": 87180
     }
   },
   {
@@ -9965,6 +10778,7 @@
     "label": "Sample Status",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -9979,6 +10793,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -9993,6 +10808,7 @@
         "[4] New Non-Core Sample Member"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10015,13 +10831,15 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10040,7 +10858,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 111366,
-      "invalid": 25013
+      "invalid": 35150
     }
   },
   {
@@ -10049,6 +10867,7 @@
     "label": "Willing To Participate",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10063,6 +10882,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10077,6 +10897,7 @@
         "[4] Very Bad"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10099,13 +10920,15 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10124,7 +10947,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3858,
-      "invalid": 132521
+      "invalid": 142658
     }
   },
   {
@@ -10133,6 +10956,7 @@
     "label": "Willing To Participate, Prev. Year",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10147,6 +10971,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10161,6 +10986,7 @@
         "[4] Very Bad"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10183,13 +11009,15 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10208,15 +11036,16 @@
     "study": "soep-is",
     "statistics": {
       "valid": 600,
-      "invalid": 135779
+      "invalid": 145916
     }
   },
   {
     "name": "abwesj_h",
     "dataset": "pbrutto",
-    "label": "Absence of a Person, First Year",
+    "label": "Absence of a Person, First Year [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10227,6 +11056,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10236,7 +11066,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -10247,13 +11089,14 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130805,
+        140942,
         4
       ]
     },
@@ -10268,15 +11111,16 @@
       "3rd Qu.": 2017.5,
       "Max.": 2023.0,
       "valid": 231,
-      "invalid": 136148
+      "invalid": 146285
     }
   },
   {
     "name": "abwesj_v4",
     "dataset": "pbrutto",
-    "label": "Absence of a Person, First Year",
+    "label": "Absence of a Person, First Year [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10287,6 +11131,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10296,7 +11141,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -10307,18 +11164,19 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130805,
+        140942,
         4
       ]
     },
     "scale": "number",
-    "label_de": "Anfangsjahr der Abwesenheit einer Person [1998-2020, 2022-2023]",
+    "label_de": "Anfangsjahr der Abwesenheit einer Person [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 1999.0,
@@ -10328,7 +11186,7 @@
       "3rd Qu.": 2017.5,
       "Max.": 2023.0,
       "valid": 231,
-      "invalid": 136148
+      "invalid": 146285
     }
   },
   {
@@ -10337,6 +11195,7 @@
     "label": "Absence of a Person, First Month",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10344,9 +11203,22 @@
         -4,
         -3,
         -2,
-        -1
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10354,7 +11226,42 @@
         "[-4] Inadmissable multiple response",
         "[-3] Implausible value",
         "[-2] Does not apply",
-        "[-1] No answer"
+        "[-1] No answer",
+        "[1] January",
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
+        "[8] August",
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
+      ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Januar",
+        "[2] Februar",
+        "[3] März",
+        "[4] April",
+        "[5] Mai",
+        "[6] Juni",
+        "[7] Juli",
+        "[8] August",
+        "[9] September",
+        "[10] Oktober",
+        "[11] November",
+        "[12] Dezember"
       ],
       "missings": [
         true,
@@ -10364,31 +11271,51 @@
         true,
         true,
         true,
-        true
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130824,
-        23
+        140961,
+        23,
+        14,
+        5,
+        10,
+        7,
+        6,
+        12,
+        22,
+        23,
+        43,
+        43,
+        4,
+        4
       ]
     },
-    "scale": "number",
+    "scale": "cat",
     "label_de": "Anfangsmonat der Abwesenheit einer Person",
     "study": "soep-is",
     "statistics": {
-      "Min.": 1.0,
-      "1st Qu.": 6.0,
-      "Median": 8.0,
-      "Mean": 7.414507772020725,
-      "3rd Qu.": 10.0,
-      "Max.": 12.0,
       "valid": 193,
-      "invalid": 136186
+      "invalid": 146323
     }
   },
   {
@@ -10397,6 +11324,7 @@
     "label": "Year entered panel [harmonised]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10407,6 +11335,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10416,7 +11345,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -10427,6 +11368,7 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -10444,19 +11386,20 @@
       "Min.": 1998.0,
       "1st Qu.": 2009.0,
       "Median": 2013.0,
-      "Mean": 2011.221398046398,
+      "Mean": 2011.723524370117,
       "3rd Qu.": 2014.0,
-      "Max.": 2023.0,
-      "valid": 131040,
+      "Max.": 2024.0,
+      "valid": 141177,
       "invalid": 5339
     }
   },
   {
     "name": "zupan_v3",
     "dataset": "pbrutto",
-    "label": "Year entered panel (Four-digit)",
+    "label": "Year entered panel (Four-digit) [1998-2020, 2022-2024]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10467,6 +11410,7 @@
         -1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10476,7 +11420,19 @@
         "[-2] Does not apply",
         "[-1] No answer"
       ],
+      "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
+        "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] in Fragebogenversion nicht enthalten",
+        "[-4] unzulaessige Mehrfachantwort",
+        "[-3] unplausibler Wert",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe"
+      ],
       "missings": [
+        true,
         true,
         true,
         true,
@@ -10487,6 +11443,7 @@
         true
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
@@ -10498,16 +11455,16 @@
       ]
     },
     "scale": "number",
-    "label_de": "Jahr Zugang zum Panel (Viersteller) [1998-2020, 2022-2023]",
+    "label_de": "Jahr Zugang zum Panel (Viersteller) [1998-2020, 2022-2024]",
     "study": "soep-is",
     "statistics": {
       "Min.": 1998.0,
       "1st Qu.": 2009.0,
       "Median": 2013.0,
-      "Mean": 2011.221398046398,
+      "Mean": 2011.723524370117,
       "3rd Qu.": 2014.0,
-      "Max.": 2023.0,
-      "valid": 131040,
+      "Max.": 2024.0,
+      "valid": 141177,
       "invalid": 5339
     }
   },
@@ -10517,6 +11474,7 @@
     "label": "[de] Ergebnis Record Linkage IAB",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10530,6 +11488,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10543,6 +11502,7 @@
         "[4] [de] Einverständniserklärung verweigert"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10564,30 +11524,32 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
+        0,
         25013,
         0,
         0,
         0,
         0,
         0,
-        105546,
-        0,
-        3066,
+        112901,
+        29,
+        5048,
         164,
-        2590
+        3361
       ]
     },
     "scale": "cat",
     "label_de": "Ergebnis Record Linkage IAB",
     "study": "soep-is",
     "statistics": {
-      "valid": 5820,
-      "invalid": 130559
+      "valid": 8573,
+      "invalid": 137943
     }
   },
   {
@@ -10596,6 +11558,7 @@
     "label": "Anchor Child (Bonn Intervention Panel) [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10607,6 +11570,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10618,6 +11582,7 @@
         "[1] Anchor Child (Bonn Intervention Panel)"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10637,10 +11602,12 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10656,7 +11623,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3783,
-      "invalid": 132596
+      "invalid": 142733
     }
   },
   {
@@ -10665,6 +11632,7 @@
     "label": "Results from Happiness App [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10680,6 +11648,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10695,6 +11664,7 @@
         "[4] No participation in SOEP-IS"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10718,6 +11688,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -10725,7 +11696,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10745,7 +11717,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6621,
-      "invalid": 129758
+      "invalid": 139895
     }
   },
   {
@@ -10754,6 +11726,7 @@
     "label": "Biography [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10775,6 +11748,7 @@
         10
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10796,6 +11770,7 @@
         "[10] Biography from integrated Person-Biography-Questionaire"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10825,6 +11800,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -10838,7 +11814,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10864,7 +11841,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 71674,
-      "invalid": 64705
+      "invalid": 74842
     }
   },
   {
@@ -10873,6 +11850,7 @@
     "label": "Results from BIP Survey Instruments [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10887,6 +11865,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10901,6 +11880,7 @@
         "[4] not carried out"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10923,13 +11903,15 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -10948,7 +11930,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 3172,
-      "invalid": 133207
+      "invalid": 143344
     }
   },
   {
@@ -10957,6 +11939,7 @@
     "label": "Anchor Person First Wave (ESS) [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -10968,6 +11951,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -10979,6 +11963,7 @@
         "[1] Anchor Person First Wave (ESS)"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -10998,10 +11983,12 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -11017,7 +12004,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 679,
-      "invalid": 135700
+      "invalid": 145837
     }
   },
   {
@@ -11026,6 +12013,7 @@
     "label": "Consent Genes [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11039,6 +12027,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11052,6 +12041,7 @@
         "[4] Agreement for Record Refused"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11073,12 +12063,14 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -11096,7 +12088,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 6247,
-      "invalid": 130132
+      "invalid": 140269
     }
   },
   {
@@ -11105,6 +12097,7 @@
     "label": "Participation In Experiment [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11116,6 +12109,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11127,6 +12121,7 @@
         "[1] Participated In The Experiment"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11146,10 +12141,12 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -11165,7 +12162,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 994,
-      "invalid": 135385
+      "invalid": 145522
     }
   },
   {
@@ -11174,6 +12171,7 @@
     "label": "Split Version Gross Output [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11188,6 +12186,7 @@
         4
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11202,6 +12201,7 @@
         "[4] Money (Investment) And Retrospect"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11224,13 +12224,15 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -11249,7 +12251,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 2313,
-      "invalid": 134066
+      "invalid": 144203
     }
   },
   {
@@ -11258,6 +12260,7 @@
     "label": "Results from Saliva Sample [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11273,6 +12276,7 @@
         5
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11288,6 +12292,7 @@
         "[5] Not asked about saliva sample because tubes were empty"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11311,6 +12316,7 @@
         true,
         true,
         true,
+        true,
         false,
         false,
         false,
@@ -11318,7 +12324,8 @@
         false
       ],
       "frequencies": [
-        25013,
+        0,
+        35150,
         0,
         0,
         0,
@@ -11338,7 +12345,7 @@
     "study": "soep-is",
     "statistics": {
       "valid": 1648,
-      "invalid": 134731
+      "invalid": 144868
     }
   },
   {
@@ -11347,6 +12354,7 @@
     "label": "Changes In geburt Since Last Wave [IS]",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11358,6 +12366,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11369,6 +12378,7 @@
         "[1] Changes In pgeb Since Last Wave"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11388,26 +12398,28 @@
         true,
         true,
         true,
+        true,
         false
       ],
       "frequencies": [
+        0,
         5339,
         0,
         0,
         0,
         0,
         0,
-        130895,
+        141012,
         0,
-        145
+        165
       ]
     },
     "scale": "cat",
     "label_de": "Änderung bei geburt zur Vorwelle [IS]",
     "study": "soep-is",
     "statistics": {
-      "valid": 145,
-      "invalid": 136234
+      "valid": 165,
+      "invalid": 146351
     }
   },
   {
@@ -11416,6 +12428,7 @@
     "label": "[de] Flag: Nicht gültig realisierte Erstwellenhaushalte",
     "categories": {
       "values": [
+        -9,
         -8,
         -7,
         -6,
@@ -11428,6 +12441,7 @@
         1
       ],
       "labels": [
+        "[-9] Missing due to a terminated interview",
         "[-8] Question this year not part of survey",
         "[-7] Only available in less restricted edition",
         "[-6] Version of questionnaire with modified filtering",
@@ -11440,6 +12454,7 @@
         "[1] [de] Nicht gültig realisierter Erstwellenhaushalt"
       ],
       "labels_de": [
+        "[-9] fehlend aufgrund eines abgebrochenen Interviews",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprogramms",
         "[-7] nur in weniger eingeschraenkter Edition verfuegbar",
         "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
@@ -11460,10 +12475,12 @@
         true,
         true,
         true,
+        true,
         false,
         false
       ],
       "frequencies": [
+        0,
         124265,
         0,
         0,
@@ -11472,15 +12489,15 @@
         0,
         0,
         0,
-        11200,
-        914
+        21180,
+        1071
       ]
     },
     "scale": "cat",
     "label_de": "Flag: Nicht gültig realisierte Erstwellenhaushalte",
     "study": "soep-is",
     "statistics": {
-      "valid": 12114,
+      "valid": 22251,
       "invalid": 124265
     }
   },
@@ -11495,7 +12512,7 @@
       "frequencies": []
     },
     "scale": "7",
-    "label_de": "Urspungsdatensatz",
+    "label_de": "Ursprungsdatensatz",
     "study": "soep-is",
     "statistics": {}
   }
