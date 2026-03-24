@@ -414,25 +414,6 @@
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
-    "CON_start_imod1": {
-      "question": "CON_start_imod1",
-      "name": "CON_start_imod1",
-      "label": "Calvi1",
-      "label_de": "Calvi1",
-      "items": [
-        {
-          "text": "Calvi1",
-          "text_de": "Calvi1",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 7,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
     "Imod1": {
       "question": "Imod1",
       "name": "Imod1",
@@ -449,7 +430,7 @@
           "number": ""
         }
       ],
-      "sn": 8,
+      "sn": 7,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -468,7 +449,7 @@
           "number": ""
         }
       ],
-      "sn": 9,
+      "sn": 8,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -501,7 +482,7 @@
           "number": ""
         }
       ],
-      "sn": 10,
+      "sn": 9,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -533,7 +514,7 @@
           "number": ""
         }
       ],
-      "sn": 11,
+      "sn": 10,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -552,7 +533,7 @@
           "number": ""
         }
       ],
-      "sn": 12,
+      "sn": 11,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -607,7 +588,7 @@
           "number": ""
         }
       ],
-      "sn": 13,
+      "sn": 12,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -638,7 +619,7 @@
           "number": ""
         }
       ],
-      "sn": 14,
+      "sn": 13,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -680,7 +661,7 @@
           "number": ""
         }
       ],
-      "sn": 15,
+      "sn": 14,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -736,7 +717,7 @@
           "number": ""
         }
       ],
-      "sn": 16,
+      "sn": 15,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -772,7 +753,7 @@
           "number": ""
         }
       ],
-      "sn": 17,
+      "sn": 16,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -809,7 +790,7 @@
           "number": ""
         }
       ],
-      "sn": 18,
+      "sn": 17,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -851,7 +832,7 @@
           "number": ""
         }
       ],
-      "sn": 19,
+      "sn": 18,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -883,43 +864,7 @@
           "number": ""
         }
       ],
-      "sn": 20,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod1": {
-      "question": "CON_end_imod1",
-      "name": "CON_end_imod1",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 21,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod2": {
-      "question": "CON_start_imod2",
-      "name": "CON_start_imod2",
-      "label": "Arikan-intv",
-      "label_de": "Arikan-intv",
-      "items": [
-        {
-          "text": "Arikan-intv",
-          "text_de": "Arikan-intv",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 22,
+      "sn": 19,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -939,7 +884,7 @@
           "number": ""
         }
       ],
-      "sn": 23,
+      "sn": 20,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -975,7 +920,7 @@
           "number": ""
         }
       ],
-      "sn": 24,
+      "sn": 21,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1052,7 +997,7 @@
           "number": ""
         }
       ],
-      "sn": 25,
+      "sn": 22,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1145,7 +1090,7 @@
           "number": ""
         }
       ],
-      "sn": 26,
+      "sn": 23,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1214,24 +1159,7 @@
           "number": ""
         }
       ],
-      "sn": 27,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod2": {
-      "question": "CON_end_imod2",
-      "name": "CON_end_imod2",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 28,
+      "sn": 24,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1250,26 +1178,7 @@
           "number": ""
         }
       ],
-      "sn": 29,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod3": {
-      "question": "CON_start_imod3",
-      "name": "CON_start_imod3",
-      "label": "Gerlach1",
-      "label_de": "Gerlach1",
-      "items": [
-        {
-          "text": "Gerlach1",
-          "text_de": "Gerlach1",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 30,
+      "sn": 25,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1289,7 +1198,7 @@
           "number": ""
         }
       ],
-      "sn": 31,
+      "sn": 26,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1310,7 +1219,7 @@
           "number": ""
         }
       ],
-      "sn": 32,
+      "sn": 27,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1375,7 +1284,7 @@
           "number": ""
         }
       ],
-      "sn": 33,
+      "sn": 28,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1397,7 +1306,7 @@
           "number": ""
         }
       ],
-      "sn": 34,
+      "sn": 29,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1419,7 +1328,7 @@
           "number": ""
         }
       ],
-      "sn": 35,
+      "sn": 30,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1456,7 +1365,7 @@
           "number": ""
         }
       ],
-      "sn": 36,
+      "sn": 31,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1498,7 +1407,7 @@
           "number": ""
         }
       ],
-      "sn": 37,
+      "sn": 32,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1540,24 +1449,7 @@
           "number": ""
         }
       ],
-      "sn": 38,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod3": {
-      "question": "CON_end_imod3",
-      "name": "CON_end_imod3",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 39,
+      "sn": 33,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1576,7 +1468,7 @@
           "number": ""
         }
       ],
-      "sn": 40,
+      "sn": 34,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1595,7 +1487,7 @@
           "number": ""
         }
       ],
-      "sn": 41,
+      "sn": 35,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1735,7 +1627,7 @@
           "number": ""
         }
       ],
-      "sn": 42,
+      "sn": 36,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -1875,7 +1767,7 @@
           "number": ""
         }
       ],
-      "sn": 43,
+      "sn": 37,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2015,7 +1907,7 @@
           "number": ""
         }
       ],
-      "sn": 44,
+      "sn": 38,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2155,7 +2047,7 @@
           "number": ""
         }
       ],
-      "sn": 45,
+      "sn": 39,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2295,7 +2187,7 @@
           "number": ""
         }
       ],
-      "sn": 46,
+      "sn": 40,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2435,7 +2327,7 @@
           "number": ""
         }
       ],
-      "sn": 47,
+      "sn": 41,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2575,7 +2467,7 @@
           "number": ""
         }
       ],
-      "sn": 48,
+      "sn": 42,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2715,7 +2607,7 @@
           "number": ""
         }
       ],
-      "sn": 49,
+      "sn": 43,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2855,7 +2747,7 @@
           "number": ""
         }
       ],
-      "sn": 50,
+      "sn": 44,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -2995,7 +2887,7 @@
           "number": ""
         }
       ],
-      "sn": 51,
+      "sn": 45,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3135,7 +3027,7 @@
           "number": ""
         }
       ],
-      "sn": 52,
+      "sn": 46,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3275,7 +3167,7 @@
           "number": ""
         }
       ],
-      "sn": 53,
+      "sn": 47,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3415,7 +3307,7 @@
           "number": ""
         }
       ],
-      "sn": 54,
+      "sn": 48,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3555,7 +3447,7 @@
           "number": ""
         }
       ],
-      "sn": 55,
+      "sn": 49,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3592,7 +3484,7 @@
           "number": ""
         }
       ],
-      "sn": 56,
+      "sn": 50,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -3612,7 +3504,7 @@
           "number": ""
         }
       ],
-      "sn": 57,
+      "sn": 51,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4401,7 +4293,7 @@
           "number": ""
         }
       ],
-      "sn": 58,
+      "sn": 52,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4421,7 +4313,7 @@
           "number": ""
         }
       ],
-      "sn": 59,
+      "sn": 53,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4452,7 +4344,7 @@
           "number": ""
         }
       ],
-      "sn": 60,
+      "sn": 54,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4485,7 +4377,7 @@
           "number": ""
         }
       ],
-      "sn": 61,
+      "sn": 55,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4504,7 +4396,7 @@
           "number": ""
         }
       ],
-      "sn": 62,
+      "sn": 56,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4580,7 +4472,7 @@
           "number": ""
         }
       ],
-      "sn": 63,
+      "sn": 57,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4707,7 +4599,7 @@
           "number": ""
         }
       ],
-      "sn": 64,
+      "sn": 58,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4726,7 +4618,7 @@
           "number": ""
         }
       ],
-      "sn": 65,
+      "sn": 59,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4774,7 +4666,7 @@
           "number": ""
         }
       ],
-      "sn": 66,
+      "sn": 60,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4822,7 +4714,7 @@
           "number": ""
         }
       ],
-      "sn": 67,
+      "sn": 61,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4878,7 +4770,7 @@
           "number": ""
         }
       ],
-      "sn": 68,
+      "sn": 62,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4926,7 +4818,7 @@
           "number": ""
         }
       ],
-      "sn": 69,
+      "sn": 63,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -4984,7 +4876,7 @@
           "number": ""
         }
       ],
-      "sn": 70,
+      "sn": 64,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5052,7 +4944,7 @@
           "number": ""
         }
       ],
-      "sn": 71,
+      "sn": 65,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5105,7 +4997,7 @@
           "number": ""
         }
       ],
-      "sn": 72,
+      "sn": 66,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5148,7 +5040,7 @@
           "number": ""
         }
       ],
-      "sn": 73,
+      "sn": 67,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5201,7 +5093,7 @@
           "number": ""
         }
       ],
-      "sn": 74,
+      "sn": 68,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5274,7 +5166,7 @@
           "number": ""
         }
       ],
-      "sn": 75,
+      "sn": 69,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5322,7 +5214,7 @@
           "number": ""
         }
       ],
-      "sn": 76,
+      "sn": 70,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5362,7 +5254,7 @@
           "number": ""
         }
       ],
-      "sn": 77,
+      "sn": 71,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5399,7 +5291,7 @@
           "number": ""
         }
       ],
-      "sn": 78,
+      "sn": 72,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5418,7 +5310,7 @@
           "number": ""
         }
       ],
-      "sn": 79,
+      "sn": 73,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5463,7 +5355,7 @@
           "number": ""
         }
       ],
-      "sn": 80,
+      "sn": 74,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5501,7 +5393,7 @@
           "number": ""
         }
       ],
-      "sn": 81,
+      "sn": 75,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5540,7 +5432,7 @@
           "number": ""
         }
       ],
-      "sn": 82,
+      "sn": 76,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5588,7 +5480,7 @@
           "number": ""
         }
       ],
-      "sn": 83,
+      "sn": 77,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5621,7 +5513,7 @@
           "number": ""
         }
       ],
-      "sn": 84,
+      "sn": 78,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5654,7 +5546,7 @@
           "number": ""
         }
       ],
-      "sn": 85,
+      "sn": 79,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5702,7 +5594,7 @@
           "number": ""
         }
       ],
-      "sn": 86,
+      "sn": 80,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5735,7 +5627,7 @@
           "number": ""
         }
       ],
-      "sn": 87,
+      "sn": 81,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5768,7 +5660,7 @@
           "number": ""
         }
       ],
-      "sn": 88,
+      "sn": 82,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5816,7 +5708,7 @@
           "number": ""
         }
       ],
-      "sn": 89,
+      "sn": 83,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5849,7 +5741,7 @@
           "number": ""
         }
       ],
-      "sn": 90,
+      "sn": 84,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5882,7 +5774,7 @@
           "number": ""
         }
       ],
-      "sn": 91,
+      "sn": 85,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5937,7 +5829,7 @@
           "number": ""
         }
       ],
-      "sn": 92,
+      "sn": 86,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -5975,7 +5867,7 @@
           "number": ""
         }
       ],
-      "sn": 93,
+      "sn": 87,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6023,7 +5915,7 @@
           "number": ""
         }
       ],
-      "sn": 94,
+      "sn": 88,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6056,7 +5948,7 @@
           "number": ""
         }
       ],
-      "sn": 95,
+      "sn": 89,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6094,7 +5986,7 @@
           "number": ""
         }
       ],
-      "sn": 96,
+      "sn": 90,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6143,7 +6035,7 @@
           "number": ""
         }
       ],
-      "sn": 97,
+      "sn": 91,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6176,7 +6068,7 @@
           "number": ""
         }
       ],
-      "sn": 98,
+      "sn": 92,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6209,7 +6101,7 @@
           "number": ""
         }
       ],
-      "sn": 99,
+      "sn": 93,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6247,7 +6139,7 @@
           "number": ""
         }
       ],
-      "sn": 100,
+      "sn": 94,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6295,7 +6187,7 @@
           "number": ""
         }
       ],
-      "sn": 101,
+      "sn": 95,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6314,7 +6206,7 @@
           "number": ""
         }
       ],
-      "sn": 102,
+      "sn": 96,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6354,7 +6246,7 @@
           "number": ""
         }
       ],
-      "sn": 103,
+      "sn": 97,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6393,7 +6285,7 @@
           "number": ""
         }
       ],
-      "sn": 104,
+      "sn": 98,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6433,7 +6325,7 @@
           "number": ""
         }
       ],
-      "sn": 105,
+      "sn": 99,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6472,7 +6364,7 @@
           "number": ""
         }
       ],
-      "sn": 106,
+      "sn": 100,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6512,7 +6404,7 @@
           "number": ""
         }
       ],
-      "sn": 107,
+      "sn": 101,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6551,7 +6443,7 @@
           "number": ""
         }
       ],
-      "sn": 108,
+      "sn": 102,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6570,7 +6462,7 @@
           "number": ""
         }
       ],
-      "sn": 109,
+      "sn": 103,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6610,7 +6502,7 @@
           "number": ""
         }
       ],
-      "sn": 110,
+      "sn": 104,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6649,7 +6541,7 @@
           "number": ""
         }
       ],
-      "sn": 111,
+      "sn": 105,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6668,7 +6560,7 @@
           "number": ""
         }
       ],
-      "sn": 112,
+      "sn": 106,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6761,7 +6653,7 @@
           "number": ""
         }
       ],
-      "sn": 113,
+      "sn": 107,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6809,7 +6701,7 @@
           "number": ""
         }
       ],
-      "sn": 114,
+      "sn": 108,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6867,7 +6759,7 @@
           "number": ""
         }
       ],
-      "sn": 115,
+      "sn": 109,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6905,7 +6797,7 @@
           "number": ""
         }
       ],
-      "sn": 116,
+      "sn": 110,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6961,7 +6853,7 @@
           "number": ""
         }
       ],
-      "sn": 117,
+      "sn": 111,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -6994,7 +6886,7 @@
           "number": ""
         }
       ],
-      "sn": 118,
+      "sn": 112,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7027,7 +6919,7 @@
           "number": ""
         }
       ],
-      "sn": 119,
+      "sn": 113,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7067,7 +6959,7 @@
           "number": ""
         }
       ],
-      "sn": 120,
+      "sn": 114,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7104,7 +6996,7 @@
           "number": ""
         }
       ],
-      "sn": 121,
+      "sn": 115,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7137,7 +7029,7 @@
           "number": ""
         }
       ],
-      "sn": 122,
+      "sn": 116,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7175,7 +7067,7 @@
           "number": ""
         }
       ],
-      "sn": 123,
+      "sn": 117,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7212,7 +7104,7 @@
           "number": ""
         }
       ],
-      "sn": 124,
+      "sn": 118,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7250,7 +7142,7 @@
           "number": ""
         }
       ],
-      "sn": 125,
+      "sn": 119,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7287,7 +7179,7 @@
           "number": ""
         }
       ],
-      "sn": 126,
+      "sn": 120,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7325,7 +7217,7 @@
           "number": ""
         }
       ],
-      "sn": 127,
+      "sn": 121,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7362,7 +7254,7 @@
           "number": ""
         }
       ],
-      "sn": 128,
+      "sn": 122,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7400,7 +7292,7 @@
           "number": ""
         }
       ],
-      "sn": 129,
+      "sn": 123,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7439,7 +7331,7 @@
           "number": ""
         }
       ],
-      "sn": 130,
+      "sn": 124,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7477,7 +7369,7 @@
           "number": ""
         }
       ],
-      "sn": 131,
+      "sn": 125,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7516,7 +7408,7 @@
           "number": ""
         }
       ],
-      "sn": 132,
+      "sn": 126,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7556,7 +7448,7 @@
           "number": ""
         }
       ],
-      "sn": 133,
+      "sn": 127,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7593,7 +7485,7 @@
           "number": ""
         }
       ],
-      "sn": 134,
+      "sn": 128,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7632,7 +7524,7 @@
           "number": ""
         }
       ],
-      "sn": 135,
+      "sn": 129,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7665,7 +7557,7 @@
           "number": ""
         }
       ],
-      "sn": 136,
+      "sn": 130,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7698,7 +7590,7 @@
           "number": ""
         }
       ],
-      "sn": 137,
+      "sn": 131,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7741,7 +7633,7 @@
           "number": ""
         }
       ],
-      "sn": 138,
+      "sn": 132,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7784,7 +7676,7 @@
           "number": ""
         }
       ],
-      "sn": 139,
+      "sn": 133,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7827,7 +7719,7 @@
           "number": ""
         }
       ],
-      "sn": 140,
+      "sn": 134,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7870,7 +7762,7 @@
           "number": ""
         }
       ],
-      "sn": 141,
+      "sn": 135,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7923,7 +7815,7 @@
           "number": ""
         }
       ],
-      "sn": 142,
+      "sn": 136,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7942,7 +7834,7 @@
           "number": ""
         }
       ],
-      "sn": 143,
+      "sn": 137,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7961,7 +7853,7 @@
           "number": ""
         }
       ],
-      "sn": 144,
+      "sn": 138,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -7980,7 +7872,7 @@
           "number": ""
         }
       ],
-      "sn": 145,
+      "sn": 139,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8077,7 +7969,7 @@
           "number": ""
         }
       ],
-      "sn": 146,
+      "sn": 140,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8120,7 +8012,7 @@
           "number": ""
         }
       ],
-      "sn": 147,
+      "sn": 141,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8158,7 +8050,7 @@
           "number": ""
         }
       ],
-      "sn": 148,
+      "sn": 142,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8206,7 +8098,7 @@
           "number": ""
         }
       ],
-      "sn": 149,
+      "sn": 143,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8261,7 +8153,7 @@
           "number": ""
         }
       ],
-      "sn": 150,
+      "sn": 144,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8381,7 +8273,7 @@
           "number": ""
         }
       ],
-      "sn": 151,
+      "sn": 145,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8400,7 +8292,7 @@
           "number": ""
         }
       ],
-      "sn": 152,
+      "sn": 146,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8419,7 +8311,7 @@
           "number": ""
         }
       ],
-      "sn": 153,
+      "sn": 147,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8516,7 +8408,7 @@
           "number": ""
         }
       ],
-      "sn": 154,
+      "sn": 148,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8559,7 +8451,7 @@
           "number": ""
         }
       ],
-      "sn": 155,
+      "sn": 149,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8597,7 +8489,7 @@
           "number": ""
         }
       ],
-      "sn": 156,
+      "sn": 150,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8645,7 +8537,7 @@
           "number": ""
         }
       ],
-      "sn": 157,
+      "sn": 151,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8700,7 +8592,7 @@
           "number": ""
         }
       ],
-      "sn": 158,
+      "sn": 152,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8820,7 +8712,7 @@
           "number": ""
         }
       ],
-      "sn": 159,
+      "sn": 153,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8839,7 +8731,7 @@
           "number": ""
         }
       ],
-      "sn": 160,
+      "sn": 154,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8858,7 +8750,7 @@
           "number": ""
         }
       ],
-      "sn": 161,
+      "sn": 155,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8955,7 +8847,7 @@
           "number": ""
         }
       ],
-      "sn": 162,
+      "sn": 156,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -8998,7 +8890,7 @@
           "number": ""
         }
       ],
-      "sn": 163,
+      "sn": 157,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9036,7 +8928,7 @@
           "number": ""
         }
       ],
-      "sn": 164,
+      "sn": 158,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9084,7 +8976,7 @@
           "number": ""
         }
       ],
-      "sn": 165,
+      "sn": 159,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9139,7 +9031,7 @@
           "number": ""
         }
       ],
-      "sn": 166,
+      "sn": 160,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9259,7 +9151,7 @@
           "number": ""
         }
       ],
-      "sn": 167,
+      "sn": 161,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9278,7 +9170,7 @@
           "number": ""
         }
       ],
-      "sn": 168,
+      "sn": 162,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9297,7 +9189,7 @@
           "number": ""
         }
       ],
-      "sn": 169,
+      "sn": 163,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9394,7 +9286,7 @@
           "number": ""
         }
       ],
-      "sn": 170,
+      "sn": 164,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9437,7 +9329,7 @@
           "number": ""
         }
       ],
-      "sn": 171,
+      "sn": 165,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9475,7 +9367,7 @@
           "number": ""
         }
       ],
-      "sn": 172,
+      "sn": 166,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9523,7 +9415,7 @@
           "number": ""
         }
       ],
-      "sn": 173,
+      "sn": 167,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9578,7 +9470,7 @@
           "number": ""
         }
       ],
-      "sn": 174,
+      "sn": 168,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9698,7 +9590,7 @@
           "number": ""
         }
       ],
-      "sn": 175,
+      "sn": 169,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9717,7 +9609,7 @@
           "number": ""
         }
       ],
-      "sn": 176,
+      "sn": 170,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9736,7 +9628,7 @@
           "number": ""
         }
       ],
-      "sn": 177,
+      "sn": 171,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9833,7 +9725,7 @@
           "number": ""
         }
       ],
-      "sn": 178,
+      "sn": 172,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9876,7 +9768,7 @@
           "number": ""
         }
       ],
-      "sn": 179,
+      "sn": 173,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9914,7 +9806,7 @@
           "number": ""
         }
       ],
-      "sn": 180,
+      "sn": 174,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -9962,7 +9854,7 @@
           "number": ""
         }
       ],
-      "sn": 181,
+      "sn": 175,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10017,7 +9909,7 @@
           "number": ""
         }
       ],
-      "sn": 182,
+      "sn": 176,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10137,7 +10029,7 @@
           "number": ""
         }
       ],
-      "sn": 183,
+      "sn": 177,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10156,7 +10048,7 @@
           "number": ""
         }
       ],
-      "sn": 184,
+      "sn": 178,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10175,7 +10067,7 @@
           "number": ""
         }
       ],
-      "sn": 185,
+      "sn": 179,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10272,7 +10164,7 @@
           "number": ""
         }
       ],
-      "sn": 186,
+      "sn": 180,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10315,7 +10207,7 @@
           "number": ""
         }
       ],
-      "sn": 187,
+      "sn": 181,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10353,7 +10245,7 @@
           "number": ""
         }
       ],
-      "sn": 188,
+      "sn": 182,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10401,7 +10293,7 @@
           "number": ""
         }
       ],
-      "sn": 189,
+      "sn": 183,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10456,7 +10348,7 @@
           "number": ""
         }
       ],
-      "sn": 190,
+      "sn": 184,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10576,7 +10468,7 @@
           "number": ""
         }
       ],
-      "sn": 191,
+      "sn": 185,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10595,7 +10487,7 @@
           "number": ""
         }
       ],
-      "sn": 192,
+      "sn": 186,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10614,7 +10506,7 @@
           "number": ""
         }
       ],
-      "sn": 193,
+      "sn": 187,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10711,7 +10603,7 @@
           "number": ""
         }
       ],
-      "sn": 194,
+      "sn": 188,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10754,7 +10646,7 @@
           "number": ""
         }
       ],
-      "sn": 195,
+      "sn": 189,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10792,7 +10684,7 @@
           "number": ""
         }
       ],
-      "sn": 196,
+      "sn": 190,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10840,7 +10732,7 @@
           "number": ""
         }
       ],
-      "sn": 197,
+      "sn": 191,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -10895,7 +10787,7 @@
           "number": ""
         }
       ],
-      "sn": 198,
+      "sn": 192,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11015,7 +10907,7 @@
           "number": ""
         }
       ],
-      "sn": 199,
+      "sn": 193,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11034,7 +10926,7 @@
           "number": ""
         }
       ],
-      "sn": 200,
+      "sn": 194,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11053,7 +10945,7 @@
           "number": ""
         }
       ],
-      "sn": 201,
+      "sn": 195,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11150,7 +11042,7 @@
           "number": ""
         }
       ],
-      "sn": 202,
+      "sn": 196,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11193,7 +11085,7 @@
           "number": ""
         }
       ],
-      "sn": 203,
+      "sn": 197,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11231,7 +11123,7 @@
           "number": ""
         }
       ],
-      "sn": 204,
+      "sn": 198,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11279,7 +11171,7 @@
           "number": ""
         }
       ],
-      "sn": 205,
+      "sn": 199,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11334,7 +11226,7 @@
           "number": ""
         }
       ],
-      "sn": 206,
+      "sn": 200,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11454,7 +11346,7 @@
           "number": ""
         }
       ],
-      "sn": 207,
+      "sn": 201,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11473,7 +11365,7 @@
           "number": ""
         }
       ],
-      "sn": 208,
+      "sn": 202,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11492,7 +11384,7 @@
           "number": ""
         }
       ],
-      "sn": 209,
+      "sn": 203,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11589,7 +11481,7 @@
           "number": ""
         }
       ],
-      "sn": 210,
+      "sn": 204,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11632,7 +11524,7 @@
           "number": ""
         }
       ],
-      "sn": 211,
+      "sn": 205,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11670,7 +11562,7 @@
           "number": ""
         }
       ],
-      "sn": 212,
+      "sn": 206,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11718,7 +11610,7 @@
           "number": ""
         }
       ],
-      "sn": 213,
+      "sn": 207,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11773,7 +11665,7 @@
           "number": ""
         }
       ],
-      "sn": 214,
+      "sn": 208,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11893,7 +11785,7 @@
           "number": ""
         }
       ],
-      "sn": 215,
+      "sn": 209,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11912,7 +11804,7 @@
           "number": ""
         }
       ],
-      "sn": 216,
+      "sn": 210,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -11931,7 +11823,7 @@
           "number": ""
         }
       ],
-      "sn": 217,
+      "sn": 211,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12028,7 +11920,7 @@
           "number": ""
         }
       ],
-      "sn": 218,
+      "sn": 212,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12071,7 +11963,7 @@
           "number": ""
         }
       ],
-      "sn": 219,
+      "sn": 213,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12109,7 +12001,7 @@
           "number": ""
         }
       ],
-      "sn": 220,
+      "sn": 214,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12157,7 +12049,7 @@
           "number": ""
         }
       ],
-      "sn": 221,
+      "sn": 215,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12212,7 +12104,7 @@
           "number": ""
         }
       ],
-      "sn": 222,
+      "sn": 216,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12332,7 +12224,7 @@
           "number": ""
         }
       ],
-      "sn": 223,
+      "sn": 217,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12351,7 +12243,7 @@
           "number": ""
         }
       ],
-      "sn": 224,
+      "sn": 218,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12370,7 +12262,7 @@
           "number": ""
         }
       ],
-      "sn": 225,
+      "sn": 219,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12467,7 +12359,7 @@
           "number": ""
         }
       ],
-      "sn": 226,
+      "sn": 220,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12510,7 +12402,7 @@
           "number": ""
         }
       ],
-      "sn": 227,
+      "sn": 221,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12548,7 +12440,7 @@
           "number": ""
         }
       ],
-      "sn": 228,
+      "sn": 222,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12596,7 +12488,7 @@
           "number": ""
         }
       ],
-      "sn": 229,
+      "sn": 223,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12651,7 +12543,7 @@
           "number": ""
         }
       ],
-      "sn": 230,
+      "sn": 224,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12771,7 +12663,7 @@
           "number": ""
         }
       ],
-      "sn": 231,
+      "sn": 225,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12790,7 +12682,7 @@
           "number": ""
         }
       ],
-      "sn": 232,
+      "sn": 226,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12809,7 +12701,7 @@
           "number": ""
         }
       ],
-      "sn": 233,
+      "sn": 227,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12906,7 +12798,7 @@
           "number": ""
         }
       ],
-      "sn": 234,
+      "sn": 228,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12949,7 +12841,7 @@
           "number": ""
         }
       ],
-      "sn": 235,
+      "sn": 229,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -12987,7 +12879,7 @@
           "number": ""
         }
       ],
-      "sn": 236,
+      "sn": 230,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13035,7 +12927,7 @@
           "number": ""
         }
       ],
-      "sn": 237,
+      "sn": 231,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13090,7 +12982,7 @@
           "number": ""
         }
       ],
-      "sn": 238,
+      "sn": 232,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13210,7 +13102,7 @@
           "number": ""
         }
       ],
-      "sn": 239,
+      "sn": 233,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13229,7 +13121,7 @@
           "number": ""
         }
       ],
-      "sn": 240,
+      "sn": 234,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13248,7 +13140,7 @@
           "number": ""
         }
       ],
-      "sn": 241,
+      "sn": 235,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13345,7 +13237,7 @@
           "number": ""
         }
       ],
-      "sn": 242,
+      "sn": 236,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13388,7 +13280,7 @@
           "number": ""
         }
       ],
-      "sn": 243,
+      "sn": 237,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13426,7 +13318,7 @@
           "number": ""
         }
       ],
-      "sn": 244,
+      "sn": 238,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13474,7 +13366,7 @@
           "number": ""
         }
       ],
-      "sn": 245,
+      "sn": 239,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13529,7 +13421,7 @@
           "number": ""
         }
       ],
-      "sn": 246,
+      "sn": 240,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13649,7 +13541,7 @@
           "number": ""
         }
       ],
-      "sn": 247,
+      "sn": 241,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13668,7 +13560,7 @@
           "number": ""
         }
       ],
-      "sn": 248,
+      "sn": 242,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13687,7 +13579,7 @@
           "number": ""
         }
       ],
-      "sn": 249,
+      "sn": 243,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13784,7 +13676,7 @@
           "number": ""
         }
       ],
-      "sn": 250,
+      "sn": 244,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13827,7 +13719,7 @@
           "number": ""
         }
       ],
-      "sn": 251,
+      "sn": 245,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13865,7 +13757,7 @@
           "number": ""
         }
       ],
-      "sn": 252,
+      "sn": 246,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13913,7 +13805,7 @@
           "number": ""
         }
       ],
-      "sn": 253,
+      "sn": 247,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -13968,7 +13860,7 @@
           "number": ""
         }
       ],
-      "sn": 254,
+      "sn": 248,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -14088,7 +13980,7 @@
           "number": ""
         }
       ],
-      "sn": 255,
+      "sn": 249,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -14107,7 +13999,7 @@
           "number": ""
         }
       ],
-      "sn": 256,
+      "sn": 250,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -14904,7 +14796,7 @@
           "number": ""
         }
       ],
-      "sn": 257,
+      "sn": 251,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -14924,26 +14816,7 @@
           "number": ""
         }
       ],
-      "sn": 258,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod4": {
-      "question": "CON_start_imod4",
-      "name": "CON_start_imod4",
-      "label": "Calvi2",
-      "label_de": "Calvi2",
-      "items": [
-        {
-          "text": "Calvi2",
-          "text_de": "Calvi2",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 259,
+      "sn": 252,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -14962,7 +14835,7 @@
           "number": ""
         }
       ],
-      "sn": 260,
+      "sn": 253,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15028,7 +14901,7 @@
           "number": ""
         }
       ],
-      "sn": 261,
+      "sn": 254,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15094,43 +14967,7 @@
           "number": ""
         }
       ],
-      "sn": 262,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod4": {
-      "question": "CON_end_imod4",
-      "name": "CON_end_imod4",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 263,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod5": {
-      "question": "CON_start_imod5",
-      "name": "CON_start_imod5",
-      "label": "Gerlach2",
-      "label_de": "Gerlach2",
-      "items": [
-        {
-          "text": "Gerlach2",
-          "text_de": "Gerlach2",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 264,
+      "sn": 255,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15150,7 +14987,7 @@
           "number": ""
         }
       ],
-      "sn": 265,
+      "sn": 256,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15199,7 +15036,7 @@
           "number": ""
         }
       ],
-      "sn": 266,
+      "sn": 257,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15222,7 +15059,7 @@
           "number": ""
         }
       ],
-      "sn": 267,
+      "sn": 258,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15245,7 +15082,7 @@
           "number": ""
         }
       ],
-      "sn": 268,
+      "sn": 259,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15283,7 +15120,7 @@
           "number": ""
         }
       ],
-      "sn": 269,
+      "sn": 260,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15325,7 +15162,7 @@
           "number": ""
         }
       ],
-      "sn": 270,
+      "sn": 261,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15367,24 +15204,7 @@
           "number": ""
         }
       ],
-      "sn": 271,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod5": {
-      "question": "CON_end_imod5",
-      "name": "CON_end_imod5",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 272,
+      "sn": 262,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -15403,7 +15223,7 @@
           "number": ""
         }
       ],
-      "sn": 273,
+      "sn": 263,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16299,7 +16119,7 @@
           "number": ""
         }
       ],
-      "sn": 274,
+      "sn": 264,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16418,24 +16238,7 @@
           "number": ""
         }
       ],
-      "sn": 275,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_rmod1": {
-      "question": "CON_start_rmod1",
-      "name": "CON_start_rmod1",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 276,
+      "sn": 265,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16454,7 +16257,7 @@
           "number": ""
         }
       ],
-      "sn": 277,
+      "sn": 266,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16581,43 +16384,7 @@
           "number": ""
         }
       ],
-      "sn": 278,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_rmod1": {
-      "question": "CON_end_rmod1",
-      "name": "CON_end_rmod1",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 279,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod6": {
-      "question": "CON_start_imod6",
-      "name": "CON_start_imod6",
-      "label": "Mueller",
-      "label_de": "Mueller",
-      "items": [
-        {
-          "text": "Mueller",
-          "text_de": "Mueller",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 280,
+      "sn": 267,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16637,7 +16404,7 @@
           "number": ""
         }
       ],
-      "sn": 281,
+      "sn": 268,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -16856,7 +16623,7 @@
           "number": ""
         }
       ],
-      "sn": 282,
+      "sn": 269,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -17075,7 +16842,7 @@
           "number": ""
         }
       ],
-      "sn": 283,
+      "sn": 270,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19197,7 +18964,7 @@
           "number": ""
         }
       ],
-      "sn": 284,
+      "sn": 271,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19216,24 +18983,7 @@
           "number": ""
         }
       ],
-      "sn": 285,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod6": {
-      "question": "CON_end_imod6",
-      "name": "CON_end_imod6",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 286,
+      "sn": 272,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19252,7 +19002,7 @@
           "number": ""
         }
       ],
-      "sn": 287,
+      "sn": 273,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19336,7 +19086,7 @@
           "number": ""
         }
       ],
-      "sn": 288,
+      "sn": 274,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19355,7 +19105,7 @@
           "number": ""
         }
       ],
-      "sn": 289,
+      "sn": 275,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19374,7 +19124,7 @@
           "number": ""
         }
       ],
-      "sn": 290,
+      "sn": 276,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19411,7 +19161,7 @@
           "number": ""
         }
       ],
-      "sn": 291,
+      "sn": 277,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19465,7 +19215,7 @@
           "number": ""
         }
       ],
-      "sn": 292,
+      "sn": 278,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19523,7 +19273,7 @@
           "number": ""
         }
       ],
-      "sn": 293,
+      "sn": 279,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19571,7 +19321,7 @@
           "number": ""
         }
       ],
-      "sn": 294,
+      "sn": 280,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19590,7 +19340,7 @@
           "number": ""
         }
       ],
-      "sn": 295,
+      "sn": 281,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19629,7 +19379,7 @@
           "number": ""
         }
       ],
-      "sn": 296,
+      "sn": 282,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19667,7 +19417,7 @@
           "number": ""
         }
       ],
-      "sn": 297,
+      "sn": 283,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19915,7 +19665,7 @@
           "number": ""
         }
       ],
-      "sn": 298,
+      "sn": 284,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19953,7 +19703,7 @@
           "number": ""
         }
       ],
-      "sn": 299,
+      "sn": 285,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -19991,7 +19741,7 @@
           "number": ""
         }
       ],
-      "sn": 300,
+      "sn": 286,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20040,7 +19790,7 @@
           "number": ""
         }
       ],
-      "sn": 301,
+      "sn": 287,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20103,7 +19853,7 @@
           "number": ""
         }
       ],
-      "sn": 302,
+      "sn": 288,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20192,7 +19942,7 @@
           "number": ""
         }
       ],
-      "sn": 303,
+      "sn": 289,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20211,7 +19961,7 @@
           "number": ""
         }
       ],
-      "sn": 304,
+      "sn": 290,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20250,7 +20000,7 @@
           "number": ""
         }
       ],
-      "sn": 305,
+      "sn": 291,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20292,7 +20042,7 @@
           "number": ""
         }
       ],
-      "sn": 306,
+      "sn": 292,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20311,7 +20061,7 @@
           "number": ""
         }
       ],
-      "sn": 307,
+      "sn": 293,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20348,7 +20098,7 @@
           "number": ""
         }
       ],
-      "sn": 308,
+      "sn": 294,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20387,7 +20137,7 @@
           "number": ""
         }
       ],
-      "sn": 309,
+      "sn": 295,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20637,7 +20387,7 @@
           "number": ""
         }
       ],
-      "sn": 310,
+      "sn": 296,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20656,7 +20406,7 @@
           "number": ""
         }
       ],
-      "sn": 311,
+      "sn": 297,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20715,7 +20465,7 @@
           "number": ""
         }
       ],
-      "sn": 312,
+      "sn": 298,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20753,7 +20503,7 @@
           "number": ""
         }
       ],
-      "sn": 313,
+      "sn": 299,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20791,7 +20541,7 @@
           "number": ""
         }
       ],
-      "sn": 314,
+      "sn": 300,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20824,7 +20574,7 @@
           "number": ""
         }
       ],
-      "sn": 315,
+      "sn": 301,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20872,7 +20622,7 @@
           "number": ""
         }
       ],
-      "sn": 316,
+      "sn": 302,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20910,7 +20660,7 @@
           "number": ""
         }
       ],
-      "sn": 317,
+      "sn": 303,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20948,26 +20698,7 @@
           "number": ""
         }
       ],
-      "sn": 318,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod7": {
-      "question": "CON_start_imod7",
-      "name": "CON_start_imod7",
-      "label": "Hipp1",
-      "label_de": "Hipp1",
-      "items": [
-        {
-          "text": "Hipp1",
-          "text_de": "Hipp1",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 319,
+      "sn": 304,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -20986,7 +20717,7 @@
           "number": ""
         }
       ],
-      "sn": 320,
+      "sn": 305,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21661,7 +21392,7 @@
           "number": ""
         }
       ],
-      "sn": 321,
+      "sn": 306,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21698,7 +21429,7 @@
           "number": ""
         }
       ],
-      "sn": 322,
+      "sn": 307,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21741,7 +21472,7 @@
           "number": ""
         }
       ],
-      "sn": 323,
+      "sn": 308,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21779,7 +21510,7 @@
           "number": ""
         }
       ],
-      "sn": 324,
+      "sn": 309,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21816,7 +21547,7 @@
           "number": ""
         }
       ],
-      "sn": 325,
+      "sn": 310,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21871,24 +21602,7 @@
           "number": ""
         }
       ],
-      "sn": 326,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod7": {
-      "question": "CON_end_imod7",
-      "name": "CON_end_imod7",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 327,
+      "sn": 311,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21907,7 +21621,7 @@
           "number": ""
         }
       ],
-      "sn": 328,
+      "sn": 312,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21947,7 +21661,7 @@
           "number": ""
         }
       ],
-      "sn": 329,
+      "sn": 313,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -21985,7 +21699,7 @@
           "number": ""
         }
       ],
-      "sn": 330,
+      "sn": 314,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -22032,7 +21746,7 @@
           "number": ""
         }
       ],
-      "sn": 331,
+      "sn": 315,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -22280,7 +21994,7 @@
           "number": ""
         }
       ],
-      "sn": 332,
+      "sn": 316,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -22340,7 +22054,7 @@
           "number": ""
         }
       ],
-      "sn": 333,
+      "sn": 317,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -22371,7 +22085,7 @@
           "number": ""
         }
       ],
-      "sn": 334,
+      "sn": 318,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -22402,7 +22116,7 @@
           "number": ""
         }
       ],
-      "sn": 335,
+      "sn": 319,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23146,7 +22860,7 @@
           "number": ""
         }
       ],
-      "sn": 336,
+      "sn": 320,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23184,7 +22898,7 @@
           "number": ""
         }
       ],
-      "sn": 337,
+      "sn": 321,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23227,7 +22941,7 @@
           "number": ""
         }
       ],
-      "sn": 338,
+      "sn": 322,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23270,7 +22984,7 @@
           "number": ""
         }
       ],
-      "sn": 339,
+      "sn": 323,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23331,7 +23045,7 @@
           "number": ""
         }
       ],
-      "sn": 340,
+      "sn": 324,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23379,7 +23093,7 @@
           "number": ""
         }
       ],
-      "sn": 341,
+      "sn": 325,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23432,7 +23146,7 @@
           "number": ""
         }
       ],
-      "sn": 342,
+      "sn": 326,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23480,7 +23194,7 @@
           "number": ""
         }
       ],
-      "sn": 343,
+      "sn": 327,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23523,7 +23237,7 @@
           "number": ""
         }
       ],
-      "sn": 344,
+      "sn": 328,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23581,7 +23295,7 @@
           "number": ""
         }
       ],
-      "sn": 345,
+      "sn": 329,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23619,7 +23333,7 @@
           "number": ""
         }
       ],
-      "sn": 346,
+      "sn": 330,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23657,7 +23371,7 @@
           "number": ""
         }
       ],
-      "sn": 347,
+      "sn": 331,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23686,7 +23400,7 @@
           "number": ""
         }
       ],
-      "sn": 348,
+      "sn": 332,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23724,7 +23438,7 @@
           "number": ""
         }
       ],
-      "sn": 349,
+      "sn": 333,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23762,7 +23476,7 @@
           "number": ""
         }
       ],
-      "sn": 350,
+      "sn": 334,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23805,7 +23519,7 @@
           "number": ""
         }
       ],
-      "sn": 351,
+      "sn": 335,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23870,7 +23584,7 @@
           "number": ""
         }
       ],
-      "sn": 352,
+      "sn": 336,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23889,7 +23603,7 @@
           "number": ""
         }
       ],
-      "sn": 353,
+      "sn": 337,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -23948,7 +23662,7 @@
           "number": ""
         }
       ],
-      "sn": 354,
+      "sn": 338,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24006,7 +23720,7 @@
           "number": ""
         }
       ],
-      "sn": 355,
+      "sn": 339,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24054,7 +23768,7 @@
           "number": ""
         }
       ],
-      "sn": 356,
+      "sn": 340,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24112,7 +23826,7 @@
           "number": ""
         }
       ],
-      "sn": 357,
+      "sn": 341,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24155,7 +23869,7 @@
           "number": ""
         }
       ],
-      "sn": 358,
+      "sn": 342,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24193,7 +23907,7 @@
           "number": ""
         }
       ],
-      "sn": 359,
+      "sn": 343,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24212,7 +23926,7 @@
           "number": ""
         }
       ],
-      "sn": 360,
+      "sn": 344,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24268,7 +23982,7 @@
           "number": ""
         }
       ],
-      "sn": 361,
+      "sn": 345,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24301,7 +24015,7 @@
           "number": ""
         }
       ],
-      "sn": 362,
+      "sn": 346,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24344,7 +24058,7 @@
           "number": ""
         }
       ],
-      "sn": 363,
+      "sn": 347,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24377,7 +24091,7 @@
           "number": ""
         }
       ],
-      "sn": 364,
+      "sn": 348,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24410,7 +24124,7 @@
           "number": ""
         }
       ],
-      "sn": 365,
+      "sn": 349,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24463,7 +24177,7 @@
           "number": ""
         }
       ],
-      "sn": 366,
+      "sn": 350,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24596,26 +24310,7 @@
           "number": ""
         }
       ],
-      "sn": 367,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod8": {
-      "question": "CON_start_imod8",
-      "name": "CON_start_imod8",
-      "label": "Grabka",
-      "label_de": "Grabka",
-      "items": [
-        {
-          "text": "Grabka",
-          "text_de": "Grabka",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 368,
+      "sn": 351,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24634,7 +24329,7 @@
           "number": ""
         }
       ],
-      "sn": 369,
+      "sn": 352,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24671,7 +24366,7 @@
           "number": ""
         }
       ],
-      "sn": 370,
+      "sn": 353,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24699,24 +24394,7 @@
           "number": ""
         }
       ],
-      "sn": 371,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod8": {
-      "question": "CON_end_imod8",
-      "name": "CON_end_imod8",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 372,
+      "sn": 354,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24735,7 +24413,7 @@
           "number": ""
         }
       ],
-      "sn": 373,
+      "sn": 355,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24774,7 +24452,7 @@
           "number": ""
         }
       ],
-      "sn": 374,
+      "sn": 356,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24811,7 +24489,7 @@
           "number": ""
         }
       ],
-      "sn": 375,
+      "sn": 357,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24856,7 +24534,7 @@
           "number": ""
         }
       ],
-      "sn": 376,
+      "sn": 358,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -24875,7 +24553,7 @@
           "number": ""
         }
       ],
-      "sn": 377,
+      "sn": 359,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25131,7 +24809,7 @@
           "number": ""
         }
       ],
-      "sn": 378,
+      "sn": 360,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25164,7 +24842,7 @@
           "number": ""
         }
       ],
-      "sn": 379,
+      "sn": 361,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25197,7 +24875,7 @@
           "number": ""
         }
       ],
-      "sn": 380,
+      "sn": 362,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25230,7 +24908,7 @@
           "number": ""
         }
       ],
-      "sn": 381,
+      "sn": 363,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25263,7 +24941,7 @@
           "number": ""
         }
       ],
-      "sn": 382,
+      "sn": 364,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25296,7 +24974,7 @@
           "number": ""
         }
       ],
-      "sn": 383,
+      "sn": 365,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25329,7 +25007,7 @@
           "number": ""
         }
       ],
-      "sn": 384,
+      "sn": 366,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25362,7 +25040,7 @@
           "number": ""
         }
       ],
-      "sn": 385,
+      "sn": 367,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25395,7 +25073,7 @@
           "number": ""
         }
       ],
-      "sn": 386,
+      "sn": 368,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25428,7 +25106,7 @@
           "number": ""
         }
       ],
-      "sn": 387,
+      "sn": 369,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25461,7 +25139,7 @@
           "number": ""
         }
       ],
-      "sn": 388,
+      "sn": 370,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25494,26 +25172,7 @@
           "number": ""
         }
       ],
-      "sn": 389,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod9": {
-      "question": "CON_start_imod9",
-      "name": "CON_start_imod9",
-      "label": "Hipp2",
-      "label_de": "Hipp2",
-      "items": [
-        {
-          "text": "Hipp2",
-          "text_de": "Hipp2",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 390,
+      "sn": 371,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25533,7 +25192,7 @@
           "number": ""
         }
       ],
-      "sn": 391,
+      "sn": 372,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25562,7 +25221,7 @@
           "number": ""
         }
       ],
-      "sn": 392,
+      "sn": 373,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25594,7 +25253,7 @@
           "number": ""
         }
       ],
-      "sn": 393,
+      "sn": 374,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25796,7 +25455,7 @@
           "number": ""
         }
       ],
-      "sn": 394,
+      "sn": 375,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25817,7 +25476,7 @@
           "number": ""
         }
       ],
-      "sn": 395,
+      "sn": 376,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25868,7 +25527,7 @@
           "number": ""
         }
       ],
-      "sn": 396,
+      "sn": 377,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -25889,7 +25548,7 @@
           "number": ""
         }
       ],
-      "sn": 397,
+      "sn": 378,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26242,7 +25901,7 @@
           "number": ""
         }
       ],
-      "sn": 398,
+      "sn": 379,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26304,7 +25963,7 @@
           "number": ""
         }
       ],
-      "sn": 399,
+      "sn": 380,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26366,7 +26025,7 @@
           "number": ""
         }
       ],
-      "sn": 400,
+      "sn": 381,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26397,7 +26056,7 @@
           "number": ""
         }
       ],
-      "sn": 401,
+      "sn": 382,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26505,7 +26164,7 @@
           "number": ""
         }
       ],
-      "sn": 402,
+      "sn": 383,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26556,7 +26215,7 @@
           "number": ""
         }
       ],
-      "sn": 403,
+      "sn": 384,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26577,7 +26236,7 @@
           "number": ""
         }
       ],
-      "sn": 404,
+      "sn": 385,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26930,7 +26589,7 @@
           "number": ""
         }
       ],
-      "sn": 405,
+      "sn": 386,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -26992,7 +26651,7 @@
           "number": ""
         }
       ],
-      "sn": 406,
+      "sn": 387,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27054,7 +26713,7 @@
           "number": ""
         }
       ],
-      "sn": 407,
+      "sn": 388,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27085,7 +26744,7 @@
           "number": ""
         }
       ],
-      "sn": 408,
+      "sn": 389,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27193,7 +26852,7 @@
           "number": ""
         }
       ],
-      "sn": 409,
+      "sn": 390,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27244,7 +26903,7 @@
           "number": ""
         }
       ],
-      "sn": 410,
+      "sn": 391,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27265,7 +26924,7 @@
           "number": ""
         }
       ],
-      "sn": 411,
+      "sn": 392,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27618,7 +27277,7 @@
           "number": ""
         }
       ],
-      "sn": 412,
+      "sn": 393,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27680,7 +27339,7 @@
           "number": ""
         }
       ],
-      "sn": 413,
+      "sn": 394,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27742,7 +27401,7 @@
           "number": ""
         }
       ],
-      "sn": 414,
+      "sn": 395,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27773,7 +27432,7 @@
           "number": ""
         }
       ],
-      "sn": 415,
+      "sn": 396,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27881,7 +27540,7 @@
           "number": ""
         }
       ],
-      "sn": 416,
+      "sn": 397,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27932,7 +27591,7 @@
           "number": ""
         }
       ],
-      "sn": 417,
+      "sn": 398,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -27953,7 +27612,7 @@
           "number": ""
         }
       ],
-      "sn": 418,
+      "sn": 399,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28306,7 +27965,7 @@
           "number": ""
         }
       ],
-      "sn": 419,
+      "sn": 400,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28368,7 +28027,7 @@
           "number": ""
         }
       ],
-      "sn": 420,
+      "sn": 401,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28430,7 +28089,7 @@
           "number": ""
         }
       ],
-      "sn": 421,
+      "sn": 402,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28461,7 +28120,7 @@
           "number": ""
         }
       ],
-      "sn": 422,
+      "sn": 403,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28569,7 +28228,7 @@
           "number": ""
         }
       ],
-      "sn": 423,
+      "sn": 404,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -28708,7 +28367,7 @@
           "number": ""
         }
       ],
-      "sn": 424,
+      "sn": 405,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29062,7 +28721,7 @@
           "number": ""
         }
       ],
-      "sn": 425,
+      "sn": 406,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29091,24 +28750,7 @@
           "number": ""
         }
       ],
-      "sn": 426,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod9": {
-      "question": "CON_end_imod9",
-      "name": "CON_end_imod9",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 427,
+      "sn": 407,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29127,7 +28769,7 @@
           "number": ""
         }
       ],
-      "sn": 428,
+      "sn": 408,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29146,7 +28788,7 @@
           "number": ""
         }
       ],
-      "sn": 429,
+      "sn": 409,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29198,26 +28840,7 @@
           "number": ""
         }
       ],
-      "sn": 430,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod10": {
-      "question": "CON_start_imod10",
-      "name": "CON_start_imod10",
-      "label": "Gerlach3",
-      "label_de": "Gerlach3",
-      "items": [
-        {
-          "text": "Gerlach3",
-          "text_de": "Gerlach3",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 431,
+      "sn": 410,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29237,7 +28860,7 @@
           "number": ""
         }
       ],
-      "sn": 432,
+      "sn": 411,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29268,7 +28891,7 @@
           "number": ""
         }
       ],
-      "sn": 433,
+      "sn": 412,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29345,7 +28968,7 @@
           "number": ""
         }
       ],
-      "sn": 434,
+      "sn": 413,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29430,24 +29053,7 @@
           "number": ""
         }
       ],
-      "sn": 435,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod10": {
-      "question": "CON_end_imod10",
-      "name": "CON_end_imod10",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 436,
+      "sn": 414,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29466,7 +29072,7 @@
           "number": ""
         }
       ],
-      "sn": 437,
+      "sn": 415,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29503,7 +29109,7 @@
           "number": ""
         }
       ],
-      "sn": 438,
+      "sn": 416,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -29581,7 +29187,7 @@
           "number": ""
         }
       ],
-      "sn": 439,
+      "sn": 417,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30247,7 +29853,7 @@
           "number": ""
         }
       ],
-      "sn": 440,
+      "sn": 418,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30313,7 +29919,7 @@
           "number": ""
         }
       ],
-      "sn": 441,
+      "sn": 419,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30332,7 +29938,7 @@
           "number": ""
         }
       ],
-      "sn": 442,
+      "sn": 420,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30377,7 +29983,7 @@
           "number": ""
         }
       ],
-      "sn": 443,
+      "sn": 421,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30423,7 +30029,7 @@
           "number": ""
         }
       ],
-      "sn": 444,
+      "sn": 422,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30442,7 +30048,7 @@
           "number": ""
         }
       ],
-      "sn": 445,
+      "sn": 423,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30461,7 +30067,7 @@
           "number": ""
         }
       ],
-      "sn": 446,
+      "sn": 424,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30508,7 +30114,7 @@
           "number": ""
         }
       ],
-      "sn": 447,
+      "sn": 425,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30545,7 +30151,7 @@
           "number": ""
         }
       ],
-      "sn": 448,
+      "sn": 426,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30618,7 +30224,7 @@
           "number": ""
         }
       ],
-      "sn": 449,
+      "sn": 427,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30671,26 +30277,7 @@
           "number": ""
         }
       ],
-      "sn": 450,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod11": {
-      "question": "CON_start_imod11",
-      "name": "CON_start_imod11",
-      "label": "Graeber",
-      "label_de": "Graeber",
-      "items": [
-        {
-          "text": "Graeber",
-          "text_de": "Graeber",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 451,
+      "sn": 428,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30709,7 +30296,7 @@
           "number": ""
         }
       ],
-      "sn": 452,
+      "sn": 429,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30808,7 +30395,7 @@
           "number": ""
         }
       ],
-      "sn": 453,
+      "sn": 430,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30907,24 +30494,7 @@
           "number": ""
         }
       ],
-      "sn": 454,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod11": {
-      "question": "CON_end_imod11",
-      "name": "CON_end_imod11",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 455,
+      "sn": 431,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30943,7 +30513,7 @@
           "number": ""
         }
       ],
-      "sn": 456,
+      "sn": 432,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -30962,7 +30532,7 @@
           "number": ""
         }
       ],
-      "sn": 457,
+      "sn": 433,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31024,7 +30594,7 @@
           "number": ""
         }
       ],
-      "sn": 458,
+      "sn": 434,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31072,7 +30642,7 @@
           "number": ""
         }
       ],
-      "sn": 459,
+      "sn": 435,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31101,7 +30671,7 @@
           "number": ""
         }
       ],
-      "sn": 460,
+      "sn": 436,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31139,7 +30709,7 @@
           "number": ""
         }
       ],
-      "sn": 461,
+      "sn": 437,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31177,7 +30747,7 @@
           "number": ""
         }
       ],
-      "sn": 462,
+      "sn": 438,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31206,7 +30776,7 @@
           "number": ""
         }
       ],
-      "sn": 463,
+      "sn": 439,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -31225,7 +30795,7 @@
           "number": ""
         }
       ],
-      "sn": 464,
+      "sn": 440,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34599,26 +34169,7 @@
           "number": ""
         }
       ],
-      "sn": 465,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod12": {
-      "question": "CON_start_imod12",
-      "name": "CON_start_imod12",
-      "label": "Horn",
-      "label_de": "Horn",
-      "items": [
-        {
-          "text": "Horn",
-          "text_de": "Horn",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 466,
+      "sn": 441,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34637,7 +34188,7 @@
           "number": ""
         }
       ],
-      "sn": 467,
+      "sn": 442,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34672,7 +34223,7 @@
           "number": ""
         }
       ],
-      "sn": 468,
+      "sn": 443,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34857,7 +34408,7 @@
           "number": ""
         }
       ],
-      "sn": 469,
+      "sn": 444,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34943,24 +34494,7 @@
           "number": ""
         }
       ],
-      "sn": 470,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod12": {
-      "question": "CON_end_imod12",
-      "name": "CON_end_imod12",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 471,
+      "sn": 445,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -34979,7 +34513,7 @@
           "number": ""
         }
       ],
-      "sn": 472,
+      "sn": 446,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35063,26 +34597,7 @@
           "number": ""
         }
       ],
-      "sn": 473,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod13": {
-      "question": "CON_start_imod13",
-      "name": "CON_start_imod13",
-      "label": "Arikan",
-      "label_de": "Arikan",
-      "items": [
-        {
-          "text": "Arikan",
-          "text_de": "Arikan",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 474,
+      "sn": 447,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35102,7 +34617,7 @@
           "number": ""
         }
       ],
-      "sn": 475,
+      "sn": 448,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35138,7 +34653,7 @@
           "number": ""
         }
       ],
-      "sn": 476,
+      "sn": 449,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35174,7 +34689,7 @@
           "number": ""
         }
       ],
-      "sn": 477,
+      "sn": 450,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35251,7 +34766,7 @@
           "number": ""
         }
       ],
-      "sn": 478,
+      "sn": 451,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35344,7 +34859,7 @@
           "number": ""
         }
       ],
-      "sn": 479,
+      "sn": 452,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35413,41 +34928,7 @@
           "number": ""
         }
       ],
-      "sn": 480,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod13": {
-      "question": "CON_end_imod13",
-      "name": "CON_end_imod13",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 481,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_rmod2": {
-      "question": "CON_start_rmod2",
-      "name": "CON_start_rmod2",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 482,
+      "sn": 453,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35466,7 +34947,7 @@
           "number": ""
         }
       ],
-      "sn": 483,
+      "sn": 454,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35499,43 +34980,7 @@
           "number": ""
         }
       ],
-      "sn": 484,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_rmod2": {
-      "question": "CON_end_rmod2",
-      "name": "CON_end_rmod2",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 485,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod14": {
-      "question": "CON_start_imod14",
-      "name": "CON_start_imod14",
-      "label": "Kantarci",
-      "label_de": "Kantarci",
-      "items": [
-        {
-          "text": "Kantarci",
-          "text_de": "Kantarci",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 486,
+      "sn": 455,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35555,7 +35000,7 @@
           "number": ""
         }
       ],
-      "sn": 487,
+      "sn": 456,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35584,7 +35029,7 @@
           "number": ""
         }
       ],
-      "sn": 488,
+      "sn": 457,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35616,7 +35061,7 @@
           "number": ""
         }
       ],
-      "sn": 489,
+      "sn": 458,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35635,7 +35080,7 @@
           "number": ""
         }
       ],
-      "sn": 490,
+      "sn": 459,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35655,7 +35100,7 @@
           "number": ""
         }
       ],
-      "sn": 491,
+      "sn": 460,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35692,7 +35137,7 @@
           "number": ""
         }
       ],
-      "sn": 492,
+      "sn": 461,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35729,7 +35174,7 @@
           "number": ""
         }
       ],
-      "sn": 493,
+      "sn": 462,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35768,7 +35213,7 @@
           "number": ""
         }
       ],
-      "sn": 494,
+      "sn": 463,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35900,7 +35345,7 @@
           "number": ""
         }
       ],
-      "sn": 495,
+      "sn": 464,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -35959,7 +35404,7 @@
           "number": ""
         }
       ],
-      "sn": 496,
+      "sn": 465,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36007,7 +35452,7 @@
           "number": ""
         }
       ],
-      "sn": 497,
+      "sn": 466,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36093,7 +35538,7 @@
           "number": ""
         }
       ],
-      "sn": 498,
+      "sn": 467,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36134,7 +35579,7 @@
           "number": ""
         }
       ],
-      "sn": 499,
+      "sn": 468,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36435,7 +35880,7 @@
           "number": ""
         }
       ],
-      "sn": 500,
+      "sn": 469,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36559,7 +36004,7 @@
           "number": ""
         }
       ],
-      "sn": 501,
+      "sn": 470,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36578,7 +36023,7 @@
           "number": ""
         }
       ],
-      "sn": 502,
+      "sn": 471,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -36638,7 +36083,7 @@
           "number": ""
         }
       ],
-      "sn": 503,
+      "sn": 472,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -37950,7 +37395,7 @@
           "number": ""
         }
       ],
-      "sn": 504,
+      "sn": 473,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38093,7 +37538,7 @@
           "number": ""
         }
       ],
-      "sn": 505,
+      "sn": 474,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38189,7 +37634,7 @@
           "number": ""
         }
       ],
-      "sn": 506,
+      "sn": 475,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38209,7 +37654,7 @@
           "number": ""
         }
       ],
-      "sn": 507,
+      "sn": 476,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38352,7 +37797,7 @@
           "number": ""
         }
       ],
-      "sn": 508,
+      "sn": 477,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38448,7 +37893,7 @@
           "number": ""
         }
       ],
-      "sn": 509,
+      "sn": 478,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38468,7 +37913,7 @@
           "number": ""
         }
       ],
-      "sn": 510,
+      "sn": 479,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38611,7 +38056,7 @@
           "number": ""
         }
       ],
-      "sn": 511,
+      "sn": 480,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38707,7 +38152,7 @@
           "number": ""
         }
       ],
-      "sn": 512,
+      "sn": 481,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -38727,7 +38172,7 @@
           "number": ""
         }
       ],
-      "sn": 513,
+      "sn": 482,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -39566,7 +39011,7 @@
           "number": ""
         }
       ],
-      "sn": 514,
+      "sn": 483,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -39776,7 +39221,7 @@
           "number": ""
         }
       ],
-      "sn": 515,
+      "sn": 484,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -39986,7 +39431,7 @@
           "number": ""
         }
       ],
-      "sn": 516,
+      "sn": 485,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -40196,7 +39641,7 @@
           "number": ""
         }
       ],
-      "sn": 517,
+      "sn": 486,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -40650,7 +40095,7 @@
           "number": ""
         }
       ],
-      "sn": 518,
+      "sn": 487,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -40775,7 +40220,7 @@
           "number": ""
         }
       ],
-      "sn": 519,
+      "sn": 488,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -40900,7 +40345,7 @@
           "number": ""
         }
       ],
-      "sn": 520,
+      "sn": 489,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41025,7 +40470,7 @@
           "number": ""
         }
       ],
-      "sn": 521,
+      "sn": 490,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41044,7 +40489,7 @@
           "number": ""
         }
       ],
-      "sn": 522,
+      "sn": 491,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41197,7 +40642,7 @@
           "number": ""
         }
       ],
-      "sn": 523,
+      "sn": 492,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41350,7 +40795,7 @@
           "number": ""
         }
       ],
-      "sn": 524,
+      "sn": 493,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41503,7 +40948,7 @@
           "number": ""
         }
       ],
-      "sn": 525,
+      "sn": 494,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41703,7 +41148,7 @@
           "number": ""
         }
       ],
-      "sn": 526,
+      "sn": 495,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -41903,7 +41348,7 @@
           "number": ""
         }
       ],
-      "sn": 527,
+      "sn": 496,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42103,7 +41548,7 @@
           "number": ""
         }
       ],
-      "sn": 528,
+      "sn": 497,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42215,7 +41660,7 @@
           "number": ""
         }
       ],
-      "sn": 529,
+      "sn": 498,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42327,7 +41772,7 @@
           "number": ""
         }
       ],
-      "sn": 530,
+      "sn": 499,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42439,7 +41884,7 @@
           "number": ""
         }
       ],
-      "sn": 531,
+      "sn": 500,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42468,24 +41913,7 @@
           "number": ""
         }
       ],
-      "sn": 532,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod14": {
-      "question": "CON_end_imod14",
-      "name": "CON_end_imod14",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 533,
+      "sn": 501,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -42504,7 +41932,7 @@
           "number": ""
         }
       ],
-      "sn": 534,
+      "sn": 502,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43301,7 +42729,7 @@
           "number": ""
         }
       ],
-      "sn": 535,
+      "sn": 503,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43323,7 +42751,7 @@
           "number": ""
         }
       ],
-      "sn": 536,
+      "sn": 504,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43343,7 +42771,7 @@
           "number": ""
         }
       ],
-      "sn": 537,
+      "sn": 505,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43362,7 +42790,7 @@
           "number": ""
         }
       ],
-      "sn": 538,
+      "sn": 506,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43399,7 +42827,7 @@
           "number": ""
         }
       ],
-      "sn": 539,
+      "sn": 507,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43437,7 +42865,7 @@
           "number": ""
         }
       ],
-      "sn": 540,
+      "sn": 508,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -43475,7 +42903,7 @@
           "number": ""
         }
       ],
-      "sn": 541,
+      "sn": 509,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -44511,7 +43939,7 @@
           "number": ""
         }
       ],
-      "sn": 542,
+      "sn": 510,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -44530,7 +43958,7 @@
           "number": ""
         }
       ],
-      "sn": 543,
+      "sn": 511,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -44593,7 +44021,7 @@
           "number": ""
         }
       ],
-      "sn": 544,
+      "sn": 512,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -44649,7 +44077,7 @@
           "number": ""
         }
       ],
-      "sn": 545,
+      "sn": 513,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -44762,7 +44190,7 @@
           "number": ""
         }
       ],
-      "sn": 546,
+      "sn": 514,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46045,7 +45473,7 @@
           "number": ""
         }
       ],
-      "sn": 547,
+      "sn": 515,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46113,7 +45541,7 @@
           "number": ""
         }
       ],
-      "sn": 548,
+      "sn": 516,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46132,7 +45560,7 @@
           "number": ""
         }
       ],
-      "sn": 549,
+      "sn": 517,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46175,7 +45603,7 @@
           "number": ""
         }
       ],
-      "sn": 550,
+      "sn": 518,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46232,7 +45660,7 @@
           "number": ""
         }
       ],
-      "sn": 551,
+      "sn": 519,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46275,7 +45703,7 @@
           "number": ""
         }
       ],
-      "sn": 552,
+      "sn": 520,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46294,7 +45722,7 @@
           "number": ""
         }
       ],
-      "sn": 553,
+      "sn": 521,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -46344,7 +45772,7 @@
           "number": ""
         }
       ],
-      "sn": 554,
+      "sn": 522,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -47096,7 +46524,7 @@
           "number": ""
         }
       ],
-      "sn": 555,
+      "sn": 523,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -47146,7 +46574,7 @@
           "number": ""
         }
       ],
-      "sn": 556,
+      "sn": 524,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -47206,7 +46634,7 @@
           "number": ""
         }
       ],
-      "sn": 557,
+      "sn": 525,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -47958,7 +47386,7 @@
           "number": ""
         }
       ],
-      "sn": 558,
+      "sn": 526,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -48008,7 +47436,7 @@
           "number": ""
         }
       ],
-      "sn": 559,
+      "sn": 527,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -48068,7 +47496,7 @@
           "number": ""
         }
       ],
-      "sn": 560,
+      "sn": 528,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -48820,7 +48248,7 @@
           "number": ""
         }
       ],
-      "sn": 561,
+      "sn": 529,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -48870,7 +48298,7 @@
           "number": ""
         }
       ],
-      "sn": 562,
+      "sn": 530,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -48930,7 +48358,7 @@
           "number": ""
         }
       ],
-      "sn": 563,
+      "sn": 531,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -49682,7 +49110,7 @@
           "number": ""
         }
       ],
-      "sn": 564,
+      "sn": 532,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -49732,7 +49160,7 @@
           "number": ""
         }
       ],
-      "sn": 565,
+      "sn": 533,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -49792,7 +49220,7 @@
           "number": ""
         }
       ],
-      "sn": 566,
+      "sn": 534,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -50544,7 +49972,7 @@
           "number": ""
         }
       ],
-      "sn": 567,
+      "sn": 535,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -50594,7 +50022,7 @@
           "number": ""
         }
       ],
-      "sn": 568,
+      "sn": 536,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -50654,7 +50082,7 @@
           "number": ""
         }
       ],
-      "sn": 569,
+      "sn": 537,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -51406,7 +50834,7 @@
           "number": ""
         }
       ],
-      "sn": 570,
+      "sn": 538,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -51456,7 +50884,7 @@
           "number": ""
         }
       ],
-      "sn": 571,
+      "sn": 539,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -51516,7 +50944,7 @@
           "number": ""
         }
       ],
-      "sn": 572,
+      "sn": 540,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -52268,7 +51696,7 @@
           "number": ""
         }
       ],
-      "sn": 573,
+      "sn": 541,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -52318,7 +51746,7 @@
           "number": ""
         }
       ],
-      "sn": 574,
+      "sn": 542,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -52378,7 +51806,7 @@
           "number": ""
         }
       ],
-      "sn": 575,
+      "sn": 543,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -53130,7 +52558,7 @@
           "number": ""
         }
       ],
-      "sn": 576,
+      "sn": 544,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -53180,7 +52608,7 @@
           "number": ""
         }
       ],
-      "sn": 577,
+      "sn": 545,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -53240,7 +52668,7 @@
           "number": ""
         }
       ],
-      "sn": 578,
+      "sn": 546,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -53992,7 +53420,7 @@
           "number": ""
         }
       ],
-      "sn": 579,
+      "sn": 547,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54042,7 +53470,7 @@
           "number": ""
         }
       ],
-      "sn": 580,
+      "sn": 548,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54102,7 +53530,7 @@
           "number": ""
         }
       ],
-      "sn": 581,
+      "sn": 549,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54854,7 +54282,7 @@
           "number": ""
         }
       ],
-      "sn": 582,
+      "sn": 550,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54904,7 +54332,7 @@
           "number": ""
         }
       ],
-      "sn": 583,
+      "sn": 551,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54964,7 +54392,7 @@
           "number": ""
         }
       ],
-      "sn": 584,
+      "sn": 552,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -54983,7 +54411,7 @@
           "number": ""
         }
       ],
-      "sn": 585,
+      "sn": 553,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55002,7 +54430,7 @@
           "number": ""
         }
       ],
-      "sn": 586,
+      "sn": 554,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55113,7 +54541,7 @@
           "number": ""
         }
       ],
-      "sn": 587,
+      "sn": 555,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55132,7 +54560,7 @@
           "number": ""
         }
       ],
-      "sn": 588,
+      "sn": 556,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55151,7 +54579,7 @@
           "number": ""
         }
       ],
-      "sn": 589,
+      "sn": 557,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55206,7 +54634,7 @@
           "number": ""
         }
       ],
-      "sn": 590,
+      "sn": 558,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55229,7 +54657,7 @@
           "number": ""
         }
       ],
-      "sn": 591,
+      "sn": 559,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55262,7 +54690,7 @@
           "number": ""
         }
       ],
-      "sn": 592,
+      "sn": 560,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55310,7 +54738,7 @@
           "number": ""
         }
       ],
-      "sn": 593,
+      "sn": 561,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55347,7 +54775,7 @@
           "number": ""
         }
       ],
-      "sn": 594,
+      "sn": 562,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55390,7 +54818,7 @@
           "number": ""
         }
       ],
-      "sn": 595,
+      "sn": 563,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55503,7 +54931,7 @@
           "number": ""
         }
       ],
-      "sn": 596,
+      "sn": 564,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55561,7 +54989,7 @@
           "number": ""
         }
       ],
-      "sn": 597,
+      "sn": 565,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55596,7 +55024,7 @@
           "number": ""
         }
       ],
-      "sn": 598,
+      "sn": 566,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55631,7 +55059,7 @@
           "number": ""
         }
       ],
-      "sn": 599,
+      "sn": 567,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55654,7 +55082,7 @@
           "number": ""
         }
       ],
-      "sn": 600,
+      "sn": 568,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55677,7 +55105,7 @@
           "number": ""
         }
       ],
-      "sn": 601,
+      "sn": 569,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55715,7 +55143,7 @@
           "number": ""
         }
       ],
-      "sn": 602,
+      "sn": 570,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55734,7 +55162,7 @@
           "number": ""
         }
       ],
-      "sn": 603,
+      "sn": 571,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55836,7 +55264,7 @@
           "number": ""
         }
       ],
-      "sn": 604,
+      "sn": 572,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55855,7 +55283,7 @@
           "number": ""
         }
       ],
-      "sn": 605,
+      "sn": 573,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55874,7 +55302,7 @@
           "number": ""
         }
       ],
-      "sn": 606,
+      "sn": 574,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -55920,7 +55348,7 @@
           "number": ""
         }
       ],
-      "sn": 607,
+      "sn": 575,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -57086,7 +56514,7 @@
           "number": ""
         }
       ],
-      "sn": 608,
+      "sn": 576,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -57119,7 +56547,7 @@
           "number": ""
         }
       ],
-      "sn": 609,
+      "sn": 577,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -57182,7 +56610,7 @@
           "number": ""
         }
       ],
-      "sn": 610,
+      "sn": 578,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -57302,7 +56730,7 @@
           "number": ""
         }
       ],
-      "sn": 611,
+      "sn": 579,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -58593,7 +58021,7 @@
           "number": ""
         }
       ],
-      "sn": 612,
+      "sn": 580,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -58637,7 +58065,7 @@
           "number": ""
         }
       ],
-      "sn": 613,
+      "sn": 581,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -59803,7 +59231,7 @@
           "number": ""
         }
       ],
-      "sn": 614,
+      "sn": 582,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -59857,7 +59285,7 @@
           "number": ""
         }
       ],
-      "sn": 615,
+      "sn": 583,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -59901,7 +59329,7 @@
           "number": ""
         }
       ],
-      "sn": 616,
+      "sn": 584,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -61067,7 +60495,7 @@
           "number": ""
         }
       ],
-      "sn": 617,
+      "sn": 585,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -61121,7 +60549,7 @@
           "number": ""
         }
       ],
-      "sn": 618,
+      "sn": 586,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62157,7 +61585,7 @@
           "number": ""
         }
       ],
-      "sn": 619,
+      "sn": 587,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62221,7 +61649,7 @@
           "number": ""
         }
       ],
-      "sn": 620,
+      "sn": 588,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62292,7 +61720,7 @@
           "number": ""
         }
       ],
-      "sn": 621,
+      "sn": 589,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62348,7 +61776,7 @@
           "number": ""
         }
       ],
-      "sn": 622,
+      "sn": 590,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62406,7 +61834,7 @@
           "number": ""
         }
       ],
-      "sn": 623,
+      "sn": 591,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62459,7 +61887,7 @@
           "number": ""
         }
       ],
-      "sn": 624,
+      "sn": 592,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62517,7 +61945,7 @@
           "number": ""
         }
       ],
-      "sn": 625,
+      "sn": 593,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62565,7 +61993,7 @@
           "number": ""
         }
       ],
-      "sn": 626,
+      "sn": 594,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62628,7 +62056,7 @@
           "number": ""
         }
       ],
-      "sn": 627,
+      "sn": 595,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -62674,7 +62102,7 @@
           "number": ""
         }
       ],
-      "sn": 628,
+      "sn": 596,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -63840,7 +63268,7 @@
           "number": ""
         }
       ],
-      "sn": 629,
+      "sn": 597,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -63873,7 +63301,7 @@
           "number": ""
         }
       ],
-      "sn": 630,
+      "sn": 598,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -63936,7 +63364,7 @@
           "number": ""
         }
       ],
-      "sn": 631,
+      "sn": 599,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -64055,7 +63483,7 @@
           "number": ""
         }
       ],
-      "sn": 632,
+      "sn": 600,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -65346,7 +64774,7 @@
           "number": ""
         }
       ],
-      "sn": 633,
+      "sn": 601,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -65390,7 +64818,7 @@
           "number": ""
         }
       ],
-      "sn": 634,
+      "sn": 602,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -66556,7 +65984,7 @@
           "number": ""
         }
       ],
-      "sn": 635,
+      "sn": 603,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -66610,7 +66038,7 @@
           "number": ""
         }
       ],
-      "sn": 636,
+      "sn": 604,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -66654,7 +66082,7 @@
           "number": ""
         }
       ],
-      "sn": 637,
+      "sn": 605,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -67820,7 +67248,7 @@
           "number": ""
         }
       ],
-      "sn": 638,
+      "sn": 606,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -67874,7 +67302,7 @@
           "number": ""
         }
       ],
-      "sn": 639,
+      "sn": 607,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -68908,7 +68336,7 @@
           "number": ""
         }
       ],
-      "sn": 640,
+      "sn": 608,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -68972,7 +68400,7 @@
           "number": ""
         }
       ],
-      "sn": 641,
+      "sn": 609,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69043,7 +68471,7 @@
           "number": ""
         }
       ],
-      "sn": 642,
+      "sn": 610,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69099,7 +68527,7 @@
           "number": ""
         }
       ],
-      "sn": 643,
+      "sn": 611,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69157,7 +68585,7 @@
           "number": ""
         }
       ],
-      "sn": 644,
+      "sn": 612,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69210,7 +68638,7 @@
           "number": ""
         }
       ],
-      "sn": 645,
+      "sn": 613,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69268,7 +68696,7 @@
           "number": ""
         }
       ],
-      "sn": 646,
+      "sn": 614,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69316,7 +68744,7 @@
           "number": ""
         }
       ],
-      "sn": 647,
+      "sn": 615,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69379,7 +68807,7 @@
           "number": ""
         }
       ],
-      "sn": 648,
+      "sn": 616,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -69398,7 +68826,7 @@
           "number": ""
         }
       ],
-      "sn": 649,
+      "sn": 617,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70524,7 +69952,7 @@
           "number": ""
         }
       ],
-      "sn": 650,
+      "sn": 618,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70545,7 +69973,7 @@
           "number": ""
         }
       ],
-      "sn": 651,
+      "sn": 619,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70566,7 +69994,7 @@
           "number": ""
         }
       ],
-      "sn": 652,
+      "sn": 620,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70589,7 +70017,7 @@
           "number": ""
         }
       ],
-      "sn": 653,
+      "sn": 621,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70612,7 +70040,7 @@
           "number": ""
         }
       ],
-      "sn": 654,
+      "sn": 622,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70635,7 +70063,7 @@
           "number": ""
         }
       ],
-      "sn": 655,
+      "sn": 623,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70658,7 +70086,7 @@
           "number": ""
         }
       ],
-      "sn": 656,
+      "sn": 624,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70681,7 +70109,7 @@
           "number": ""
         }
       ],
-      "sn": 657,
+      "sn": 625,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70703,7 +70131,7 @@
           "number": ""
         }
       ],
-      "sn": 658,
+      "sn": 626,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70725,7 +70153,7 @@
           "number": ""
         }
       ],
-      "sn": 659,
+      "sn": 627,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70747,7 +70175,7 @@
           "number": ""
         }
       ],
-      "sn": 660,
+      "sn": 628,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70769,7 +70197,7 @@
           "number": ""
         }
       ],
-      "sn": 661,
+      "sn": 629,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70791,7 +70219,7 @@
           "number": ""
         }
       ],
-      "sn": 662,
+      "sn": 630,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70813,7 +70241,7 @@
           "number": ""
         }
       ],
-      "sn": 663,
+      "sn": 631,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70835,7 +70263,7 @@
           "number": ""
         }
       ],
-      "sn": 664,
+      "sn": 632,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70857,7 +70285,7 @@
           "number": ""
         }
       ],
-      "sn": 665,
+      "sn": 633,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70879,7 +70307,7 @@
           "number": ""
         }
       ],
-      "sn": 666,
+      "sn": 634,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70901,7 +70329,7 @@
           "number": ""
         }
       ],
-      "sn": 667,
+      "sn": 635,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70923,7 +70351,7 @@
           "number": ""
         }
       ],
-      "sn": 668,
+      "sn": 636,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70945,7 +70373,7 @@
           "number": ""
         }
       ],
-      "sn": 669,
+      "sn": 637,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70967,7 +70395,7 @@
           "number": ""
         }
       ],
-      "sn": 670,
+      "sn": 638,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -70989,7 +70417,7 @@
           "number": ""
         }
       ],
-      "sn": 671,
+      "sn": 639,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71011,7 +70439,7 @@
           "number": ""
         }
       ],
-      "sn": 672,
+      "sn": 640,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71033,7 +70461,7 @@
           "number": ""
         }
       ],
-      "sn": 673,
+      "sn": 641,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71055,7 +70483,7 @@
           "number": ""
         }
       ],
-      "sn": 674,
+      "sn": 642,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71077,7 +70505,7 @@
           "number": ""
         }
       ],
-      "sn": 675,
+      "sn": 643,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71099,7 +70527,7 @@
           "number": ""
         }
       ],
-      "sn": 676,
+      "sn": 644,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71121,7 +70549,7 @@
           "number": ""
         }
       ],
-      "sn": 677,
+      "sn": 645,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71143,7 +70571,7 @@
           "number": ""
         }
       ],
-      "sn": 678,
+      "sn": 646,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71165,7 +70593,7 @@
           "number": ""
         }
       ],
-      "sn": 679,
+      "sn": 647,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71187,7 +70615,7 @@
           "number": ""
         }
       ],
-      "sn": 680,
+      "sn": 648,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71209,7 +70637,7 @@
           "number": ""
         }
       ],
-      "sn": 681,
+      "sn": 649,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71231,7 +70659,7 @@
           "number": ""
         }
       ],
-      "sn": 682,
+      "sn": 650,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71253,7 +70681,7 @@
           "number": ""
         }
       ],
-      "sn": 683,
+      "sn": 651,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71275,7 +70703,7 @@
           "number": ""
         }
       ],
-      "sn": 684,
+      "sn": 652,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71294,7 +70722,7 @@
           "number": ""
         }
       ],
-      "sn": 685,
+      "sn": 653,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71344,7 +70772,7 @@
           "number": ""
         }
       ],
-      "sn": 686,
+      "sn": 654,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71367,7 +70795,7 @@
           "number": ""
         }
       ],
-      "sn": 687,
+      "sn": 655,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71390,7 +70818,7 @@
           "number": ""
         }
       ],
-      "sn": 688,
+      "sn": 656,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -71428,7 +70856,7 @@
           "number": ""
         }
       ],
-      "sn": 689,
+      "sn": 657,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72096,7 +71524,7 @@
           "number": ""
         }
       ],
-      "sn": 690,
+      "sn": 658,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72131,7 +71559,7 @@
           "number": ""
         }
       ],
-      "sn": 691,
+      "sn": 659,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72166,7 +71594,7 @@
           "number": ""
         }
       ],
-      "sn": 692,
+      "sn": 660,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72216,7 +71644,7 @@
           "number": ""
         }
       ],
-      "sn": 693,
+      "sn": 661,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72271,7 +71699,7 @@
           "number": ""
         }
       ],
-      "sn": 694,
+      "sn": 662,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72939,7 +72367,7 @@
           "number": ""
         }
       ],
-      "sn": 695,
+      "sn": 663,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -72974,7 +72402,7 @@
           "number": ""
         }
       ],
-      "sn": 696,
+      "sn": 664,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73009,7 +72437,7 @@
           "number": ""
         }
       ],
-      "sn": 697,
+      "sn": 665,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73059,7 +72487,7 @@
           "number": ""
         }
       ],
-      "sn": 698,
+      "sn": 666,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73114,7 +72542,7 @@
           "number": ""
         }
       ],
-      "sn": 699,
+      "sn": 667,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73782,7 +73210,7 @@
           "number": ""
         }
       ],
-      "sn": 700,
+      "sn": 668,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73817,7 +73245,7 @@
           "number": ""
         }
       ],
-      "sn": 701,
+      "sn": 669,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73852,7 +73280,7 @@
           "number": ""
         }
       ],
-      "sn": 702,
+      "sn": 670,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73902,7 +73330,7 @@
           "number": ""
         }
       ],
-      "sn": 703,
+      "sn": 671,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -73957,7 +73385,7 @@
           "number": ""
         }
       ],
-      "sn": 704,
+      "sn": 672,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -74625,7 +74053,7 @@
           "number": ""
         }
       ],
-      "sn": 705,
+      "sn": 673,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -74660,7 +74088,7 @@
           "number": ""
         }
       ],
-      "sn": 706,
+      "sn": 674,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -74695,7 +74123,7 @@
           "number": ""
         }
       ],
-      "sn": 707,
+      "sn": 675,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -74745,7 +74173,7 @@
           "number": ""
         }
       ],
-      "sn": 708,
+      "sn": 676,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -74800,7 +74228,7 @@
           "number": ""
         }
       ],
-      "sn": 709,
+      "sn": 677,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -75468,7 +74896,7 @@
           "number": ""
         }
       ],
-      "sn": 710,
+      "sn": 678,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -75503,7 +74931,7 @@
           "number": ""
         }
       ],
-      "sn": 711,
+      "sn": 679,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -75538,7 +74966,7 @@
           "number": ""
         }
       ],
-      "sn": 712,
+      "sn": 680,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -75588,7 +75016,7 @@
           "number": ""
         }
       ],
-      "sn": 713,
+      "sn": 681,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -75643,7 +75071,7 @@
           "number": ""
         }
       ],
-      "sn": 714,
+      "sn": 682,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -76311,7 +75739,7 @@
           "number": ""
         }
       ],
-      "sn": 715,
+      "sn": 683,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -76346,7 +75774,7 @@
           "number": ""
         }
       ],
-      "sn": 716,
+      "sn": 684,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -76381,7 +75809,7 @@
           "number": ""
         }
       ],
-      "sn": 717,
+      "sn": 685,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -76431,7 +75859,7 @@
           "number": ""
         }
       ],
-      "sn": 718,
+      "sn": 686,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -76486,7 +75914,7 @@
           "number": ""
         }
       ],
-      "sn": 719,
+      "sn": 687,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77154,7 +76582,7 @@
           "number": ""
         }
       ],
-      "sn": 720,
+      "sn": 688,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77189,7 +76617,7 @@
           "number": ""
         }
       ],
-      "sn": 721,
+      "sn": 689,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77224,7 +76652,7 @@
           "number": ""
         }
       ],
-      "sn": 722,
+      "sn": 690,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77274,7 +76702,7 @@
           "number": ""
         }
       ],
-      "sn": 723,
+      "sn": 691,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77329,7 +76757,7 @@
           "number": ""
         }
       ],
-      "sn": 724,
+      "sn": 692,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -77997,7 +77425,7 @@
           "number": ""
         }
       ],
-      "sn": 725,
+      "sn": 693,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78032,7 +77460,7 @@
           "number": ""
         }
       ],
-      "sn": 726,
+      "sn": 694,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78067,7 +77495,7 @@
           "number": ""
         }
       ],
-      "sn": 727,
+      "sn": 695,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78117,7 +77545,7 @@
           "number": ""
         }
       ],
-      "sn": 728,
+      "sn": 696,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78172,7 +77600,7 @@
           "number": ""
         }
       ],
-      "sn": 729,
+      "sn": 697,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78840,7 +78268,7 @@
           "number": ""
         }
       ],
-      "sn": 730,
+      "sn": 698,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78875,7 +78303,7 @@
           "number": ""
         }
       ],
-      "sn": 731,
+      "sn": 699,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78910,7 +78338,7 @@
           "number": ""
         }
       ],
-      "sn": 732,
+      "sn": 700,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -78960,7 +78388,7 @@
           "number": ""
         }
       ],
-      "sn": 733,
+      "sn": 701,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79015,7 +78443,7 @@
           "number": ""
         }
       ],
-      "sn": 734,
+      "sn": 702,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79683,7 +79111,7 @@
           "number": ""
         }
       ],
-      "sn": 735,
+      "sn": 703,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79718,7 +79146,7 @@
           "number": ""
         }
       ],
-      "sn": 736,
+      "sn": 704,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79753,7 +79181,7 @@
           "number": ""
         }
       ],
-      "sn": 737,
+      "sn": 705,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79803,7 +79231,7 @@
           "number": ""
         }
       ],
-      "sn": 738,
+      "sn": 706,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79858,7 +79286,7 @@
           "number": ""
         }
       ],
-      "sn": 739,
+      "sn": 707,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -79877,7 +79305,7 @@
           "number": ""
         }
       ],
-      "sn": 740,
+      "sn": 708,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80666,7 +80094,7 @@
           "number": ""
         }
       ],
-      "sn": 741,
+      "sn": 709,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80759,7 +80187,7 @@
           "number": ""
         }
       ],
-      "sn": 742,
+      "sn": 710,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80779,7 +80207,7 @@
           "number": ""
         }
       ],
-      "sn": 743,
+      "sn": 711,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80799,7 +80227,7 @@
           "number": ""
         }
       ],
-      "sn": 744,
+      "sn": 712,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80888,7 +80316,7 @@
           "number": ""
         }
       ],
-      "sn": 745,
+      "sn": 713,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80922,7 +80350,7 @@
           "number": ""
         }
       ],
-      "sn": 746,
+      "sn": 714,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80943,7 +80371,7 @@
           "number": ""
         }
       ],
-      "sn": 747,
+      "sn": 715,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80962,7 +80390,7 @@
           "number": ""
         }
       ],
-      "sn": 748,
+      "sn": 716,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -80982,7 +80410,7 @@
           "number": ""
         }
       ],
-      "sn": 749,
+      "sn": 717,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81019,7 +80447,7 @@
           "number": ""
         }
       ],
-      "sn": 750,
+      "sn": 718,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81073,7 +80501,7 @@
           "number": ""
         }
       ],
-      "sn": 751,
+      "sn": 719,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81092,7 +80520,7 @@
           "number": ""
         }
       ],
-      "sn": 752,
+      "sn": 720,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81145,7 +80573,7 @@
           "number": ""
         }
       ],
-      "sn": 753,
+      "sn": 721,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81264,7 +80692,7 @@
           "number": ""
         }
       ],
-      "sn": 754,
+      "sn": 722,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81426,7 +80854,7 @@
           "number": ""
         }
       ],
-      "sn": 755,
+      "sn": 723,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81445,7 +80873,7 @@
           "number": ""
         }
       ],
-      "sn": 756,
+      "sn": 724,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81508,7 +80936,7 @@
           "number": ""
         }
       ],
-      "sn": 757,
+      "sn": 725,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81546,7 +80974,7 @@
           "number": ""
         }
       ],
-      "sn": 758,
+      "sn": 726,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81623,7 +81051,7 @@
           "number": ""
         }
       ],
-      "sn": 759,
+      "sn": 727,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81643,7 +81071,7 @@
           "number": ""
         }
       ],
-      "sn": 760,
+      "sn": 728,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81716,7 +81144,7 @@
           "number": ""
         }
       ],
-      "sn": 761,
+      "sn": 729,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81748,7 +81176,7 @@
           "number": ""
         }
       ],
-      "sn": 762,
+      "sn": 730,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81768,26 +81196,7 @@
           "number": ""
         }
       ],
-      "sn": 763,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod15": {
-      "question": "CON_start_imod15",
-      "name": "CON_start_imod15",
-      "label": "Calvi3",
-      "label_de": "Calvi3",
-      "items": [
-        {
-          "text": "Calvi3",
-          "text_de": "Calvi3",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 764,
+      "sn": 731,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81806,7 +81215,7 @@
           "number": ""
         }
       ],
-      "sn": 765,
+      "sn": 732,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81857,7 +81266,7 @@
           "number": ""
         }
       ],
-      "sn": 766,
+      "sn": 733,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81909,7 +81318,7 @@
           "number": ""
         }
       ],
-      "sn": 767,
+      "sn": 734,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -81961,7 +81370,7 @@
           "number": ""
         }
       ],
-      "sn": 768,
+      "sn": 735,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82013,7 +81422,7 @@
           "number": ""
         }
       ],
-      "sn": 769,
+      "sn": 736,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82064,7 +81473,7 @@
           "number": ""
         }
       ],
-      "sn": 770,
+      "sn": 737,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82083,7 +81492,7 @@
           "number": ""
         }
       ],
-      "sn": 771,
+      "sn": 738,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82102,43 +81511,7 @@
           "number": ""
         }
       ],
-      "sn": 772,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod15": {
-      "question": "CON_end_imod15",
-      "name": "CON_end_imod15",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 773,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_start_imod16": {
-      "question": "CON_start_imod16",
-      "name": "CON_start_imod16",
-      "label": "Calvi4",
-      "label_de": "Calvi4",
-      "items": [
-        {
-          "text": "Calvi4",
-          "text_de": "Calvi4",
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 774,
+      "sn": 739,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82158,7 +81531,7 @@
           "number": ""
         }
       ],
-      "sn": 775,
+      "sn": 740,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82212,7 +81585,7 @@
           "number": ""
         }
       ],
-      "sn": 776,
+      "sn": 741,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82283,7 +81656,7 @@
           "number": ""
         }
       ],
-      "sn": 777,
+      "sn": 742,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82303,7 +81676,7 @@
           "number": ""
         }
       ],
-      "sn": 778,
+      "sn": 743,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82344,7 +81717,7 @@
           "number": ""
         }
       ],
-      "sn": 779,
+      "sn": 744,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82386,7 +81759,7 @@
           "number": ""
         }
       ],
-      "sn": 780,
+      "sn": 745,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82422,7 +81795,7 @@
           "number": ""
         }
       ],
-      "sn": 781,
+      "sn": 746,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82468,7 +81841,7 @@
           "number": ""
         }
       ],
-      "sn": 782,
+      "sn": 747,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82514,7 +81887,7 @@
           "number": ""
         }
       ],
-      "sn": 783,
+      "sn": 748,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82550,7 +81923,7 @@
           "number": ""
         }
       ],
-      "sn": 784,
+      "sn": 749,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82592,7 +81965,7 @@
           "number": ""
         }
       ],
-      "sn": 785,
+      "sn": 750,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82655,7 +82028,7 @@
           "number": ""
         }
       ],
-      "sn": 786,
+      "sn": 751,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82697,7 +82070,7 @@
           "number": ""
         }
       ],
-      "sn": 787,
+      "sn": 752,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82739,7 +82112,7 @@
           "number": ""
         }
       ],
-      "sn": 788,
+      "sn": 753,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82781,7 +82154,7 @@
           "number": ""
         }
       ],
-      "sn": 789,
+      "sn": 754,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82823,7 +82196,7 @@
           "number": ""
         }
       ],
-      "sn": 790,
+      "sn": 755,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82865,7 +82238,7 @@
           "number": ""
         }
       ],
-      "sn": 791,
+      "sn": 756,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82912,7 +82285,7 @@
           "number": ""
         }
       ],
-      "sn": 792,
+      "sn": 757,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82963,7 +82336,7 @@
           "number": ""
         }
       ],
-      "sn": 793,
+      "sn": 758,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     },
@@ -82982,24 +82355,7 @@
           "number": ""
         }
       ],
-      "sn": 794,
-      "instrument": "soep-is-2024",
-      "study": "soep-is"
-    },
-    "CON_end_imod16": {
-      "question": "CON_end_imod16",
-      "name": "CON_end_imod16",
-      "label": "",
-      "label_de": "",
-      "items": [
-        {
-          "scale": "txt",
-          "sn": 0,
-          "item": "root",
-          "number": ""
-        }
-      ],
-      "sn": 795,
+      "sn": 759,
       "instrument": "soep-is-2024",
       "study": "soep-is"
     }
