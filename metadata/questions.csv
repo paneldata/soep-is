@@ -20,7 +20,6 @@ soep-is,soep-is-2024,4,zusp_ba_ja,Question on consent to IAB record linkage shou
 soep-is,soep-is-2024,5,haushalt_ja,Preload from HH-Matrix,Preload aus HH-Matrix,4234+,Is the respondent the head of household or the person who answers the questions about the household? The questions on the household should be answered by the person who knows most about the concerns of the total household and the other household members. Important Note: The questions on the household have to be filled out once for each household. Without this question part all other questions would be useless for data analysis!,"Ist die Befragungsperson der Haushaltsvorstand beziehungsweise die Person, die die Fragen zum Haushalt beantwortet? Die Fragen zum Haushalt soll diejenige Person beantworten, die am besten über die Belange des Gesamthaushalts und der anderen Haushaltsmitglieder Auskunft geben kann. Wichtiger Hinweis: Die Fragen zum Haushalt müssen grundsätzlich für jeden Haushalt einmal ausgefüllt werden. Ohne diesen Fragenteil sind alle anderen Fragen für die Datenauswertung unbrauchbar!",,,,,hh,cat
 soep-is,soep-is-2024,6,calvi_mode,Preload aus HH-Matrix,Preload aus HH-Matrix,calvi1,CALVI-Mode,CALVI-Mode,,,,,,cat
 soep-is,soep-is-2024,6,calvi_record,Preload aus HH-Matrix,Preload aus HH-Matrix,calvi2,CALVI Recording question,CALVI Recording Frage,,,,,,cat
-soep-is,soep-is-2024,CON_start_imod1,,Calvi1,Calvi1,,,,,,,,,txt
 soep-is,soep-is-2024,Imod1,1,Innovative module – CALVI Questions (Beginning),Innovatives Modul – CALVI Fragen (Anfang),,,,,,2;qMethod=2,,,txt
 soep-is,soep-is-2024,7,,"Thank you very much for participating in our video interview as part of ""Living in Germany"" today. This is the first year we are incorporating video interviews into our study. All your information will be treated with the utmost confidentiality, as always, and we will adhere to all applicable data protection laws in Germany.
 As a token of appreciation for your participation, we will once again send you a thank-you letter along with a 10-euro note this year.","Vielen Dank, dass Sie heute an unserem Video-Interview im Rahmen von ""Leben in Deutschland"" teilnehmen. Dies ist das erste Jahr in dem wir in unserer Studie Video-Interviews anwenden. Alle Ihre Angaben werden wie immer streng vertraulich behandelt und alle in Deutschland gültigen Datenschutzgesetze werden eingehalten. 
@@ -50,8 +49,6 @@ soep-is,soep-is-2024,15,camera,"For interviewer only, do not read out loud: Has 
 soep-is,soep-is-2024,16,camera_adj,"I see that you have activated your camera, but I cannot see you. Could you position yourself and the camera so that I can see you? It can be helpful for the conversation.","Ich sehe Sie haben Ihre Kamera aktiviert, aber ich kann Sie nicht sehen. Würden Sie sich und die Kamera so platzieren, dass ich Sie sehen kann? Für die Gesprächssituation kann das hilfreich sein.",i7,,,,,15;camera=2,,,cat
 soep-is,soep-is-2024,17,camera_on,"For a pleasant conversation situation during the survey, it can be helpful if respondents turn on their camera. Would you turn on your camera?","Für eine angenehme Gesprächssituation während der Befragung kann es hilfreich sein, wenn Befragte ihre Kamera einschalten. Würden Sie Ihre Kamera einschalten?",i8,,,,,15;camera=3,,,cat
 soep-is,soep-is-2024,18,video_record,We would like to record the interview today for quality control reasons. Do you agree?,Zur Qualitätskontrolle möchten wir die Befragung heute gerne aufzeichnen. Sind Sie damit einverstanden?,i9,,,,,6;calvi_record=1,,,cat
-soep-is,soep-is-2024,CON_end_imod1,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod2,,Arikan-intv,Arikan-intv,,,,,,,,,txt
 soep-is,soep-is-2024,Imod2,1,Innovative module – Interviewer questions: What Does ‘Migration Background’ Tell Us,Innovatives Modul – Interviewerbefragung: Was sagt uns der „Migrationshintergrund“?,,,,,,"2;qMethod=1,2",,,txt
 soep-is,soep-is-2024,19,ari24_01_intv,INT: Would you describe the respondent as migrant or a person with migration background?,INT: Würden Sie die Befragungsperson als Migrant/Migrantin bzw. Person mit Migrationshintergrund bezeichnen?,1+4652,,,,,,,,cat
 soep-is,soep-is-2024,20,1,INT: On the basis of what characteristics you perceive the respondent as a migrant or person with a migration background?,INT: Aufgrund welcher Merkmale nehmen Sie die Befragungsperson als Migrant/Migrantin bzw. Person mit Migrationshintergrund wahr?,,,,,,19;ari24_01_intv=1,,,txt
@@ -79,9 +76,7 @@ soep-is,soep-is-2024,22,ari24_16_intv,Face (e.g. eye shape),Das Gesicht (z.B. Au
 soep-is,soep-is-2024,22,ari24_17_intv,Other,Sonstiges,,,,,,,,,bin
 soep-is,soep-is-2024,22,ari24_17o_intv,"[Other, namely:]","[Sonstiges, und zwar:]",,,,,,22;ari24_17_intv=1,,,chr
 soep-is,soep-is-2024,22,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2024,CON_end_imod2,,,,,,,,,,,,txt
 soep-is,soep-is-2024,HH,1,Household questions,Haushaltsfragen,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod3,,Gerlach1,Gerlach1,,,,,,,,,txt
 soep-is,soep-is-2024,Imod3,1,Innovative module – Question children household questionnaire,Innovatives Modul – Kinderfrage Haushaltsfragebogen,,,,,,(5;haushalt_ja=1)&(3;gebjahr>1954),,,txt
 soep-is,soep-is-2024,23,anzahlkhv,Preload,Preload,,Number of children (biological and adoptive) of the head of household specified in the household matrix.,"Anzahl der Kinder des HH-Vorstandes (leiblich oder adoptiert), die in der HH-Matrix angegeben wurden.",,,,,,int
 soep-is,soep-is-2024,24,1,"Below you will find a brief overview of which of your children you have already given us information about. Apart from those listed here, do you have or have you had any other children? If so, how many?","Nachfolgend sehen Sie eine kurze Übersicht darüber, über welche Ihrer Kinder Sie uns bereits Informationen gegeben haben. Haben oder hatten Sie abgesehen von den hier aufgeführten noch weitere Kinder? Wenn ja, wie viele?",,"Both biological and adoptive children are included (but not foster or stepchildren). This includes, for example, children who live in other households or are already deceased.","Gemeint sind leibliche oder adoptierte Kinder (nicht Pflege- oder Stiefkinder). Dazu zählen z.B. Kinder, die in anderen Haushalten wohnen oder bereits verstorben sind.",,,23;anzahlkhv>0,,,txt
@@ -93,7 +88,6 @@ soep-is,soep-is-2024,26,lkind_lkno_CONb,Please mark at least one answer,Bitte ge
 soep-is,soep-is-2024,27,lkind_CONc_is,You indicated *? children. Is that amount correct?,Rückfrage Sie haben *? Kinder angegeben. War die Angabe richtig?,1+4652,,,,,(24;lb0285_is>15),,,cat
 soep-is,soep-is-2024,28,ger24_02_1,Do you plan to have any children in the future (biological or adopted)?,Planen Sie in der Zukunft Kinder zu haben (leiblich oder adoptiert)?,i22,,,,,(23;anzahlkhv=0)&(24;lb0286_v2_is=2),,,cat
 soep-is,soep-is-2024,29,ger24_03_1,Do you wish you had or could have children (biological or adopted)?,Hätten Sie gerne Kinder (leiblich oder adoptiert)?,i22,,,,,28;ger24_02_1=2,,,cat
-soep-is,soep-is-2024,CON_end_imod3,,,,,,,,,,,,txt
 soep-is,soep-is-2024,HH1,1,Preloads,Preloads,,,,,,,,,txt
 soep-is,soep-is-2024,30,hh_anzahlkinderu18,Number of children in the household (born in 2007 or later),Anzahl der Kinder im Haushalt (Jahrgang 2007 oder später geboren),,,,,,,,,int
 soep-is,soep-is-2024,31,1,[1st child] What year was this child born?,[1. Kind] In welchem Jahr ist dieses Kind geboren?,,,,,,30;hh_anzahlkinderu18>=1,,,txt
@@ -653,12 +647,9 @@ soep-is,soep-is-2024,BP_age_pe2,BP_month,Month:,Monat:,46+4652,,,,,,,,cat
 soep-is,soep-is-2024,BP_age_pe2,BP_year,Year:,Jahr:,Y_o_B,,,,,,,,cat
 soep-is,soep-is-2024,BP_age_pe2,BP_sex,Are you ...,Sind Sie ...,sex,,,,,,,,cat
 soep-is,soep-is-2024,223,1,"The following questions are not about the household as a whole, but about you personally.","In den folgenden Fragen geht es nicht um den Haushalt als Ganzen, sondern um Sie persönlich.",,,,,,(5;haushalt_ja=1)|(2;qMethod=1),,,txt
-soep-is,soep-is-2024,CON_start_imod4,,Calvi2,Calvi2,,,,,,,,,txt
 soep-is,soep-is-2024,Imod4,1,Innovative module – CALVI Questions (Internet),Innovatives Modul – CALVI Fragen (Internet),,,,,,,,,txt
 soep-is,soep-is-2024,224,internet_use,How often do you use the internet for your personal use?,Wie häufig nutzen Sie das Internet für private Zwecke?,i10,,,,,,,,cat
 soep-is,soep-is-2024,225,video_use,"How often do you use video-calls via the internet (e.g., using programs like Zoom, WhatsApp, or Skype)?","Wie häufig führen Sie Videotelefonate über das Internet (z.B. mit Programmen wie Zoom, WhatsApp oder Skype)?",i10,,,,,,,,cat
-soep-is,soep-is-2024,CON_end_imod4,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod5,,Gerlach2,Gerlach2,,,,,,,,,txt
 soep-is,soep-is-2024,Imod5,1,Innovative module – Question children individual questionnaire,Innovatives Modul – Kinderfrage Personenfragebogen,,,,,,(5;haushalt_ja=2)&(3;gebjahr>1954),,,txt
 soep-is,soep-is-2024,226,lb0286_v2,"Do you or did you have children? If so, how many?","Haben oder hatten sie Kinder? Wenn ja, wie viele?",1+4652,Both biological and adoptive children are included (but not foster or stepchildren),Gemeint sind leibliche oder adoptierte Kinder (nicht Pflege- oder Stiefkinder).,,,,,lkind,cat
 soep-is,soep-is-2024,226,lb0285,[Yes] children:,"[Ja, und zwar:] Kinder: ",,,,,,226;lb0286_v2=1,,lbsanz,int
@@ -667,7 +658,6 @@ soep-is,soep-is-2024,228,lkind_lkno_CONb,Please mark at least one answer,Bitte g
 soep-is,soep-is-2024,229,lkind_CONc,You indicated *? children. Is that amount correct?,Rückfrage Sie haben *? Kinder angegeben. War die Angabe richtig?,1+4652,,,,,(226;lb0285>15),,L202R3,cat
 soep-is,soep-is-2024,230,ger24_02_2,Do you plan to have any children in the future (biological or adopted)?,Planen Sie in der Zukunft Kinder zu haben (leiblich oder adoptiert)?,i22,,,,,226;lb0286_v2=2,,,cat
 soep-is,soep-is-2024,231,ger24_03_2,Do you wish you had or could have children (biological or adopted)?,Hätten Sie gerne Kinder (leiblich oder adoptiert)?,i22,,,,,230;ger24_02_2=2,,,cat
-soep-is,soep-is-2024,CON_end_imod5,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P1,1,Satisfaction life segments,Zufriedenheit Lebensbereiche,,,,,,,,,txt
 soep-is,soep-is-2024,232,1,How satisfied are you currently with the following areas of your life?,Wie zufrieden sind Sie gegenwärtig mit den folgenden Bereichen Ihres Lebens?,,"Please answer on a scale from 0 to 10, where 0 means “completely dissatisfied“ and 10 means “completely satisfied“.","Bitte geben Sie für jeden Bereich auf der Skala einen Wert an:
 Wenn Sie ganz und gar unzufrieden sind, den Wert „0“, wenn Sie ganz und gar zufrieden sind, den Wert „10“, wenn Sie teils zufrieden / teils unzufrieden sind, einen Wert dazwischen.",,,,,,txt
@@ -687,14 +677,11 @@ soep-is,soep-is-2024,232,plh0181,… with your circle of friends and acquaintanc
 soep-is,soep-is-2024,233,plj0587,How often do you have the feeling that you miss the company of other people?,"Wie häufig haben Sie das Gefühl, dass Ihnen die Gesellschaft anderer fehlt?",3764+16,,,,,,,pgef5,cat
 soep-is,soep-is-2024,233,plj0588,How often do you feel left out?,"Wie häufig haben Sie das Gefühl, außen vor zu sein?",3764+16,,,,,,,pgef6,cat
 soep-is,soep-is-2024,233,plj0589,How often do you feel socially isolated?,Wie häufig fühlen Sie sich sozial isoliert?,3764+16,,,,,,,pgef7,cat
-soep-is,soep-is-2024,CON_start_rmod1,,,,,,,,,,,,txt
 soep-is,soep-is-2024,Rmod1,1,Trust and fairness,Vertrauen und Fairness,,,,,,,,,txt
 soep-is,soep-is-2024,234,1,What is your opinion on the following three statements?,Wie ist Ihre Meinung zu den folgenden drei Aussagen?,,,,,,,,,txt
 soep-is,soep-is-2024,234,plh0192,People can generally be trusted,Im Allgemeinen kann man den Menschen vertrauen,476+4652,,,,,,,pbez01,cat
 soep-is,soep-is-2024,234,plh0193,Nowadays you can't rely on anyone,Heutzutage kann man sich auf niemanden mehr verlassen,476+4652,,,,,,,pbez02,cat
 soep-is,soep-is-2024,234,plh0194,"When dealing with strangers, it is better to be careful before trusting them","Wenn man mit Fremden zu tun hat, ist es besser, vorsichtig zu sein, bevor man ihnen vertraut",476+4652,,,,,,,pbez03,cat
-soep-is,soep-is-2024,CON_end_rmod1,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod6,,Mueller,Mueller,,,,,,,,,txt
 soep-is,soep-is-2024,Imod6,1,Innovative module - Effects of Life Events on Boundary Management,Innovatives Modul - Auswirkungen von Lebensereignissen auf das Boundary Management,,,,,,2;pe_svar=2,,,txt
 soep-is,soep-is-2024,235,1,How much do you agree with each of the following statements:,"Bitte geben Sie an, wie sehr Sie den folgenden Aussagen im Generellen zustimmen:",,,,,,,,,txt
 soep-is,soep-is-2024,235,mue23_01,I do not like to think about my work life outside of my working hours.,Ich möchte außerhalb meiner Arbeitszeit nicht an meine Arbeit denken.,i11,,,,,,,,cat
@@ -735,7 +722,6 @@ soep-is,soep-is-2024,237,mue23_20b,Please state how many months ago this life ev
 soep-is,soep-is-2024,237,mue23_21a,Relationship: started a new romantic relationship.,Beziehung: Eingehen einer neuen Liebesbeziehung.,i12,,,,,,,,cat
 soep-is,soep-is-2024,237,mue23_21b,Please indicate how many months ago this life event happened [relationship].,"Bitte geben Sie an, vor wie vielen Monaten dieses Lebensereignis geschehen ist [Beziehung].",i13,,,,,237;mue23_21a=1,,,cat
 soep-is,soep-is-2024,238,mue23_random,Order of the randomised items,Reihenfolge der randomisierten Items,,,,,,,,,chr
-soep-is,soep-is-2024,CON_end_imod6,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P2,1,"Risk assessment, locus of control","Risikoeinschätzung, Locus of Control",,,,,,,,,txt
 soep-is,soep-is-2024,239,plh0204_v2,Are you generally a person who is willing to take risks or do you try to avoid taking risks?,"Wie schätzen Sie sich persönlich ein: Sind Sie im Allgemeinen ein risikobereiter Mensch oder versuchen Sie, Risiken zu vermeiden? ",392+4652,"Please answer on a scale from 0 to 10, where 0 means ""not at all willing to take risks"" and 10 means ""very willing to take risks"".","Antworten Sie bitte anhand der folgenden Skala, wobei der Wert 0 bedeutet: Gar nicht risikobereit und der Wert 10: Sehr risikobereit. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,,,prisk,cat
 soep-is,soep-is-2024,P3,1,Current education,Aktuelle Ausbildung,,,,,,,,,txt
@@ -782,7 +768,6 @@ soep-is,soep-is-2024,261,perw_CONg,You stated that you are currently undergoing 
 soep-is,soep-is-2024,262,plb0417_v2,Do you intend to obtain (or resume) employment in the future?,"Beabsichtigen Sie, in der Zukunft (wieder) eine Erwerbstätigkeit aufzunehmen?",2911+4652,,,,,"258;plb0022_v11=7,9",,pnerw02,cat
 soep-is,soep-is-2024,263,plb0423,"If someone offered you an appropriate position right now, could you start working within the next two weeks?","Wenn man Ihnen jetzt eine passende Stelle anbieten würde, könnten Sie diese dann innerhalb der nächsten zwei Wochen antreten?",1+4652,,,,,"(258;plb0022_v11=7,9)&(262;plb0417_v2=2:4)",,pnerw09,cat
 soep-is,soep-is-2024,264,plb0424_v2,Have you actively looked for a job during the last four weeks?,Haben Sie innerhalb der letzten vier Wochen aktiv nach einer Stelle gesucht?,1+4652,,,,,"(258;plb0022_v11=7,9)&(262;plb0417_v2=2:4)",,pnerw10,cat
-soep-is,soep-is-2024,CON_start_imod7,,Hipp1,Hipp1,,,,,,,,,txt
 soep-is,soep-is-2024,Imod7,1,Innovative module - Last employment,Innovatives Modul – Letzte Erwerbstätigkeit,,,,,,,,,txt
 soep-is,soep-is-2024,265,1,What was the last year you were employed?,In welchem Jahr sind Sie zuletzt erwerbstätig gewesen?,,,,,,258;plb0022_v11!=1:5,,,txt
 soep-is,soep-is-2024,265,lb0266_v2,Year,Jahr,4796+4652,,,,,,,lend,cat
@@ -796,7 +781,6 @@ soep-is,soep-is-2024,269,1,What sector of business or industry was your company 
 soep-is,soep-is-2024,269,lbra,,,,,,,,,,lbra,chr
 soep-is,soep-is-2024,269,2,Can't / don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2024,270,lb1272_v1,What was your occupational status in your last job?,In welcher beruflichen Stellung waren Sie zuletzt beschäftigt?,4180+4652,"If you had more than one job at that time, please answer the following for your main job only!","Wenn Sie mehr als eine berufliche Tätigkeit ausübten, beantworten Sie die folgenden Fragen bitte nur für Ihre damalige berufliche Haupttätigkeit!",,,(258;plb0022_v11!=1:5)&(265;lb0248!=1),,l1stell,cat
-soep-is,soep-is-2024,CON_end_imod7,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P8,1,Current employment,Derzeitige Erwerbstätigkeit,,,,,,,,,txt
 soep-is,soep-is-2024,271,plb0031_v2,"The following questions relate to your current employment. Have you changed jobs or started a new one since January 1, 2023?",Die folgenden Fragen beziehen sich auf Ihre derzeitige Erwerbstätigkeit. Haben Sie seit dem 1. Januar 2023 die Stelle gewechselt oder eine Arbeit neu aufgenommen?,1+4652,This includes starting working again after a break!,"Bitte auch angeben, wenn Sie nach einer Unterbrechung wieder angefangen haben zu arbeiten!",,,258;plb0022_v11=1:4,,pwexl1,cat
 soep-is,soep-is-2024,272,pwexl1_CON,"You did not answer the previous question. Your answer to this question is important to ensure that the study results are reliable and meaningful. If you still can't or don't want to answer, select ""Can't / don't want to answer"".","Sie haben bei der Frage keine Angabe gemacht. Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Falls Sie dennoch keine Antwort geben können oder möchten, klicken Sie auf ""Kann / möchte ich nicht beantworten"".",4625+4652,,,,,(258;plb0022_v11=1:4)&(271;plb0031_v2=-1),,P044R,cat
@@ -867,12 +851,10 @@ soep-is,soep-is-2024,304,pbrut_pnett_CONf,Are the following amounts correct? Gro
 soep-is,soep-is-2024,305,pbrut_pnett_CONh,"You have entered ""Gross: *? euros and net: *? euros"". That is, your deductions exceed 77% of your gross salary. Do we perhaps need to correct the information?",Sie haben „Brutto: *? Euro und Netto: *? Euro“ angegeben. D. h. Ihre Abzüge übersteigen 77% des Bruttolohnes. Müssen wir die Angaben vielleicht korrigieren?,4640+,,,,,(258;plb0022_v11=1:5)&(301;plc0013_v2>0)&(301;plc0014_v2>0)&(((301;plc0013_v2)/(301;plc0014_v2))>4.3478),,P87R5,cat
 soep-is,soep-is-2024,306,pbrut_CONj,This question is important for the results of this study. What were your gross earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Bruttoverdienst im letzten Monat?",4641+4652,,,,,(258;plb0022_v11=1:5)&(301;plc0013_v2=-1),,P087Bru,cat
 soep-is,soep-is-2024,307,pnett_CONk,This question is important for the results of this study. How much were your net earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Nettoverdienst im letzten Monat?",i4642+4652,,,,,(258;plb0022_v11=1:5)&(301;plc0014_v2=-1),,P087Rnet,cat
-soep-is,soep-is-2024,CON_start_imod8,,Grabka,Grabka,,,,,,,,,txt
 soep-is,soep-is-2024,Imod8,1,Innovative module - Employee Share Participation,Innovatives Modul – Mitarbeiterkapitalbeteiligung,,,,,,,,,txt
 soep-is,soep-is-2024,308,gra24_01,Did you receive stocks or company shares from your employer in the year 2023 as part of an employee share ownership plan?,Haben Sie im Jahr 2023 von Ihrem Arbeitgeber Aktien oder Unternehmensanteile im Rahmen einer Mitarbeiterkapitalbeteiligung erhalten?,1+4652,,,,,258;plb0022_v11=1:5,,,cat
 soep-is,soep-is-2024,309,gra24_02,How high do you estimate the value of this employee shareholding in euros if you were to sell it today?,"Wie hoch schätzen Sie den Wert dieser Mitarbeiterkapitalbeteiligung in Euro, wenn Sie diese heute veräußern würden?",,,,,,(258;plb0022_v11=1:5)&(308;gra24_01=1),,,int
 soep-is,soep-is-2024,309,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2024,CON_end_imod8,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P11,1,Side jobs / volunteer positions,Nebentätigkeiten,,,,,,,,,txt
 soep-is,soep-is-2024,310,plb0618,Sometimes people have a side job or do volunteer work alongside their main job. Do you currently have one or more side jobs or volunteer positions?,Neben der Haupttätigkeit kann man ja noch Nebentätigkeiten oder ehrenamtliche Tätigkeiten ausüben. Üben Sie eine oder mehrere Nebentätigkeiten oder ehrenamtliche Tätigkeiten aus?,1+4652,We are not referring here to the job described above!,Nicht gemeint ist die schon beschriebene Erwerbstätigkeit!,,,,,pnebt,cat
 soep-is,soep-is-2024,311,1,"How many side jobs, including volunteer positions, do you currently have in total?",Wie viele Nebentätigkeiten inklusive ehrenamtlichen Tätigkeiten üben Sie derzeit insgesamt aus?,,,,,,310;plb0618=1,,,txt
@@ -925,7 +907,6 @@ soep-is,soep-is-2024,321,pek231_CONl,"Your answer ""*? euros"" (Maintenance paym
 soep-is,soep-is-2024,322,pek181_CONn,"Your answer ""*? euros"" (Advance maintenance payment from child maintenance funds) seems a bit low. Should we correct that?",Ihre Angabe: „*? Euro“ (Unterhalt von Unterhaltsvorschusskassen) erscheint etwas niedrig. Möchten Sie die Angabe vielleicht korrigieren?,4561+,,,,,(313;plc0183_v1=1)&(313;plc0184<20),,P117AR1,cat
 soep-is,soep-is-2024,323,pek181_CONo,"Your answer ""*? euros"" (Advance maintenance payment from child maintenance funds) seems a bit high. Should we correct that?",Ihre Angabe: „*? Euro“ (Unterhalt von Unterhaltsvorschusskassen) erscheint etwas hoch. Möchten Sie die Angabe vielleicht korrigieren?,4561+,,,,,(313;plc0183_v1=1)&(313;plc0184>2000),,P117AR1,cat
 soep-is,soep-is-2024,324,pek111_CONp,"Your answer ""*? euros"" (Other support from persons who do not live in the household) seems a bit low. Should we correct that?","Ihre Angabe: „*? Euro“ (Sonstige Unterstützung von Personen, die nicht im Haushalt leben) erscheint etwas niedrig. Möchten Sie die Angabe vielleicht korrigieren?",4561+,,,,,(313;plc0202_v1=1)&(313;plc0203_v2<20),,P117AR1,cat
-soep-is,soep-is-2024,CON_start_imod9,,Hipp2,Hipp2,,,,,,,,,txt
 soep-is,soep-is-2024,Imod9,1,Innovative module - vignettes promotion,Innovatives Modul – Vignetten Beförderung,,,,,,3;gebjahr=1957:2006,,,txt
 soep-is,soep-is-2024,325,1,"Please click on ""Next"" and hand over your laptop to the respondent.","Bitte klicken Sie nun auf ""weiter"" und übergeben Ihren Laptop an die Zielperson.",,,,,,2;qMethod=1,,,txt
 soep-is,soep-is-2024,325,2,"Please share your screen with the respondent and then click on ""Next"".","Bitte teilen Sie nun Ihren Bildschirm mit der Zielperson und klicken Sie dann auf ""weiter"".",,,,,,2;qMethod=2,,,txt
@@ -1011,11 +992,9 @@ soep-is,soep-is-2024,358,hip24_06,"Ambition does not suit <if vigfem == 1: ""wom
 soep-is,soep-is-2024,358,hip24_postorder,Dummy: Order of Questions,Dummy: Reihenfolge der Abschlussfragen,100043,,,,,,,hip24_postorder,cat
 soep-is,soep-is-2024,359,1,Please hand the laptop back to the interviewer.,Bitte übergeben Sie den Laptop jetzt wieder an unsere Interviewerin/unseren Interviewer.,,,,,,2;qMethod=1,,,txt
 soep-is,soep-is-2024,359,2,Please stop sharing the screen with the respondent.,Bitte beenden Sie nun wieder das Teilen des Bildschirms mit der Zielperson.,,,,,,2;qMethod=2,,,txt
-soep-is,soep-is-2024,CON_end_imod9,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P13,1,Current Health,Gesundheitszustand,,,,,,,,,txt
 soep-is,soep-is-2024,360,1,Now let's move on to another topic:,Nun zu einem anderen Thema:,,,,,,,,,txt
 soep-is,soep-is-2024,361,ple0008,How would you describe your current health?,Wie würden Sie Ihren gegenwärtigen Gesundheitszustand beschreiben?,108+4652,,,,,,,pges01,cat
-soep-is,soep-is-2024,CON_start_imod10,,Gerlach3,Gerlach3,,,,,,,,,txt
 soep-is,soep-is-2024,Imod10,1,"The child-free: A growing, yet well-hidden demographic?",Die Kinderfreien,,,,,,3;gebjahr>1954,,,txt
 soep-is,soep-is-2024,362,ger24_group,Grouprandomization,Gruppenrandomisierung,i21,,,,,,,,cat
 soep-is,soep-is-2024,363,1,Below you will find a series of statements. Please read these statements carefully and then indicate HOW MANY of these statements apply to you personally:,"Untenstehend finden Sie eine Reihe von Aussagen. Bitte lesen Sie diese Aussagen sorgfältig und geben Sie dann an, WIE VIELE dieser Aussagen auf Sie persönlich zutreffen:",,,,,,"(362;ger24_group=1)&(2;qMethod=3,4)",,,txt
@@ -1035,7 +1014,6 @@ soep-is,soep-is-2024,364,5,I neither have children (biological or adopted) nor d
 soep-is,soep-is-2024,364,6,I like playing strategy games (board and/or computer games).,Ich spiele gerne Strategiespiele (Brett- und/oder Computerspiele).,,,,,,,,,txt
 soep-is,soep-is-2024,364,ger24_01b,How many of these statements apply to you personally?,Wie viele dieser Aussagen treffen auf Sie persönlich zu?,,,,,,,,,int
 soep-is,soep-is-2024,364,7,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2024,CON_end_imod10,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P14,1,Reduction in earning capacity,Erwerbsminderung,,,,,,,,,txt
 soep-is,soep-is-2024,365,ple0040,Have you been officially assessed as having a reduced earning capacity (Erwerbsminderung) or severe disability (Schwerbehinderung)?,Sind Sie nach amtlicher Feststellung erwerbsgemindert oder schwerbehindert?,1+4652,,,,,,,pbeh1,cat
 soep-is,soep-is-2024,366,ple0041,What is the degree of your reduced capability to work (Erwerbsminderung) or disabilty (Behinderung)?,Bitte geben Sie den Grad der Behinderung bzw. den Grad der Minderung der Erwerbsfähigkeit an:,4815+4652,,,,,365;ple0040=1,,pbeh2,cat
@@ -1063,7 +1041,6 @@ soep-is,soep-is-2024,373,plh0011_v3,"Many people in Germany lean toward one part
 Wie ist das bei Ihnen: Neigen Sie einer bestimmten Partei in Deutschland zu?",1+4652,,,,,,,ppol2,cat
 soep-is,soep-is-2024,374,plh0012_v6,Which party do you lean toward?,Welcher Partei neigen Sie zu?,2014+4652,,,,,373;plh0011_v3=1,,ppol3,cat
 soep-is,soep-is-2024,375,plh0013_v2,And how strongly do you lean toward this party?,Und wie stark neigen Sie dieser Partei zu?,371+4652,,,,,373;plh0011_v3=1,,ppol4,cat
-soep-is,soep-is-2024,CON_start_imod11,,Graeber,Graeber,,,,,,,,,txt
 soep-is,soep-is-2024,Imod11,1,Innovative module - Conservation Behavior and Climate Change,Innovatives Modul - Naturschutzverhalten und Klimawandel,,,,,,,,,txt
 soep-is,soep-is-2024,376,1,"How much do you agree or disagree with the following statements? “In the future, climate change will influence …”","Wie sehr stimmen Sie den folgenden Aussagen zu oder nicht zu? ""In Zukunft wird der Klimawandel Einfluss auf ...""",,,,,,,,,txt
 soep-is,soep-is-2024,376,gra24_07,… how often I eat animal products.,"… die Häufigkeit, mit der ich tierische Produkte esse, haben.",i23,,,,,,,,cat
@@ -1071,7 +1048,6 @@ soep-is,soep-is-2024,376,gra24_08,… the decisions of family members to have ch
 soep-is,soep-is-2024,377,1,"Next, we ask how much you agree or disagree with some climate and energy policies: “It is sensible …”","Als nächstes fragen wir, wie sehr Sie dieser Klima- und Energiepolitikmaßnahmen zustimmen oder nicht zustimmen: „Es ist vernünftig …“.",,,,,,,,,txt
 soep-is,soep-is-2024,377,gra24_12,"… to use coal to achieve short term economic objectives, even if it means the postponement of long-run climate objectives.","… Kohle zur Energiegewinnung zu nutzen, um kurzfristige wirtschaftliche Ziele zu erreichen, auch wenn dies bedeutet, dass langfristige Klimaziele verschoben werden.",i23,,,,,,,,cat
 soep-is,soep-is-2024,377,gra24_14,… to prioritize the admission of “climate refugees”,… die Aufnahme von „Klimaflüchtlingen“ zu priorisieren.,i23,,,,,,,,cat
-soep-is,soep-is-2024,CON_end_imod11,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P17,1,Marital Status,Familienstand,,,,,,,,,txt
 soep-is,soep-is-2024,378,1,Now let's talk about your life situation.,Nun zu Ihrer Lebenssituation.,,,,,,,,,txt
 soep-is,soep-is-2024,379,pld0131_v3,What is your marital status?,Wie ist Ihr Familienstand?,11381+4652,,,,,,,pfamst,cat
@@ -1148,7 +1124,6 @@ soep-is,soep-is-2024,385,pld0158,"2023, in the month:","2023, im Monat:",46+4652
 soep-is,soep-is-2024,385,pld0159,"No, none of the above","Nein, nichts davon",,,,,,,,pfsno,bin
 soep-is,soep-is-2024,385,3,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2024,385,pfsso,[Other family changes] please specify:,[Sonstige familiäre Veränderung] und zwar:,,,,,,385;pld0155=1,,pfsso,chr
-soep-is,soep-is-2024,CON_start_imod12,,Horn,Horn,,,,,,,,,txt
 soep-is,soep-is-2024,Imod12,1,Motivational Orientation Across Adulthood: Gains and Losses,Motivational Orientation Across Adulthood: Gains and Losses,,,,,,,,,txt
 soep-is,soep-is-2024,386,1,"People have a variety of plans and ideas about what they would like to achieve, maintain or avoid in the coming weeks, months or years. In the following, we refer to such ideas as ""goals"". What about you? Please imagine an important personal goal.","Menschen haben vielfältige Vorhaben und Vorstellungen darüber, was sie gegenwärtig, in den kommenden Wochen, Monaten oder Jahren, erreichen, beibehalten, oder vermeiden möchten. Im Folgenden bezeichnen wir solche Vorstellungen als „Ziele“. Wie ist das bei Ihnen? Bitte stellen Sie sich nun ein wichtiges persönliches Ziel vor.",,,,,,,,,txt
 soep-is,soep-is-2024,386,hor24_01,Please describe this goal in a few words (max. 10 words):,Beschreiben Sie dieses Ziel in wenigen Stichworten (max. 10 Wörter):,,,,,,,,,chr
@@ -1166,13 +1141,11 @@ soep-is,soep-is-2024,388,hor24_09,education / work / career,(Weiter-)Bildung / B
 soep-is,soep-is-2024,388,hor24_10,personal development,persönliche Entwicklung,,,,,,,,,bin
 soep-is,soep-is-2024,388,hor24_11,financial and material matters,materielle / finanzielle Belange,,,,,,,,,bin
 soep-is,soep-is-2024,388,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2024,CON_end_imod12,,,,,,,,,,,,txt
 soep-is,soep-is-2024,P19,1,Life satisfaction,Lebenszufriedenheit,,,,,,,,,txt
 soep-is,soep-is-2024,389,plh0182,"In conclusion, we would like to ask you about your satisfaction with your life in general. 
 How satisfied are you with your life, all things considered?","Nun möchten wir Sie nach Ihrer Zufriedenheit mit Ihrem Leben insgesamt fragen.
 Wie zufrieden sind Sie gegenwärtig, alles in allem, mit Ihrem Leben?",4715+4652,"Please answer on a scale from 0 to 10, where 0 means completely dissatisfied and 10 means completely satisfied.","Antworten Sie bitte wieder anhand der folgenden Skala,
 bei der ""0"" ganz und gar unzufrieden, ""10"" ganz und gar zufrieden bedeutet.",,,,,pzule1,cat
-soep-is,soep-is-2024,CON_start_imod13,,Arikan,Arikan,,,,,,,,,txt
 soep-is,soep-is-2024,Imod13,1,Innovative module – Interviewer questions: What Does ‘Migration Background’ Tell Us,Innovatives Modul – Was sagt uns der „Migrationshintergrund“?,,,,,,"2;qMethod=1,2",,,txt
 soep-is,soep-is-2024,390,ari24_01,Would you describe yourself as a migrant or a person with migration background?,Würden Sie sich selbst als Migrant/Migrantin bzw. Person mit Migrationshintergrund bezeichnen?,1+4652,,,,,,,,cat
 soep-is,soep-is-2024,391,ari24_01a,Are you described by other here in Germany as a migrant or person with a migration background?,Werden Sie von anderen hier in Deutschland als Migrant/Migrantin bzw. Person mit Migrationshintergrund bezeichnet?,1+4652,,,,,,,,cat
@@ -1201,8 +1174,6 @@ soep-is,soep-is-2024,394,ari24_16,My face (e.g. eye shape),Mein Gesicht (z.B. Au
 soep-is,soep-is-2024,394,ari24_17,Other,Sonstiges,,,,,,,,,bin
 soep-is,soep-is-2024,394,ari24_17o,"[Other, namely:]","[Sonstiges, und zwar:]",,,,,,394;ari24_17=1,,,chr
 soep-is,soep-is-2024,394,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2024,CON_end_imod13,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_rmod2,,,,,,,,,,,,txt
 soep-is,soep-is-2024,Rmod2,1,Record Linkage,Record Linkage,,,,,,,,,txt
 soep-is,soep-is-2024,395,reclink,"We want to keep the interview as short as possible. For this reason, we would also like to include data that is currently or will be available about you at the Institute for Employment Research of the Federal Employment Agency in the analysis of the survey and possible further interviews. This includes, for example, information on your employment contracts and work positions or periods of unemployment. 
 
@@ -1217,8 +1188,6 @@ Wir stellen zu jeder Zeit sicher, dass alle datenschutzrechtlichen Bestimmungen 
 Wir möchten Sie herzlich um Ihre Einwilligung bitten, dass wir Ihre Daten zusammenführen und diese auswerten dürfen. Ihre Einwilligung ist selbstverständlich freiwillig. 
 
 Sie können diese jederzeit für die Zukunft widerrufen.  Sind Sie mit dieser Zusammenführung Ihrer Daten einverstanden?",1+,,,,,4;zusp_ba_ja=1,,zusp_ba,cat
-soep-is,soep-is-2024,CON_end_rmod2,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod14,,Kantarci,Kantarci,,,,,,,,,txt
 soep-is,soep-is-2024,Imod14,1,Innovative module - Increasing the labor market participation of older workers,Innovatives Modul - Erhöhung der Erwerbsbeteiligung älterer Arbeitnehmer,,,,,,"(3;gebjahr<=1985)&((2;qMethod=1,4)|((2;qMethod=2)&(((11;device!=4)&(14;device2=-2))|(14;device2!=4)))",,,txt
 soep-is,soep-is-2024,396,1,"Please click on ""Next"" and hand over your laptop to the respondent.","Bitte klicken Sie nun auf ""weiter"" und übergeben Ihren Laptop an die Zielperson.",,,,,,2;qMethod=1,,,txt
 soep-is,soep-is-2024,396,2,"Please share your screen with the respondent and click on ""Next"".","Bitte teilen Sie nun Ihren Bildschirm mit der Zielperson und klicken Sie dann auf ""weiter"".",,,,,,2;qMethod=2,,,txt
@@ -2019,7 +1988,6 @@ soep-is,soep-is-2024,439,99,Can't / Don't want to answer,Kann / möchte ich nich
 soep-is,soep-is-2024,439,9,See the instructions page again,Sehen Sie sich die Anleitungsseite noch einmal an,,,,,,,,,txt
 soep-is,soep-is-2024,440,1,Please hand the laptop back to our interviewer.,Bitte übergeben Sie den Laptop jetzt wieder an unsere Interviewerin/unseren Interviewer.,,,,,,2;qMethod=1,,,txt
 soep-is,soep-is-2024,440,2,Please stop sharing the screen with the respondent.,Bitte beenden Sie nun wieder das Teilen des Bildschirms mit der Zielperson.,,,,,,2;qMethod=2,,,txt
-soep-is,soep-is-2024,CON_end_imod14,,,,,,,,,,,,txt
 soep-is,soep-is-2024,B,1,Biography questionnaire,Biografiefragebogen,,,,,,,,,txt
 soep-is,soep-is-2024,BP_age_ll2,1,"To ensure that your data can be assigned correctly, please state your year of birth and gender again.","Damit Ihre Daten korrekt zugeordnet werden können bitten wir Sie, nochmals Ihr Geburtsjahr und Geschlecht anzugeben.",,,,,,,,,txt
 soep-is,soep-is-2024,BP_age_ll2,2,Please enter your date of birth.,Bitte geben Sie Ihr Geburtsdatum an.,,,,,,,,,txt
@@ -2521,7 +2489,6 @@ soep-is,soep-is-2024,630,location,Where were you when you were answering the maj
 soep-is,soep-is-2024,630,location_open,[Other] please specify:,[Sonstiges] und zwar:,,,,,,630;location=5,,umfx,chr
 soep-is,soep-is-2024,631,location_check,Question only for interviewer: Did the respondent choose the answer themselves or did you have to read the answer options aloud for them?,Frage nur an Interviewer: Hat der/die Befragte selbstständig eine Antwort ausgewählt oder mussten Sie die Antwortoptionen vorlesen?,i150,,,,,2;qMethod=2,,,cat
 soep-is,soep-is-2024,632,feedback,"Finally, we are interested in your opinion about the questionnaire. For example, if something was missing or you had problems answering questions, you can explain this below. Also, if you would like to add anything or give us any comments or critique, please let us know here.","Abschließend interessieren wir uns für Ihre Meinung zur Befragung. Falls Ihnen beispielsweise etwas gefehlt hat oder Sie Probleme bei der Beantwortung von Fragen hatten, können Sie dies im Folgenden ausführen. Auch wenn Sie noch weitere Ergänzungen, Anmerkungen oder kritische Hinweise haben, bitten wir Sie, uns diese hier mitzuteilen.",,,,,,,,text,chr
-soep-is,soep-is-2024,CON_start_imod15,,Calvi3,Calvi3,,,,,,,,,txt
 soep-is,soep-is-2024,Imod15,1,Innovative module – CALVI Questions (Ending),Innovatives Modul – CALVI Fragen (Ende),,,,,,,,,txt
 soep-is,soep-is-2024,633,eval,How did you like the survey overall?,Wie hat Ihnen die Befragung insgesamt gefallen?,i124,,,,,,,,cat
 soep-is,soep-is-2024,634,calvi_eval,How much did you like participating in the survey via video call?,Wie gut hat es Ihnen gefallen per Video-Call an der Befragung teilzunehmen?,i124,,,,,2;qMethod=2,,,cat
@@ -2530,8 +2497,6 @@ soep-is,soep-is-2024,636,capi_eval,How much did you like that an interviewer int
 soep-is,soep-is-2024,637,mode_pref,"If given the opportunity, which would be your preferred mode of participation?","Wenn wir Ihnen mehrere Teilnahme-Optionen anbieten würden, wie würden Sie am liebsten an einer unserer Befragungen teilnehmen?",i125,,,,,,,,cat
 soep-is,soep-is-2024,638,mode_pref_ord,Dummy: Order of mode_pref items,Dummy: Reihenfolge der mode_pref Items,,,,,,,,,chr
 soep-is,soep-is-2024,639,1,Thank you for your participation. Your answers make a valuable contribution to science. You will soon receive your 10 Euro incentive via postal mail.,Danke für Ihre Teilnahme. Ihre Antworten leisten einen wertvollen Beitrag für die Wissenschaft. Ihr Dankeschön für die Teilnahme in Form von 10 Euro erhalten Sie in Kürze per Post.,,,,,,,,,txt
-soep-is,soep-is-2024,CON_end_imod15,,,,,,,,,,,,txt
-soep-is,soep-is-2024,CON_start_imod16,,Calvi4,Calvi4,,,,,,,,,txt
 soep-is,soep-is-2024,Imod16,1,Innovative module – CALVI Questions (Ending interviewer),Innovatives Modul – CALVI Fragen (Ende Interviewer),,,,,,2;qMethod=2,,,txt
 soep-is,soep-is-2024,640,1,The respondent stated at the beginning that the survey took place on the following device: [device/(device_o)],"Der/Die Befragte hat am Anfang angegeben, dass die Befragung auf folgendem Endgerät stattgefunden hat: [device/(device_o)]",,,,,,13;device_switch=2,,,txt
 soep-is,soep-is-2024,640,2,"The respondent stated at the beginning that the survey was started on the following device: [device/(device_o)]
@@ -2567,7 +2532,6 @@ soep-is,soep-is-2024,655,tech_type,"Did the technical issues occur with you, wit
 soep-is,soep-is-2024,656,reconnect,Did the technical issues require a reconnection to the survey tool?,Haben die technischen Probleme eine Neueinwahl in das Befragungstool notwendig gemacht?,i131,,,,,648;tech_prob=1,,,cat
 soep-is,soep-is-2024,657,calvi_inteval,How satisfied are you with the interview overall?,Wie zufrieden sind Sie mit dem Interview insgesamt?,i132,,,,,,,,cat
 soep-is,soep-is-2024,658,calvi_open,"Do you have any comments? Your comments can help us improve our surveys, especially those using video technology.","Haben Sie noch weitere Anmerkungen zu diesem Interview? Ihre Anmerkungen können uns helfen unsere Befragungen, insbesondere solche mit Video-Einsatz, zu verbessern.",,,,,,,,,chr
-soep-is,soep-is-2024,CON_end_imod16,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Struc1,1,Basic information and controls,Grundinformationen und Steuerungen,,,,,,,,,txt
 soep-is,soep-is-2023,1,BioJa,New respondent,Neu zu befragende Person,4235,"Is generated automatically with the creation of a new person, using info from the panel file (with the first survey of adolescent).",Wird anhand der Infos aus der Paneldatei (bei erstmals zu befragenden Jugendlichen) bzw. beim Anlegen einer neuen Person automatisch generiert.,,,,,,cat
 soep-is,soep-is-2023,1,autosubmit,Autosubmit,Autosubmit,asubm,,,,,,,,cat
@@ -2739,12 +2703,10 @@ soep-is,soep-is-2023,68,hlc0113_v2,Are you or is someone in your household curre
 soep-is,soep-is-2023,69,1,How much do you pay per month on these loans?,Wie hoch ist der monatliche Betrag den Sie für die Rückzahlung dieser Kredite (einschließlich Zinsen) verwenden müssen?,,"If you don't know the exact amount, please estimate!",Falls Betrag nicht genau bekannt: Bitte schätzen!,,,(4;HaushaltJa=1)&(68;hlc0113_v2=1),,,txt
 soep-is,soep-is-2023,69,hlc0114_v3,Loan repayment (including interest payments) ... euros per month,Kredit-Rückzahlung (einschließlich Zinsen)  ...  Euro pro Monat,,,,,,,,hkred2,int
 soep-is,soep-is-2023,69,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_start_rmod1,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod1,1,Pretest Debts,Pretest Schulden,,,,,,,,,txt
 soep-is,soep-is-2023,70,hkredits,"Do you or another household member currently have credit card debt, overdraft debt, loans from individuals, loans from employers or outstanding bills that are more than 30 days overdue?","Haben Sie oder ein anderes Haushaltsmitglied derzeit Kreditkartenschulden, Dispokreditschulden, Darlehen von Privatpersonen, Darlehen von Arbeitgeber oder offene Rechnungen, die länger als 30 Tage überfällig sind?",pre3,"Unpaid bills are, for example, unpaid bills for electricity, telecommunication, tax offices, health insurance companies, etc. Please also think of outstanding rent payments, maintenance obligations or debts with debt collection agencies.","Mit offenen Rechnungen sind zum Beispiel nicht gezahlte Rechnungen für Strom, Telekommunikation, Finanzämter, Krankenkassen, etc. gemeint. Denken Sie bitte auch an ausstehende Mietzahlungen, Unterhaltsverpflichtungen oder Schulden bei Inkassobüros.",,,,,,cat
 soep-is,soep-is-2023,71,hkreditsb,"What is the total amount outstanding on all these credit card debts, overdraft debts, loans from individuals, loans from employers and outstanding bills?","Wie hoch ist der noch offene Betrag für alle diese Kreditkartenschulden, Dispokreditschulden, Darlehen von Privatpersonen, Darlehen von Arbeitgeber und offenen Rechnungen insgesamt?",,Please state the amount in euros.,Bitte geben Sie den Betrag in Euro an.,,,70;hkredits=1,,hkredits,int
 soep-is,soep-is-2023,71,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,hkreditsb,bin
-soep-is,soep-is-2023,CON_end_rmod1,,,,,,,,,,,,txt
 soep-is,soep-is-2023,HH7,1,HH Income,HH Einkommen,,,,,,,,,txt
 soep-is,soep-is-2023,72,1,Did you or another member of the household own any of the following savings or investment securities last calendar year?,Besaßen Sie oder andere Personen im Haushalt im letzten Kalenderjahr eine oder mehrere der folgenden Wertanlagen?,,Please select all that apply.,Bitte geben Sie alles Zutreffende an!,,,4;HaushaltJa=1,,,txt
 soep-is,soep-is-2023,72,hlc0098,Savings account (Sparbuch / Spargirokonto /Tagesgeldkonto),Sparbuch / Spargirokonto / Tagesgeldkonto,,,,,,,,hwa1,bin
@@ -3083,7 +3045,6 @@ soep-is,soep-is-2023,BP_age_pe2,BP_day,Day:,Tag:,day,,,,,,,,cat
 soep-is,soep-is-2023,BP_age_pe2,BP_month,Month:,Monat:,46+4652,,,,,,,,cat
 soep-is,soep-is-2023,BP_age_pe2,BP_year,Year:,Jahr:,Y_o_B,,,,,,,,cat
 soep-is,soep-is-2023,BP_age_pe2,BP_sex,Are you ...,Sind Sie ...,sex,,,,,,,,cat
-soep-is,soep-is-2023,CON_start_imod1,,Molleman,Molleman,,,,,,,,,txt
 soep-is,soep-is-2023,Imod1,1,Innovative module - Social information use across families,Innovatives Modul - Nutzung sozialer Informationen in Familien,,,,,,"(2;svar=1,2)&(2;mode=1)",,,txt
 soep-is,soep-is-2023,198,1,"In the following task, some estimates are to be made. First we would like you to answer this task, directly afterwards each of the children aged 6 to 13 years in the household should also participate in the task.","In der nachfolgenden Aufgabe sollen einige Schätzungen abgeben werden. Zuerst möchten wir Sie bitten, diese Aufgabe zu beantworten, direkt im Anschluss soll auch jedes der Kinder im Alter von 6 bis 13 Jahren im Haushalt an der Aufgabe teilnehmen.",,,,,,,,,txt
 soep-is,soep-is-2023,199,1,"In this game you will see pictures of groups of animals for a short time. For example: [Example picture ""Ladybird""].",In diesem Spiel werden Sie für eine kurze Zeit Bilder von Gruppen von Tieren sehen. Zum Beispiel: [Beispielbild „Marienkäfer“],,,,,,,,,txt
@@ -3194,7 +3155,6 @@ Bitte gib erneut eine Schätzung ab: Wie viele Käfer waren im Bild zu sehen? De
 soep-is,soep-is-2023,236,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2023,237,1,Thank you for your participation in this game.,Vielen Dank für deine Teilnahme an diesem Spiel.,,,,,,,,,txt
 soep-is,soep-is-2023,238,mol23_read,To the interviewer: Did the child read the questions alone?,An den Interviewer: Hat das Kind die Fragen alleine gelesen?,i78,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod1,,,,,,,,,,,,txt
 soep-is,soep-is-2023,239,1,"The following questions are not about the household as a whole, but about you personally.","In den folgenden Fragen geht es nicht um den Haushalt als Ganzen, sondern um Sie persönlich.",,,,,,,,,txt
 soep-is,soep-is-2023,P1,1,Gender,Geschlecht,,,,,,,,,txt
 soep-is,soep-is-2023,240,pla0047_v2,What gender do you identify as?,Welchem Geschlecht ordnen Sie sich zu?,11075+4652,,,,,,,psubjsex,cat
@@ -3224,11 +3184,8 @@ soep-is,soep-is-2023,242,plh0184,... angry?,...ärgerlich gefühlt?,27+4652,,,,,
 soep-is,soep-is-2023,242,plh0185,... worried?,...ängstlich gefühlt?,27+4652,,,,,,,pgef2,cat
 soep-is,soep-is-2023,242,plh0186,... happy?,...glücklich gefühlt?,27+4652,,,,,,,pgef3,cat
 soep-is,soep-is-2023,242,plh0187,... sad?,...traurig gefühlt?,27+4652,,,,,,,pgef4,cat
-soep-is,soep-is-2023,CON_start_rmod2,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod2,1,"Impulsiveness, patience","Impulsivität, Geduld",,,,,,,,,txt
 soep-is,soep-is-2023,243,plh0253,Would you describe yourself as an impatient or a patient person in general?,"Wie schätzen Sie sich persönlich ein: Sind Sie im Allgemeinen ein Mensch, der ungeduldig ist, oder der immer sehr viel Geduld aufbringt?",3047+4652,"Please answer on a scale from 0 to 10, where 0 means very impatient and 10 means very patient.","Antworten Sie bitte anhand der folgenden Skala, wobei der Wert 0 bedeutet: sehr ungeduldig und der Wert 10: sehr geduldig. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,,,pged,cat
-soep-is,soep-is-2023,CON_end_rmod2,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod2,,Mueller,Mueller,,,,,,,,,txt
 soep-is,soep-is-2023,Imod2,1,Innovative module - Effects of Life Events on Boundary Management,Innovatives Modul - Auswirkungen von Lebensereignissen auf das Boundary Management,,,,,,(2;svar=2),,,txt
 soep-is,soep-is-2023,244,1,How much do you agree with each of the following statements:,"Bitte geben Sie an, wie sehr Sie den folgenden Aussagen im Generellen zustimmen:",,,,,,,,,txt
 soep-is,soep-is-2023,244,mue23_01,I do not like to think about my work life outside of my working hours.,Ich möchte außerhalb meiner Arbeitszeit nicht an meine Arbeit denken.,i18,,,,,,,,cat
@@ -3269,11 +3226,9 @@ soep-is,soep-is-2023,246,mue23_20b,Please state how many months ago this life ev
 soep-is,soep-is-2023,246,mue23_21a,Relationship: started a new romantic relationship.,Beziehung: Eingehen einer neuen Liebesbeziehung.,i56,,,,,,,,cat
 soep-is,soep-is-2023,246,mue23_21b,Please indicate how many months ago this life event happened [relationship].,"Bitte geben Sie an, vor wie vielen Monaten dieses Lebensereignis geschehen ist [Beziehung].",i19,,,,,246;mue23_21a=1,,,cat
 soep-is,soep-is-2023,247,mue23_random,Order of the randomised items,Reihenfolge der randomisierten Items,,,,,,,,,chr
-soep-is,soep-is-2023,CON_end_imod2,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P4,1,"Risk assessment, locus of control","Risikoeinschätzung, Locus of Control",,,,,,,,,txt
 soep-is,soep-is-2023,248,plh0204_v2,Are you generally a person who is willing to take risks or do you try to avoid taking risks?,"Wie schätzen Sie sich persönlich ein:
 Sind Sie im Allgemeinen ein risikobereiter Mensch oder versuchen Sie, Risiken zu vermeiden? ",392+4652,"Please select a box on the scale, where the value 0 means not at all willing to take risks and the value 10 means very willing to take risks.","Antworten Sie bitte anhand der folgenden Skala, wobei der Wert 0 bedeutet: Gar nicht risikobereit und der Wert 10: Sehr risikobereit. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,,,prisk,cat
-soep-is,soep-is-2023,CON_start_imod3,,Lejarraga,Lejarraga,,,,,,,,,txt
 soep-is,soep-is-2023,Imod3,1,Innovative module - Loss Aversion,Innovatives Modul – Verlustaversion,,,,,,2;sample=19:38,,,txt
 soep-is,soep-is-2023,249,1,"Now please imagine that a coin is tossed. Depending on how it falls, you can win or lose money. If it comes up tails, you always win 6 euros. If it turns heads, you will lose different amounts. In each case, please indicate whether you would like to participate in the coin toss or not. The coin toss does not actually take place, but please answer as you would actually act.","Jetzt stellen Sie sich bitte vor, es wird eine Münze geworfen. Je nachdem, wie sie fällt, können Sie Geld gewinnen oder verlieren. Wenn Zahl kommt, gewinnen Sie immer 6 Euro. Wenn Kopf kommt, verlieren Sie unterschiedlich viel. Geben Sie jeweils bitte an, ob Sie am Münzwurf teilnehmen wollen würden oder nicht. Der Münzwurf findet nicht tatsächlich statt, aber bitte antworten Sie so, wie Sie tatsächlich handeln würden.",,,,,,,,,txt
 soep-is,soep-is-2023,249,lej23_01,"If the coin turns up heads, then you lose €3; if the coin turns up tails, you win €6","Kopf: Sie verlieren 3 Euro. 
@@ -3290,8 +3245,6 @@ soep-is,soep-is-2023,249,lej23_06,"If the coin turns up heads, then you lose €
 Zahl: Sie gewinnen 6 Euro.",100011,,,,,,,,cat
 soep-is,soep-is-2023,249,lej23_07,"If the coin turns up heads, then you lose €9; if the coin turns up tails, you win €6.","Kopf: Sie verlieren 9 Euro. 
 Zahl: Sie gewinnen 6 Euro.",100011,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod3,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod4,,Spantig,Spantig,,,,,,,,,txt
 soep-is,soep-is-2023,Imod4,1,Innovative module - Individual Preferences for Truth-Telling,Innovatives Modul - Individual Preferences for Truth-Telling,,,,,,2;sample=10:38,,,txt
 soep-is,soep-is-2023,250,1,The following two questions are about your personal response to two different hypothetical scenarios. It is important for us that you do not discuss the questions or their answers with anyone else as long as you and all the other participants in your household have given their answers independently.,"Die zwei nachfolgenden Fragen beziehen sich auf Ihre persönliche Reaktion auf zwei unterschiedliche hypothetische Szenarien. Es ist für uns wichtig, dass Sie sich nicht mit anderen Personen über die Fragen oder Ihre Antworten austauschen, solange bis Sie selbst und alle anderen Teilnehmer*innen in Ihrem Haushalt unabhängig voneinander ihre Antworten angegeben haben.",,Your answer to this questions cannot be changed afterwards.,Ihre Antwort auf diese Fragen kann nachträglich nicht mehr verändert werden.,,,,,,txt
 soep-is,soep-is-2023,251,spa23_group,Grouprandomization,Gruppenrandomisierung,i68,,,,,,,,cat
@@ -3299,8 +3252,6 @@ soep-is,soep-is-2023,252,1,"Imagine the following situation: You are in a phone 
 soep-is,soep-is-2023,253,spa23_01,Imagine that the following unlikely case has occurred. You flipped 0 tails. How many tails will you report to the host?,"Stellen Sie sich vor, dass folgender unwahrscheinlicher Fall eingetreten ist. Sie haben 0-mal „Zahl“ geworfen. Welche Häufigkeit des Münzwurfs „Zahl“ berichten Sie dem Moderator?",i25,Note: You are in the lottery as previously described.,Anmerkung: Sie befinden sich im Gewinnspiel wie zuvor beschrieben (siehe Erinnerung unten).,,,,,,cat
 soep-is,soep-is-2023,254,spa23_02,Imagine that the following unlikely case has occurred. You flipped 4 tails. How many tails will you report to the host?,"Stellen Sie sich vor, dass folgender unwahrscheinlicher Fall eingetreten ist. Sie haben 4-mal „Zahl“ geworfen. Welche Häufigkeit des Münzwurfs „Zahl“ berichten Sie dem Moderator?",i25,Note: You are in the lottery as previously described.,Anmerkung: Sie befinden sich im Gewinnspiel wie zuvor beschrieben (siehe Erinnerung unten).,,,,,,cat
 soep-is,soep-is-2023,255,,Thank you for your answers.,Vielen Dank für Ihre Antworten.,,,,,,,,,txt
-soep-is,soep-is-2023,CON_end_imod4,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod5,,Schmidtpetri,Schmidtpetri,,,,,,,,,txt
 soep-is,soep-is-2023,Imod5,1,Innovative module – Knobe-Effect,Innovatives Modul – Knobe-Effekt,,,,,,2;svar=1,,,txt
 soep-is,soep-is-2023,256,sch23_group,Group,Gruppe,i20,,,,,,,,cat
 soep-is,soep-is-2023,257,1,Please imagine the following scenario:,Bitte stellen Sie sich folgendes Szenario vor:,,,,,,,,,txt
@@ -3310,8 +3261,6 @@ soep-is,soep-is-2023,260,sch23_02,Did the CEO intentionally cause harm to the en
 soep-is,soep-is-2023,261,1,"A proposal is made to the CEO of a company by an executive. A new business idea would increase the company's profits and help the environment. The CEO replies, ""I don't care if it helps the environment, I just want to make as much profit as possible."" As a result, the idea is implemented and the environment is helped.","Dem Vorstandsvorsitzenden eines Unternehmens wird von einer Führungskraft ein Vorschlag gemacht. Eine neue Geschäftsidee würde den Unternehmensgewinn steigern und der Umwelt helfen. Der Vorstandsvorsitzende antwortet: „Es ist mir völlig egal, ob es der Umwelt hilft, ich will nur so viel Gewinn wie möglich machen.“ Daraufhin wird die Idee umgesetzt und der Umwelt geholfen.",,,,,,256;sch23_group=2,,,txt
 soep-is,soep-is-2023,262,sch23_03,How much compliment does the CEO deserve?,Wie viel Lob verdient der Vorstandsvorsitzende?,i23,,,,,256;sch23_group=2,,,cat
 soep-is,soep-is-2023,263,sch23_04,Did the CEO intentionally help the environment?,Hat der Vorstandsvorsitzende der Umwelt absichtlich geholfen?,i0,,,,,256;sch23_group=2,,,cat
-soep-is,soep-is-2023,CON_end_imod5,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod6,,Schneider,Schneider,,,,,,,,,txt
 soep-is,soep-is-2023,Imod6,1,Innovative module - Higher Order Risk Preferences,Innovatives Modul - Higher Order Risk Preferences,,,,,,2;sample=10:38,,,txt
 soep-is,soep-is-2023,264,irip_split,Split Group,Split Gruppe,i57,,,,,,,,cat
 soep-is,soep-is-2023,265,1,"Now I would like to ask you to imagine different situations. First, please imagine the following situation: You have a choice between a safe payout and a lottery. Specifically:","Nun möchte ich Sie bitten, sich verschiedene Situationen vorzustellen. Stellen Sie sich bitte als erstes folgende Situation vor: Sie haben die Wahl zwischen einer sicheren Auszahlung und einer Lotterie. Konkret:",,,,,,,,,txt
@@ -3349,8 +3298,6 @@ soep-is,soep-is-2023,280,irip09_1,Would you prefer a lottery with a 50% chance o
 soep-is,soep-is-2023,281a,irip09_2_sae,SÄ Dummy 16,SÄ Dummy 16,,,,,,,,,int
 soep-is,soep-is-2023,281,irip09_2,Would you prefer a lottery with a 50% chance of getting [irip_split] euros and the same 50% chance of getting [irip_lnh] euros OR a sure payout of [SE] euros?,Würden Sie eine Lotterie mit einer 50-prozentigen Chance [irip_split] Euro zu bekommen und der gleichen 50-prozentigen Chance [irip_lnh] Euro zu bekommen ODER eine sichere Auszahlung in Höhe von [irip09_2_sae] Euro bevorzugen?,i24,,,,,(278;irip08_1=2)|(279;irip08_2=2),,irip09_2,cat
 soep-is,soep-is-2023,282,1,Thank you also at this point for your input. We will now continue with another topic.,Vielen Dank auch an dieser Stelle für Ihre Angaben. Wir fahren nun mit einem anderen Thema fort.,,,,,,,,,txt
-soep-is,soep-is-2023,CON_end_imod6,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_rmod3,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod3,1,Leisure activities (short),Freizeitaktivitäten (kurz),,,,,,,,,txt
 soep-is,soep-is-2023,283,1,"Now some questions about your leisure time. Please indicate how often you take part in each activity: daily, at least once per week, at least once per month, seldom or never?","Nun einige Fragen zu Ihrer Freizeit. Geben Sie bitte zu jeder Tätigkeit an, wie oft Sie das machen: täglich, mindestens einmal pro Woche, mindestens einmal pro Monat, seltener oder nie?",,,,,,,,,txt
 soep-is,soep-is-2023,283,pli0080,"Visiting or being visited by neighbors, friends, or acquaintances","Gegenseitige Besuche von Nachbarinnen und Nachbarn, Freundinnen und Freunden oder Bekannten",2762+4652,,,,,,,pfrei02,cat
@@ -3362,8 +3309,6 @@ soep-is,soep-is-2023,283,pli0093_v2,"Artistic and musical activities (painting, 
 soep-is,soep-is-2023,283,pli0092_v3,Taking part in sports,Aktive sportliche Betätigung,2762+4652,,,,,,,pfrei14,cat
 soep-is,soep-is-2023,283,pli0096_v2,Volunteer work in clubs or social services,"Ehrenamtliche Tätigkeiten in Vereinen, Verbänden oder sozialen Diensten ",2762+4652,,,,,,,pfz7,cat
 soep-is,soep-is-2023,283,plh0394,Doing nothing / taking it easy / daydreaming,Einfach nichts tun / abhängen / träumen,2762+4652,,,,,,,pfrei24,cat
-soep-is,soep-is-2023,CON_end_rmod3,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_rmod4,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod4,1,Time use,Zeitverwendung,,,,,,,,,txt
 soep-is,soep-is-2023,284,zeitsplit,Split Dummy,Split Dummy,i6,,,,,,,,cat
 soep-is,soep-is-2023,285,1,What is a typical day like for you? How many hours do you spend on the following activities on a typical weekday?,Wie sieht gegenwärtig Ihr normaler Alltag aus? Wie viele Stunden pro Tag entfallen bei Ihnen an einem durchschnittlichen Werktag auf die folgenden Tätigkeiten?,,Please answer in full hours only. Use “0” if the activity does not apply!,"Bitte nur ganze Stunden angeben. Falls nicht zutreffend, bitte „0“ eintragen.",,,,,,txt
@@ -3391,8 +3336,6 @@ soep-is,soep-is-2023,285,12,"Repairs on and around the home, car repairs, garden
 soep-is,soep-is-2023,285,pli0049_v3,Typical weekday - Number of hours,Durchschnittlicher Werktag - Anzahl Stunden,,,,,,,,pwerk7,int
 soep-is,soep-is-2023,285,pli0049_v3_m,Typical weekday - Number of minutes,Durchschnittlicher Werktag - Anzahl Minuten,,,,,,284;zeitsplit=2,,,int
 soep-is,soep-is-2023,285,13,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_end_rmod4,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod7,,Bobzien,Bobzien,,,,,,,,,txt
 soep-is,soep-is-2023,Imod7,1,Innovative module - Digital platforms,Innovatives Modul - Digitale Plattformen,,,,,,2;svar=1,,,txt
 soep-is,soep-is-2023,286,1,"Imagine a ladder representing the different social strata in Germany. At the top of the ladder, on the tenth rung, are the people who are doing best: They have the most money, the best education, and a highly prestigious job. At the bottom of the ladder, on the first rung, are the people who are doing the worst: They have the least money, the lowest level of education, and are unemployed or have a job that no one wants or respects.","Stellen Sie sich vor, dass eine Leiter die verschiedenen Schichten der Gesellschaft in der Bundesrepublik darstellt. Oben auf der Leiter – auf Sprosse 10 – stehen die Leute, denen es am besten geht:  Sie haben das meiste Geld, die beste Bildung, und einen Beruf mit hohem Ansehen. Unten auf der Leiter – auf Sprosse 1 – stehen die Leute, denen es am schlechtesten geht: Sie haben am wenigsten Geld, die geringste Bildung und keine Arbeit oder einen Job, den niemand will oder achtet.",,,,,,,,,txt
 soep-is,soep-is-2023,286,psleiter,"Please think about where you currently stand on the ladder. On a scale of 1 (bottom) to 10 (top), please indicate which rung of the ladder corresponds to your current position in society.","Denken Sie bitte daran, wo sie jetzt gegenwärtig stehen. Auf einer Skala von 1 (unten) bis 10 (oben) geben Sie bitte an, welche Sprosse der Leiter Ihrer gegenwärtigen Position in der Gesellschaft entspricht.",4052+4817,You can use the values between 1 and 10 to indicate exactly where you stand.,Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.,,,,,psleiter,cat
@@ -3479,8 +3422,6 @@ soep-is,soep-is-2023,291o,bob23_35,"[Yes, namely:]",[Ja und zwar],,,,,,291o;bob2
 soep-is,soep-is-2023,292,bob23_36,"What would you say: How much feedback (e.g. in the form of likes, comments or messages) do you get on digital platforms?","Was würden Sie sagen: Wie viel Feedback (z.B. in Form von Likes, Kommentaren oder Nachrichten) bekommen Sie auf digitalen Plattformen?",i39,,,,,288;bob23_filterdummy=1,,,cat
 soep-is,soep-is-2023,293,bob23_37,Imagine a ladder with the people you interact with on digital platforms. The top rung of the ladder indicates the highest social recognition on digital platforms and the bottom rung indicates the lowest recognition. Please select the rung of the ladder you are currently on compared to others in your social circle.,"Stellen Sie sich eine Leiter vor, auf der sich die Menschen befinden, mit denen Sie auf digitalen Plattformen zu tun haben. Die oberste Sprosse der Leiter zeigt die höchste soziale Anerkennung auf digitalen Plattformen an, die unterste die geringste Anerkennung. Auf einer Skala von 1 (unten) bis 10 (oben) bitte wählen Sie die Sprosse der Leiter aus, auf der Sie sich derzeit im Vergleich zu anderen Personen in Ihrem sozialen Umfeld befinden.",4052+4817,,,,,288;bob23_filterdummy=1,,,cat
 soep-is,soep-is-2023,294,bob23_38,Have you ever bought something based on recommendations on one or more digital platforms?,Haben Sie schon mal etwas aufgrund von Empfehlungen auf einer oder mehreren digitalen Plattformen gekauft?,i41,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod7,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod8,,Woemmel,Woemmel,,,,,,,,,txt
 soep-is,soep-is-2023,Imod8,1,Innovative module - Digital Skills,Innovatives Modul – Digitale Fähigkeiten,,,,,,2;sample=10:26,,,txt
 soep-is,soep-is-2023,295,woe23_20,How do you personally rate yourself: Are you willing to give up something that is advantageous to you today in order to gain a greater advantage in the future as a result?,"Wie schätzen Sie sich persönlich ein: Sind Sie bereit, heute etwas aufzugeben, das für Sie von Vorteil ist, um dadurch in Zukunft einen größeren Vorteil zu erzielen?",i69,,,,,,,,cat
 soep-is,soep-is-2023,296,1,"Please indicate whether the following statements apply to you when you think about using the internet and devices such as your mobile phone or computer. When answering, please think about what it would be like if you had to do something on your own now.","Geben Sie bitte an, ob die folgenden Aussagen auf Sie zutreffen, wenn Sie an die Internetnutzung und die Nutzung von Geräten wie dem Handy oder Computer denken. Überlegen Sie bitte beim Antworten, wie es wäre, wenn Sie etwas jetzt alleine tun müssten.",,,,,,,,,txt
@@ -3507,7 +3448,6 @@ soep-is,soep-is-2023,298,woe23_16,Your opportunities on the labour market,Ihre M
 soep-is,soep-is-2023,298,woe23_17,Your relationships with friends and family,Ihre Beziehungen zu Freunden und Familie,i43,,,,,,,,cat
 soep-is,soep-is-2023,298,woe23_18,The organisation of your free time,Die Gestaltung Ihrer Freizeit,i43,,,,,,,,cat
 soep-is,soep-is-2023,298,woe23_19,The development of society,Die Entwicklung der Gesellschaft,i43,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod8,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P5,1,Current education,Aktuelle Ausbildung,,,,,,,,,txt
 soep-is,soep-is-2023,299,plg0012_v2,"Are you currently in education or training? In other words, are you attending a school or university (including doctorate / Ph.D.), completing an apprenticeship or vocational training, or participating in further training or occupational rehabilitation?","Sind Sie derzeit in Ausbildung? Das heißt: Besuchen Sie eine Schule oder Hochschule (einschließlich Promotion), machen Sie eine Berufsausbildung/-vorbereitung oder nehmen Sie an einem Fortbildungslehrgang bzw. an einer beruflichen Rehabilitation teil?",1+4652,,,,,,2@303; -1@303,paus1,cat
 soep-is,soep-is-2023,300,1,What type of training / apprenticeship or further training are you pursuing?,Was für eine Ausbildung oder Fortbildung ist das?,,,,,,299;plg0012_v2=1,,,txt
@@ -3588,7 +3528,6 @@ soep-is,soep-is-2023,343,plb0040_v2,Is the enterprise you work for part of the c
 soep-is,soep-is-2023,344,plb0041_v2,Are you employed on a temporary or subcontracted basis?,Handelt es sich um ein Zeitarbeits- bzw. Leiharbeitsverhältnis?,1+4652,,,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)&(339;plb0064_v5!=7)",,pzaf,cat
 soep-is,soep-is-2023,345,plb0037_v3,Do you have a permanent or a fixed-term employment contract?,Haben Sie einen unbefristeten Arbeitsvertrag oder ein befristetes Arbeitsverhältnis?,940+4652,,,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)&(339;plb0064_v5!=7)",,pbefr1,cat
 soep-is,soep-is-2023,346,plb0049_v6,Approximately how many people does the company employ as a whole?,Wie viele Beschäftigte hat das Gesamtunternehmen etwa?,87+4652,"This does not refer to a local unit of the company, but to the entire company.",Nicht gemeint ist hierbei gegebenenfalls die lokale Betriebsstätte.,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)",,pgesunt,cat
-soep-is,soep-is-2023,CON_start_rmod5,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod5,1,Evening and weekend work,Abend- und Wochenendarbeit,,,,,,,,,txt
 soep-is,soep-is-2023,347,1,"Do you sometimes have to work in the evenings (after 7:00 p.m.) or at night (after 10:00 p.m.)? If so, how often?","Kommt es vor, dass Sie am Abend (nach 19.00 Uhr) oder nachts (nach 22.00 Uhr) arbeiten? Wenn ja, wie häufig?",,,,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)",,,txt
 soep-is,soep-is-2023,347,plb0205_v2,Evenings (7 to 10 p.m.),Abendarbeit (19.00 bis 22.00 Uhr),1061+4652,,,,,,,paz15,cat
@@ -3596,7 +3535,6 @@ soep-is,soep-is-2023,347,plb0206_v2,Nights (10 p.m. to 6 a.m.),Nachtarbeit (22.0
 soep-is,soep-is-2023,348,1,"Do you have to work weekends? If so, how often?","Kommt es vor, dass Sie am Wochenende arbeiten? Wenn ja, wie häufig?",,,,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)",,,txt
 soep-is,soep-is-2023,348,plb0218,Saturdays,Am Samstag / Sonnabend,1062+4652,,,,,,,paz17,cat
 soep-is,soep-is-2023,348,plb0219,Sundays,Am Sonntag,1062+4652,,,,,,,paz18,cat
-soep-is,soep-is-2023,CON_end_rmod5,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P11,1,Working Time,Arbeitszeit,,,,,,,,,txt
 soep-is,soep-is-2023,349,1,How many hours per week are stipulated in your contract (excluding overtime)?,Wie viele Wochenstunden beträgt Ihre vereinbarte Arbeitszeit ohne Überstunden?,,Please enter one decimal place maximally (e. g. xx.x)!,Bitte maximal auf eine Stelle nach dem Komma eingeben (z. B. xx.x)!,,,"(316;plb0022_v11=1:4,10)&(334;plb0568_v1=2:5)",,,txt
 soep-is,soep-is-2023,349,plb0176_v5,[Whole number] Hours per week,[Vorkommastelle] Stunden pro Woche,,,,,,,,paz08a,int
@@ -3644,14 +3582,11 @@ soep-is,soep-is-2023,360,pbrut_pnett_CONf,"Are the following amounts correct? ""
 soep-is,soep-is-2023,361,pbrut_pnett_CONh,"You have entered ""Gross: *? Euro and net: *? Euro"". That is, your deductions exceed 77% of the gross salary. Do we perhaps need to correct the information?",Sie haben „Brutto: *? Euro und Netto: *? Euro“ angegeben. D. h. Ihre Abzüge übersteigen 77% des Bruttolohnes. Müssen wir die Angaben vielleicht korrigieren?,4640+,,,,,"(316;plb0022_v11=1:5,10)&(357;plc0013_v2>0)&(357;plc0014_v2>0)&(((357;plc0013_v2)/(357;plc0014_v2))>4.3478)",1@357,P87R5,cat
 soep-is,soep-is-2023,362,pbrut_CONj,This question is important for the results of this study. What were your gross earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Bruttoverdienst im letzten Monat?",4641+4652,,,,,"(316;plb0022_v11=1:5,10)&(357;plc0013_v2=-1)",,P087Bru,cat
 soep-is,soep-is-2023,363,pnett_CONk,This question is important for the results of this study. How much were your net earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Nettoverdienst im letzten Monat?",4642+4652,,,,,"(316;plb0022_v11=1:5,10)&(357;plc0014_v2=-1)",,P087Rnet,cat
-soep-is,soep-is-2023,CON_start_rmod6,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod6,1,Tariff binding,Tarifliche Bindung,,,,,,,,,txt
 soep-is,soep-is-2023,364,plc0502_v2,Are you paid according to a collectively agreed wage agreement?,Liegt diesem Arbeitsverdienst eine tarifliche Bindung zugrunde?,185+4652,,,,,"316;plb0022_v11=1:5,10",,ptarif,cat
 soep-is,soep-is-2023,365,plc0507,Does the collective wage agreement include a fixed minimum wage?,Ist in diesem Tarifvertrag ein Mindestlohn festgeschrieben?,4812+4652,Please enter to a maximum of two decimal places (e.g. xx.xx)!,Bitte maximal auf zwei Stellen nach dem Komma eingeben (z. B. xx.xx)!,,,"(316;plb0022_v11=1:5,10)&(364;plc0502_v2=1)",,ptarml,cat
 soep-is,soep-is-2023,365,plc0508,[before decimal point] euros per hour,[Vorkommastelle] Euro pro Stunde,,,,,,"(316;plb0022_v11=1:5,10)&(364;plc0502_v2=1)&(365;plc0507=1)",,pmle1,int
 soep-is,soep-is-2023,365,plc0509,[after decimal point] euros per hour,[Nachkommastelle] Euro pro Stunde,,,,,,"(316;plb0022_v11=1:5,10)&(364;plc0502_v2=1)&(365;plc0507=1)",,pmle2,int
-soep-is,soep-is-2023,CON_end_rmod6,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod9,,Boneva,Boneva,,,,,,,,,txt
 soep-is,soep-is-2023,Imod9,1,Innovative module - Perceived child penalties and labor supply decisions,Innovatives Modul – Perceived child penalties and labor supply decisions,,,,,,"2;svar=1,2",,,txt
 soep-is,soep-is-2023,366,lb0011_v1,Preload,Preload,,Birthyear,Geburtsjahr,,,,,lgeb,int
 soep-is,soep-is-2023,367,1,"In the following, we will also ask you questions about hypothetical situations, among other things. Please try to imagine the following situations and answer the questions as best you can.",Im Folgenden werden wir Ihnen unter anderem auch Fragen zu hypothetischen Situationen stellen. Bitte versuchen Sie sich die folgenden Situationen vorzustellen und die Fragen bestmöglich zu beantworten.,,,,,,,,,txt
@@ -3792,7 +3727,6 @@ soep-is,soep-is-2023,410,bon23_47b,nowadays?,heutzutage?,,,,,,(372pl1;pl_befage=
 soep-is,soep-is-2023,410,4,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,(372pl1;pl_befage=372pl2;pl_befage3),,,bin
 soep-is,soep-is-2023,410,bon23_48,when you are [pl_befage10] years old?,wenn Sie [pl_befage10] Jahre alt sind?,,,,,,,,,int
 soep-is,soep-is-2023,410,3,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_end_imod9,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P13,1,Side jobs / volunteer positions,Nebentätigkeiten,,,,,,,,,txt
 soep-is,soep-is-2023,411,plb0618,"In addition to your main job, you can also have a secondary job or perform voluntary activities. Do you have one or more secondary jobs or voluntary activities?",Neben der Haupttätigkeit kann man ja noch Nebentätigkeiten oder ehrenamtliche Tätigkeiten ausüben. Üben Sie eine oder mehrere Nebentätigkeiten oder ehrenamtliche Tätigkeiten aus?,1+4652,We don’t mean your aforementioned gainful employment!,Nicht gemeint ist die schon beschriebene Erwerbstätigkeit!,,,,2@414,pnebt,cat
 soep-is,soep-is-2023,412,1,"How many side jobs, including volunteer positions, do you currently have in total?",Wie viele Nebentätigkeiten inklusive ehrenamtlichen Tätigkeiten üben Sie derzeit insgesamt aus?,,,,,,411;plb0618=1,,,txt
@@ -3846,14 +3780,12 @@ soep-is,soep-is-2023,425,pek111_CONp,"Your indication: ""*? euros"" (Other suppo
 soep-is,soep-is-2023,P15,1,Current Health,Gesundheitszustand,,,,,,,,,txt
 soep-is,soep-is-2023,426,1,Health and Illness,Im Folgenden haben wir noch einige Fragen zu Ihrer Gesundheit,,,,,,,,,txt
 soep-is,soep-is-2023,427,ple0008,How would you describe your current state of health?,Wie würden Sie Ihren gegenwärtigen Gesundheitszustand beschreiben?,108+4652,,,,,,,pges01,cat
-soep-is,soep-is-2023,CON_start_rmod7,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod7,1,Depressive traits,Depressive Züge,,,,,,,,,txt
 soep-is,soep-is-2023,428,1,"Over the last two weeks, how often have you been bothered by any if the following problems?",Jetzt geht es um die letzten zwei Wochen. Wie oft fühlten Sie sich da durch die folgenden Beschwerden beeinträchtigt?,,,,,,,,,txt
 soep-is,soep-is-2023,428,plh0339,Little interest or pleasure in doing things,Wenig Interesse oder Freude an Ihren Tätigkeiten,1937+4652,,,,,,,pbes2w1,cat
 soep-is,soep-is-2023,428,plh0340,"Feeling down, depressed, or hopeless","Niedergeschlagenheit, Schwermut oder Hoffnungslosigkeit",1937+4652,,,,,,,pbes2w2,cat
 soep-is,soep-is-2023,428,plh0341,"Feeling nervous, anxious, or on edge","Nervosität, Ängstlichkeit oder Anspannung",1937+4652,,,,,,,pbes2w3,cat
 soep-is,soep-is-2023,428,plh0342,Unable to stop or control worrying,"Nicht in der Lage sein, Sorgen zu stoppen oder zu kontrollieren",1937+4652,,,,,,,pbes2w4,cat
-soep-is,soep-is-2023,CON_end_rmod7,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P16,1,Reduction in earning capacity,Erwerbsminderung,,,,,,,,,txt
 soep-is,soep-is-2023,429,ple0040,Are you officially certified as incapacitated for work or severely disabled?,Sind Sie nach amtlicher Feststellung erwerbsgemindert oder schwerbehindert?,1+4652,,,,,,,pbeh1,cat
 soep-is,soep-is-2023,430,ple0041,What is the degree of your reduced capability to work (Erwerbsminderung) or disabilty (Schwerbehinderung)?,Bitte geben Sie den Grad der Behinderung bzw. den Grad der Minderung der Erwerbsfähigkeit an:,4815+4652,,,,,429;ple0040=1,,pbeh2,cat
@@ -3865,15 +3797,12 @@ soep-is,soep-is-2023,432,ple0193i02,Mental,Psychisch/seelisch,,,,,,,,pbeh5,bin
 soep-is,soep-is-2023,432,ple0194i03,Intellectual / cognitive,Geistig/kognitiv,,,,,,,,pbeh6,bin
 soep-is,soep-is-2023,432,ple0195i04,None of the above,Nichts davon,,,,,,,,pbeh_n,bin
 soep-is,soep-is-2023,432,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_start_rmod8,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod8,1,Nutrition awareness,Ernährungsbewusstsein,,,,,,,,,txt
 soep-is,soep-is-2023,433,1,"How often do you eat meat, fish, or poultry?","Wie oft essen Sie Fleisch, Fisch oder Geflügel?",,,,,,,,,txt
 soep-is,soep-is-2023,433,ple0179,Meat,Fleisch,782+4652,,,,,,,pffg1,cat
 soep-is,soep-is-2023,433,ple0180,Fish,Fisch,782+4652,,,,,,,pffg2,cat
 soep-is,soep-is-2023,433,ple0181,Poultry,Geflügel,782+4652,,,,,,,pffg3,cat
 soep-is,soep-is-2023,434,ple0182,Do you follow a mainly vegetarian or vegan diet?,Ernähren Sie sich überwiegend oder ausschließlich vegetarisch oder vegan?,784+4652,,,,,,,pveg,cat
-soep-is,soep-is-2023,CON_end_rmod8,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod10,,Tuppat,Tuppat,,,,,,,,,txt
 soep-is,soep-is-2023,Imod10,1,Innovative module - Gender role orientations,Innovatives Modul - Gender role orientations,,,,,,2;svar=1,,,txt
 soep-is,soep-is-2023,435,ple0081_v2,"Do you currently smoke, whether cigarettes, a pipe, or cigars?","Rauchen Sie gegenwärtig, seien es Zigaretten, Pfeifen oder Zigarren?",i0,We are not referring here to e-cigarettes!,Nicht gemeint sind hier E-Zigaretten!,,,,,prauch1,cat
 soep-is,soep-is-2023,436,1,"How many cigarettes, pipes or cigars do you smoke per day?","Wie viele Zigaretten, Pfeifen oder Zigarren rauchen Sie pro Tag?",,Please give the daily average for the last week.,Geben Sie bitte den täglichen Durchschnitt der letzten Woche an.,,,435;ple0081_v2=1,,,txt
@@ -3926,7 +3855,6 @@ soep-is,soep-is-2023,445,tup23_35,Best if man and woman work the same amount so 
 soep-is,soep-is-2023,445,tup23_36,Women should rather care about family than career.,Frauen sollten sich stärker um die Familie als um die Karriere kümmern.,i32,,,,,,,,cat
 soep-is,soep-is-2023,446,tup23_37,I consider myself as…,Ich empfinde mich selbst als…,i33,,,,,,,,cat
 soep-is,soep-is-2023,447,tup23_38,"Ideally, I would like to be…",Idealerweise wäre ich gern….,i33,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod10,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P17,1,Doctor's visits & hospital,Arztbesuche & Krankenhaus,,,,,,,,,txt
 soep-is,soep-is-2023,448,1,"Have you gone to a doctor in the last three months? If so, please state how many times.","Denken Sie nun bitte an all Ihre Arztbesuche der letzten 3 Monate. Haben Sie in den letzten 3 Monaten Ärztinnen und Ärzte aufgesucht? Wenn ja, geben Sie bitte an wie häufig.",,,,,,,,,txt
 soep-is,soep-is-2023,448,ple0072,Number of visits to a doctor in the last three months,Zahl aller Arztbesuche in den letzten 3 Monaten,,,,,,,,pdr1,int
@@ -3937,7 +3865,6 @@ soep-is,soep-is-2023,450,1,How many days were you unable to work in 2022 due to 
 soep-is,soep-is-2023,450,ple0046,A total of … days,Insgesamt … Tage,,,,,,,,pkr6,int
 soep-is,soep-is-2023,450,ple0044_v1,None,keinen Tag,,,,,,,,pkr5,bin
 soep-is,soep-is-2023,450,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_start_rmod9,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod9,1,Personality traits (Big Five),Persönlichkeitsmerkmale (Big Five),,,,,,,,,txt
 soep-is,soep-is-2023,451,1,People can have many different qualities—some are listed below. You will probably find that some of these descriptions fit you completely and that some do not fit you at all. Others may fit to a certain extent.,"Hier sind unterschiedliche Eigenschaften, die eine Person haben kann. Wahrscheinlich werden einige Eigenschaften auf Sie persönlich voll zutreffen und andere überhaupt nicht. Bei wieder anderen sind Sie vielleicht unentschieden.",,"Please answer on a scale from 1 to 7, where 1 means ""does not describe me at all"", and 7 meaning ""describes me perfectly"".",Antworten Sie bitte anhand der folgenden Skala. Der Wert 1 bedeutet: Trifft überhaupt nicht zu.Der Wert 7 bedeutet: Trifft voll zu.Mit den Werten zwischen 1 und 7 können Sie Ihre Meinung abstufen.,,,,,,txt
 soep-is,soep-is-2023,451,2,I am:,"Ich bin jemand, der ...",,,,,,,,,txt
@@ -3957,20 +3884,16 @@ soep-is,soep-is-2023,451,plh0224,… considerate and kind to others,… rücksic
 soep-is,soep-is-2023,451,plh0225,… imaginative,"… eine lebhafte Phantasie, Vorstellungen hat",53+4652,,,,,,,pego14,cat
 soep-is,soep-is-2023,451,plh0226,"… relaxed, able to deal with stress","… entspannt ist, mit Stress gut umgehen kann",53+4652,,,,,,,pego15,cat
 soep-is,soep-is-2023,451,plh0255,… eager for knowledge,… wissbegierig ist,53+4652,,,,,,,pego16,cat
-soep-is,soep-is-2023,CON_end_rmod9,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P18,1,Politics,Politk,,,,,,,,,txt
 soep-is,soep-is-2023,452,plh0007,"Generally speaking, how interested are you in politics?",Einmal ganz allgemein gesprochen: Wie stark interessieren Sie sich für Politik?,135+4652,,,,,,,ppol1,cat
 soep-is,soep-is-2023,453,plh0011_v3,"Many people in Germany lean towards one party in the long term, even if they occasionally vote for another party. Do you lean towards a particular party?","Viele Leute in der Bundesrepublik neigen längere Zeit einer bestimmten Partei zu, obwohl sie auch ab und zu eine andere Partei wählen.
 Wie ist das bei Ihnen: Neigen Sie einer bestimmten Partei in Deutschland zu?",1+4652,,,,,,2@456,ppol2,cat
 soep-is,soep-is-2023,454,plh0012_v6,Which party do you lean toward?,Welcher Partei neigen Sie zu?,2014+4652,,,,,453;plh0011_v3=1,,ppol3,cat
 soep-is,soep-is-2023,455,plh0013_v2,And to what extent?,Und wie stark neigen Sie dieser Partei zu?,371+4652,,,,,453;plh0011_v3=1,,ppol4,cat
-soep-is,soep-is-2023,CON_start_rmod10,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod10,1,Political spectrum,Politisches Spektrum,,,,,,,,,txt
 soep-is,soep-is-2023,456,plh0004,In politics people often talk about “left” and “right” when it comes to characterize different political attitudes. If you think about your own political views: Where would you place yours?,"In der Politik reden die Leute oft von „links“ und „rechts“, wenn es darum geht unterschiedliche politische Einstellungen zu kennzeichnen. Wenn Sie an Ihre eigenen politischen Ansichten denken: Wo würden Sie diese Ansichten einstufen?",583+,"Please answer using the following scale.A value of 0 means that the far left, a value of 10 means that the far right.With the values between 0 and 10, you can state your opinion.","Antworten Sie bitte anhand der folgenden Skala.
 Der Wert 0 bedeutet: ganz links, der Wert 10 bedeutet: ganz rechts.
 Mit den Werten zwischen 0 und 10 können Sie Ihre Meinung abstufen.",,,,,ppol6,cat
-soep-is,soep-is-2023,CON_end_rmod10,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_rmod11,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod11,1,Locus of Control,Locus of Control,,,,,,,,,txt
 soep-is,soep-is-2023,457,1,The following statements describe different attitudes towards life and the future. To which degree do you personally agree with the individual statements?,Die folgenden Aussagen kennzeichnen verschiedene Einstellungen zum Leben und zur Zukunft. In welchem Maße stimmen Sie persönlich den einzelnen Aussagen zu?,,Please answer according to the following scale:The value 1 means: „not at all agree“der Wert 7 bedeutet: „agree completely“,"Antworten Sie bitte anhand einer Skala: 
 Der Wert 1 bedeutet: „stimme überhaupt nicht zu“
@@ -3985,8 +3908,6 @@ soep-is,soep-is-2023,457,plh0383_v2,"If I run up against difficulties in life, I
 soep-is,soep-is-2023,457,plh0384_v2,The opportunities that I have in life are determined by the social conditions,"Welche Möglichkeiten ich im Leben habe, wird von den sozialen Umständen bestimmt",693+,,,,,,,pzu07,cat
 soep-is,soep-is-2023,457,plh0385_v2,Inborn abilities are more important than any efforts one can make,"Wichtiger als alle Anstrengungen sind die Fähigkeiten, die man mitbringt",693+,,,,,,,pzu08,cat
 soep-is,soep-is-2023,457,plh0386_v2,I have little control over the things that happen in my life,"Ich habe wenig Kontrolle über die Dinge, die in meinem Leben passieren",693+,,,,,,,pzu09,cat
-soep-is,soep-is-2023,CON_end_rmod11,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod11,,Graeber,Graeber,,,,,,,,,txt
 soep-is,soep-is-2023,Imod11,1,Innovative module - Conservation Behavior and Climate Change,Innovatives Modul - Naturschutzverhalten und Klimawandel,,,,,,2;sample=46,,,txt
 soep-is,soep-is-2023,458,gra23_treat,Treatment group,Treatment Gruppe,i51,,,,,,,,cat
 soep-is,soep-is-2023,459,1,"Now we would like to ask you a few things regarding global warming. When ""global warming"" is mentioned below, it always refers to a comparison with pre-industrial levels.","Nun möchten wir Sie ein paar Dinge bezüglich der Erderwärmung fragen. Wenn im Folgenden von ""Erderwärmung"" gesprochen wird, bezieht sich dies immer auf den Vergleich zum vorindustriellen Niveau",,,,,,,,,txt
@@ -4020,8 +3941,6 @@ soep-is,soep-is-2023,467,gra23_17,Business and industry,Gewerbe und Industrie,i5
 soep-is,soep-is-2023,467,gra23_18,Local and national government,Lokale und nationale Regierungen,i5,,,,,,,,cat
 soep-is,soep-is-2023,468,1,"Your best guess of the annual likelihood of a major heatwave in Western Europe was [gra23_01]. The scientist's estimate is 21%. Thus, your estimate is within 10% and you get a bonus of 5 Euro.",Ihre Schätzung für die jährliche Wahrscheinlichkeit einer großen Hitzewelle in Westeuropa war [gra23_01]. Die Schätzung der Wissenschaft liegt bei 21%. Ihre Schätzung liegt also innerhalb von 10% und Sie erhalten einen Bonus von 5 Euro.,,,,,,"461;gra23_01=19,20,21,22,23",,,txt
 soep-is,soep-is-2023,469,1,"Unfortunately, your estimate is not within 10% and you do not get a bonus of 5 Euro.",Ihre Schätzung für die jährliche Wahrscheinlichkeit einer großen Hitzewelle in Westeuropa war [gra23_01]. Die Schätzung der Wissenschaft liegt bei 21%. Leider weicht Ihre Schätzung mehr als 10% von dem richtigen Wert ab und Sie erhalten keinen Bonus von 5 Euro.,,,,,,"461;gra23_01!=19,20,21,22,23",,,txt
-soep-is,soep-is-2023,CON_end_imod11,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_rmod12,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod12,1,Pretest Climate,Pretest Klima,,,,,,,,,txt
 soep-is,soep-is-2023,470,1,To what extent do you agree with the following statements?,Inwieweit stimmen Sie den folgenden Aussagen zu?,,,,,,,,,txt
 soep-is,soep-is-2023,470,pklimase1,We people in Germany are in a position to work together to protect the climate.,Wir Menschen in Deutschland sind in der Lage uns gemeinsam für den Schutz des Klimas einzusetzen.,pre1,,,,,,,pklimase1,cat
@@ -4033,8 +3952,6 @@ soep-is,soep-is-2023,471,pklimasm1,Communication and information measures on cli
 soep-is,soep-is-2023,471,pklimasm2,Financial incentives for climate-friendly products and behaviours,Finanzielle Anreize für klimaschonende Produkte und Verhaltensweisen,pre2,,,,,,,pklimasm2,cat
 soep-is,soep-is-2023,471,pklimasm3,Taxes on climate-damaging products and behaviours,Besteuerungen klimaschädlicher Produkte und Verhaltensweisen,pre2,,,,,,,pklimasm3,cat
 soep-is,soep-is-2023,471,pklimasm4,Regulation and laws on climate protection,Regulierung und Gesetze zum Klimaschutz,pre2,,,,,,,pklimasm4,cat
-soep-is,soep-is-2023,CON_end_rmod12,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod12,,Menzner,Menzner,,,,,,,,,txt
 soep-is,soep-is-2023,Imod12,1,Innovative module - Climate Policy,Innovatives Modul – Klimapolitik,,,,,,2;sample=19:38,,,txt
 soep-is,soep-is-2023,472,men23_group,Grouprandomization,Gruppenrandomisierung,i6,,,,,,,,cat
 soep-is,soep-is-2023,473,1,"Here are some statements you may or may not agree with. Please tell us how many of these statements you would agree with. Please do not tell us which ones exactly you agree with, just how many of them.","Hier sind einige Aussagen denen man zustimmen kann oder nicht. Bitte sagen Sie uns wie vielen dieser Aussagen Sie zustimmen würden. Bitte sagen Sie uns nicht welchen genau Sie zustimmen, sondern nur wie vielen davon.",,,,,,472;men23_group=1,,,txt
@@ -4116,8 +4033,6 @@ soep-is,soep-is-2023,489,men23_70,Climate politics should be decided by scientis
 soep-is,soep-is-2023,489,men23_71,Politicians should only be allowed to hold a mandate in the Bundestag if they publicly acknowledge that climate change exists and is man-made.,"Politiker*innen sollten nur ein Mandat im Bundestag erhalten dürfen, wenn Sie öffentlich anerkennen, dass der Klimawandel existiert und menschengemacht ist.",i0,,,,,,,,cat
 soep-is,soep-is-2023,489,men23_72,Protests by climate activists that interfere with everyday life should be banned and the activists reported.,"Proteste von Klimaaktivist*innen, die das alltägliche Leben beeinträchtigen, sollten verboten und die Aktivist*innen angezeigt werden.",i0,,,,,,,,cat
 soep-is,soep-is-2023,489,men23_73,"Even if courts rule that stronger climate action must be taken, politicians should override this.","Selbst wenn Gerichte urteilen, dass stärkere Klimaschutzsmaßnahmen ergriffen werden müssen, sollte die Politik sich darüber hinwegsetzen.",i0,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod12,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_imod13,,Yang,Yang,,,,,,,,,txt
 soep-is,soep-is-2023,Imod13,1,Innovative module - Chinese Investments,Innovatives Modul – Chinesische Investments,,,,,,2;svar=2,,,txt
 soep-is,soep-is-2023,490,yan23_group,Grouprandomization,Gruppenrandomisierung,i44,,,,,,,,cat
 soep-is,soep-is-2023,491,1,"In the following part of the survey, we are going to ask you a series of questions related to something called Foreign Direct Investment (FDI) in Germany. What is FDI? FDI is short for Foreign Direct Investment, which is a long-term investment in the home country (in this case the home country is Germany), made by another person or company from a foreign country, typically by opening a new plant or buying shares (normally at least 10%) of a domestic company. For instance, a company from France could build and open a new factory plant in Germany. Or, an American company could invest in a German car company by buying 30% of its shares. Both are examples of FDIs.",Im Folgenden geht es um ausländische Direktinvestitionen. Es handelt sich um Investitionen durch ausländische Unternehmen oder Personen in einem anderen Land – hier in Deutschland. Typischerweise erfolgen diese Investitionen durch Neugründungen von Betrieben oder indem Firmenanteile aufgekauft werden. Zum Beispiel könnte ein Unternehmen aus Frankreich in Deutschland eine neue Fabrik bauen oder ein amerikanisches Unternehmen könnte in einen deutschen Autohersteller investieren.,,,,,,,,,txt
@@ -4237,7 +4152,6 @@ soep-is,soep-is-2023,509,3,Proposal B: A company from China plans to buy out thi
 soep-is,soep-is-2023,509,yan23_60,"In order to make two proposal equally attractive to you, how many jobs will the company from the China have to save after the buyout? [ … jobs]","Wie viele Arbeitsplätze müsste das chinesische Unternehmen nach der Übernahme mindestens erhalten, damit beide Angebote (A und B) für Sie gleich attraktiv sind? Anzahl Arbeitsplätze:",,,,,,,,,int
 soep-is,soep-is-2023,509,4,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2023,510,yan23_08,"Imagine that the German government wants to promote bilateral investments between Germany and China. This could lead to more Chinese investment in Germany, but also to more German investment in China. On a scale of -5 to +5, where -5 stands for ""Strongly Oppose"" and +5 for ""Strongly Support"" this policy scheme, how would you rate it?","Stellen sie sich vor, die deutsche Bundesregierung will bilaterale Investitionen zwischen Deutschland und China fördern. Dies könnte zu mehr chinesischen Investitionen in Deutschland, aber auch zu mehr deutschen Investitionen in China führen. Wie beurteilen Sie dieses politische Vorhaben auf einer Skala von -5 bis +5, wobei -5 für ”Starke Ablehnung"" und +5 für ”Starke Unterstützung"" dieser Regelung steht?",i48,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod13,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P19,1,Nationality/Migration,Staatsangehörigkeit/Migration,,,,,,,,,txt
 soep-is,soep-is-2023,511,plj0014_v3,Do you have German citizenship?,Haben Sie die deutsche Staatsangehörigkeit?,1+4652,,,,,,2@514; -1@514,psta1,cat
 soep-is,soep-is-2023,512,plj0024_v1,Have you had German citizenship since birth or did you acquire it at a later date?,Haben Sie die deutsche Staatsangehörigkeit seit Geburt oder erst später erworben?,1078+4652,,,,,511;plj0014_v3=1,,psta3,cat
@@ -4245,13 +4159,11 @@ soep-is,soep-is-2023,513,plj0175,Were both of your parents born in Germany?,Sind
 soep-is,soep-is-2023,514,1,What is your country of citizenship?,Welche Staatsangehörigkeit haben Sie?,,"If you are a citizen of more than one country, please state the only the first.","Falls Sie mehr als zwei Staatsangehörigkeiten haben, geben Sie bitte nur die erste an.",,,511;plj0014_v3=2,,,txt
 soep-is,soep-is-2023,514,plj0014_v5,(1st country of citizenship country code),[Ländercode 1. Staatsangehörigkeit],9091+,,,,,,,pnatnr,cat
 soep-is,soep-is-2023,514,4,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_start_rmod13,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod13,1,Religious affiliation (long),Religionszugehörigkeit (lang),,,,,,,,,txt
 soep-is,soep-is-2023,515,plh0258_v9,Do you belong to a church or religious community?,Gehören Sie einer Kirche oder Religionsgemeinschaft an?,1030+4652,,,,,16;panel_auf=2,,prel,cat
 soep-is,soep-is-2023,515,prelso,"[Yes, to another religious community] Please state:","[Ja, einer anderen Religionsgemeinschaft] und zwar:",,,,,,,,prelso,chr
 soep-is,soep-is-2023,516,plh0258_v10,Which Christian religious community do you belong to?,Welcher christlichen Religionsgemeinschaft gehören Sie an?,1031+4652,,,,,(16;panel_auf=2)&(515;plh0258_v9=7),,prelch,cat
 soep-is,soep-is-2023,517,plh0258_v11,Which Islamic religious community do you belong to?,Welcher islamischen Religionsgemeinschaft gehören Sie an?,1032+4652,,,,,(16;panel_auf=2)&(515;plh0258_v9=4),,prelis,cat
-soep-is,soep-is-2023,CON_end_rmod13,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P20,1,Marital Status,Familienstand,,,,,,,,,txt
 soep-is,soep-is-2023,518,pld0131_v3,What is your marital status?,Wie ist Ihr Familienstand?,11381+4652,,,,,,3:7@521; -1@521,pfamst,cat
 soep-is,soep-is-2023,519,pld0300,Do you and your spouse or partner live together in this household?,"Leben Sie mit Ihrem (Ehe-)Partner / Ihrer (Ehe-)Partnerin zusammen, in diesem Haushalt?",4259+4652,,,,,518;pld0131_v3=1:2,3:4@521,pelv2,cat
@@ -4261,15 +4173,11 @@ soep-is,soep-is-2023,521,pld0132_v1,Are you in a serious / permanent relationshi
 soep-is,soep-is-2023,522,pld0133,Does your partner live with you in this household?,Wohnt Ihr Partner / Ihre Partnerin hier im Haushalt?,1+4652,,,,,((518;pld0131_v3=3:7)|(518;pld0131_v3=1:2)&(519;pld0300=3:4))&(521;pld0132_v1=1),,pp2,cat
 soep-is,soep-is-2023,523,pfpnam,What is your partner's first name?,Wie ist der Vorname dieses Partners / dieser Partnerin?,,,,,,((518;pld0131_v3=3:7)|(518;pld0131_v3=1:2)&(519;pld0300=3:4))&(521;pld0132_v1=1),,pfpnam,chr
 soep-is,soep-is-2023,523,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2023,CON_start_rmod14,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod14,1,Pretest marriage contract,Pretest Ehevertrag,,,,,,,,,txt
 soep-is,soep-is-2023,524,pld0299,Do you have a marriage contract or a registered life partnership contract (Lebenspartnerschaftsvertrag)?,Haben Sie einen Ehevertrag bzw. einen Lebenspartnerschaftsvertrag?,pre3,,,,,518;pld0131_v3=1:2,,pelv1,cat
 soep-is,soep-is-2023,525,pgueterst,"Under the term ‘matrimonial property regime', the property relations between married couples are determined. What matrimonial property regime is specified in your marriage contract?",Unter der Bezeichnung Güterrecht werden die vermögensrechtlichen Verhältnisse der Verheirateten untereinander bestimmt. Welcher Güterstand ist in Ihrem Ehevertrag festgelegt?,pre4,,,,,524;pld0299=1,,pgueterst,cat
-soep-is,soep-is-2023,CON_end_rmod14,,,,,,,,,,,,txt
-soep-is,soep-is-2023,CON_start_rmod15,,,,,,,,,,,,txt
 soep-is,soep-is-2023,Rmod15,1,Decision Partnership,Entscheidung Partnerschaft,,,,,,,,,txt
 soep-is,soep-is-2023,526,plc0011,Who has the last word in your relationship / marriage when making important financial decisions?,"Wer hat in Ihrer Partnerschaft / Ehe das letzte Wort,wenn wichtige finanzielle Entscheidungen getroffen werden?",139+,,,,,(518;pld0131_v3=1:2)|(521;pld0132_v1==1),,pwort,cat
-soep-is,soep-is-2023,CON_end_rmod15,,,,,,,,,,,,txt
 soep-is,soep-is-2023,P21,1,Family situation,Familiensituation,,,,,,,,,txt
 soep-is,soep-is-2023,527,1,"Has your family situation changed since January 1, 2022? Please indicate if any of the following have occurred, and if so, when.","Hat sich an Ihrer familiären Situation seit dem 1. Januar 2022 etwas verändert? Geben Sie bitte an, ob einer der folgenden Punkte zutrifft, und wenn ja, wann das war.",,"If any of the following has taken place more than once since January 1, 2022, please refer to the most recent change.Please select all answers that apply.","Wenn ein Punkt seit dem 1. Januar 2022 mehrfach vorgekommen ist, beziehen Sie sich bitte auf die letzte Veränderung.
 
@@ -4875,7 +4783,6 @@ Der Wert 1 bedeutet dieses Mal ausgeschlossen und der Wert 7 bedeutet ganz siche
 soep-is,soep-is-2023,734,probgra1,Lower secondary school-leaving certificate (Hauptschulabschluss),Hauptschulabschluss,1840+4652,,,,,,,dsch4,cat
 soep-is,soep-is-2023,734,probgra2,"Intermediate secondary school-leaving certificate (Realschulabschluss, etc.)",Mittlerer Schulabschluss (z. B. Realschulabschluss),1840+4652,,,,,,,dsch5,cat
 soep-is,soep-is-2023,734,probgra3,Upper secondary school-leaving certificate (Abitur),Abitur,1840+4652,,,,,,,dsch6,cat
-soep-is,soep-is-2023,CON_start_imod14,,Auspurg,Auspurg,,,,,,,,,txt
 soep-is,soep-is-2023,Imod14,1,Innomodule Earnings Vignettes,Innomodul Verdienstvignetten,,,,,,"2;svar=1,2",,,txt
 soep-is,soep-is-2023,735,aus23_teil,"Thank you very much for your answers.
 
@@ -4958,7 +4865,6 @@ soep-is,soep-is-2023,754,ivvp6,Differences in gross income in Germany are too la
 soep-is,soep-is-2023,754,aus23_17,The state should take more measures to reduce income inequality in Germany.,Der Staat sollte mehr Maßnahmen ergreifen um die Einkommensunterschiede in Deutschland zu verringern.,i66,,,,,,,,cat
 soep-is,soep-is-2023,754,aus23_18,People with high incomes should be taxed more in the future.,Personen mit hohem Einkommen sollten in Zukunft stärker besteuert werden.,i66,,,,,,,,cat
 soep-is,soep-is-2023,754,aus23_19,People with low incomes should receive more social benefits in the future.,Personen mit geringem Einkommen sollten in Zukunft mehr Sozialleistungen erhalten.,i66,,,,,,,,cat
-soep-is,soep-is-2023,CON_end_imod14,,,,,,,,,,,,txt
 soep-is,soep-is-2023,End,1,Interview ending,Interviewende,,,,,,,,,txt
 soep-is,soep-is-2023,755,1,Were other persons present while filling out the questionnaire?,Waren beim Ausfüllen des Fragebogens weitere Personen anwesend?,,Please select all that apply.,Bitte geben Sie alles Zutreffende an.,,,,,,txt
 soep-is,soep-is-2023,755,plk0019,"Yes, spouse / partner","Ja, Ehepartner / Lebenspartner",,,,,,,,anw1,bin
@@ -5692,7 +5598,6 @@ Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,,,pgwert,c
 soep-is,soep-is-2022,P1.3,1,"Risk assessment, locus of control","Risikoeinschätzung, Locus of Control",,,,,,,,,txt
 soep-is,soep-is-2022,391,plh0204_v2,Are you generally a person who is willing to take risks or do you try to avoid taking risks?,"Wie schätzen Sie sich persönlich ein:
 Sind Sie im Allgemeinen ein risikobereiter Mensch oder versuchen Sie, Risiken zu vermeiden? ",392M4652,"Please select a box on the scale, where the value 0 means not at all willing to take risks and the value 10 means very willing to take risks.","Antworten Sie bitte anhand der folgenden Skala, wobei der Wert 0 bedeutet: gar nicht risikobereit und der Wert 10: sehr risikobereit. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,,,prisk,cat
-soep-is,soep-is-2022,CON_start_imod1,,[de] Luhmann,Luhmann,,,,,,,,,txt
 soep-is,soep-is-2022,Imod1,1,Innovative module - Life event,Innovatives Modul – Lebensereignis,,,,,,,,,txt
 soep-is,soep-is-2022,392_1,luh22_01,Please report the most significant life event that you have experienced in the past 12 months.,"Bitte berichten Sie das wichtigste Lebensereignis, das Sie in den vergangenen 12 Monaten erlebt haben",,,,,,"2;sample=25,32,38",,luh22_01,chr
 soep-is,soep-is-2022,392_1,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
@@ -5707,8 +5612,6 @@ soep-is,soep-is-2022,392_3,luh22_08,The event occurred unexpectedly.,Das Ereigni
 soep-is,soep-is-2022,392_3,luh22_09,My reputation suffered from the event.,Mein Ansehen hat unter dem Ereignis gelitten,100013,,,,,,,luh22_09,cat
 soep-is,soep-is-2022,392_3,luh22_10,The event was negative.,Das Ereignis war negativ,100013,,,,,,,luh22_10,cat
 soep-is,soep-is-2022,392_3,luh22_11,The event changed my world views.,Das Ereignis hat meine Ansichten verändert,100013,,,,,,,luh22_11,cat
-soep-is,soep-is-2022,CON_end_imod1,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod2,,[de] Rudert,Rudert,,,,,,,,,txt
 soep-is,soep-is-2022,Imod2,1,Innovative module – Experiences,Innovatives Modul – Erfahrungen,,,,,,,,,txt
 soep-is,soep-is-2022,393_1,1,How often did you have the following experiences within the last two months?,Wie oft haben Sie folgende Erfahrungen in den vergangenen zwei Monaten gemacht?,,,,,,"2;sample=10,11,19,22",,,txt
 soep-is,soep-is-2022,393_1,rud22_01,Others ignore me.,Andere ignorieren mich,100018,,,,,,,rud22_01,cat
@@ -5733,19 +5636,13 @@ soep-is,soep-is-2022,393_2,plh0224,considerate and kind to others,rücksichtsvol
 soep-is,soep-is-2022,393_2,plh0225,imaginative,"eine lebhafte Phantasie, Vorstellungen hat",1843+4652,,,,,,,pego14,cat
 soep-is,soep-is-2022,393_2,plh0226,"relaxed, able to deal with stress","entspannt ist, mit Stress gut umgehen kann",1843+4652,,,,,,,pego15,cat
 soep-is,soep-is-2022,393_2,plh0255,eager for knowledge,wissbegierig ist,1843+4652,,,,,,,pego16,cat
-soep-is,soep-is-2022,CON_end_imod2,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod3,,[de] Neyse1,Neyse1,,,,,,,,,txt
 soep-is,soep-is-2022,Imod3,1,Innovative module - competition,Innovatives Modul – Wettbewerb,,,,,,,,,txt
 soep-is,soep-is-2022,394_1,1,To what extent does the following statement apply to you?,Inwieweit trifft die folgende Aussage auf Sie zu?,,Please answer using the following scale. The value 1 means: does not apply at all. The value 7 means: fully applies. You can use the values between 1 and 7 to grade your opinion.,Antworten Sie bitte anhand der folgenden Skala. Der Wert 1 bedeutet: trifft überhaupt nicht zu. Der Wert 7 bedeutet: trifft voll zu. Mit den Werten zwischen 1 und 7 können Sie Ihre Meinung abstufen.,,,"2;sample=10,11,19,25,26,38",,,txt
 soep-is,soep-is-2022,394_1,ney22_01,I give my best in competition,Im Wettbewerb gebe ich mein Bestes,1843+4652,,,,,,,ney22_01,cat
-soep-is,soep-is-2022,CON_end_imod3,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod25,,[de] Affiliation,Affiliation,,,,,,,,,txt
 soep-is,soep-is-2022,Imod25,1,Innovative Modul – Affiliation motive,Innovatives Modul – Affiliationsmotive,,,,,,,,,txt
 soep-is,soep-is-2022,395_1,1,To what extent do the following statement apply to you?,Inwieweit treffen die folgenden Aussagen auf Sie zu?,,,,,,,,,txt
 soep-is,soep-is-2022,395_1,affil_01,I try to be in the company of friends as often as possible.,"Ich versuche, so oft wie möglich in der Gesellschaft von Freunden zu sein.",100118,,,,,,,,cat
 soep-is,soep-is-2022,395_1,affil_02,Getting together with other people makes me happy.,Zusammentreffen mit anderen Menschen machen mich glücklich.,100118,,,,,,,,cat
-soep-is,soep-is-2022,CON_end_imod25,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod4,,[de] Nickel,Nickel,,,,,,,,,txt
 soep-is,soep-is-2022,Imod4,1,Innovative module – Marketized Mentality,Innovatives Modul – Marktförmiger Extremismus,,,,,,,,,txt
 soep-is,soep-is-2022,396_1,1,"Now there are some statements, please tell me to what extent you agree with these statements:","Nun folgen einige Aussagen, teilen Sie mir bitte mit, inwieweit Sie diesen Aussagen zustimmen:",,,,,,"2;sample=10,11,19,32,38",,,txt
 soep-is,soep-is-2022,396_1,nic22_01,"If you are not prepared to try something new, it is your own fault if you fail.","Wer nicht bereit ist, was Neues zu wagen, der ist selber schuld, wenn er scheitert.",100080,,,,,,,nic22_01,cat
@@ -5755,13 +5652,10 @@ soep-is,soep-is-2022,396_1,nic22_04,The key to success is to be better than the 
 soep-is,soep-is-2022,396_1,nic22_05,Progress is only possible through competition.,Fortschritt gibt es nur durch Wettbewerb.,100080,,,,,,,nic22_05,cat
 soep-is,soep-is-2022,396_1,nic22_06,No society can afford people who are not very useful.,"Menschen, die wenig nützlich sind, kann sich keine Gesellschaft leisten.",100080,,,,,,,nic22_06,cat
 soep-is,soep-is-2022,396_1,nic22_07,We can no longer afford human errors.,Menschliche Fehler können wir uns nicht mehr leisten.,100080,,,,,,,nic22_07,cat
-soep-is,soep-is-2022,CON_end_imod4,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod2,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod2,1,Sleep,Schlaf,,,,,,,,,txt
 soep-is,soep-is-2022,397,1,How many hours do you sleep per night on average on a typical weeknight? How many hours per night on a typical weekend?,Wie viele Stunden schlafen Sie nachts an einem normalen Werktag? Und wie ist das in einer normalen Nacht am Wochenende?,,Please answer in full hours only.,Bitte nur ganze Stunden angeben.,,,,,,txt
 soep-is,soep-is-2022,397,pli0059,Typical weeknight … hours,Normale Nacht an einem Werktag … Stunden,4787M4652,,,,,,,pschl1,cat
 soep-is,soep-is-2022,397,pli0060,Typical weekend night … hours,Normale Nacht am Wochenende … Stunden,4787M4652,,,,,,,pschl2,cat
-soep-is,soep-is-2022,CON_end_rmod2,,,,,,,,,,,,txt
 soep-is,soep-is-2022,398,plg0012_v2,"Are you currently in education or training? In other words, are you attending a school or university (including doctorate / Ph.D.), completing an apprenticeship or vocational training, or participating in further training or occupational rehabilitation?","Sind Sie derzeit in Ausbildung? Das heißt: Besuchen Sie eine Schule oder Hochschule (einschließlich Promotion), machen Sie eine Berufsausbildung oder nehmen Sie an einem Fortbildungslehrgang bzw. an einer beruflichen Rehabilitation teil?",1M4652,,,,,,2@402; -1@402,paus1,cat
 soep-is,soep-is-2022,399,1,What type of training / apprenticeship or further training are you pursuing?,Was für eine Ausbildung oder Fortbildung ist das?,,,,,,398;plg0012_v2=1,,,txt
 soep-is,soep-is-2022,399,plg0267_v2,,,11+9999,,,,,,,paus,cat
@@ -5804,7 +5698,6 @@ soep-is,soep-is-2022,417,perw_CONb,Please further explain why you are currently 
 soep-is,soep-is-2022,418,perw_CONe,You have indicated that you are currently *? (perw). Earlier you indicated that you were unemployed. Which of the statements is correct?,"Sie haben angegeben, dass Sie derzeit *? (perw) sind. Früher haben Sie angegeben, Sie seien arbeitslos. Welche von den Angaben ist korrekt?",4792M,,,,,(415;plb0022_v11=1|3)&(412;plb0021=1),1@415; 2@412; 3@419,P34R3,cat
 soep-is,soep-is-2022,419,perw_CONf,Please further explain why you are currently *? (31:perw) an unemployed.,"Bitte erklären Sie uns noch, warum Sie derzeit *? und arbeitslos sind.",,,,,,418;perw_CONe=3,,P34I3,chr
 soep-is,soep-is-2022,420,perw_CONg,You have indicated that you are currently undergoing In-service retraining. Earlier you indicated that you are not in training. Which statement is correct?,"Sie haben angegeben, dass sie derzeit in betrieblicher Ausbildung / Lehre oder betrieblicher Umschulung sind. Früher haben Sie angegeben, dass Sie nicht in Ausbildung sind. Welche Angabe ist korrekt?",4631M,,,,,(415;plb0022_v11=3)&(398;plg0012_v2=2),1@398; 2@415,P34R4,cat
-soep-is,soep-is-2022,CON_start_imod5,,[de] Hipp1,Hipp1,,,,,,,,,txt
 soep-is,soep-is-2022,Imod5,1,Innovative module - Last employment,Innovatives Modul – Letzte Erwerbstätigkeit,,,,,,,,,txt
 soep-is,soep-is-2022,421_1,1,What was the last year you were employed?,In welchem Jahr sind Sie zuletzt erwerbstätig gewesen?,,,,,,"415;plb0022_v11!=1:5,10",,,txt
 soep-is,soep-is-2022,421_1,lb0266_v2,Year,Jahr,4796+4652,,,,,,,lend,cat
@@ -5819,11 +5712,8 @@ soep-is,soep-is-2022,421_5,lbra,,,,,,,,,,lbra,chr
 soep-is,soep-is-2022,421_5,2,Can't / don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2022,421_6,lb1272_v1,What was your occupational status in your last job?,"In welcher beruflichen Stellung waren Sie zuletzt beschäftigt?
 ",4180+4652,"If you had more than one job at that time, please answer the following for your main job only!","Wenn Sie mehr als eine berufliche Tätigkeit ausübten, beantworten Sie die folgenden Fragen bitte nur für Ihre damalige berufliche Haupttätigkeit!",,,"(415;plb0022_v11!=1:5,10)&(421_1;lb0248!=1)",,l1stell,cat
-soep-is,soep-is-2022,CON_end_imod5,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod24,,[de] Dohmen1,Dohmen1,,,,,,,,,txt
 soep-is,soep-is-2022,Imod24,1,Innovative module – Educational/Occupational degree last employment,Innovatives Modul – Bildungs-/Berufsabschluss letzte Erwerbstätigkeit,,,,,,,,,txt
 soep-is,soep-is-2022,422_1,doh22_bio,What is the highest education/occupational degree you held at the time of your most recent job?,"Welches ist der höchste Bildungs-/Berufsabschluss, den Sie zum Zeitpunkt Ihrer letzten Beschäftigung hatten?",100104,,,,,"(2;sample=22,32,38)&(415;plb0022_v11!=1:5,10)&(421_1;lb0266_v2=2022,2021,2020)",,doh22_bio,cat
-soep-is,soep-is-2022,CON_end_imod24,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.17,1,Current employment 1.1,Derzeitige Erwerbstätigkeit 1.1,,,,,,,,,txt
 soep-is,soep-is-2022,423,plb0417_v2,Do you intend to obtain (or resume) employment in the future?,"Beabsichtigen Sie, in der Zukunft (wieder) eine Erwerbstätigkeit aufzunehmen?",80M4652,,,,,"415;plb0022_v11=7,9","1,-1@495",pnerw02,cat
 soep-is,soep-is-2022,424,plb0423,"If someone offered you an appropriate position right now, could you start working within the next two weeks?","Wenn man Ihnen jetzt eine passende Stelle anbieten würde, könnten Sie dann innerhalb der nächsten zwei Wochen anfangen zu arbeiten?",1M4652,,,,,"(415;plb0022_v11=7,9)&(423;plb0417_v2=2:4)",,pnerw09,cat
@@ -5894,7 +5784,6 @@ soep-is,soep-is-2022,463,paz10a_CONd,Please further explain why the amount is so
 soep-is,soep-is-2022,464,paz10a_CONe,"This question is important for the results of this study. How many hours per week do you generally work per week, including any overtime?","Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie viel beträgt im Durchschnitt Ihre tatsächliche Arbeitszeit pro Woche einschließlich eventueller Überstunden?",4807M4652,,,,,(415;plb0022_v11=1:4)&(461;plb0186_v3=-1),1:3@465,P071R2,cat
 soep-is,soep-is-2022,465,plb0187_v4,Is your job considered marginal part-time employment according to the Mini-Job or Midi-Job regulation?,Ist das eine geringfügige Beschäftigung nach der Mini- bzw. Midi-Job-Regelung?,4207M4652,,,,,"(415;plb0022_v11=1:4,10)&((461;plb0186_v3=0:30)|(464;paz10a_CONe=1,2,3))",2:3@467,paz11,cat
 soep-is,soep-is-2022,466,plb0635,Do you make a voluntary pension contribution for your Mini-Job?,Leisten Sie für Ihren Mini-Job die freiwillige Beitragsaufstockung zur Rentenversicherung?,1M4652,,,,,"(415;plb0022_v11=1:4,10)&((461;plb0186_v3=0:30)|(464;paz10a_CONe=1,2,3))&(465;plb0187_v4=1)",,paz11a,cat
-soep-is,soep-is-2022,CON_start_rmod3,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod3,1,Evening and weekend work,Abend- und Wochenendarbeit,,,,,,,,,txt
 soep-is,soep-is-2022,467,1,"Do you sometimes have to work in the evenings (after 7:00 p.m.) or at night (after 10:00 p.m.)? If so, how often?","Kommt es vor, dass Sie am Abend (nach 19.00 Uhr) oder nachts (nach 22.00 Uhr) arbeiten? Wenn ja, wie häufig?",,,,,,"415;plb0022_v11=1:4,10",,,txt
 soep-is,soep-is-2022,467,plb0205_v2,Evenings (7 to 10 p.m.),Abendarbeit (19.00 bis 22.00 Uhr),1061M4652,,,,,,,paz15,cat
@@ -5902,20 +5791,16 @@ soep-is,soep-is-2022,467,plb0206_v2,Nights (10 p.m. to 6 a.m.),Nachtarbeit (22.0
 soep-is,soep-is-2022,468,1,"Do you have to work weekends? If so, how often?","Kommt es vor, dass Sie am Wochenende arbeiten? Wenn ja, wie häufig?",,,,,,"415;plb0022_v11=1:4,10",,,txt
 soep-is,soep-is-2022,468,plb0218,Saturdays,Am Samstag / Sonnabend,1062M4652,,,,,,,paz17,cat
 soep-is,soep-is-2022,468,plb0219,Sundays,Am Sonntag,1062M4652,,,,,,,paz18,cat
-soep-is,soep-is-2022,CON_end_rmod3,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod4,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod4,1,Management position,Führungsposition,,,,,,,,,txt
 soep-is,soep-is-2022,469,plb0067,"In your position at work, do you supervise others? In other words, do people work under your direction?","Sind Sie Anderen bei der Arbeit leitend vorgesetzt, d. h. dass Personen nach Ihren Anweisungen arbeiten?",1M4652,,,,,"415;plb0022_v11=1:4,10",,pvor1,cat
 soep-is,soep-is-2022,470,1,How many people work under your direction?,Wie viele Personen arbeiten nach Ihren Anweisungen?,,,,,,"(415;plb0022_v11=1:4,10)&(469;plb0067=1)",,,txt
 soep-is,soep-is-2022,470,plb0068,people,Personen,,,,,,,,pvor2,int
 soep-is,soep-is-2022,470,2,Can not / Prefer not to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_end_rmod4,,,,,,,,,,,,txt
 soep-is,soep-is-2022,471,plh0353_v3,"Leaving aside what is specified in your employment contract: Was your gross hourly wage less than 12 euros per hour in the last month, or was it 12 euros or more?","Unabhängig davon, was in Ihrem Arbeitsvertrag vereinbart ist: Lag Ihr tatsächlicher Bruttostundenlohn im letzten Monat unter 12 Euro oder bei 12 Euro und darüber?",8+9999,,,,,"415;plb0022_v11=1:4,10","1,-1@473",pvbrstd1,cat
 soep-is,soep-is-2022,472,1,What was your actual gross hourly wage in the last month?,Wie hoch war Ihr tatsächlicher Bruttostundenlohn im letzten Monat?,,Please enter two decimal places maximally (e. g. x.xx)!,Bitte maximal auf zwei Stellen nach dem Komma eingeben (z. B. x.xx)!,,,"(415;plb0022_v11=1:4,10)&(471;plh0353_v3=2)",,,txt
 soep-is,soep-is-2022,472,plh0354_v3,Euros per hour (whole number),[Vorkommastelle] Euro pro Stunde,,,,,,,,pvbrstd2a,int
 soep-is,soep-is-2022,472,plh0354_v4,(after decimal point),[Nachkommastelle],,,,,,,,pvbrstd2b,int
 soep-is,soep-is-2022,472,2,Can't / don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_start_rmod6,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod6,1,"Overtime, compensation","Überstunden, Abgeltung",,,,,,,,,txt
 soep-is,soep-is-2022,473,plb0193_v2,Do you ever work overtime?,"Kommt es vor, dass Sie Überstunden leisten?",1M4652,,,,,"(415;plb0022_v11=1:4,10)&(442;plb0568_v1=2:5)",2@476_1; -1@476_1,pustd1,cat
 soep-is,soep-is-2022,474,plb0194_v1,Can you also save your overtime in a working hours account that allows you to take time off for the overtime within a year or more?,"Können diese Überstunden auch in ein sogenanntes Arbeitszeitkonto fließen,
@@ -5923,8 +5808,6 @@ das Sie innerhalb eines Jahres oder länger mit Freizeit ausgleichen können?",1
 soep-is,soep-is-2022,474,plb0220_v1,What is the compensation period for this working hours account - when do you have to have taken time-off for the overtime you accumulated?,Wie ist die Ausgleichsfrist für dieses Arbeitszeitkonto?,4809M4652,,,,,"(415;plb0022_v11=1:4,10)&(473;plb0193_v2=1)&(474;plb0194_v1=1)",,pustd3,cat
 soep-is,soep-is-2022,475,plb0195_v3,"If you do work overtime, is the work paid, do you get time off for overtime, or is there no form of compensation at all?","Werden die Überstunden in der Regel abgefeiert oder bezahlt
 oder gar nicht abgegolten?",459+,,,,,"(415;plb0022_v11=1:4,10)&(473;plb0193_v2=1)",,pustd4,cat
-soep-is,soep-is-2022,CON_end_rmod6,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod6,,[de] Bünning,Bünning,,,,,,,,,txt
 soep-is,soep-is-2022,Imod6,1,Innovative module - working time,Innovatives Modul – Arbeitszeit,,,,,,,,,txt
 soep-is,soep-is-2022,476_1,bue2201,How often do you work from home (or a place other than your regular workplace) during normal office / business hours?,Wie oft arbeiten Sie während der üblichen Arbeits-/Büro-/Geschäftszeiten von zuhause aus (oder einem anderen Ort als Ihrem regulären Arbeitsplatz)?,99994,,,,,"(2;sample=10,11,19,25,26)&(415;plb0022_v11=1:4,10)",,bue2201,cat
 soep-is,soep-is-2022,476_2,bue2202,How often do you work outside your usual office/business hours?,Wie oft arbeiten Sie in Ihrem Job außerhalb der bei Ihnen üblichen Arbeits-/Büro-/Geschäftszeiten?,99994,Can be at workplace or from home,Kann am Arbeitsplatz oder von Zuhause aus sein,,,"(2;sample=10,11,19,25,26)&(415;plb0022_v11=1:4,10)",,bue2202,cat
@@ -5941,7 +5824,6 @@ soep-is,soep-is-2022,476_5,bue2211,I sometimes attend meetings simply to signal 
 soep-is,soep-is-2022,476_5,bue2212,"Thanks to digital technologies, I take part in meetings that I would otherwise not go to.","Dank digitaler Technologien nehme ich an Treffen oder Veranstaltungen teil, an denen ich sonst nicht teilnehmen würde.",100102a,,,,,,,bue2212,cat
 soep-is,soep-is-2022,476_5,bue2213,While participating in digital meetings I sometimes do other things.,Während der Teilnahme an digitalen Besprechungen mache ich manchmal andere Dinge.,100102,,,,,,,bue2213,cat
 soep-is,soep-is-2022,476_6,bue2214,What exactly do you sometimes do during digital meetings?,Was genau machen Sie manchmal während digitaler Besprechungen?,99998,,,,,"(2;sample=10,11,19,25,26)&(476_5;bue2213!=1,-1,8)&(415;plb0022_v11=1:4,10)",,bue2214,cat
-soep-is,soep-is-2022,CON_end_imod6,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.9,1,Employment earnings,Arbeitsverdienst,,,,,,,,,txt
 soep-is,soep-is-2022,477,1,"What did you earn from your work last month? 
 Please state both: 
@@ -5967,7 +5849,6 @@ soep-is,soep-is-2022,485,pbrut_pnett_CONh,"You have entered ""Gross: *? Euro and
 soep-is,soep-is-2022,486,pbrut_pnett_CONi,Please further explain why your deductions are so high!,"Bitte erklären Sie uns noch, warum der Betrag Ihrer Abzüge so hoch ist.",,,,,,484;pbrut_pnett_CONg=2,,P87I5,chr
 soep-is,soep-is-2022,487,pbrut_CONj,This question is important for the results of this study. What were your gross earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Bruttoverdienst im letzten Monat?",4641M4652,,,,,(415;plb0022_v11=1:5)&(477;plc0013_v2=-1),-1@489,P087Bru,cat
 soep-is,soep-is-2022,488,pnett_CONk,This question is important for the results of this study. How much were your net earnings last month?,"Für die Aussagekraft unserer Untersuchung wäre es wichtig, auch auf diese Frage eine Antwort zu bekommen. Wie hoch war Ihr Nettoverdienst im letzten Monat?",4642M4652,,,,,(415;plb0022_v11=1:5)&(477;plc0014_v2=-1),-1@489,P087Rnet,cat
-soep-is,soep-is-2022,CON_start_rmod7,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod7,1,Wage equity,Lohngerechtigkeit,,,,,,,,,txt
 soep-is,soep-is-2022,489,plh0337_v2,"If you think about your current gross income, would you say that it is just, considering the type of work you do, or that it is unjustly high or low?","Wenn Sie an Ihren gegenwärtigen Bruttoverdienst denken, würden Sie sagen, dass er in Bezug auf Ihre Tätigkeit gerecht, ungerechterweise zu hoch oder ungerechterweise zu niedrig ist?",4300M4652,,,,,"415;plb0022_v11=1:4,10",6@492,pbrung,cat
 soep-is,soep-is-2022,490,1,How high would your gross income have to be in order to be just?,Wie hoch müsste ein gerechter Bruttoverdienst für Sie sein?,,,,,,"415;plb0022_v11=1:4,10",,,txt
@@ -5979,7 +5860,6 @@ soep-is,soep-is-2022,493,1,How high would your net income have to be in order to
 soep-is,soep-is-2022,493,plh0140,Net: ... euros per month,Euro im Monat...(Netto),,,,,,,,precht02,int
 soep-is,soep-is-2022,493,plh0141,,,2985M4652,,,,,,,precht03,cat
 soep-is,soep-is-2022,494,plh0140_CONa,"Is the entry ""*? euros"" correct?",Ist der Betrag *? Euro richtig?,4548M4652,,,,,493;plh0140>9999,2@493,P63_1,cat
-soep-is,soep-is-2022,CON_end_rmod7,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.10,1,Side jobs / volunteer positions,Nebentätigkeiten,,,,,,,,,txt
 soep-is,soep-is-2022,495,plb0618,People sometimes have a side job or do volunteer work in addition to their main job. Do you have any of the following side jobs or volunteer positions?,Neben der Haupttätigkeit kann man ja noch Nebentätigkeiten oder ehrenamtliche Tätigkeiten ausüben. Üben Sie eine oder mehrere Nebentätigkeiten oder ehrenamtliche Tätigkeiten aus?,1M4652,We are not referring to the occupation described above!,Nicht gemeint ist die schon beschriebene Erwerbstätigkeit!,,,,2@498_1,pnebt,cat
 soep-is,soep-is-2022,496,1,"How many side jobs, including volunteer positions, do you currently have in total?",Wie viele Nebentätigkeiten inklusive ehrenamtlichen Tätigkeiten üben Sie derzeit insgesamt aus?,,,,,,495;plb0618=1,,,txt
@@ -5989,14 +5869,11 @@ soep-is,soep-is-2022,497,1,How much was your gross income respectively your allo
 soep-is,soep-is-2022,497,pnebbr,euros,Euro,,,,,,,,pnebbr,int
 soep-is,soep-is-2022,497,pbrno,Unpaid work,Unentgeltliche Tätigkeit,,,,,,,,,bin
 soep-is,soep-is-2022,497,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_start_imod7,,[de] Fehr,Fehr,,,,,,,,,txt
 soep-is,soep-is-2022,Imod7,1,Innovative module - stock investment,Innovatives Modul – Aktieninvestition,,,,,,,,,txt
 soep-is,soep-is-2022,498_1,feh22_01,"Have you invested in stocks, stock funds, mutual funds, ETFs, or certificates in the last 12 months?","Haben Sie in den letzten 12 Monaten in Aktien, Aktienfonds, Investmentfonds, ETFs, oder Zertifikate investiert?",1M4652,,,,,2;sample=10:38,,feh22_01,cat
 soep-is,soep-is-2022,498_2,1,What amount did you invest?,Welchen Betrag haben Sie investiert?,,,,,,(2;sample=10:38)&(498_1;feh22_01=1),,,txt
 soep-is,soep-is-2022,498_2,feh22_02,Euro,Euro,,,,,,,,feh22_02,int
 soep-is,soep-is-2022,498_3,feh22_03,"And if you think back 3 years, did you invest in stocks, equity funds, mutual funds, ETFs or certificates in 2019?","Und wenn Sie 3 Jahre zurückdenken, haben Sie im Jahr 2019 in Aktien, Aktienfonds, Investmentfonds, ETFs oder Zertifikate investiert?",1M4652,,,,,,,feh22_03,cat
-soep-is,soep-is-2022,CON_end_imod7,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod8,,[de] Lejarraga,Lejarraga,,,,,,,,,txt
 soep-is,soep-is-2022,Imod8,1,Innovative module - coin toss 1,Innovatives Modul – Münzwurf 1,,,,,,,,,txt
 soep-is,soep-is-2022,499_1,1,"Now please imagine that a coin is tossed. Depending on how it falls, you can win or lose money. If it comes up tails, you always win 6 euros. If it turns heads, you will lose different amounts. In each case, please indicate whether you would like to participate in the coin toss or not. The coin toss does not actually take place, but please answer as you would actually act.","Jetzt stellen Sie sich bitte vor, es wird eine Münze geworfen. Je nachdem, wie sie fällt, können Sie Geld gewinnen oder verlieren. Wenn Zahl kommt, gewinnen Sie immer 6 Euro. Wenn Kopf kommt, verlieren Sie unterschiedlich viel. Geben Sie jeweils bitte an, ob Sie am Münzwurf teilnehmen wollen würden oder nicht. Der Münzwurf findet nicht tatsächlich statt, aber bitte antworten Sie so, wie Sie tatsächlich handeln würden.",,,,,,"2;sample=25,32,38",,,txt
 soep-is,soep-is-2022,499_1,lej22_01,"If the coin turns up heads, then you lose €2; if the coin turns up tails, you win €6","Kopf: Sie verlieren 2 Euro. 
@@ -6011,8 +5888,6 @@ soep-is,soep-is-2022,499_1,lej22_05,"If the coin turns up heads, then you lose �
 Zahl: Sie gewinnen 6 Euro.",100011,,,,,,,lej22_05,cat
 soep-is,soep-is-2022,499_1,lej22_06,"If the coin turns up heads, then you lose €7; if the coin turns up tails, you win €6.","Kopf: Sie verlieren 7 Euro. 
 Zahl: Sie gewinnen 6 Euro.",100011,,,,,,,lej22_06,cat
-soep-is,soep-is-2022,CON_end_imod8,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod9,,[de] Neyse2,Neyse2,,,,,,,,,txt
 soep-is,soep-is-2022,Imod9,1,Innovative module - coin toss 2,Innovatives Modul – Münzwurf 2,,,,,,,,,txt
 soep-is,soep-is-2022,500_1,1,"Imagine we are flipping a coin. Please choose ""Accept"" or ""Reject"" for each of the following lottery choices.","Stellen Sie sich vor, wir werfen eine Münze. Bitte wählen Sie für jede der folgenden Lotterieentscheidungen „Akzeptieren“ oder „Ablehnen“.",,,,,,"2;sample=10,11,19,25,26,38",,,txt
 soep-is,soep-is-2022,500_1,ney22_02,HEAD - you lose €20; TAILS - you win €100.,"Bei KOPF verlieren Sie 20 €; wenn es ZAHL ist, gewinnen Sie 100 €.",100044,,,,,,,ney22_02,cat
@@ -6021,7 +5896,6 @@ soep-is,soep-is-2022,500_1,ney22_04,HEAD - you lose €60; TAILS - you win €10
 soep-is,soep-is-2022,500_1,ney22_05,HEAD - you lose €80; TAILS - you win €100.,"Bei KOPF verlieren Sie 80 €; wenn es ZAHL ist, gewinnen Sie 100 €.",100044,,,,,,,ney22_05,cat
 soep-is,soep-is-2022,500_1,ney22_06,HEAD - you lose €100; TAILS - you win €100.,"Bei KOPF verlieren Sie 100 €; wenn es ZAHL ist, gewinnen Sie 100 €.",100044,,,,,,,ney22_06,cat
 soep-is,soep-is-2022,500_1,ney22_07,HEAD - you lose €120; TAILS - you win €100.,"Bei KOPF verlieren Sie 120 €; wenn es ZAHL ist, gewinnen Sie 100 €.",100044,,,,,,,ney22_07,cat
-soep-is,soep-is-2022,CON_end_imod9,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P11,1,Income,Einkünfte,,,,,,,,,txt
 soep-is,soep-is-2022,501,1,"Which of the following sources of income did you personally receive in the last month? For all applicable income sources, please state the total gross amount in the last month.","Welche der im Folgenden aufgeführten Einkünfte haben Sie persönlich im letzten Monat bezogen? Für alle zutreffenden Einkommensarten geben Sie bitte an, wie hoch der Bruttobetrag im letzten Monat war.",,"Gross amount means: before deduction of taxes and social security contributions.
 
@@ -6076,7 +5950,6 @@ soep-is,soep-is-2022,515,pek181_CONn,"Your indication: ""*? euros"" (Advance mai
 soep-is,soep-is-2022,516,pek181_CONo,"Your indication: ""*? euros"" (Advance maintenance payment from child maintenance funds) seems a bit high. Do we perhaps need to correct it?",Ihre Angabe: „*? Euro“ (Unterhalt von Unterhaltsvorschusskassen) erscheint etwas hoch. Möchten Sie die Angabe vielleicht korrigieren?,4561M,,,,,(501;plc0183_v1=1)&(501;plc0184>2000),1@501,P117AR1,cat
 soep-is,soep-is-2022,517,pek111_CONp,"Your indication: ""*? euros"" (Other support from persons who do not live in the household) seems a bit low. Do we perhaps need to correct it?",Ihre Angabe: „*? Euro“ (Sonstige Unterstützung von Personen die nicht im Haushalt leben) erscheint etwas niedrig. Möchten Sie die Angabe vielleicht korrigieren?,4561M,,,,,(501;plc0202_v1=1)&(501;plc0203_v2<20),1@501,P117AR1,cat
 soep-is,soep-is-2022,518,pek111_CONq,"Your indication: ""*? euros"" (Other support from persons who do not live in the household) seems a bit high. Do we perhaps need to correct it?",Ihre Angabe: „*? Euro“ (Sonstige Unterstützung von Personen die nicht im Haushalt leben) erscheint etwas hoch. Möchten Sie die Angabe vielleicht korrigieren?,4561M,,,,,(501;plc0202_v1=1)&(501;plc0203_v2>2000),1@501,P117AR1,cat
-soep-is,soep-is-2022,CON_start_imod10,,[de] Dohmen2,Dohmen2,,,,,,,,,txt
 soep-is,soep-is-2022,Imod10,1,Innovative module - income comparison,Innovatives Modul – Einkommensvergleich,,,,,,,,,txt
 soep-is,soep-is-2022,519_01,doh22_ste,"How many employees work in the company where you work/worked last? Do not count yourself. If you don't know the exact answer, please give your best guess.","Wie viele Kollegen und Kolleginnen arbeiten im Betrieb in dem Sie arbeiten/zuletzt gearbeitet haben? Zählen Sie sich selbst nicht mit. Wenn Sie die Antwort nicht genau kennen, geben Sie bitte Ihre beste Schätzung an.",,"Note that in this context ""work place"" specifically refers to the place you are working at located at one specific address. For example, in the context of a retailer with several stores and a main office, all stores and the main office are considered to be different workplaces. If you are currently unemployed, please think back to your last employment.","Wenn im Folgenden vom Betrieb die Rede ist, ist immer ein Arbeitsort mit der selben Adresse gemeint. Für einen Einzelhändler mit mehreren Filialen beziehen sich die Fragen beispielsweise auf die Filiale, in der Sie tätig sind, nicht aber auf das gesamte Unternehmen. Falls Sie gerade keiner Arbeit nachgehen, denken Sie bitte an Ihre letzte Tätigkeit zurück.",,,"(2;sample=22,32,38)&((415;plb0022_v11=1:5,10)|(421_1;lb0266_v2=2022,2021,2020))",,doh22_ste,int
 soep-is,soep-is-2022,519_01,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
@@ -6147,8 +6020,6 @@ soep-is,soep-is-2022,519_24,doh22_54,the works council contributes to the actual
 soep-is,soep-is-2022,519_24,doh22_55,the works council contributes to a reduction in wage inequality in the company (i.e. the wage differences between employees with higher and lower wages),der Betriebsrat trägt zu einer Verringerung der Lohnungleichheit im Betrieb bei (also der Lohnunterschiede zwischen Arbeitnehmer:innen mit höheren und niedrigeren Löhnen),100117,,,,,,,doh22_55,cat
 soep-is,soep-is-2022,519_24,doh22_56,the works council ensures that wage increases and promotions are carried out in a comprehensible manner,"der Betriebsrat stellt sicher, dass Lohnerhöhungen und Beförderungen nachvollziehbar ablaufen",100117,,,,,,,doh22_56,cat
 soep-is,soep-is-2022,519_24,doh22_57,the works council makes performance-related pay more difficult to achieve,der Betriebsrat erschwert eine leistungsorientierte Entlohnung,100117,,,,,,,doh22_57,cat
-soep-is,soep-is-2022,CON_end_imod10,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod11,,[de] Hipp2,Hipp2,,,,,,,,,txt
 soep-is,soep-is-2022,Imod11,1,Innovative module - vignettes promotion,Innovatives Modul – Vignetten Beförderung,,,,,,3;geb=1955:2004,,,txt
 soep-is,soep-is-2022,520_1,vig_id,Preload,Preload,,Vignettes ID,Vignetten ID,,,"2;sample=10,11,19,25,26",,vig_id,int
 soep-is,soep-is-2022,520_1,questgroup,Preload,Preload,100038,Questgroup,Questgroup,,,,,questgroup,cat
@@ -6194,8 +6065,6 @@ soep-is,soep-is-2022,520_20,hip22_08,Children from socially disadvantaged famili
 soep-is,soep-is-2022,520_20,hip22_09,The world of work becomes more equitable when employers commit to promoting equal opportunities.,"Die Arbeitswelt wird gerechter, wenn sich Arbeitgeber der Förderung von Chancengleichheit verschreiben.",100043,,,,,,,hip22_09,cat
 soep-is,soep-is-2022,520_20,hip22_10,The world of work becomes fairer when employers promote the compatibility of family and career.,"Die Arbeitswelt wird gerechter, wenn Arbeitgeber die Vereinbarkeit von Familie und Beruf fördern.",100043,,,,,,,hip22_10,cat
 soep-is,soep-is-2022,520_20,hip22_11,The world of work becomes fairer when employers commit to promoting women in leadership positions.,"Die Arbeitswelt wird gerechter, wenn sich Arbeitgeber der Förderung von Frauen in Führungspositionen verschreiben.",100043,,,,,,,hip22_11,cat
-soep-is,soep-is-2022,CON_end_imod11,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod12,,[de] Haan,Haan,,,,,,,,,txt
 soep-is,soep-is-2022,Imod12,1,Innovative module - pension and care expectancy,Innovatives Modul – Renten- und Pflegeerwartung,,,,,,,,,txt
 soep-is,soep-is-2022,521_1,1,You told us earlier that you [X] will return to work. Assume below that you will return to work in the future.,"Sie haben uns vorhin gesagt, dass Sie [X] wieder arbeiten werden. Nehmen Sie im folgenden an, dass Sie in Zukunft wieder arbeiten werden.",,,,,,"(2;sample=22,25,38)&((415;plb0022_v11=9)&(423;plb0417_v2=3,4))",,,txt
 soep-is,soep-is-2022,521_2,haa22_01,"What age do you think you will work until. Please do not think of the official retirement age, but of the age until which you will be able or willing to work.","Was meinen Sie, bis zu welchem Alter werden Sie arbeiten. Bitte denken Sie dabei nicht an das offizielle Renteneintrittsalter, sondern an das Alter, bis zu dem Sie arbeiten werden können bzw. wollen.",,,,,,"(2;sample=22,25,38)&((415;plb0022_v11!=9)|(423;plb0417_v2=3,4))",,haa22_01,int
@@ -6303,8 +6172,6 @@ soep-is,soep-is-2022,521_43,2,Can't / Don't want to answer,Kann / möchte ich ni
 soep-is,soep-is-2022,521_44,1,Assume that long-term care insurance is extended to cover the full cost of care from now on. How much would you save now for the future?,"Nehmen Sie an, die Pflegeversicherung wird ausgeweitet und deckt ab sofort die vollen Pflegekosten ab. Wie viel würden Sie jetzt für die Zukunft sparen?",,,,,,"(2;sample=22,25,38)&((521_24;haa22_22=2)&((521_16;phlc0120_v2>0)|(129;hlc0120_v2>0)))",,,txt
 soep-is,soep-is-2022,521_44,haa22_41,Euro per month,Euro pro Monat,,,,,,,,haa22_41,int
 soep-is,soep-is-2022,521_44,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_end_imod12,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod13,,[de] OSullivan,OSullivan,,,,,,,,,txt
 soep-is,soep-is-2022,Imod13,1,Innovative module - vignettes care,Innovatives Modul – Vignetten Pflege,,,,,,,,,txt
 soep-is,soep-is-2022,522_2,1,Random age,Zufälliges Alter,,Is set randomly. Tom is always 2 years older than Lena,Wird zufällig festgelegt. Tom ist immer 2 Jahre älter als Lena,,,"2;sample=10,11,19,22,32",,,txt
 soep-is,soep-is-2022,522_2,osu22_01,Lena:,Lena:,100081,,,,,,,osu22_01,cat
@@ -6396,19 +6263,15 @@ soep-is,soep-is-2022,522_36,osu22_17,... you will suffer from severe mobility li
 soep-is,soep-is-2022,522_36,osu22_18,... you will no longer be able to participate in social activities in old age?,… Sie im Alter nicht mehr an sozialen Aktivitäten teilnehmen können?,100090,,,,,,,osu22_18,cat
 soep-is,soep-is-2022,522_37,osu22_19,"Should you require nursing care in old age and be cared for on an outpatient basis at home, who should primarily provide your care?","Sollten Sie im Alter pflegebedürftig sein und ambulant zuhause gepflegt werden, wer sollte in erster Linie Ihre Pflege übernehmen?",100092,,,,,"2;sample=10,11,19,22,32",,osu22_19,cat
 soep-is,soep-is-2022,522_38,osu22_20,My physical health is largely dependent on what I do.,"Meine körperliche Gesundheit ist weitgehend von dem abhängig, was ich tue.",100093,,,,,"2;sample=10,11,19,22,32",,osu22_20,cat
-soep-is,soep-is-2022,CON_end_imod13,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P12,1,Current Health,Gesundheitszustand,,,,,,,,,txt
 soep-is,soep-is-2022,523,1,Health and Illness,Im Folgenden haben wir noch einige Fragen zu Ihrer Gesundheit,,,,,,,,,txt
 soep-is,soep-is-2022,524,ple0008,How would you describe your current health?,Wie würden Sie Ihren gegenwärtigen Gesundheitszustand beschreiben?,108M4652,,,,,,,pges01,cat
-soep-is,soep-is-2022,CON_start_rmod9,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod9,1,Impairments in everyday life (SF-12),Beeinträchtigungen im Alltag (SF-12),,,,,,,,,txt
 soep-is,soep-is-2022,525,ple0004,"Does your health limit your ability to climb several flights of stairs? Does it cause severe, moderate, or no limitations at all?","Wenn Sie Treppen steigen müssen, also mehrere Stockwerke zu Fuß hochgehen:
 Beeinträchtigt Sie dabei Ihr Gesundheitszustand stark, ein wenig oder gar nicht?",109+,,,,,,,pges02,cat
 soep-is,soep-is-2022,526,ple0005,"And what about other demanding everyday activities, such as when youhave to lift something heavy or do something requiring physical mobility: Does your health cause severe, moderate, or no limitations at all?","Und wie ist das mit anderen anstrengenden Tätigkeiten im Alltag, 
 wenn man z.B. etwas Schweres heben muss oder Beweglichkeit braucht:
 Beeinträchtigt Sie dabei Ihr Gesundheitszustand stark, ein wenig oder gar nicht?",109+,,,,,,,pges03,cat
-soep-is,soep-is-2022,CON_end_rmod9,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod10,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod10,1,Stress and exhaustion (SF-12),Stress und Erschöpfung (SF-12),,,,,,,,,txt
 soep-is,soep-is-2022,527,1,"During the last four weeks, how often did you:","Bitte denken Sie einmal an die letzten vier Wochen.
 Wie oft kam es in dieser Zeit vor, ....",,,,,,,,,txt
@@ -6422,7 +6285,6 @@ soep-is,soep-is-2022,527,ple0032,...feel that you were limited in some way at wo
 soep-is,soep-is-2022,527,ple0033,...feel that you achieved less than you wanted to at work or in everyday activities due to mental health or emotional problems?,... dass Sie wegen seelischer oder emotionaler Probleme in Ihrer Arbeit oder Ihren alltäglichen Beschäftigungen weniger geschafft haben als Sie eigentlich wollten?,966+173,,,,,,,pges11,cat
 soep-is,soep-is-2022,527,ple0034,...feel that you did your work or everyday tasks less carefully than usual due to mental health or emotional problems?,... dass Sie wegen seelischer oder emotionaler Problem in Ihrer Arbeit oder Ihren alltäglichen Beschäftigungen Ihre Arbeit oder Tätigkeit weniger sorgfältig als sonst gemacht haben?,966+173,,,,,,,pges12,cat
 soep-is,soep-is-2022,527,ple0035,"...feel that you were limited socially, that is, in your contact with friends, acquaintances, or relatives, due to physical or mental health problems?","... dass Sie wegen gesundheitlicher oder seelischer Probleme in Ihren sozialen Kontakten, z.B. mit Freunden, Bekannten oder Verwandten, eingeschränkt waren?",966+173,,,,,,,pges13,cat
-soep-is,soep-is-2022,CON_end_rmod10,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.13,1,Reduction in earning capacity,Erwerbsminderung,,,,,,,,,txt
 soep-is,soep-is-2022,528,ple0040,Have you been officially assessed as being severely disabled (Schwerbehindert) or partially incapable of work (Erwerbsgemindert) for medical reasons?,Sind Sie nach amtlicher Feststellung erwerbsgemindert oder schwerbehindert?,1M4652,,,,,,2@532; -1@532,pbeh1,cat
 soep-is,soep-is-2022,529,ple0041,What is the degree of your reduced capability to work (Erwerbsminderung) or disabilty (Schwerbehinderung)?,Bitte geben Sie den Grad der Behinderung bzw. den Grad der Minderung der Erwerbsfähigkeit an:,4815M4652,,,,,528;ple0040=1,,pbeh2,cat
@@ -6435,7 +6297,6 @@ soep-is,soep-is-2022,531,ple0193i02,Mental,Psychisch/seelisch,,,,,,,,pbeh5,bin
 soep-is,soep-is-2022,531,ple0194i03,Intellectual / cognitive,Geistig/kognitiv,,,,,,,,pbeh6,bin
 soep-is,soep-is-2022,531,ple0195i04,None of the above,Nichts davon,,,,,,,,pbeh_n,bin
 soep-is,soep-is-2022,531,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_start_rmod12,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod12,1,Smoking,Rauchen,,,,,,,,,txt
 soep-is,soep-is-2022,532,ple0081_v2,"Do you currently smoke, whether cigarettes, a pipe, or cigars?","Rauchen Sie gegenwärtig, seien es Zigaretten, Pfeifen oder Zigarren?",1M4652,We are not referring here to e-cigarettes!,Nicht gemeint sind hier E-Zigaretten!,,,,2@534,prauch1,cat
 soep-is,soep-is-2022,533,1,"How many cigarettes, pipes, or cigars do you smoke per day?","Wie viele Zigaretten, Pfeifen oder Zigarren rauchen Sie pro Tag?",,Please give your daily average for last week.,Geben Sie bitte den täglichen Durchschnitt der letzten Woche an.,,,532;ple0081_v2=1,,,txt
@@ -6444,24 +6305,17 @@ soep-is,soep-is-2022,533,ple0086_v5,Pipes / cigars,Pfeifen / Zigarren / Zigarill
 soep-is,soep-is-2022,534,ple0176,Do you smoke e-cigarettes?,Rauchen Sie E-Zigarette?,1M4652,,,,,,2@536,prauche,cat
 soep-is,soep-is-2022,535,1,How much liquid do you consume per day?,Wie viel Liquid verbrauchen Sie pro Tag?,,Please give your daily average for last week.,Geben Sie bitte den täglichen Durchschnitt der letzten Woche an.,,,534;ple0176=1,,,txt
 soep-is,soep-is-2022,535,ple0195,Millilitres,Milliliter (ml),,,,,,,,prauchl,int
-soep-is,soep-is-2022,CON_end_rmod12,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod14,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod14,1,Size and weight,Größe und Gewicht,,,,,,,,,txt
 soep-is,soep-is-2022,536,1,How tall are you in centimeters?,Was ist Ihre Körpergröße in cm?,,"If you don't know, please estimate.","Wenn Sie es nicht genau wissen, schätzen Sie bitte.",,,,,,txt
 soep-is,soep-is-2022,536,ple0006,cm,cm,,,,,,,,pgr,int
 soep-is,soep-is-2022,537,1,How many kilograms do you currently weigh?,Wie viel Kilogramm wiegen Sie gegenwärtig?,,"If you don't know, please estimate.","Wenn Sie es nicht genau wissen, schätzen Sie bitte.",,,,,,txt
 soep-is,soep-is-2022,537,ple0007,kg,kg,,,,,,,,pkilo,int
-soep-is,soep-is-2022,CON_end_rmod14,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod15,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod15,1,Chronic diseases,Chronische Krankheiten,,,,,,,,,txt
 soep-is,soep-is-2022,538,ple0036,Have you been suffering from any conditions or illnesses for at least one year or chronically?,Leiden Sie seit mindestens einem Jahr oder chronisch an bestimmten Beschwerden oder Krankheiten?,1M4652,,,,,,,pkr17,cat
-soep-is,soep-is-2022,CON_end_rmod15,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_rmod20,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod20,1,Corona,Corona,,,,,,,,,txt
 soep-is,soep-is-2022,539,ple0197,Have you ever been diagnosed by a doctor with a coronavirus infection (COVID-19)?,Hat ein Arzt / eine Ärztin bei Ihnen jemals eine Coronavirus-Erkrankung (Covid-19) festgestellt?,1M4652,,,,,,,pcoviderkr,cat
 soep-is,soep-is-2022,540,ple0200,Have you been vaccinated against the coronavirus?,Wurden Sie gegen das Coronavirus geimpft?,1M4652,Answer „yes“ even if you have only recieved one dose of vaccine so far.,"Antworten Sie auch dann mit „ja“, wenn Sie bisher nur eine Impfdosis erhalten haben.",,,,"2@542, -1@542",pcovimpf1,cat
 soep-is,soep-is-2022,541,ple0201,Have you received a booster dose of any COVID-19 vaccine?,Haben Sie darüber hinaus eine Auffrischungsimpfung (auch Boosterimpfung genannt) gegen das Coronavirus erhalten?,1M4652,,,,,540;ple0200=1,ALL@542,pcovboost,cat
-soep-is,soep-is-2022,CON_end_rmod20,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.14,1,Doctor's visits & hospital,Arztbesuche & Krankenhaus,,,,,,,,,txt
 soep-is,soep-is-2022,542,1,"Have you gone to a doctor in the last 3 months? If so, please state how many times.","Denken Sie nun bitte an all Ihre Arztbesuche der letzten 3 Monate. Haben Sie in den letzten 3 Monaten Ärzte aufgesucht? Wenn ja, geben Sie bitte an wie häufig.",,,,,,,,,txt
 soep-is,soep-is-2022,542,ple0072,Number of visits to a doctor in the last 3 months,Zahl aller Arztbesuche in den letzten 3 Monaten,,,,,,,,pdr1,int
@@ -6480,14 +6334,11 @@ soep-is,soep-is-2022,548,plh0011_v3,"Many people in Germany lean towards one par
 Wie ist das bei Ihnen: Neigen Sie einer bestimmten Partei in Deutschland zu?",1M4652,,,,,,2@552_1; -1@552_1,ppol2,cat
 soep-is,soep-is-2022,549,plh0012_v6,Which party do you lean toward?,Welcher Partei neigen Sie zu?,2014M4652,,,,,548;plh0011_v3=1,,ppol3,cat
 soep-is,soep-is-2022,550,plh0013_v2,And to what extent?,Und wie stark neigen Sie dieser Partei zu?,371M4652,,,,,548;plh0011_v3=1,,ppol4,cat
-soep-is,soep-is-2022,CON_start_rmod16,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod16,1,Bundestag election,Bundestagswahl,,,,,,,,,txt
 soep-is,soep-is-2022,551,plh0333,"Which party did you vote for in the last general election (Bundestagswahl) on September 26, 2021?","Wie war das eigentlich bei der letzten Bundestagswahl am 26. September 2021? 
 Welche Partei haben Sie da gewählt?",6+,This refers to your second vote („Zweitstimme“).,Gemeint ist Ihre Zweitstimme.,,,,,ppol8,cat
 soep-is,soep-is-2022,551,ppol8so,Other party (please specify):,[Eine andere Partei] und zwar:,,,,,,551;plh0333=8,,ppol8so,chr
 soep-is,soep-is-2022,551,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_end_rmod16,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod14,,[de] Pavlova,Pavlova,,,,,,,,,txt
 soep-is,soep-is-2022,Imod14,1,Innovative module - Aging,Innovatives Modul – Altern,,,,,,,,,txt
 soep-is,soep-is-2022,552_0,1,"In the following, we want to ask you about aging and social expectations.",Im Folgenden möchten wir uns mit Ihnen über das Altern und gesellschaftliche Erwartungen unterhalten.,,,,,,,,,txt
 soep-is,soep-is-2022,552_1,1,"Please think of your everyday life. In our society, we often face certain expectations of other people. The following questions relate to those expectations.",Denken Sie nun an Ihren Alltag. In unserer Gesellschaft sieht man sich oft bestimmten Erwartungen ausgesetzt. Die folgenden Fragen beziehen sich auf solche Erwartungen.,,"Please answer using the following scale from 1 to 7, where 1 means “Does not apply at all” and 7 means “Does fully apply”. You can weigh your answers using the steps between “1” and “7”. Show list 76!",Antworten Sie bitte anhand einer Skala von 1 bis 7. Der Wert 1 bedeutet: trifft überhaupt nicht zu. Der Wert 7 bedeutet: trifft voll zu. Mit den Werten dazwischen können Sie Ihre Meinung abstufen.,,,"2;sample=22,26",,,txt
@@ -6503,8 +6354,6 @@ soep-is,soep-is-2022,552_3,ieaa031,Elderly people are healthy and physically fit
 soep-is,soep-is-2022,552_3,ieaa032,Elderly people are mentally fit.,Ältere Menschen sind geistig fit.,1843+4652,,,,,,,a03,cat
 soep-is,soep-is-2022,552_4,1,"Now, please think of social and recreational activities in the higher age.",Denken Sie jetzt an soziale Aktivitäten und Freizeitgestaltung im Alter. Inwieweit stimmen Sie folgender Aussage zu?,,"Please answer using the following scale from 1 to 7, where 1 means “Does not apply at all” and 7 means “Does fully apply”. You can weigh your answers using the steps between “1” and “7”. Please show list 79!",Antworten Sie bitte anhand einer Skala von 1 bis 7. Der Wert 1 bedeutet: Stimme überhaupt nicht zu. Der Wert 7 bedeutet: Stimme voll zu. Mit den Werten dazwischen können Sie Ihre Meinung abstufen.,,,"2;sample=22,26",,,txt
 soep-is,soep-is-2022,552_4,a04,"Elderly people have a lot of energy and power for meaningful activities, e.g. hobbies or voluntary activities.","Ältere Menschen besitzen viel Energie und Kraft, um sinnvolle Aktivitäten auszuführen (z. B. Hobbies oder ehrenamtliche Aufgaben).",100015,,,,,,,a04,cat
-soep-is,soep-is-2022,CON_end_imod14,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod15,,[de] Back,Back,,,,,,,,,txt
 soep-is,soep-is-2022,Imod15,1,Innovative module - Social development,Innovatives Modul - Gesellschaftlichen Entwicklung,,,,,,,,,txt
 soep-is,soep-is-2022,553_1,1,"The following statements are about your opinion on social developments and the situation of people like you in our society.
 When you use the phrase ""people like me,"" think of people in our society who are in a similar situation to you or to whom you feel you belong. There are no right or wrong answers here.
@@ -6522,8 +6371,6 @@ soep-is,soep-is-2022,553_1,wgm10,The work of people like me is not recognized en
 soep-is,soep-is-2022,553_1,wgm11,"Customs, and traditions of people like me are valued less and less.","Gebräuche, Traditionen und Sitten von Leuten wie mir werden immer weniger geschätzt.",99991,,,,,,,wgm11,cat
 soep-is,soep-is-2022,553_1,wgm13,The job situation of people like me is not given enough attention in society.,Die Arbeitsplatzsituation von Leuten wie mir findet in der Gesellschaft zu wenig Beachtung.,99991,,,,,,,wgm13,cat
 soep-is,soep-is-2022,553_1,wgm15,Politicians care too little about the interests of people like me.,Die Politik kümmert sich zu wenig um die Interessen von Leuten wie mir.,99991,,,,,,,wgm15,cat
-soep-is,soep-is-2022,CON_end_imod15,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod16,,[de] Poutvaara,Poutvaara,,,,,,,,,txt
 soep-is,soep-is-2022,Imod16,1,Innovative module - redistribution,Innovatives Modul – Umverteilung,,,,,,,,,txt
 soep-is,soep-is-2022,554_1,1,"For each of the following statements, please tell me whether you strongly disagree, disagree, neither agree nor disagree, agree, or strongly disagree.","Bitte geben Sie an, ob sie den folgenden Aussagen überhaupt nicht zustimmen, eher nicht zustimmen, weder zustimmen noch diese ablehnen, eher zustimmen oder voll und ganz zustimmen.",,,,,,"2;sample=10,11,19,22,25,26",,,txt
 soep-is,soep-is-2022,554_1,umv11,Taxes on those with high incomes in Germany should be increased.,Personen mit hohem Einkommen sollten in Zukunft stärker besteuert werden.,100016,,,,,,,umv11,cat
@@ -6532,8 +6379,6 @@ soep-is,soep-is-2022,554_1a,umv1_dummy,Generated order,Generierte Reihenfolge,10
 soep-is,soep-is-2022,554_2,umv2,"Just in your opinion, if a working-age person’s income is low in Germany, which is most often the reason - lack of effort on his or her part, circumstances beyond his or her control, or both?","Was ist Ihrer Meinung nach meistens der Grund dafür, dass eine Person in Deutschland wenig verdient? Liegt das am mangelnden Einsatz der Person, an äußeren Umständen, die er oder sie nicht kontrollieren kann, oder an beidem?",100017,,,,,"2;sample=10,11,19,22,25,26",,umv2,cat
 soep-is,soep-is-2022,554_3,umv3,"Just in your opinion, if a working-age person’s income is high in Germany, which is most often the reason - strong effort on his or her part, circumstances beyond his or her control, or both?","Was ist Ihrer Meinung nach meistens der Grund dafür, dass eine Person in Deutschland viel verdient? Liegt das am hohen Einsatz der Person, an äußeren Umständen, die er oder sie nicht kontrollieren kann, oder an beidem?",1000171,,,,,"2;sample=10,11,19,22,25,26",,umv3,cat
 soep-is,soep-is-2022,554_4,umv_splitdummy,Generated order,Generierte Reihenfolge,1000162,,,,,,,umv_splitdummy,cat
-soep-is,soep-is-2022,CON_end_imod16,,,,,,,,,"2;sample=10,11,19,22,25,26",,,txt
-soep-is,soep-is-2022,CON_start_imod17,,[de] Lindenlaub,Lindenlaub,,,,,,,,,txt
 soep-is,soep-is-2022,Imod17,1,Innovative module - consumption and family changes,Innovatives Modul – Konsum und familiäre Veränderungen,,,,,,,,,txt
 soep-is,soep-is-2022,555_1,1,I want to ask you some questions about the consumption behavior of your household.,Ich möchte Ihnen nun einige Fragen zum Konsumverhalten in Ihrem Haushalt stellen.,,,,,,"2;sample=25,26",,,txt
 soep-is,soep-is-2022,555_2,ikom00a1,Please first indicate which family situation applies to you.,"Bitte geben Sie als erstes an, was auf Sie zutrifft.",4366+173,"If the target asks why they need to give this information again, please answer that these questions are so important for the upcoming module that we ask these questions again at this point. Children also refers to children who do not live in the household.","Falls Zielperson nachfragt, warum sie diese Informationen nochmal geben muss, antworten Sie bitte, dass diese Fragen so wichtig für das kommende Modul sind, dass wir diese Fragen an dieser Stelle abermals abfragen. Mit Kindern sind auch Kinder gemeint, die nicht im Haushalt wohnen.",,,,,,cat
@@ -6654,7 +6499,6 @@ soep-is,soep-is-2022,555_17,ikom07b_7,I have been looking for another job but ha
 soep-is,soep-is-2022,555_17,ikom07b_8,Other:,Anderes:,,,,,,,,ikom07b_8,bin
 soep-is,soep-is-2022,555_17,ikom07b1,[Other:],[Anderes:],,,,,,555_17;ikom07b_8==1,,ikom07b1,chr
 soep-is,soep-is-2022,555_17,ikom07b_ka,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,ikom07b_ka,bin
-soep-is,soep-is-2022,CON_end_imod17,,,,,,,,,,,,txt
 soep-is,soep-is-2022,P1.16,1,Nationality/Migration,Staatsangehörigkeit/Migration,,,,,,,,,txt
 soep-is,soep-is-2022,556,plj0014_v3,Do you have German citizenship?,Haben Sie die deutsche Staatsangehörigkeit?,1M4652,,,,,,2@559; -1@559,psta1,cat
 soep-is,soep-is-2022,557,plj0024_v1,Have you had German citizenship since birth or did you acquire it at a later date?,Haben Sie die deutsche Staatsangehörigkeit seit Geburt oder erst später erworben?,1078M4652,,,,,556;plj0014_v3=1,2@560,psta3,cat
@@ -6662,7 +6506,6 @@ soep-is,soep-is-2022,558,plj0175,Were both of your parents born in Germany?,Sind
 soep-is,soep-is-2022,559,1,What is your country of citizenship?,Welche Staatsangehörigkeit haben Sie?,,"If you are a citizen of more than one country, please state the only the first.","Falls Sie mehr als zwei Staatsangehörigkeiten haben, geben Sie bitte nur die erste an.",,,556;plj0014_v3=2,,,txt
 soep-is,soep-is-2022,559,plj0014_v4,(1st country of citizenship country code),[Ländercode 1. Staatsangehörigkeit],9091+,,,,,,,pnatnr,cat
 soep-is,soep-is-2022,559,4,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_start_rmod17,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod17,1,Friends,Freunde,,,,,,,,,txt
 soep-is,soep-is-2022,560,1,In the following questions we would like to learn more about you and your family situation.,In den folgenden Fragen möchten wir noch etwas über Ihre familiäre Situation erfahren.,,,,,,,,,txt
 soep-is,soep-is-2022,561,1,"How many close friends would you say that you have, and how many of them are co-workers?",Kommen wir nun kurz zu Ihrem Freundeskreis: Wie viele enge Freunde haben Sie und wie viele davon sind Kollegen?,,"If question does not apply, please answer “0”","Falls nicht zutreffend, bitte „0“ eintragen!",,,,,,txt
@@ -6670,7 +6513,6 @@ soep-is,soep-is-2022,561,pld0047,Close friends,Enge Freunde,,,,,,,,pbez06,int
 soep-is,soep-is-2022,561,2,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2022,561,pld0297,"Of that number, ... are co-workers",Davon sind Kollegen,,,,,,,,pbezkol,int
 soep-is,soep-is-2022,561,3,Can't / Don't want to answer,Kann / Möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_end_rmod17,,,,,,,,,,,,txt
 soep-is,soep-is-2022,562,pld0131_v3,What is your marital status?,Wie ist Ihr Familienstand?,3052M4652,,,,,,3:7@566; -1@566,pfamst,cat
 soep-is,soep-is-2022,563,pld0299,Do you have a marriage contract or a registered life partnership contract (Lebenspartnerschaftsvertrag)?,Haben Sie einen Ehevertrag bzw. einen Lebenspartnerschaftsvertrag?,1M4652,,,,,562;pld0131_v3=1:2,,pelv1,cat
 soep-is,soep-is-2022,564,pld0300,Do you and your spouse or partner live together in this household?,"Leben Sie mit Ihrem (Ehe-)Partner / Ihrer (Ehe-)Partnerin zusammen, in diesem Haushalt?",4259M4652,,,,,562;pld0131_v3=1:2,3:4@566,pelv2,cat
@@ -6680,10 +6522,8 @@ soep-is,soep-is-2022,566,pld0132_v1,Are you in a serious / permanent relationshi
 soep-is,soep-is-2022,567,pld0133,Does your partner live with you in this household?,Wohnt Ihr Partner / Ihre Partnerin hier im Haushalt?,1M4652,,,,,566;pld0132_v1=1,,pp2,cat
 soep-is,soep-is-2022,568,pfpnam,What is your partner's first name?,Wie ist der Vorname dieses Partners / dieser Partnerin?,,,,,,566;pld0132_v1=1,,pfpnam,chr
 soep-is,soep-is-2022,568,1,Can't / Don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_start_rmod19,,,,,,,,,,,,txt
 soep-is,soep-is-2022,RMod19,1,Sexual orientation,Sexuelle Orientierung,,,,,,,,,txt
 soep-is,soep-is-2022,569,pld0298_v2,"In connection with the partnership, the question of sexual orientation also arises. What would you say yourself: Are you ...?",Im Zusammenhang mit der Partnerschaft stellt sich auch die Frage nach der sexuellen Orientierung. Was würden Sie selbst sagen: Sind Sie …?,4454+,,,,,,,psexor,cat
-soep-is,soep-is-2022,CON_end_rmod19,,,,,,,,,,,,txt
 soep-is,soep-is-2022,QP2.1,1,Family situation,Familiensituation,,,,,,,,,txt
 soep-is,soep-is-2022,570,1,"Has your family situation changed since January 1, 2021? Please indicate if any of the following have occurred, and if so, when.","Hat sich an Ihrer familiären Situation seit dem 1. Januar 2021 etwas verändert? Geben Sie bitte an, ob einer der folgenden Punkte zutrifft, und wenn ja, wann das war.",,"If any of the following has taken place more than once since January 1, 2021, please refer to the most recent change.
 
@@ -6742,7 +6582,6 @@ soep-is,soep-is-2022,573,plh0182,"Now we would like to ask you about your satisf
 your life, all things considered?","Nun möchten wir Sie nach Ihrer Zufriedenheit mit Ihrem Leben insgesamt fragen.
 Wie zufrieden sind Sie gegenwärtig, alles in allem, mit Ihrem Leben?",4715M4652,"Please answer on a scale from 0 to 10, where 0 means completely dissatisfied and 10 means completely satisfied.","Antworten Sie bitte wieder anhand der folgenden Skala,
 bei der ""0"" ganz und gar unzufrieden, ""10"" ganz und gar zufrieden bedeutet.",,,"2;sample!=10,11,19,26,32",,pzule1,cat
-soep-is,soep-is-2022,CON_start_imod18,,[de] Kaiser,Kaiser,,,,,,,,,txt
 soep-is,soep-is-2022,Imod18,1,Innovative module - life satisfaction in comparison,Innovatives Modul – Lebenszufriedenheit im Vergleich,,,,,,,,,txt
 soep-is,soep-is-2022,574_1,1,"All things considered, how satisfied with your life were you in each of following years?","Wie zufrieden waren Sie, alles in allem, mit Ihrem Leben in den folgenden Jahren?",,,,,,"2;sample=10,11,19,26,32",,,txt
 soep-is,soep-is-2022,574_1,kai22_01,2017,2017,4715M4652,,,,,,,kai22_01,cat
@@ -6755,8 +6594,6 @@ soep-is,soep-is-2022,574_2,kai22_06,How satisfied with his life do you think Joh
 soep-is,soep-is-2022,574_3,kai22_07,How satisfied do you think John is typically rated?,"Was glauben Sie, wie zufrieden wird Johannes typischerweise eingeschätzt?",4715M4652,,,,,"2;sample=10,11,19,26,32",,kai22_07,cat
 soep-is,soep-is-2022,574_4,kai22_08,How satisfied do you think you are typically rated?,"Was glauben Sie, wie zufrieden werden Sie typischerweise eingeschätzt?",4715M4652,,,,,"2;sample=10,11,19,26,32",,kai22_08,cat
 soep-is,soep-is-2022,574_5,kai22_09,"With reference to subjective life satisfaction, you can rate your own life as more or less worth living. In your estimation, what point on the life satisfaction scale would you have to reach in order to rate your life in general as ""not worth living""?","Mit Bezug auf die subjektive Lebenszufriedenheit kann man das eigene Leben als mehr oder weniger lebenswert einschätzen. Welchen Punkt auf der Skala der Lebenszufriedenheit müssten Sie Ihrer Einschätzung nach erreichen, damit Sie Ihr Leben im Allgemeinen als ""nicht lebenswert"" einschätzen würden?",100101,,,,,"2;sample=10,11,19,26,32",,kai22_09,cat
-soep-is,soep-is-2022,CON_end_imod18,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod19,,[de] Anvari,Anvari,,,,,,,,,txt
 soep-is,soep-is-2022,Imod19,1,Innovative module - life satisfaction last 5 years,Innovatives Modul – Lebenszufriedenheit letzte 5 Jahre,,,,,,,,,txt
 soep-is,soep-is-2022,575_1,1,How much more satisfied or dissatisfied are you - overall - with your life now compared to the end of the year:,Wie viel zufriedener oder unzufriedener sind Sie – im Gesamten gesehen – jetzt mit Ihrem Leben Verglichen mit dem Jahresende:,,,,,,"2;sample=10,11,19,26,32",,,txt
 soep-is,soep-is-2022,575_1,anv22_01,2017,2017,99992,,,,,,,anv22_01,cat
@@ -6764,8 +6601,6 @@ soep-is,soep-is-2022,575_1,anv22_02,2018,2018,99992,,,,,,,anv22_02,cat
 soep-is,soep-is-2022,575_1,anv22_03,2019,2019,99992,,,,,,,anv22_03,cat
 soep-is,soep-is-2022,575_1,anv22_04,2020,2020,99992,,,,,,,anv22_04,cat
 soep-is,soep-is-2022,575_1,anv22_05,2021,2021,99992,,,,,,,anv22_05,cat
-soep-is,soep-is-2022,CON_end_imod19,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod20,,[de] Krekel,Krekel,,,,,,,,,txt
 soep-is,soep-is-2022,Imod20,1,Innovative module - life satisfaction questions,Innovatives Modul – Lebenszufriedenheitsfragen,,,,,,,,,txt
 soep-is,soep-is-2022,576_1,kre_group,Randomly generated,Zufällig generiert,100100,Group,Gruppe,,,,,kre_group,cat
 soep-is,soep-is-2022,576_2,1,"In conclusion, we would like to ask you about your satisfaction with your life in general. Please answer according to the following scale: 0 means “completely dissatisfied”, 10 means “completely satisfied”.","Zum Schluss möchten wir Sie noch nach Ihrer Zufriedenheit mit Ihrem Leben insgesamt fragen. Antworten Sie bitte wieder anhand der folgenden Skala, bei der “0” ganz und gar unzufrieden, “10” ganz und gar zufrieden bedeutet.",,,,,,"2;sample=10,11,19,26,32",,,txt
@@ -6790,7 +6625,6 @@ soep-is,soep-is-2022,576_7,kre22_06_13,Up to 3 years in future,Bis 3 Jahre in de
 soep-is,soep-is-2022,576_7,kre22_06_14,More than 3 years in future,Mehr als 3 Jahre in der Zukunft,,,,,,,,kre22_06_14,bin
 soep-is,soep-is-2022,576_7,kre22_06_15,Entire life in future,Ganzes Leben in der Zukunft,,,,,,,,kre22_06_15,bin
 soep-is,soep-is-2022,576_7,kre22_06_ka,Can not / Prefer not to answer,Kann / möchte ich nicht beantworten,,,,,,,,kre22_06_ka,bin
-soep-is,soep-is-2022,CON_end_imod20,,,,,,,,,,,,txt
 soep-is,soep-is-2022,B1,1,Biography questionnaire,Biografiefragebogen,,,,,,,,,txt
 soep-is,soep-is-2022,577,lb0011_v1,Preload,Preload,,Birthyear,Geburtsjahr,,,,,lgeb,int
 soep-is,soep-is-2022,B1.1,1,Place of birth,Geburtsort,,,,,,,,,txt
@@ -7384,14 +7218,12 @@ soep-is,soep-is-2022,782,behav15,gets along better with adults than with childre
 soep-is,soep-is-2022,782,behav16,"has a lot of fears, gets scared easily","hat viele Ängste, fürchtet sich leicht",1843+4652,,,,,,,ever16,cat
 soep-is,soep-is-2022,782,behav17,"finishes what he/she starts, can concentrate on something for a long time","führt Aufgaben zu Ende, kann sich lange konzentrieren",1843+4652,,,,,,,ever17,cat
 soep-is,soep-is-2022,782,behav18,thinks before acting,"denkt nach, bevor es handelt",1843+4652,,,,,,,ever25,cat
-soep-is,soep-is-2022,CON_start_imod21,,[de] Wagner,Wagner,,,,,,,,,txt
 soep-is,soep-is-2022,Imod21,1,Innovative module - risk assessment children,Innovatives Modul – Risikoeinschätzung Kinder,,,,,,,,,txt
 soep-is,soep-is-2022,783_1,wag22_01,How would you rate <child's name>'s risk-taking? Is <child's name> a risk-taking child or does <child's name> try to avoid risk?,Wie schätzen Sie die Risikobereitschaft von <Name des Kindes> ein: Ist <Name des Kindes> im Allgemeinen ein risikobereites Kind oder versucht <Name des Kindes> Risiken zu vermeiden?,392M4652,"Please answer using the following scale, where the value 0 means: not at all willing to take risks and the value 10: very willing to take risks. You can use the values in between to grade your assessment.","Antworten Sie bitte anhand der folgenden Skala, wobei der Wert 0 bedeutet: gar nicht risikobereit und der Wert 10: sehr risikobereit. Mit den Werten dazwischen können Sie Ihre Einschätzung abstufen.",,,(2;sample=10:38)&(762;prev_jg=3:12),,wag22_01,cat
 soep-is,soep-is-2022,783_2,wag22_02,What specific experiences or behaviors did you think of?,An welche konkreten Erlebnisse oder Verhaltensweisen haben Sie gedacht?,,Please state keywords.,Bitte nennen Sie Stichworte.,,,(2;sample=10:38)&((762;prev_jg=3:12)&(783_1;wag22_01!=-1)),,wag22_02,chr
 soep-is,soep-is-2022,783_2,1,Can't / don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
 soep-is,soep-is-2022,783_3,wag22_03,In what situations was <child's name> willing to take a risk in the past 12 months? Please name up to three situations in which <child's name> was most willing to take a risk.,"In welchen Situationen war <Name des Kindes> in den letzten 12 Monaten bereit, ein Risiko einzugehen? Nennen Sie bitte bis zu drei Situationen, in denen <Name des Kindes> am meisten Risiko eingegangen ist.",,Keywords suffice.,Stichworte genügen.,,,(2;sample=10:38)&((762;prev_jg=3:12)&(783_1;wag22_01!=-1)),,wag22_03,chr
 soep-is,soep-is-2022,783_3,1,Can't / don't want to answer,Kann / möchte ich nicht beantworten,,,,,,,,,bin
-soep-is,soep-is-2022,CON_end_imod21,,,,,,,,,,,,txt
 soep-is,soep-is-2022,K1.4,1,School & Education,Schule & Bildung,,,,,,,,,txt
 soep-is,soep-is-2022,784,1,What level of secondary schooling would you like for your child to complete? How closely do the following school-leaving certificates correspond to your ideal?,Inwieweit entsprechen die folgenden Schulabschlüsse Ihrer persönlichen Idealvorstellung für die schulische Ausbildung von <Name des Kindes>?,,"Please answer on a scale from 1 to 7, where 1 means “not at all” and 7 means “completely”.","Antworten Sie bitte anhand einer Skala von 1 bis 7.Der Wert 1 bedeutet, dass der Abschluss überhaupt nicht, der Wert 7 voll und ganz Ihren persönlichen Vorstellungen entspricht.
 Mit den Werten zwischen 1 und 7 können Sie Ihre Meinung abstufen.",,,762;prev_jg=7:12,,,txt
@@ -7403,7 +7235,6 @@ Der Wert 1 bedeutet dieses Mal ausgeschlossen und der Wert 7 bedeutet ganz siche
 soep-is,soep-is-2022,785,probgra1,Lower secondary school-leaving certificate (Hauptschulabschluss),Hauptschulabschluss,1840+4652,,,,,,,dsch4,cat
 soep-is,soep-is-2022,785,probgra2,"Intermediate secondary school-leaving certificate (Realschulabschluss, etc.)",Mittlerer Schulabschluss (z.B. Realschulabschluss),1840+4652,,,,,,,dsch5,cat
 soep-is,soep-is-2022,785,probgra3,Upper secondary school-leaving certificate (Abitur),Abitur,1840+4652,,,,,,,dsch6,cat
-soep-is,soep-is-2022,CON_start_imod22,,[de] Veramendi,Veramendi,,,,,,,,,txt
 soep-is,soep-is-2022,Imod22,1,Innovative module - changes due to birth,Innovatives Modul – Veränderungen durch Geburt,,,,,,,,,txt
 soep-is,soep-is-2022,786_1,ver22_lb0285,Do you or did you have children?,Haben oder hatten Sie Kinder?,1+4652,Both biological and adoptive children are included (but not foster or stepchildren),Gemeint sind leibliche oder adoptierte Kinder (nicht Pflege- oder Stiefkinder).,,,(2;sample=10:38)&(1;BioJa!=1)&(386;pla0009_v4=2),,ver22_lb0285,cat
 soep-is,soep-is-2022,786_2,1,"The following questions are about the time of birth of your first child. If you adopted your first child, the term ""birth"" refers to the time of adoption.","In den folgenden Fragen geht es um die Zeit der Geburt Ihres ersten Kindes. Falls Sie Ihr erstes Kind adoptiert haben, bezieht sich der Begriff „Geburt“ auf den Zeitpunkt der Adoption.",,,,,,(2;sample=10:38)&((386;pla0009_v4=2)&((705;lb0285=1)|(786_1;ver22_lb0285=1))),,,txt
@@ -7572,7 +7403,6 @@ soep-is,soep-is-2022,786_42,ver22_85,Hours per week - two years after the birth 
 soep-is,soep-is-2022,786_42,6,What do you think is their average net monthly salary?,"Was meinen Sie, wie hoch ist das durchschnittliche Netto-Monatsgehalt dieser Frauen?",,"Net income means income after deduction of taxes, social security, unemployment, and health insurance.","Nettobetrag bedeutet nach Abzug von Steuern und Beiträgen zur Renten-, Arbeitslosen- und Krankenversicherung.",,,,,,txt
 soep-is,soep-is-2022,786_42,ver22_86,Euros per month - one year before the birth of the first child,Euro pro Monat - ein Jahr vor der Geburt des ersten Kindes,,,,,,,,ver22_86,int
 soep-is,soep-is-2022,786_42,ver22_87,Euros per month - two years after the birth of the first child,Euro pro Monat - zwei Jahre nach der Geburt des ersten Kindes,,,,,,,,ver22_87,int
-soep-is,soep-is-2022,CON_end_imod22,,,,,,,,,,,,txt
 soep-is,soep-is-2022,End,1,Interview ending,Interviewende,,,,,,,,,txt
 soep-is,soep-is-2022,787,1,Were other persons present while filling out the questionnaire?,Waren beim Ausfüllen des Fragebogens weitere Personen anwesend?,,Please select all that apply.,Bitte geben Sie alles Zutreffende an.,,,,,,txt
 soep-is,soep-is-2022,787,plk0019,"Yes, spouse / partner","Ja, Ehepartner / Lebenspartner",,,,,,,,anw1,bin
@@ -7580,7 +7410,6 @@ soep-is,soep-is-2022,787,plk0059,"Yes, other person who is living in the same ho
 soep-is,soep-is-2022,787,plk0060,"Yes, other person who does not live in the same household","Ja, andere Person, die nicht hier im Haushalt lebt",,,,,,,,anw3,bin
 soep-is,soep-is-2022,787,plk0021,No,Nein,,,,,,,1@ENDE,anw4,bin
 soep-is,soep-is-2022,788,plk0022_v2,Did any of the aforementioned people bother you while filling out the questionaire?,Hat Sie eine der oben genannten Personen beim Ausfüllen des Fragebogens gestört?,1M4652,,,,,(787;plk0019=1)|(787;plk0059=1)|(787;plk0060=1),,abl,cat
-soep-is,soep-is-2022,CON_start_imod23,,[de] Neyse3,Neyse3,,,,,,,,,txt
 soep-is,soep-is-2022,Imod23,1,Innovative module – quiz,Innovatives Modul – Quiz,,,,,,,,,txt
 soep-is,soep-is-2022,789_1,ney22_08,Preload,Preload,100075,Treatmentgroup,Treatmentgruppe,,,"2;sample=10,11,19,25,26,38",,ney22_08,cat
 soep-is,soep-is-2022,789_2,1,"Thank you for participating in this short experiment. On the next page we invite you to answer as many quiz questions as possible in 90 seconds. You will receive 5€ if you answer at least 9 questions correctly. You can answer the questions in any order. For your information, in a previous study almost 30% of respondents reached the threshold of 9 correct answers. When you are finished, please press Start.","Vielen Dank, dass Sie an diesem kurzen Experiment teilnehmen. Auf der nächsten Seite laden wir Sie ein, so viele Quizfragen wie möglich in 90 Sekunden zu beantworten. Sie erhalten 5€, wenn Sie mindestens 9 Fragen richtig beantworten. Sie können die Fragen in beliebiger Reihenfolge beantworten. Zu Ihrer Information, in einer früheren Studie haben fast 30 % der Befragten die Schwelle von 9 richtigen Antworten erreicht. Wenn Sie fertig sind, drücken Sie bitte auf Start.",,,,,,"(2;sample=10,11,19,25,26,38)&(789_1;ney22_08=1)",,,txt
@@ -7647,8 +7476,6 @@ soep-is,soep-is-2022,789_18,1,Roll the dice,Würfeln,,,,,,"(2;sample=10,11,19,25
 soep-is,soep-is-2022,789_19,ney22_51,Generated dice result,Generiertes Würfelergebnis,100079,,,,,"(2;sample=10,11,19,25,26,38)&(789_1;ney22_08=3)",,ney22_51,cat
 soep-is,soep-is-2022,789_20,1,"Congratulations. You have won 5€. In accordance with your answers above. In accordance with your answers above, we will pay you €5 or donate €5 to a charity of your choice in your name.",Herzlichen Glückwunsch. Sie haben 5€ gewonnen. In Übereinstimmung mit Ihren obigen Antworten. In Übereinstimmung mit Ihren obigen Antworten werden wir Ihnen 5€ auszahlen bzw. 5€ an eine Wohltätigkeitsorganisation Ihrer Wahl in Ihrem Namen spenden.,,,,,,"(2;sample=10,11,19,25,26,38)&((789_1;ney22_08=3)&(789_19;ney22_51=1,2,3))",,,txt
 soep-is,soep-is-2022,789_21,1,Unfortunately you have not won 5€. Thank you for your participation.,Leider haben Sie keine 5€ gewonnen. Danke für Ihre Teilnahme.,,,,,,"(2;sample=10,11,19,25,26,38)&((789_1;ney22_08=3)&(789_19;ney22_51=4:10))",,,txt
-soep-is,soep-is-2022,CON_end_imod23,,,,,,,,,,,,txt
-soep-is,soep-is-2022,CON_start_imod26,,[de] App,App,,,,,,,,,txt
 soep-is,soep-is-2022,Imod26,1,Innovative module – Mobile app,Innovatives Modul – Handyapp,,,,,,,,,txt
 soep-is,soep-is-2022,790_APP_Intro,APP_Intro,"As already announced in the cover letter, we are investigating social relationships in everyday life in cooperation with the Ludwig Maximilian University of Munich and the University of Heidelberg using a smartphone app developed for this purpose. 
 
@@ -7670,7 +7497,6 @@ soep-is,soep-is-2022,790_APP_Yes,APP_Yes,"Thank you very much for your informati
 Wir werden Ihnen mit dem Dankschreiben dieser Befragung in den nächsten Tagen weitere Informationen zur Studie sowie der App-Installation zukommen lassen. 
 ",,,,,,(790_APP_D;APP_D=2:7)|(790_APP_E;APP_E=1:7),,,txt
 soep-is,soep-is-2022,790_APP_No,APP_No,"Thank you very much for your information. Unfortunately, you do not meet the technical requirements for participation in this scientific study.",Vielen Dank für Ihre Angaben. Leider erfüllen Sie nicht die technischen Voraussetzungen für die Teilnahme an dieser wissenschaftlichen Studie.,,,,,,"(790_APP_D;APP_D=1,8)|(790_APP_E;APP_E=8,9)",,,txt
-soep-is,soep-is-2022,CON_end_imod26,,,,,,,,,,,,txt
 soep-is,soep-is-2020-fgz,Q832,ankerperson,Anchor Person,Ankerperson,,,,,,,,,bin
 soep-is,soep-is-2020-fgz,B001,,Entry/Screening,Einstieg/Screening,,,,,,,,,txt
 soep-is,soep-is-2020-fgz,Q827,t1,"Welcome to the survey ""Living in Germany - Innovation Survey GZ"" In this survey, we are primarily focusing on the topic of ""Social Cohesion in Germany"". The survey is conducted by Kantar. We are pleased that you would like to participate in our survey. Here are a few tips on how to proceed when filling out the survey. You can use the 'Back' or 'Next' buttons to go back one page in the questionnaire, or to go forward. You can pause the survey at any time and resume it at another time. If you are working on the survey on your smartphone, you may have to scroll, i.e. move the screen, at some points. Your participation is completely voluntary. For more information about the purpose of the study, the use and the storage period of your data, please see the privacy policy[hyperlink]. I consent to the processing and analysis of my responses provided in this survey by KANTAR and its data processing contractors for scientific purposes separately from my name or other identifying information. [ ] I have read and accept the privacy policy.","Willkommen zur Befragung „Leben in Deutschland – Innovationserhebung GZ“ In dieser Befragung widmen wir uns vor allem dem Thema „Gesellschaftlicher Zusammenhalt in Deutschland“. Die Erhebung wird von Kantar durchgeführt. Wir freuen uns, dass Sie an unserer Befragung teilnehmen möchten. Hier nun ein paar Hinweise, wie Sie beim Ausfüllen vorgehen können. Mit den Buttons ‚Zurück‘ oder ‚Weiter‘ können Sie eine Seite im Fragebogen zurück, oder nach vorne gehen. Sie können die Befragung jederzeit unterbrechen und zu einer anderen Zeit fortsetzen. Sollten Sie die Befragung auf Ihrem Smartphone bearbeiten, kann es sein, dass Sie an manchen Stellen scrollen, d.h. den Bildschirm verschieben, müssen. Ihre Teilnahme ist absolut freiwillig. Weitere Informationen zum Zweck der Studie, der Verwendung und der Speicherdauer Ihrer Daten finden Sie in der Datenschutzerklärung[Hyperlink]. Ich bin einverstanden, dass meine im Rahmen dieser Befragung gegebenen Antworten bei KANTAR und seinen datenverarbeitenden Auftragnehmern zu wissenschaftlichen Zwecken getrennt von meinem Namen oder sonstigen identifizierenden Angaben verarbeitet und ausgewertet werden. [ ] Ich habe die Datenschutzerklärung gelesen und akzeptiere diese.",2,,,,,,,,cat
