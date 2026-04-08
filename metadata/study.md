@@ -1,5 +1,4 @@
 ---
-name: soep-is
 label: SOEP-IS
 config:
     variables:
